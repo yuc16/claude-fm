@@ -1,7 +1,23 @@
 [project]
 name = "claude-fm"
 version = "0.1.0"
-description = "Add your description here"
+description = "Anthropic 技术博客中文播客流水线：抓取 → claude 解读 → edge-tts → 小宇宙上传包"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "edge-tts>=7.2.8",
+    "httpx>=0.28.1",
+    "mutagen>=1.47.0",
+    "pyyaml>=6.0.3",
+    "trafilatura>=2.1.0",
+]
+
+[project.scripts]
+claude-fm = "claude_fm.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/claude_fm"]
