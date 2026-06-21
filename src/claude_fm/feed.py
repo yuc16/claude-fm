@@ -40,11 +40,15 @@ def _meta(source: str, rec: dict) -> dict | None:
     title = tm.group(1).strip() if tm else slug
     sm = re.search(r"## Shownotes[^\n]*\n+(.*?)\n+---", text, re.S)
     shownotes = sm.group(1).strip() if sm else ""
+    ep = rec["episode"]
+    date = rec.get("published") or slug[:10]
+    # 标题带上文章发布日期；news 周报标题已含日期范围，不重复加
+    full_title = f"EP{ep} | {title}" if source == "news" else f"EP{ep} · {date} | {title}"
     return {
-        "ep": rec["episode"],
-        "title": f"EP{rec['episode']} | {title}",
+        "ep": ep,
+        "title": full_title,
         "shownotes": shownotes,
-        "date": (rec.get("published") or slug[:10]),
+        "date": date,
         "duration": int(rec.get("duration_sec") or 0),
         "bytes": audio.stat().st_size,
         "url": f"{config.FEED_BASE_URL}/audio/{source}/{quote(slug)}.mp3",
