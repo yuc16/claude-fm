@@ -59,14 +59,13 @@ https://fm.yccode.xyz/feed.xml
 
 ## 🔄 更新节奏（维护者备忘）
 
-每周日跑一条命令即可完成本周更新：
+每周日更新一次。核心是这条命令——抓三源新文章并解读、把上周 news 打包成「一周快讯」，并自动刷新 RSS 和本目录：
 
 ```bash
-uv run claude-fm weekly      # 抓三源新文章并解读 + 把上周 news 打包成「一周快讯」
-                             # 同时刷新 RSS(feed.xml) 和本目录(CATALOG.md / README 集数)
+uv run claude-fm weekly      # 本地生成 + 刷新 feed.xml / CATALOG.md / README 集数
 ```
 
-它会产出本周新增的解读稿与音频；之后把音频和 `feed.xml` 同步到服务器（部署细节见本地私有文档），小宇宙会自动拉到新集。所以本 README 的集数和 [CATALOG.md](CATALOG.md) 每周都会随之更新。
+它**只负责本地生成**；之后还要把音频和 `feed.xml` 同步到托管服务器、并把文字内容推到 GitHub，小宇宙和本仓库才会更新（这两步连同上面合并在本地一键脚本里，部署细节见私有文档）。所以本 README 的集数与 [CATALOG.md](CATALOG.md) 每周都会随之刷新。
 
 ---
 
