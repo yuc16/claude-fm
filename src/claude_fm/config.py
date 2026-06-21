@@ -63,7 +63,11 @@ def ensure_source_dirs(source: str) -> None:
 
 # 解读模型（claude -p 无头模式，走订阅）
 CLAUDE_MODEL = "claude-sonnet-4-6"
-CLAUDE_TIMEOUT = 900  # 单篇解读超时（秒）
+CLAUDE_TIMEOUT = 1200  # 单篇解读超时（秒）；开深度思考后更慢，放宽到 20 分钟
+# 深度思考：Claude Code 靠 prompt 里的触发词分配思考预算（实测有效，环境变量无效）。
+# 取值：""=关闭、"think hard"=较深(~4x)、"ultrathink"=最深(~28x)。会附加到每次解读 prompt 末尾。
+# 越深质量越高但越慢越耗 token；每周新增集数不多，用 ultrathink 完全可承受。
+CLAUDE_THINKING = "ultrathink"
 
 # TTS 音色。运行 `claude-fm voices` 生成试听样品后，把选中的音色填到这里。
 # TTS_VOICE 用于音色试听样品；正式合成在 TTS_VOICES 里轮换，避免一个声音听腻。

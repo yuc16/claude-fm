@@ -78,8 +78,11 @@ def _parse_session_limit(text: str):
 
 def run_claude(prompt: str) -> str:
     """子进程跑 claude -p，带 2 次重试。撞限额时抛 SessionLimitError。"""
+    # 深度思考：在 prompt 末尾追加触发词（Claude Code 据此分配思考预算）
+    if config.CLAUDE_THINKING:
+        prompt = f"{prompt}\n\n{config.CLAUDE_THINKING}"
     last_err = ""
-    for attempt in range(3):
+    for _ in range(3):
         try:
             proc = subprocess.run(
                 [
@@ -150,7 +153,7 @@ def interpret(article_meta: dict, article_body: str, slug: str) -> dict:
         except RuntimeError as e:
             last_parse_err = e
     if result is None:
-        raise last_parse_err
+        raise last_parse_err or RuntimeError("解读输出解析失败")
 
     # 短稿兜底：一次加长重写，取更长的版本
     if han_count(result["script"]) < MIN_HAN_CHARS:

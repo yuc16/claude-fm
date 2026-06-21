@@ -35,7 +35,7 @@ https://fm.yccode.xyz/feed.xml
 - 🛠️ [构建高效 AI 智能体](content/anthropic/engineering/scripts/2024-12-19-Building%20Effective%20AI%20Agents.md) · *Building Effective AI Agents*
 - 🔬 [AI 写代码的时代，决定你走多远的是领域理解，不是编程水平](content/anthropic/research/scripts/2026-06-16-Agentic%20coding%20and%20persistent%20returns%20to%20expertise.md) · *Agentic coding and persistent returns to expertise*
 - 📝 [Agent Skills 发布](content/claude/blog/scripts/2025-10-16-Introducing%20Agent%20Skills.md) · *Introducing Agent Skills*
-- 📝 [Prompt 工程最佳实践](content/claude/blog/scripts/2025-11-10-Prompt%20engineering%20best%20practices.md)
+- 📝 [Prompt 工程最佳实践](content/claude/blog/scripts/2025-11-10-Prompt%20engineering%20best%20practices.md) · *Prompt engineering best practices*
 - 📰 [Anthropic 一周快讯 · 2026年6月7日–2026年6月13日：最强模型 Fable 5 上线即遭美国政府勒令下架](content/anthropic/news/scripts/2026-06-07-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 
 📋 **完整 448 集目录(可点开每集文字稿)** 👉 **[CATALOG.md](CATALOG.md)**
@@ -54,16 +54,6 @@ https://fm.yccode.xyz/feed.xml
 
 前四个源逐篇做约 25 分钟的深度解读；news 时效性强、多为公告，按周聚合成几分钟的「一周快讯」。
 
-## 🔄 更新节奏（维护者备忘）
-
-每周日更新一次。核心是这条命令——抓三源新文章并解读、把上周 news 打包成「一周快讯」，并自动刷新 RSS 和本目录：
-
-```bash
-uv run claude-fm weekly      # 本地生成 + 刷新 feed.xml / CATALOG.md / README 集数
-```
-
-它**只负责本地生成**；之后还要把音频和 `feed.xml` 同步到托管服务器、并把文字内容推到 GitHub，小宇宙和本仓库才会更新（这两步连同上面合并在本地一键脚本里，部署细节见私有文档）。所以本 README 的集数与 [CATALOG.md](CATALOG.md) 每周都会随之刷新。
-
 ---
 
 <div align="center">
@@ -71,8 +61,4 @@ uv run claude-fm weekly      # 本地生成 + 刷新 feed.xml / CATALOG.md / REA
 ## 关于版权
 
 本项目为个人**非商业**的学习用途整理，**与 Anthropic 无任何官方关联**。<br>
-所有原文版权归 [Anthropic](https://www.anthropic.com) 所有；中文解读由 Claude 生成，仅供学习参考，请以英文原文为准。
-
-<sub>用 ❤️ 和 Claude 构建 · 让前沿 AI 知识更易获取</sub>
-
-</div>
+所有原文版权归 [Anthropic](https://www.anthropic.com) 所有；中文解读由 claude-sonnet-4-6 生成，仅供学习参考，请以英文原文为准。
