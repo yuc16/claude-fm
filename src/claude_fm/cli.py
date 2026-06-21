@@ -223,6 +223,15 @@ def cmd_news(args) -> None:
     from . import digest
 
     config.ensure_dirs()
+    # 先同步新增 news 原文（发现→抓取），再按周聚合
+    st = state.load()
+    n = digest.sync_news(st)
+    if n:
+        print(f"[news] 同步到 {n} 篇新 news", flush=True)
+    # 迟到文章落入已完成的周 → 重置该周以重做
+    stale = digest.reset_stale_weeks(st, digest.group_news_weeks(st))
+    if stale:
+        print(f"[news] 检测到 {len(stale)} 周有新增文章，将重做: {', '.join(stale)}", flush=True)
     round_no = 0
     while True:
         round_no += 1

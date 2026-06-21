@@ -36,6 +36,33 @@ def current_sunday() -> date:
     return t - timedelta(days=(t.weekday() + 1) % 7)
 
 
+def sync_news(st: dict) -> int:
+    """发现并抓取新增 news 原文（fetched=True，用修复后的提取器保证日期正确）。
+    返回新增篇数。让周报命令自包含：先同步新 news，再聚合成周。"""
+    from . import sources, fetch
+    refs = sources.discover_sitemap_sources().get("news", [])
+    new = 0
+    for ref in refs:
+        a = st["articles"].get(ref.url)
+        if a and a.get("stages", {}).get("fetched"):
+            continue
+        try:
+            data = fetch.fetch_article(ref)
+        except Exception as e:
+            print(f"  ⚠️ news 抓取失败 {ref.url}: {e}", flush=True)
+            continue
+        fetch.save_article(ref, data)
+        art = st["articles"].setdefault(ref.url, {"stages": {}})
+        art.update(source="news", slug=data["slug"], title=data["title"],
+                   published=data["published"])
+        art["stages"]["fetched"] = True
+        new += 1
+        print(f"  + 新 news {data['published']}  {data['title'][:50]}", flush=True)
+    if new:
+        state.save(st)
+    return new
+
+
 def group_news_weeks(st: dict) -> list[dict]:
     """把已抓取的 news 按周（周日起）分组，只返回已结束的周（排除当前进行中的周）。
     每项：{sunday, slug, label, items:[(meta, body)]}，按时间正序。"""
@@ -151,6 +178,30 @@ def _write_episode(week: dict, episode_no: int, episode_title: str,
     out.write_text(body, encoding="utf-8")
 
 
+def reset_stale_weeks(st: dict, weeks: list[dict]) -> list[str]:
+    """已打包但本周条数已变（迟到文章落入）的周，重置以重做。返回受影响周标签。
+    原始条数从解读稿 frontmatter 的 item_count 读取（每期都有记录）。"""
+    from .fetch import read_with_frontmatter
+    stale = []
+    digests = st.get("digests", {})
+    for w in weeks:
+        d = digests.get(w["sunday"].isoformat())
+        if not d or not d.get("stages", {}).get("packaged"):
+            continue
+        sp = config.script_path("news", w["slug"])
+        if not sp.exists():
+            continue
+        recorded = read_with_frontmatter(sp)[0].get("item_count")
+        if recorded is not None and int(recorded) != len(w["items"]):
+            d["stages"]["interpreted"] = False
+            d["stages"]["synthesized"] = False
+            d["stages"]["packaged"] = False
+            stale.append(w["label"])
+    if stale:
+        state.save(st)
+    return stale
+
+
 def process_week(st: dict, week: dict) -> None:
     """单周端到端：解读→TTS→上传包，幂等。状态存 st['digests'][周日]。"""
     key = week["sunday"].isoformat()
@@ -189,6 +240,7 @@ def process_week(st: dict, week: dict) -> None:
             st["next_episode"] += 1
         _write_episode(week, d["episode"], smeta.get("episode_title", week["slug"]),
                        tts.extract_shownotes(sbody), d.get("duration_sec", 0))
+        d["item_count"] = len(week["items"])  # 记录条数，迟到文章变更时据此重做
         stages["packaged"] = True
         state.save(st)
         rel = config.episode_path("news", week["slug"]).relative_to(config.ROOT)
