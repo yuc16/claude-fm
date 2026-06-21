@@ -4,7 +4,7 @@ title: Anthropic opens Tokyo office, signs a Memorandum of Cooperation with the 
 url: https://www.anthropic.com/news/opening-our-tokyo-office
 source: news
 published: '2025-10-29'
-fetched: 2026-06-13 04:58
+fetched: 2026-06-21 15:31
 ---
 
 # Anthropic officially opens Tokyo office, signs Memorandum of Cooperation with the Japan AI Safety Institute
@@ -43,14 +43,10 @@ For information about career opportunities at our Tokyo office, see here.
 
 ## Related content
 
-### Results from the first Anthropic Public Record
+### Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem
 
-Read more### TCS and Anthropic partner to bring Claude to regulated industries
+Read more### Statement on the US government directive to suspend access to Fable 5 and Mythos 5
 
-We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.
-
-Read more### DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on
-
-We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.
+The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.
 
 Read more

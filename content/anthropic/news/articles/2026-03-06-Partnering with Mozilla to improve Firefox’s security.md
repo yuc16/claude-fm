@@ -3,7 +3,7 @@ title: Partnering with Mozilla to improve Firefox’s security
 url: https://www.anthropic.com/news/mozilla-firefox-security
 source: news
 published: '2026-03-06'
-fetched: 2026-06-13 04:46
+fetched: 2026-06-21 15:27
 ---
 
 PolicyFrontier Red Team
@@ -71,8 +71,6 @@ We urge developers to take advantage of this window to redouble their efforts to
 - All the advice shared here is based on our use of Claude, but it should apply to whichever LLM you prefer.
 - Which Mozilla patched independently.
 
-We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.
-
-Read moreWe’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.
+The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.
 
 Read moreGet updates on our latest red-teaming research and findings.

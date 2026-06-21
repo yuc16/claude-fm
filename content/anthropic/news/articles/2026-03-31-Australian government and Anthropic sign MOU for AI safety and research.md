@@ -3,7 +3,7 @@ title: Australian government and Anthropic sign MOU for AI safety and research
 url: https://www.anthropic.com/news/australia-MOU
 source: news
 published: '2026-03-31'
-fetched: 2026-06-13 04:46
+fetched: 2026-06-21 15:27
 ---
 
 # Australian government and Anthropic sign MOU for AI safety and research
@@ -32,14 +32,10 @@ The visit to Australia marks the beginning of long-term collaboration and invest
 
 ## Related content
 
-### Results from the first Anthropic Public Record
+### Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem
 
-Read more### TCS and Anthropic partner to bring Claude to regulated industries
+Read more### Statement on the US government directive to suspend access to Fable 5 and Mythos 5
 
-We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.
-
-Read more### DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on
-
-We’re announcing a multi-year global alliance with DXC Technology, one of the world’s largest IT services companies.
+The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.
 
 Read more

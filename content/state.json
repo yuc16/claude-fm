@@ -2192,18 +2192,18 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-06-09-TCS and Anthropic partner to bring Claude to regulated industries",
+      "slug": "2026-06-12-TCS and Anthropic partner to bring Claude to regulated industries",
       "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "published": "2026-06-09"
+      "published": "2026-06-12"
     },
     "https://www.anthropic.com/news/anthropic-public-record": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-06-11-Results from first Anthropic Public Record",
+      "slug": "2026-06-12-Results from first Anthropic Public Record",
       "title": "Results from first Anthropic Public Record",
-      "published": "2026-06-11"
+      "published": "2026-06-12"
     },
     "https://www.anthropic.com/news/dxc-anthropic-alliance": {
       "stages": {
@@ -2219,9 +2219,9 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-06-05-Introducing Claude Corps",
+      "slug": "2026-06-11-Introducing Claude Corps",
       "title": "Introducing Claude Corps",
-      "published": "2026-06-05"
+      "published": "2026-06-11"
     },
     "https://www.anthropic.com/news/claude-fable-5-mythos-5": {
       "stages": {
@@ -2255,27 +2255,27 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-06-02-What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "slug": "2026-06-03-What we learned mapping a year’s worth of AI-enabled cyber threats",
       "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-      "published": "2026-06-02"
+      "published": "2026-06-03"
     },
     "https://www.anthropic.com/news/services-track-partner-hub": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-06-02-Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "slug": "2026-06-03-Introducing the Services Track and Partner Hub of the Claude Partner Network",
       "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-      "published": "2026-06-02"
+      "published": "2026-06-03"
     },
     "https://www.anthropic.com/news/expanding-project-glasswing": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-06-01-Expanding Project Glasswing",
+      "slug": "2026-06-02-Expanding Project Glasswing",
       "title": "Expanding Project Glasswing",
-      "published": "2026-06-01"
+      "published": "2026-06-02"
     },
     "https://www.anthropic.com/news/confidential-draft-s1-sec": {
       "stages": {
@@ -2309,9 +2309,9 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-04-16-Introducing Claude Design by Anthropic Labs",
+      "slug": "2026-04-17-Introducing Claude Design by Anthropic Labs",
       "title": "Introducing Claude Design by Anthropic Labs",
-      "published": "2026-04-16"
+      "published": "2026-04-17"
     },
     "https://www.anthropic.com/news/milan-office-opening": {
       "stages": {
@@ -2327,18 +2327,18 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic appoints KiYoung Choi as Representative Director of Korea",
+      "slug": "2026-05-26-Anthropic appoints KiYoung Choi as Representative Director of Korea",
       "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
-      "published": "2023-11-03"
+      "published": "2026-05-26"
     },
     "https://www.anthropic.com/news/anthropic-acquires-stainless": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-05-15-Anthropic acquires Stainless",
+      "slug": "2026-05-18-Anthropic acquires Stainless",
       "title": "Anthropic acquires Stainless",
-      "published": "2026-05-15"
+      "published": "2026-05-18"
     },
     "https://www.anthropic.com/news/anthropic-kpmg": {
       "stages": {
@@ -2354,18 +2354,18 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-05-15-PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "slug": "2026-05-14-PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
       "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-      "published": "2026-05-15"
+      "published": "2026-05-14"
     },
     "https://www.anthropic.com/news/claude-for-small-business": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-05-11-Introducing Claude for Small Business",
+      "slug": "2026-05-13-Introducing Claude for Small Business",
       "title": "Introducing Claude for Small Business",
-      "published": "2026-05-11"
+      "published": "2026-05-13"
     },
     "https://www.anthropic.com/news/gates-foundation-partnership": {
       "stages": {
@@ -2381,27 +2381,27 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-05-04-Agents for financial services",
+      "slug": "2026-05-05-Agents for financial services",
       "title": "Agents for financial services",
-      "published": "2026-05-04"
+      "published": "2026-05-05"
     },
     "https://www.anthropic.com/news/model-context-protocol": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2024-11-19-Introducing the Model Context Protocol",
+      "slug": "2024-11-25-Introducing the Model Context Protocol",
       "title": "Introducing the Model Context Protocol",
-      "published": "2024-11-19"
+      "published": "2024-11-25"
     },
     "https://www.anthropic.com/news/higher-limits-spacex": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-05-05-Higher usage limits for Claude and a compute deal with SpaceX",
+      "slug": "2026-05-06-Higher usage limits for Claude and a compute deal with SpaceX",
       "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "published": "2026-05-05"
+      "published": "2026-05-06"
     },
     "https://www.anthropic.com/news/claude-opus-4-7": {
       "stages": {
@@ -2426,27 +2426,27 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-04-27-Claude for Creative Work",
+      "slug": "2026-04-28-Claude for Creative Work",
       "title": "Claude for Creative Work",
-      "published": "2026-04-27"
+      "published": "2026-04-28"
     },
     "https://www.anthropic.com/news/the-long-term-benefit-trust": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-The Long-Term Benefit Trust",
+      "slug": "2023-09-19-The Long-Term Benefit Trust",
       "title": "The Long-Term Benefit Trust",
-      "published": "2023-12-18"
+      "published": "2023-09-19"
     },
     "https://www.anthropic.com/news/election-safeguards-update": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-04-23-An update on our election safeguards",
+      "slug": "2026-04-24-An update on our election safeguards",
       "title": "An update on our election safeguards",
-      "published": "2026-04-23"
+      "published": "2026-04-24"
     },
     "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand": {
       "stages": {
@@ -2471,45 +2471,45 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic and NEC partner to build AI-native engineering at scale in Japan",
+      "slug": "2026-04-24-Anthropic and NEC partner to build AI-native engineering at scale in Japan",
       "title": "Anthropic and NEC partner to build AI-native engineering at scale in Japan",
-      "published": "2023-11-03"
+      "published": "2026-04-24"
     },
     "https://www.anthropic.com/news/narasimhan-board": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-04-13-Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+      "slug": "2026-04-14-Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
       "title": "Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
-      "published": "2026-04-13"
+      "published": "2026-04-14"
     },
     "https://www.anthropic.com/news/claude-for-financial-services": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-07-14-Claude for Financial Services",
+      "slug": "2025-07-15-Claude for Financial Services",
       "title": "Claude for Financial Services",
-      "published": "2025-07-14"
+      "published": "2025-07-15"
     },
     "https://www.anthropic.com/news/healthcare-life-sciences": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-01-08-Advancing Claude in healthcare and the life sciences",
+      "slug": "2026-01-11-Advancing Claude in healthcare and the life sciences",
       "title": "Advancing Claude in healthcare and the life sciences",
-      "published": "2026-01-08"
+      "published": "2026-01-11"
     },
     "https://www.anthropic.com/news/google-broadcom-partnership-compute": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+      "slug": "2026-04-06-Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
       "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
-      "published": "2023-11-03"
+      "published": "2026-04-06"
     },
     "https://www.anthropic.com/news/australia-MOU": {
       "stages": {
@@ -2561,45 +2561,45 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-02-16-Introducing Sonnet 4.6",
+      "slug": "2026-02-17-Introducing Sonnet 4.6",
       "title": "Introducing Sonnet 4.6",
-      "published": "2026-02-16"
+      "published": "2026-02-17"
     },
     "https://www.anthropic.com/news/the-anthropic-institute": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-03-10-Introducing The Anthropic Institute",
+      "slug": "2026-03-11-Introducing The Anthropic Institute",
       "title": "Introducing The Anthropic Institute",
-      "published": "2026-03-10"
+      "published": "2026-03-11"
     },
     "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Sydney will become Anthropic’s fourth office in Asia-Pacific",
+      "slug": "2026-03-10-Sydney will become Anthropic’s fourth office in Asia-Pacific",
       "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
-      "published": "2023-11-03"
+      "published": "2026-03-10"
     },
     "https://www.anthropic.com/news/where-stand-department-war": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Where things stand with the Department of War",
+      "slug": "2026-03-05-Where things stand with the Department of War",
       "title": "Where things stand with the Department of War",
-      "published": "2023-11-03"
+      "published": "2026-03-05"
     },
     "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-09-28-Enabling Claude Code to work more autonomously",
+      "slug": "2025-09-29-Enabling Claude Code to work more autonomously",
       "title": "Enabling Claude Code to work more autonomously",
-      "published": "2025-09-28"
+      "published": "2025-09-29"
     },
     "https://www.anthropic.com/news/statement-comments-secretary-war": {
       "stages": {
@@ -2615,27 +2615,27 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-02-25-Statement from Dario Amodei on our discussions with the Department of War",
+      "slug": "2026-02-26-Statement from Dario Amodei on our discussions with the Department of War",
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
-      "published": "2026-02-25"
+      "published": "2026-02-26"
     },
     "https://www.anthropic.com/news/responsible-scaling-policy-v3": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Responsible Scaling Policy Version 3.0",
+      "slug": "2026-02-24-Responsible Scaling Policy Version 3.0",
       "title": "Responsible Scaling Policy Version 3.0",
-      "published": "2023-11-03"
+      "published": "2026-02-24"
     },
     "https://www.anthropic.com/news/acquires-vercept": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic acquires Vercept to advance Claude's computer use capabilities",
+      "slug": "2026-02-25-Anthropic acquires Vercept to advance Claude's computer use capabilities",
       "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
-      "published": "2023-11-03"
+      "published": "2026-02-25"
     },
     "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks": {
       "stages": {
@@ -2660,54 +2660,54 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-02-15-Anthropic opens Bengaluru office and announces new partnerships across India",
+      "slug": "2026-02-16-Anthropic opens Bengaluru office and announces new partnerships across India",
       "title": "Anthropic opens Bengaluru office and announces new partnerships across India",
-      "published": "2026-02-15"
+      "published": "2026-02-16"
     },
     "https://www.anthropic.com/news/anthropic-rwanda-mou": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-02-13-Anthropic and the Government of Rwanda sign MOU for AI in health and education",
+      "slug": "2026-02-17-Anthropic and the Government of Rwanda sign MOU for AI in health and education",
       "title": "Anthropic and the Government of Rwanda sign MOU for AI in health and education",
-      "published": "2026-02-13"
+      "published": "2026-02-17"
     },
     "https://www.anthropic.com/news/anthropic-infosys": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+      "slug": "2026-02-17-Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
       "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
-      "published": "2023-11-03"
+      "published": "2026-02-17"
     },
     "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Chris Liddell appointed to Anthropic’s board of directors",
+      "slug": "2026-02-13-Chris Liddell appointed to Anthropic’s board of directors",
       "title": "Chris Liddell appointed to Anthropic’s board of directors",
-      "published": "2023-11-03"
+      "published": "2026-02-13"
     },
     "https://www.anthropic.com/news/anthropic-codepath-partnership": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
+      "slug": "2026-02-13-Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
       "title": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
-      "published": "2023-11-03"
+      "published": "2026-02-13"
     },
     "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
+      "slug": "2026-02-12-Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
       "title": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
-      "published": "2023-11-03"
+      "published": "2026-02-12"
     },
     "https://www.anthropic.com/news/donate-public-first-action": {
       "stages": {
@@ -2732,18 +2732,18 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Introducing Claude for Nonprofits",
+      "slug": "2025-12-02-Introducing Claude for Nonprofits",
       "title": "Introducing Claude for Nonprofits",
-      "published": "2023-11-03"
+      "published": "2025-12-02"
     },
     "https://www.anthropic.com/news/claude-is-a-space-to-think": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Claude is a space to think - Anthropic",
+      "slug": "2026-02-04-Claude is a space to think",
       "title": "Claude is a space to think | Anthropic",
-      "published": "2023-11-03"
+      "published": "2026-02-04"
     },
     "https://www.anthropic.com/news/protecting-well-being-of-users": {
       "stages": {
@@ -2759,72 +2759,72 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Apple’s Xcode now supports the Claude Agent SDK",
+      "slug": "2026-02-03-Apple’s Xcode now supports the Claude Agent SDK",
       "title": "Apple’s Xcode now supports the Claude Agent SDK",
-      "published": "2023-11-03"
+      "published": "2026-02-03"
     },
     "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+      "slug": "2026-02-02-Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
       "title": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
-      "published": "2023-11-03"
+      "published": "2026-02-02"
     },
     "https://www.anthropic.com/news/servicenow-anthropic-claude": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-ServiceNow chooses Claude to power customer apps and increase internal productivity",
+      "slug": "2026-01-28-ServiceNow chooses Claude to power customer apps and increase internal productivity",
       "title": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
-      "published": "2023-11-03"
+      "published": "2026-01-28"
     },
     "https://www.anthropic.com/news/gov-UK-partnership": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+      "slug": "2026-01-27-Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
       "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
-      "published": "2023-11-03"
+      "published": "2026-01-27"
     },
     "https://www.anthropic.com/news/claudes-constitution": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-Claude’s Constitution",
+      "slug": "2023-05-09-Claude’s Constitution",
       "title": "Claude’s Constitution",
-      "published": "2023-12-18"
+      "published": "2023-05-09"
     },
     "https://www.anthropic.com/news/anthropic-teach-for-all": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-01-17-Anthropic and Teach For All launch global AI training initiative for educators",
+      "slug": "2026-01-21-Anthropic and Teach For All launch global AI training initiative for educators",
       "title": "Anthropic and Teach For All launch global AI training initiative for educators",
-      "published": "2026-01-17"
+      "published": "2026-01-21"
     },
     "https://www.anthropic.com/news/claude-new-constitution": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Claude's new constitution",
+      "slug": "2026-01-22-Claude's new constitution",
       "title": "Claude's new constitution",
-      "published": "2023-11-03"
+      "published": "2026-01-22"
     },
     "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2026-01-20-Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
+      "slug": "2026-01-21-Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
       "title": "Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
-      "published": "2026-01-20"
+      "published": "2026-01-21"
     },
     "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india": {
       "stages": {
@@ -2858,36 +2858,36 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Prompt engineering for Claude's long context window",
+      "slug": "2023-09-23-Prompt engineering for Claude's long context window",
       "title": "Prompt engineering for Claude's long context window",
-      "published": "2023-11-03"
+      "published": "2023-09-23"
     },
     "https://www.anthropic.com/news/compliance-framework-SB53": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Sharing our compliance framework for California's Transparency in Frontier AI Act",
+      "slug": "2025-12-19-Sharing our compliance framework for California's Transparency in Frontier AI Act",
       "title": "Sharing our compliance framework for California's Transparency in Frontier AI Act",
-      "published": "2023-11-03"
+      "published": "2025-12-19"
     },
     "https://www.anthropic.com/news/genesis-mission-partnership": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Working with the US Department of Energy to unlock the next era of scientific discovery",
+      "slug": "2025-12-18-Working with the US Department of Energy to unlock the next era of scientific discovery",
       "title": "Working with the US Department of Energy to unlock the next era of scientific discovery",
-      "published": "2023-11-03"
+      "published": "2025-12-18"
     },
     "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-06-25-How people use Claude for support, advice, and companionship",
+      "slug": "2025-06-27-How people use Claude for support, advice, and companionship",
       "title": "How people use Claude for support, advice, and companionship",
-      "published": "2025-06-25"
+      "published": "2025-06-27"
     },
     "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation": {
       "stages": {
@@ -2903,9 +2903,9 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Measuring political bias in Claude",
+      "slug": "2025-11-13-Measuring political bias in Claude",
       "title": "Measuring political bias in Claude",
-      "published": "2023-11-03"
+      "published": "2025-11-13"
     },
     "https://www.anthropic.com/news/anthropic-accenture-partnership": {
       "stages": {
@@ -2921,18 +2921,18 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic Economic Index - Insights from Claude 3.7 Sonnet",
+      "slug": "2025-03-27-Anthropic Economic Index - Insights from Claude 3.7 Sonnet",
       "title": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
-      "published": "2023-11-03"
+      "published": "2025-03-27"
     },
     "https://www.anthropic.com/news/the-anthropic-economic-index": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Introducing the Anthropic Economic Index",
+      "slug": "2025-02-10-Introducing the Anthropic Economic Index",
       "title": "Introducing the Anthropic Economic Index",
-      "published": "2023-11-03"
+      "published": "2025-02-10"
     },
     "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership": {
       "stages": {
@@ -2948,36 +2948,36 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic signs CMS health tech pledge",
+      "slug": "2025-07-30-Anthropic signs CMS health tech pledge",
       "title": "Anthropic signs CMS health tech pledge",
-      "published": "2023-11-03"
+      "published": "2025-07-30"
     },
     "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-12-02-Anthropic acquires Bun as Claude Code reaches $1B milestone",
+      "slug": "2025-12-03-Anthropic acquires Bun as Claude Code reaches $1B milestone",
       "title": "Anthropic acquires Bun as Claude Code reaches $1B milestone",
-      "published": "2025-12-02"
+      "published": "2025-12-03"
     },
     "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic education report - How educators use Claude",
+      "slug": "2025-08-27-Anthropic education report - How educators use Claude",
       "title": "Anthropic education report: How educators use Claude",
-      "published": "2023-11-03"
+      "published": "2025-08-27"
     },
     "https://www.anthropic.com/news/claude-sonnet-4-5": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-09-25-Introducing Claude Sonnet 4.5",
+      "slug": "2025-09-29-Introducing Claude Sonnet 4.5",
       "title": "Introducing Claude Sonnet 4.5",
-      "published": "2025-09-25"
+      "published": "2025-09-29"
     },
     "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan": {
       "stages": {
@@ -3002,36 +3002,36 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-10-14-Introducing Claude Haiku 4.5",
+      "slug": "2025-10-15-Introducing Claude Haiku 4.5",
       "title": "Introducing Claude Haiku 4.5",
-      "published": "2025-10-14"
+      "published": "2025-10-15"
     },
     "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Microsoft, NVIDIA and Anthropic announced new strategic partnerships",
+      "slug": "2025-11-18-Microsoft, NVIDIA and Anthropic announced new strategic partnerships",
       "title": "Microsoft, NVIDIA and Anthropic announced new strategic partnerships.",
-      "published": "2023-11-03"
+      "published": "2025-11-18"
     },
     "https://www.anthropic.com/news/claude-in-microsoft-foundry": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Claude now available in Microsoft Foundry and Microsoft 365 Copilot",
+      "slug": "2025-11-18-Claude now available in Microsoft Foundry and Microsoft 365 Copilot",
       "title": "Claude now available in Microsoft Foundry and Microsoft 365 Copilot",
-      "published": "2023-11-03"
+      "published": "2025-11-18"
     },
     "https://www.anthropic.com/news/rwandan-government-partnership-ai-education": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
+      "slug": "2025-11-18-Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
       "title": "Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
-      "published": "2023-11-03"
+      "published": "2025-11-18"
     },
     "https://www.anthropic.com/news/disrupting-AI-espionage": {
       "stages": {
@@ -3047,54 +3047,54 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-The State of Maryland partners with Anthropic to better serve residents",
+      "slug": "2025-11-13-The State of Maryland partners with Anthropic to better serve residents",
       "title": "The State of Maryland partners with Anthropic to better serve residents",
-      "published": "2023-11-03"
+      "published": "2025-11-13"
     },
     "https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-New offices in Paris and Munich expand Anthropic’s European presence",
+      "slug": "2025-11-07-New offices in Paris and Munich expand Anthropic’s European presence",
       "title": "New offices in Paris and Munich expand Anthropic’s European presence",
-      "published": "2023-11-03"
+      "published": "2025-11-07"
     },
     "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic invests $50 billion in American AI infrastructure",
+      "slug": "2025-11-12-Anthropic invests $50 billion in American AI infrastructure",
       "title": "Anthropic invests $50 billion in American AI infrastructure",
-      "published": "2023-11-03"
+      "published": "2025-11-12"
     },
     "https://www.anthropic.com/news/cognizant-partnership": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation",
+      "slug": "2025-11-04-Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation",
       "title": "Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation",
-      "published": "2023-11-03"
+      "published": "2025-11-04"
     },
     "https://www.anthropic.com/news/economic-futures-uk-europe": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Launching the Anthropic Economic Futures Programme in the UK and Europe",
+      "slug": "2025-11-05-Launching the Anthropic Economic Futures Programme in the UK and Europe",
       "title": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
-      "published": "2023-11-03"
+      "published": "2025-11-05"
     },
     "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-11-02-Anthropic and Iceland announce one of the world’s first national AI education pilots",
+      "slug": "2025-11-04-Anthropic and Iceland announce one of the world’s first national AI education pilots",
       "title": "Anthropic and Iceland announce one of the world’s first national AI education pilots",
-      "published": "2025-11-02"
+      "published": "2025-11-04"
     },
     "https://www.anthropic.com/news/opening-our-tokyo-office": {
       "stages": {
@@ -3110,72 +3110,72 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-10-25-Advancing Claude for Financial Services",
+      "slug": "2025-10-27-Advancing Claude for Financial Services",
       "title": "Advancing Claude for Financial Services",
-      "published": "2025-10-25"
+      "published": "2025-10-27"
     },
     "https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth",
+      "slug": "2025-10-23-Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth",
       "title": "Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth",
-      "published": "2023-11-03"
+      "published": "2025-10-23"
     },
     "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Expanding our use of Google Cloud TPUs and Services",
+      "slug": "2025-10-23-Expanding our use of Google Cloud TPUs and Services",
       "title": "Expanding our use of Google Cloud TPUs and Services",
-      "published": "2023-11-03"
+      "published": "2025-10-23"
     },
     "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
+      "slug": "2025-10-21-A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
       "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
-      "published": "2023-11-03"
+      "published": "2025-10-21"
     },
     "https://www.anthropic.com/news/claude-for-life-sciences": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-10-16-Claude for Life Sciences",
+      "slug": "2025-10-20-Claude for Life Sciences",
       "title": "Claude for Life Sciences",
-      "published": "2025-10-16"
+      "published": "2025-10-20"
     },
     "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic and Salesforce expand partnership to bring Claude to regulated industries",
+      "slug": "2025-10-14-Anthropic and Salesforce expand partnership to bring Claude to regulated industries",
       "title": "Anthropic and Salesforce expand partnership to bring Claude to regulated industries",
-      "published": "2023-11-03"
+      "published": "2025-10-14"
     },
     "https://www.anthropic.com/news/expanding-global-operations-to-india": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic expands global operations to India, plans to open an office in Bengaluru",
+      "slug": "2025-10-07-Anthropic expands global operations to India, plans to open an office in Bengaluru",
       "title": "Anthropic expands global operations to India, plans to open an office in Bengaluru.",
-      "published": "2023-11-03"
+      "published": "2025-10-07"
     },
     "https://www.anthropic.com/news/rahul-patil-joins-anthropic": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Rahul Patil joins Anthropic as Chief Technology Officer",
+      "slug": "2025-10-07-Rahul Patil joins Anthropic as Chief Technology Officer",
       "title": "Rahul Patil joins Anthropic as Chief Technology Officer",
-      "published": "2023-11-03"
+      "published": "2025-10-07"
     },
     "https://www.anthropic.com/news/deloitte-anthropic-partnership": {
       "stages": {
@@ -3191,171 +3191,171 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-08-27-Updates to Consumer Terms and Privacy Policy",
+      "slug": "2025-08-28-Updates to Consumer Terms and Privacy Policy",
       "title": "Updates to Consumer Terms and Privacy Policy",
-      "published": "2025-08-27"
+      "published": "2025-08-28"
     },
     "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
+      "slug": "2025-09-26-Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
       "title": "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International",
-      "published": "2023-11-03"
+      "published": "2025-09-26"
     },
     "https://www.anthropic.com/news/claude-3-7-sonnet": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-02-18-Claude 3.7 Sonnet and Claude Code",
+      "slug": "2025-02-24-Claude 3.7 Sonnet and Claude Code",
       "title": "Claude 3.7 Sonnet and Claude Code",
-      "published": "2025-02-18"
+      "published": "2025-02-24"
     },
     "https://www.anthropic.com/news/claude-4": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-05-21-Introducing Claude 4",
+      "slug": "2025-05-22-Introducing Claude 4",
       "title": "Introducing Claude 4",
-      "published": "2025-05-21"
+      "published": "2025-05-22"
     },
     "https://www.anthropic.com/news/claude-in-xcode": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Claude is now generally available in Xcode",
+      "slug": "2025-09-15-Claude is now generally available in Xcode",
       "title": "Claude is now generally available in Xcode",
-      "published": "2023-11-03"
+      "published": "2025-09-15"
     },
     "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Strengthening our safeguards through collaboration with US CAISI and UK AISI",
+      "slug": "2025-09-12-Strengthening our safeguards through collaboration with US CAISI and UK AISI",
       "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
-      "published": "2023-11-03"
+      "published": "2025-09-12"
     },
     "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic is endorsing SB 53",
+      "slug": "2025-09-08-Anthropic is endorsing SB 53",
       "title": "Anthropic is endorsing SB 53",
-      "published": "2023-11-03"
+      "published": "2025-09-08"
     },
     "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Updating restrictions of sales to unsupported regions",
+      "slug": "2025-09-04-Updating restrictions of sales to unsupported regions",
       "title": "Updating restrictions of sales to unsupported regions",
-      "published": "2023-11-03"
+      "published": "2025-09-04"
     },
     "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-09-03-Anthropic joins White House pledge for AI education",
+      "slug": "2025-09-04-Anthropic joins White House pledge for AI education",
       "title": "Anthropic joins White House pledge for AI education",
-      "published": "2025-09-03"
+      "published": "2025-09-04"
     },
     "https://www.anthropic.com/news/developing-computer-use": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-08-28-Developing a computer use model",
+      "slug": "2024-10-22-Developing a computer use model",
       "title": "Developing a computer use model",
-      "published": "2025-08-28"
+      "published": "2024-10-22"
     },
     "https://www.anthropic.com/news/claude-3-5-sonnet": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-08-28-Introducing Claude 3.5 Sonnet",
+      "slug": "2024-06-21-Introducing Claude 3.5 Sonnet",
       "title": "Introducing Claude 3.5 Sonnet",
-      "published": "2025-08-28"
+      "published": "2024-06-21"
     },
     "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-08-26-Introducing the Anthropic National Security and Public Sector Advisory Council",
+      "slug": "2025-08-27-Introducing the Anthropic National Security and Public Sector Advisory Council",
       "title": "Introducing the Anthropic National Security and Public Sector Advisory Council",
-      "published": "2025-08-26"
+      "published": "2025-08-27"
     },
     "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-08-26-Detecting and countering misuse of AI - August 2025",
+      "slug": "2025-08-27-Detecting and countering misuse of AI - August 2025",
       "title": "Detecting and countering misuse of AI: August 2025",
-      "published": "2025-08-26"
+      "published": "2025-08-27"
     },
     "https://www.anthropic.com/news/anthropic-higher-education-initiatives": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic launches higher education advisory board and AI Fluency courses",
+      "slug": "2025-08-21-Anthropic launches higher education advisory board and AI Fluency courses",
       "title": "Anthropic launches higher education advisory board and AI Fluency courses",
-      "published": "2023-11-03"
+      "published": "2025-08-21"
     },
     "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Detecting and Countering Malicious Uses of Claude",
+      "slug": "2025-04-23-Detecting and Countering Malicious Uses of Claude",
       "title": "Detecting and Countering Malicious Uses of Claude",
-      "published": "2023-11-03"
+      "published": "2025-04-23"
     },
     "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-08-20-Developing nuclear safeguards for AI through public-private partnership",
+      "slug": "2025-08-21-Developing nuclear safeguards for AI through public-private partnership",
       "title": "Developing nuclear safeguards for AI through public-private partnership",
-      "published": "2025-08-20"
+      "published": "2025-08-21"
     },
     "https://www.anthropic.com/news/claude-code-on-team-and-enterprise": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Claude Code and new admin controls for business plans",
+      "slug": "2025-08-20-Claude Code and new admin controls for business plans",
       "title": "Claude Code and new admin controls for business plans",
-      "published": "2023-11-03"
+      "published": "2025-08-20"
     },
     "https://www.anthropic.com/news/building-safeguards-for-claude": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-08-11-Building safeguards for Claude",
+      "slug": "2025-08-12-Building safeguards for Claude",
       "title": "Building safeguards for Claude",
-      "published": "2025-08-11"
+      "published": "2025-08-12"
     },
     "https://www.anthropic.com/news/usage-policy-update": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-08-14-Usage Policy Update",
+      "slug": "2025-08-15-Usage Policy Update",
       "title": "Usage Policy Update",
-      "published": "2025-08-14"
+      "published": "2025-08-15"
     },
     "https://www.anthropic.com/news/claude-opus-4-1": {
       "stages": {
@@ -3371,45 +3371,45 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic Economic Futures Program Launch",
+      "slug": "2025-06-27-Anthropic Economic Futures Program Launch",
       "title": "Anthropic Economic Futures Program Launch",
-      "published": "2023-11-03"
+      "published": "2025-06-27"
     },
     "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic raises Series E at $61.5B post-money valuation",
+      "slug": "2025-03-03-Anthropic raises Series E at $61.5B post-money valuation",
       "title": "Anthropic raises Series E at $61.5B post-money valuation",
-      "published": "2023-11-03"
+      "published": "2025-03-03"
     },
     "https://www.anthropic.com/news/head-of-japan-hiring-plans": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans",
+      "slug": "2025-08-06-Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans",
       "title": "Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans",
-      "published": "2023-11-03"
+      "published": "2025-08-06"
     },
     "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Offering expanded Claude access across all three branches of government",
+      "slug": "2025-08-12-Offering expanded Claude access across all three branches of government",
       "title": "Offering expanded Claude access across all three branches of government",
-      "published": "2023-11-03"
+      "published": "2025-08-12"
     },
     "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-U.S. federal departments and agencies can now more quickly and easily get access to Claude",
+      "slug": "2025-08-05-U.S. federal departments and agencies can now more quickly and easily get access to Claude",
       "title": "U.S. federal departments and agencies can now more quickly and easily get access to Claude",
-      "published": "2023-11-03"
+      "published": "2025-08-05"
     },
     "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents": {
       "stages": {
@@ -3425,9 +3425,9 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Claude Gov models for U.S. national security customers",
+      "slug": "2025-06-06-Claude Gov models for U.S. national security customers",
       "title": "Claude Gov models for U.S. national security customers",
-      "published": "2023-11-03"
+      "published": "2025-06-06"
     },
     "https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future": {
       "stages": {
@@ -3443,63 +3443,63 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Understanding and Addressing AI Harms",
+      "slug": "2025-04-21-Understanding and Addressing AI Harms",
       "title": "Understanding and Addressing AI Harms",
-      "published": "2023-11-03"
+      "published": "2025-04-21"
     },
     "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-03-05-Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan",
+      "slug": "2025-03-06-Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan",
       "title": "Anthropic’s Recommendations to OSTP for the U.S. AI Action Plan",
-      "published": "2025-03-05"
+      "published": "2025-03-06"
     },
     "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic Education Report - How University Students Use Claude",
+      "slug": "2025-04-08-Anthropic Education Report - How University Students Use Claude",
       "title": "Anthropic Education Report: How University Students Use Claude",
-      "published": "2023-11-03"
+      "published": "2025-04-08"
     },
     "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic’s response to Governor Newsom’s AI working group draft report",
+      "slug": "2025-03-19-Anthropic’s response to Governor Newsom’s AI working group draft report",
       "title": "Anthropic’s response to Governor Newsom’s AI working group draft report",
-      "published": "2023-11-03"
+      "published": "2025-03-19"
     },
     "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-05-05-Claude in Amazon Bedrock - Approved for Use in FedRAMP High and DoD IL4 - 5 Workloads",
+      "slug": "2025-06-11-Claude in Amazon Bedrock - Approved for Use in FedRAMP High and DoD IL4 - 5 Workloads",
       "title": "Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads",
-      "published": "2025-05-05"
+      "published": "2025-06-11"
     },
     "https://www.anthropic.com/news/build-ai-in-america": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Build AI in America - Anthropic Energy Report",
+      "slug": "2025-07-21-Build AI in America - Anthropic Energy Report",
       "title": "Build AI in America: Anthropic Energy Report",
-      "published": "2023-11-03"
+      "published": "2025-07-21"
     },
     "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic's AI Export Controls Framework Response",
+      "slug": "2025-04-30-Anthropic's AI Export Controls Framework Response",
       "title": "Anthropic's AI Export Controls Framework Response",
-      "published": "2023-11-03"
+      "published": "2025-04-30"
     },
     "https://www.anthropic.com/news/activating-asl3-protections": {
       "stages": {
@@ -3515,135 +3515,135 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Claude for Enterprise Powers LLNL Research",
+      "slug": "2025-07-09-Claude for Enterprise Powers LLNL Research",
       "title": "Claude for Enterprise Powers LLNL Research",
-      "published": "2023-11-03"
+      "published": "2025-07-09"
     },
     "https://www.anthropic.com/news/advancing-claude-for-education": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Advancing Claude for Education",
+      "slug": "2025-07-09-Advancing Claude for Education",
       "title": "Advancing Claude for Education",
-      "published": "2023-11-03"
+      "published": "2025-07-09"
     },
     "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Testing our safety defenses with a new bug bounty program",
+      "slug": "2025-05-14-Testing our safety defenses with a new bug bounty program",
       "title": "Testing our safety defenses with a new bug bounty program",
-      "published": "2023-11-03"
+      "published": "2025-05-14"
     },
     "https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Introducing the Anthropic Economic Advisory Council",
+      "slug": "2025-04-28-Introducing the Anthropic Economic Advisory Council",
       "title": "Introducing the Anthropic Economic Advisory Council",
-      "published": "2023-11-03"
+      "published": "2025-04-28"
     },
     "https://www.anthropic.com/news/ai-for-science-program": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Introducing Anthropic's AI for Science Program",
+      "slug": "2025-05-05-Introducing Anthropic's AI for Science Program",
       "title": "Introducing Anthropic's AI for Science Program",
-      "published": "2023-11-03"
+      "published": "2025-05-05"
     },
     "https://www.anthropic.com/news/mou-uk-government": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic signs MOU with UK Government to explore how AI can transform UK public services",
+      "slug": "2025-02-14-Anthropic signs MOU with UK Government to explore how AI can transform UK public services",
       "title": "Anthropic signs MOU with UK Government to explore how AI can transform UK public services",
-      "published": "2023-11-03"
+      "published": "2025-02-14"
     },
     "https://www.anthropic.com/news/core-views-on-ai-safety": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-Core Views on AI Safety - When, Why, What, and How",
+      "slug": "2023-03-08-Core views on AI safety - When, why, what, and how",
       "title": "Core Views on AI Safety: When, Why, What, and How",
-      "published": "2023-12-18"
+      "published": "2023-03-08"
     },
     "https://www.anthropic.com/news/introducing-claude-for-education": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-04-01-Introducing Claude for education",
+      "slug": "2025-04-02-Introducing Claude for education",
       "title": "Introducing Claude for education",
-      "published": "2025-04-01"
+      "published": "2025-04-02"
     },
     "https://www.anthropic.com/news/3-5-models-and-computer-use": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2024-10-16-Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+      "slug": "2024-10-22-Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
       "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
-      "published": "2024-10-16"
+      "published": "2024-10-22"
     },
     "https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic partners with the University of Chicago’s Becker Friedman Institute for Economics on AI economic research",
+      "slug": "2025-07-23-Anthropic partners with the University of Chicago’s Becker Friedman Institute for Economics on AI economic research",
       "title": "Anthropic partners with the University of Chicago’s Becker Friedman Institute for Economics on AI economic research",
-      "published": "2023-11-03"
+      "published": "2025-07-23"
     },
     "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-A framework for AI development transparency",
+      "slug": "2025-07-07-A framework for AI development transparency",
       "title": "A framework for AI development transparency",
-      "published": "2023-11-03"
+      "published": "2025-07-07"
     },
     "https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic Raises Series B to build steerable, interpretable, robust AI systems",
+      "slug": "2022-04-29-Anthropic Raises Series B to build steerable, interpretable, robust AI systems",
       "title": "Anthropic Raises Series B to build steerable, interpretable, robust AI systems",
-      "published": "2023-11-03"
+      "published": "2022-04-29"
     },
     "https://www.anthropic.com/news/head-of-EMEA-new-roles": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-04-07-Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region",
+      "slug": "2025-04-08-Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region",
       "title": "Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region",
-      "published": "2025-04-07"
+      "published": "2025-04-08"
     },
     "https://www.anthropic.com/news/eu-code-practice": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic to sign the EU Code of Practice",
+      "slug": "2025-07-21-Anthropic to sign the EU Code of Practice",
       "title": "Anthropic to sign the EU Code of Practice",
-      "published": "2023-11-03"
+      "published": "2025-07-21"
     },
     "https://www.anthropic.com/news/paul-smith-to-join-anthropic": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Paul Smith to join Anthropic as Chief Commercial Officer",
+      "slug": "2025-07-15-Paul Smith to join Anthropic as Chief Commercial Officer",
       "title": "Paul Smith to join Anthropic as Chief Commercial Officer",
-      "published": "2023-11-03"
+      "published": "2025-07-15"
     },
     "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations": {
       "stages": {
@@ -3659,90 +3659,90 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-National security expert Richard Fontaine appointed to Anthropic’s long-term benefit trust",
+      "slug": "2025-06-07-National security expert Richard Fontaine appointed to Anthropic’s long-term benefit trust",
       "title": "National security expert Richard Fontaine appointed to Anthropic’s long-term benefit trust",
-      "published": "2023-11-03"
+      "published": "2025-06-07"
     },
     "https://www.anthropic.com/news/github-copilot": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Claude 3.5 Sonnet on GitHub Copilot",
+      "slug": "2024-10-29-Claude 3.5 Sonnet on GitHub Copilot",
       "title": "Claude 3.5 Sonnet on GitHub Copilot",
-      "published": "2023-11-03"
+      "published": "2024-10-29"
     },
     "https://www.anthropic.com/news/reed-hastings": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Reed Hastings appointed to Anthropic’s board of directors",
+      "slug": "2025-05-28-Reed Hastings appointed to Anthropic’s board of directors",
       "title": "Reed Hastings appointed to Anthropic’s board of directors",
-      "published": "2023-11-03"
+      "published": "2025-05-28"
     },
     "https://www.anthropic.com/news/introducing-claude": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-Introducing Claude",
+      "slug": "2023-03-14-Introducing Claude",
       "title": "Introducing Claude",
-      "published": "2023-12-18"
+      "published": "2023-03-14"
     },
     "https://www.anthropic.com/news/anthropic-series-c": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products",
+      "slug": "2023-05-23-Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products",
       "title": "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products",
-      "published": "2023-11-03"
+      "published": "2023-05-23"
     },
     "https://www.anthropic.com/news/100k-context-windows": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-Introducing 100K Context Windows",
+      "slug": "2023-05-11-Introducing 100K Context Windows",
       "title": "Introducing 100K Context Windows",
-      "published": "2023-12-18"
+      "published": "2023-05-11"
     },
     "https://www.anthropic.com/news/releasing-claude-instant-1-2": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Releasing Claude Instant 1.2",
+      "slug": "2023-08-09-Releasing Claude Instant 1.2",
       "title": "Releasing Claude Instant 1.2",
-      "published": "2023-11-03"
+      "published": "2023-08-09"
     },
     "https://www.anthropic.com/news/Introducing-code-with-claude": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-04-02-Code with Claude - Anthropic's First Developer Conference",
+      "slug": "2025-04-03-Code with Claude - Anthropic's First Developer Conference",
       "title": "Code with Claude - Anthropic's First Developer Conference",
-      "published": "2025-04-02"
+      "published": "2025-04-03"
     },
     "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-03-18-Progress from our Frontier Red Team",
+      "slug": "2025-03-19-Progress from our Frontier Red Team",
       "title": "Progress from our Frontier Red Team",
-      "published": "2025-03-18"
+      "published": "2025-03-19"
     },
     "https://www.anthropic.com/news/introducing-anthropic-transparency-hub": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Introducing Anthropic's Transparency Hub",
+      "slug": "2025-02-27-Introducing Anthropic's Transparency Hub",
       "title": "Introducing Anthropic's Transparency Hub",
-      "published": "2023-11-03"
+      "published": "2025-02-27"
     },
     "https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam": {
       "stages": {
@@ -3767,81 +3767,81 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Statement from Dario Amodei on the Paris AI Action Summit",
+      "slug": "2025-02-11-Statement from Dario Amodei on the Paris AI Action Summit",
       "title": "Statement from Dario Amodei on the Paris AI Action Summit",
-      "published": "2023-11-03"
+      "published": "2025-02-11"
     },
     "https://www.anthropic.com/news/lyft-announcement": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Lyft to bring Claude to more than 40 million riders and over 1 million drivers",
+      "slug": "2025-02-06-Lyft to bring Claude to more than 40 million riders and over 1 million drivers",
       "title": "Lyft to bring Claude to more than 40 million riders and over 1 million drivers",
-      "published": "2023-11-03"
+      "published": "2025-02-06"
     },
     "https://www.anthropic.com/news/anthropics-responsible-scaling-policy": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-Anthropic's Responsible Scaling Policy",
+      "slug": "2023-09-19-Anthropic's Responsible Scaling Policy",
       "title": "Anthropic's Responsible Scaling Policy",
-      "published": "2023-12-18"
+      "published": "2023-09-19"
     },
     "https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2025-01-12-Anthropic achieves ISO 42001 certification for responsible AI",
+      "slug": "2025-01-13-Anthropic achieves ISO 42001 certification for responsible AI",
       "title": "Anthropic achieves ISO 42001 certification for responsible AI",
-      "published": "2025-01-12"
+      "published": "2025-01-13"
     },
     "https://www.anthropic.com/news/preparing-for-global-elections-in-2024": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Preparing for global elections in 2024",
+      "slug": "2024-02-16-Preparing for global elections in 2024",
       "title": "Preparing for global elections in 2024",
-      "published": "2023-11-03"
+      "published": "2024-02-16"
     },
     "https://www.anthropic.com/news/policy-recap-q4-2023": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit",
+      "slug": "2023-11-05-Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit",
       "title": "Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit",
-      "published": "2023-11-03"
+      "published": "2023-11-05"
     },
     "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Frontier Threats Red Teaming for AI Safety",
+      "slug": "2023-07-26-Frontier Threats Red Teaming for AI Safety",
       "title": "Frontier Threats Red Teaming for AI Safety",
-      "published": "2023-11-03"
+      "published": "2023-07-26"
     },
     "https://www.anthropic.com/news/frontier-model-security": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Frontier Model Security",
+      "slug": "2023-07-25-Frontier Model Security",
       "title": "Frontier Model Security",
-      "published": "2023-11-03"
+      "published": "2023-07-25"
     },
     "https://www.anthropic.com/news/expanded-legal-protections-api-improvements": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-20-Expanded legal protections and improvements to our API",
+      "slug": "2023-12-19-Expanded legal protections and improvements to our API",
       "title": "Expanded legal protections and improvements to our API",
-      "published": "2023-12-20"
+      "published": "2023-12-19"
     },
     "https://www.anthropic.com/news/contextual-retrieval": {
       "stages": {
@@ -3857,115 +3857,115 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2024-02-24-Introducing the next generation of Claude",
+      "slug": "2024-03-04-Introducing the next generation of Claude",
       "title": "Introducing the next generation of Claude",
-      "published": "2024-02-24"
+      "published": "2024-03-04"
     },
     "https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-An AI Policy Tool for Today - Ambitiously Invest in NIST",
+      "slug": "2023-04-20-An AI Policy Tool for Today - Ambitiously Invest in NIST",
       "title": "An AI Policy Tool for Today: Ambitiously Invest in NIST",
-      "published": "2023-12-18"
+      "published": "2023-04-20"
     },
     "https://www.anthropic.com/news/third-party-testing": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Third-party testing as a key ingredient of AI policy",
+      "slug": "2024-03-25-Third-party testing as a key ingredient of AI policy",
       "title": "Third-party testing as a key ingredient of AI policy",
-      "published": "2023-11-03"
+      "published": "2024-03-25"
     },
     "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Testing and mitigating elections-related risks",
+      "slug": "2024-06-06-Testing and mitigating elections-related risks",
       "title": "Testing and mitigating elections-related risks",
-      "published": "2023-11-03"
+      "published": "2024-06-06"
     },
     "https://www.anthropic.com/news/prompt-engineering-for-business-performance": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Prompt engineering for business performance",
+      "slug": "2024-02-29-Prompt engineering for business performance",
       "title": "Prompt engineering for business performance",
-      "published": "2023-11-03"
+      "published": "2024-02-29"
     },
     "https://www.anthropic.com/news/google-vertex-general-availability": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Claude 3 models on Vertex AI",
+      "slug": "2024-03-19-Claude 3 models on Vertex AI",
       "title": "Claude 3 models on Vertex AI",
-      "published": "2023-11-03"
+      "published": "2024-03-19"
     },
     "https://www.anthropic.com/news/claude-brazil": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2024-07-29-Claude is now available in Brazil",
+      "slug": "2024-08-01-Claude is now available in Brazil",
       "title": "Claude is now available in Brazil",
-      "published": "2024-07-29"
+      "published": "2024-08-01"
     },
     "https://www.anthropic.com/news/child-safety-principles": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Aligning on child safety principles",
+      "slug": "2024-04-23-Aligning on child safety principles",
       "title": "Aligning on child safety principles",
-      "published": "2023-11-03"
+      "published": "2024-04-23"
     },
     "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2024-06-11-Challenges in Red Teaming AI Systems",
+      "slug": "2024-06-12-Challenges in Red Teaming AI Systems",
       "title": "Challenges in Red Teaming AI Systems",
-      "published": "2024-06-11"
+      "published": "2024-06-12"
     },
     "https://www.anthropic.com/news/elections-ai-2024": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2024-12-06-Elections and AI in 2024 - Anthropic observations and learnings",
+      "slug": "2024-12-12-Elections and AI in 2024 - Anthropic observations and learnings",
       "title": "Elections and AI in 2024: Anthropic observations and learnings",
-      "published": "2024-12-06"
+      "published": "2024-12-12"
     },
     "https://www.anthropic.com/news/anthropic-amazon-trainium": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Powering the next generation of AI development with AWS",
+      "slug": "2024-11-22-Powering the next generation of AI development with AWS",
       "title": "Powering the next generation of AI development with AWS",
-      "published": "2023-11-03"
+      "published": "2024-11-22"
     },
     "https://www.anthropic.com/news/anthropic-amazon": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-Expanding access to safer AI with Amazon",
+      "slug": "2023-09-25-Expanding access to safer AI with Amazon",
       "title": "Expanding access to safer AI with Amazon",
-      "published": "2023-12-18"
+      "published": "2023-09-25"
     },
     "https://www.anthropic.com/news/fine-tune-claude-3-haiku": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2024-07-10-Fine-tune Claude 3 Haiku in Amazon Bedrock - Claude",
+      "slug": "2024-07-10-Fine-tune Claude 3 Haiku in Amazon Bedrock",
       "title": "Fine-tune Claude 3 Haiku in Amazon Bedrock | Claude",
       "published": "2024-07-10"
     },
@@ -3974,72 +3974,72 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-The case for targeted regulation",
+      "slug": "2024-10-31-The case for targeted regulation",
       "title": "The case for targeted regulation",
-      "published": "2023-11-03"
+      "published": "2024-10-31"
     },
     "https://www.anthropic.com/news/salesforce-partnership": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Salesforce integrates Anthropic's Claude AI to boost Einstein capabilities",
+      "slug": "2024-09-03-Salesforce integrates Anthropic's Claude AI to boost Einstein capabilities",
       "title": "Salesforce integrates Anthropic's Claude AI to boost Einstein capabilities",
-      "published": "2023-11-03"
+      "published": "2024-09-03"
     },
     "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2024-10-14-Announcing our updated Responsible Scaling Policy",
+      "slug": "2024-10-15-Announcing our updated Responsible Scaling Policy",
       "title": "Announcing our updated Responsible Scaling Policy",
-      "published": "2024-10-14"
+      "published": "2024-10-15"
     },
     "https://www.anthropic.com/news/us-elections-readiness": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-U.S. Elections Readiness",
+      "slug": "2024-10-08-U.S. Elections Readiness",
       "title": "U.S. Elections Readiness",
-      "published": "2023-11-03"
+      "published": "2024-10-08"
     },
     "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-A new initiative for developing third-party model evaluations",
+      "slug": "2024-07-01-A new initiative for developing third-party model evaluations",
       "title": "A new initiative for developing third-party model evaluations",
-      "published": "2023-11-03"
+      "published": "2024-07-01"
     },
     "https://www.anthropic.com/news/accenture-aws-anthropic": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2024-03-18-Accenture, AWS, Anthropic Collaboration",
+      "slug": "2024-03-20-Accenture, AWS, Anthropic Collaboration",
       "title": "Accenture, AWS, Anthropic Collaboration",
-      "published": "2024-03-18"
+      "published": "2024-03-20"
     },
     "https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic partners with Menlo Ventures to launch Anthology Fund",
+      "slug": "2024-07-17-Anthropic partners with Menlo Ventures to launch Anthology Fund",
       "title": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
-      "published": "2023-11-03"
+      "published": "2024-07-17"
     },
     "https://www.anthropic.com/news/claude-europe": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Claude is now available in the EU",
+      "slug": "2024-05-14-Claude is now available in the EU",
       "title": "Claude is now available in the EU",
-      "published": "2023-11-03"
+      "published": "2024-05-14"
     },
     "https://www.anthropic.com/news/expanding-access-to-claude-for-government": {
       "stages": {
@@ -4055,27 +4055,27 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Golden Gate Claude",
+      "slug": "2024-05-23-Golden Gate Claude",
       "title": "Golden Gate Claude",
-      "published": "2023-11-03"
+      "published": "2024-05-23"
     },
     "https://www.anthropic.com/news/introducing-claude-to-canada": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2024-06-04-Introducing Claude to Canada",
+      "slug": "2024-06-05-Introducing Claude to Canada",
       "title": "Introducing Claude to Canada",
-      "published": "2024-06-04"
+      "published": "2024-06-05"
     },
     "https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Jay Kreps appointed to Anthropic's Board of Directors",
+      "slug": "2024-05-29-Jay Kreps appointed to Anthropic's Board of Directors",
       "title": "Jay Kreps appointed to Anthropic's Board of Directors",
-      "published": "2023-11-03"
+      "published": "2024-05-29"
     },
     "https://www.anthropic.com/news/mike-krieger-joins-anthropic": {
       "stages": {
@@ -4091,144 +4091,144 @@
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Expanding our model safety bug bounty program",
+      "slug": "2024-08-08-Expanding our model safety bug bounty program",
       "title": "Expanding our model safety bug bounty program",
-      "published": "2023-11-03"
+      "published": "2024-08-08"
     },
     "https://www.anthropic.com/news/projects": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Collaborate with Claude on Projects",
+      "slug": "2024-06-25-Collaborate with Claude on Projects",
       "title": "Collaborate with Claude on Projects",
-      "published": "2023-11-03"
+      "published": "2024-06-25"
     },
     "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Reflections on our Responsible Scaling Policy",
+      "slug": "2024-05-20-Reflections on our Responsible Scaling Policy",
       "title": "Reflections on our Responsible Scaling Policy",
-      "published": "2023-11-03"
+      "published": "2024-05-20"
     },
     "https://www.anthropic.com/news/updating-our-usage-policy": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Updating our Usage Policy",
+      "slug": "2024-05-10-Updating our Usage Policy",
       "title": "Updating our Usage Policy",
-      "published": "2023-11-03"
+      "published": "2024-05-10"
     },
     "https://www.anthropic.com/news/anthropic-bcg": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic partners with BCG",
+      "slug": "2023-09-14-Anthropic partners with BCG",
       "title": "Anthropic partners with BCG",
-      "published": "2023-11-03"
+      "published": "2023-09-14"
     },
     "https://www.anthropic.com/news/anthropic-partners-with-google-cloud": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Anthropic Partners with Google Cloud",
+      "slug": "2023-02-03-Anthropic Partners with Google Cloud",
       "title": "Anthropic Partners with Google Cloud",
-      "published": "2023-11-03"
+      "published": "2023-02-03"
     },
     "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-Anthropic raises $124 million to build more reliable, general AI systems",
+      "slug": "2021-05-28-Anthropic raises $124 million to build more reliable, general AI systems",
       "title": "Anthropic raises $124 million to build more reliable, general AI systems",
-      "published": "2023-12-18"
+      "published": "2021-05-28"
     },
     "https://www.anthropic.com/news/charting-a-path-to-ai-accountability": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Charting a Path to AI Accountability",
+      "slug": "2023-06-13-Charting a Path to AI Accountability",
       "title": "Charting a Path to AI Accountability",
-      "published": "2023-11-03"
+      "published": "2023-06-13"
     },
     "https://www.anthropic.com/news/claude-2": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-Claude 2",
+      "slug": "2023-07-11-Claude 2",
       "title": "Claude 2",
-      "published": "2023-12-18"
+      "published": "2023-07-11"
     },
     "https://www.anthropic.com/news/claude-2-1": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Introducing Claude 2.1",
+      "slug": "2023-11-21-Introducing Claude 2.1",
       "title": "Introducing Claude 2.1",
-      "published": "2023-11-03"
+      "published": "2023-11-21"
     },
     "https://www.anthropic.com/news/claude-3-haiku": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Claude 3 Haiku - our fastest model yet",
+      "slug": "2024-03-13-Claude 3 Haiku - our fastest model yet",
       "title": "Claude 3 Haiku: our fastest model yet",
-      "published": "2023-11-03"
+      "published": "2024-03-13"
     },
     "https://www.anthropic.com/news/claude-pro": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-Introducing Claude Pro",
+      "slug": "2023-09-07-Introducing Claude Pro",
       "title": "Introducing Claude Pro",
-      "published": "2023-12-18"
+      "published": "2023-09-07"
     },
     "https://www.anthropic.com/news/partnering-with-scale": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-12-18-Partnering with Scale to Bring Generative AI to Enterprises",
+      "slug": "2023-04-26-Partnering with Scale to Bring Generative AI to Enterprises",
       "title": "Partnering with Scale to Bring Generative AI to Enterprises",
-      "published": "2023-12-18"
+      "published": "2023-04-26"
     },
     "https://www.anthropic.com/news/skt-partnership-announcement": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-SKT Partnership Announcement",
+      "slug": "2023-08-15-SKT Partnership Announcement",
       "title": "SKT Partnership Announcement",
-      "published": "2023-11-03"
+      "published": "2023-08-15"
     },
     "https://www.anthropic.com/news/uk-ai-safety-summit": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy",
+      "slug": "2023-11-01-Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy",
       "title": "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy",
-      "published": "2023-11-03"
+      "published": "2023-11-01"
     },
     "https://www.anthropic.com/news/zoom-partnership-and-investment": {
       "stages": {
         "fetched": true
       },
       "source": "news",
-      "slug": "2023-11-03-Zoom Partnership and Investment in Anthropic",
+      "slug": "2023-05-16-Zoom Partnership and Investment in Anthropic",
       "title": "Zoom Partnership and Investment in Anthropic",
-      "published": "2023-11-03"
+      "published": "2023-05-16"
     },
     "https://www.anthropic.com/news/krishna-rao-joins-anthropic": {
       "stages": {

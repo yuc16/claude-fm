@@ -4,7 +4,7 @@ title: DXC will integrate Claude into the systems banks, airlines, and other reg
 url: https://www.anthropic.com/news/dxc-anthropic-alliance
 source: news
 published: '2026-06-11'
-fetched: 2026-06-13 04:40
+fetched: 2026-06-21 15:25
 ---
 
 # DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on
@@ -40,14 +40,10 @@ To learn more about the Claude Partner Network, visit anthropic.com/partners.
 
 ## Related content
 
-### Results from the first Anthropic Public Record
+### Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem
 
-Read more### TCS and Anthropic partner to bring Claude to regulated industries
+Read more### Statement on the US government directive to suspend access to Fable 5 and Mythos 5
 
-We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.
-
-Read more### Introducing Claude Corps
-
-We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.
+The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.
 
 Read more

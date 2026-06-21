@@ -3,7 +3,7 @@ title: Contextual Retrieval in AI Systems
 url: https://www.anthropic.com/news/contextual-retrieval
 source: news
 published: '2024-09-19'
-fetched: 2026-06-13 05:12
+fetched: 2026-06-21 15:34
 ---
 
 For an AI model to be useful in specific contexts, it often needs access to background knowledge. For example, customer support chatbots need knowledge about the specific business they're being used for, and legal analyst bots need to know about a vast array of past cases.
