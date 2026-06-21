@@ -22,7 +22,7 @@
 
 ## 🎧 收听
 
-> **在小宇宙收听** 👉 **[点这里听 Claude FM](小宇宙链接占位)**
+> **在小宇宙收听** 👉 **[点这里听 Claude FM](https://www.xiaoyuzhoufm.com/podcast/6a37f2bcdd580cf9cf4bf121)**
 
 或者，用**任意播客 App**（Apple Podcasts、Pocket Casts 等）粘贴下面的 RSS 地址订阅：
 
@@ -41,7 +41,9 @@ https://fm.yccode.xyz/feed.xml
 - 📝 [Prompt 工程最佳实践](content/claude/blog/scripts/2025-11-10-Prompt%20engineering%20best%20practices.md)
 - 📰 [Anthropic 一周快讯示例](content/anthropic/news/scripts/2026-06-14-Anthropic一周快讯.md)
 
-全部解读稿在 [`content/`](content/) 下按来源分目录存放（`scripts/` 是中文解读，`articles/` 是英文原文）。
+📋 **完整 448 集目录(可点开每集文字稿)** 👉 **[CATALOG.md](CATALOG.md)**
+
+全部解读稿也在 [`content/`](content/) 下按来源分目录存放（`scripts/` 是中文解读，`articles/` 是英文原文）。
 
 ## 📚 内容概览
 
@@ -54,6 +56,17 @@ https://fm.yccode.xyz/feed.xml
 | | **448 集** | 覆盖 2021 至今，每周日更新 |
 
 前四个源逐篇做约 25 分钟的深度解读；news 时效性强、多为公告，按周聚合成几分钟的「一周快讯」。
+
+## 🔄 更新节奏（维护者备忘）
+
+每周日跑一条命令即可完成本周更新：
+
+```bash
+uv run claude-fm weekly      # 抓三源新文章并解读 + 把上周 news 打包成「一周快讯」
+                             # 同时刷新 RSS(feed.xml) 和本目录(CATALOG.md / README 集数)
+```
+
+它会产出本周新增的解读稿与音频；之后把音频和 `feed.xml` 同步到服务器（部署细节见本地私有文档），小宇宙会自动拉到新集。所以本 README 的集数和 [CATALOG.md](CATALOG.md) 每周都会随之更新。
 
 ---
 

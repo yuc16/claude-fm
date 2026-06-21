@@ -286,7 +286,18 @@ def cmd_weekly(args) -> None:
         cmd_autorun(_argparse.Namespace(source=src, limit=None))
     print("\n========== news 周报 ==========", flush=True)
     cmd_news(_argparse.Namespace(limit=None))
-    print("\n✅ 本周更新完成。待上传包在 content/*/*/episodes/ 下。", flush=True)
+    print("\n========== 刷新 RSS 与目录 ==========", flush=True)
+    cmd_feed(None)
+    cmd_catalog(None)
+    print("\n✅ 本周更新完成。待同步音频在 content/*/*/audio/，feed.xml 已刷新。", flush=True)
+
+
+def cmd_catalog(args) -> None:
+    """生成全集目录 CATALOG.md，并刷新 README 集数。"""
+    from . import catalog
+    total, by_src = catalog.build_catalog()
+    print(f"已生成 CATALOG.md（{total} 集：" +
+          "，".join(f"{k} {v}" for k, v in by_src.items()) + "），README 集数已刷新")
 
 
 def cmd_feed(args) -> None:
@@ -350,6 +361,9 @@ def main() -> None:
 
     p = sub.add_parser("feed", help="生成播客 RSS feed.xml")
     p.set_defaults(func=cmd_feed)
+
+    p = sub.add_parser("catalog", help="生成全集目录 CATALOG.md 并刷新 README 集数")
+    p.set_defaults(func=cmd_catalog)
 
     p = sub.add_parser("voices", help="生成音色试听样品")
     p.set_defaults(func=cmd_voices)
