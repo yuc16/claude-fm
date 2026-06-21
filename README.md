@@ -2,13 +2,11 @@
 
 # Claude FM 📻
 
-**把 Anthropic 的前沿技术内容，做成中文解读，装进你的通勤路上。**
-
-智能体 · 可解释性 · 模型发布 · 安全研究 —— 一周更新一次，碎片时间听懂最前沿的 AI
+**把 Anthropic 的前沿技术内容，做成中文音频解读，让你在碎片时间了解最前沿的 AI**
 
 ![episodes](https://img.shields.io/badge/已更新-448%20集-1DB954)
 ![update](https://img.shields.io/badge/更新频率-每周日-FF8800)
-![language](https://img.shields.io/badge/语言-中文解读-blue)
+![language](https://img.shields.io/badge/语言-简体中文-blue)
 
 </div>
 
@@ -16,9 +14,9 @@
 
 ## 这是什么
 
-[Anthropic](https://www.anthropic.com)（Claude 背后的公司）在 engineering、research、news 和官方 blog 上持续发布大量高质量的 AI 技术内容，但几乎全是英文长文，跟起来很累。
+[Anthropic](https://www.anthropic.com)在 engineering、research、news 和官方 blog 上持续发布大量高质量的 AI 技术内容，平常没有大量时间阅读。
 
-**Claude FM 把它们逐篇做成口语化的中文解读**，整理成一档可以随时收听的播客——通勤、健身、做家务的时候听一听，用碎片时间把最前沿的 AI 进展听懂。我把 Anthropic 这几年（2021 至今）的内容系统梳理了一遍，**共 448 集，按发表时间排成一条 AI 技术演进的时间线**，并且每周日持续更新。
+**Claude FM 把它们逐篇做成口语化的中文解读**，整理成一档可以随时收听的播客——通勤、健身、做家务的时候听一听，用碎片时间把最前沿的 AI 进展听懂。项目把 Anthropic 这几年（2021 至今）的内容系统梳理了一遍，目前**共 448 集，按发表时间排成一条 AI 技术演进的时间线**，并且每周日持续更新。
 
 ## 🎧 收听
 
@@ -35,11 +33,10 @@ https://fm.yccode.xyz/feed.xml
 不方便听？每一集的**中文解读全文**都在这个仓库里，点开即读（开头都会注明文章发表时间）：
 
 - 🛠️ [构建高效 AI 智能体](content/anthropic/engineering/scripts/2024-12-19-Building%20Effective%20AI%20Agents.md) · *Building Effective AI Agents*
-- 🔬 [叠加态的玩具模型](content/anthropic/research/scripts/2022-09-14-Toy%20Models%20of%20Superposition.md) · *Toy Models of Superposition*
-- 🔬 [宪法式 AI](content/anthropic/research/scripts/2022-12-15-Constitutional%20AI%20-%20Harmlessness%20from%20AI%20Feedback.md) · *Constitutional AI*
+- 🔬 [AI 写代码的时代，决定你走多远的是领域理解，不是编程水平](content/anthropic/research/scripts/2026-06-16-Agentic%20coding%20and%20persistent%20returns%20to%20expertise.md) · *Agentic coding and persistent returns to expertise*
 - 📝 [Agent Skills 发布](content/claude/blog/scripts/2025-10-16-Introducing%20Agent%20Skills.md) · *Introducing Agent Skills*
 - 📝 [Prompt 工程最佳实践](content/claude/blog/scripts/2025-11-10-Prompt%20engineering%20best%20practices.md)
-- 📰 [Anthropic 一周快讯示例](content/anthropic/news/scripts/2026-06-14-Anthropic一周快讯.md)
+- 📰 [Anthropic 一周快讯 · 2026年6月7日–2026年6月13日：最强模型 Fable 5 上线即遭美国政府勒令下架](content/anthropic/news/scripts/2026-06-07-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 
 📋 **完整 448 集目录(可点开每集文字稿)** 👉 **[CATALOG.md](CATALOG.md)**
 
