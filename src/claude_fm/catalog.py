@@ -16,7 +16,7 @@ _SRC_META = [
 def _entry(source: str, rec: dict) -> dict | None:
     slug = rec.get("slug")
     ep_path = config.episode_path(source, slug)
-    script_rel = f"content/{dict((s, d) for s, _, d in _SRC_META)[source]}/scripts/{slug}.md"
+    src_dir = dict((s, d) for s, _, d in _SRC_META)[source]
     if not config.script_path(source, slug).exists():
         return None
     title = slug
@@ -24,11 +24,16 @@ def _entry(source: str, rec: dict) -> dict | None:
         m = re.search(r"^# EP\d+ \|\s*(.+)$", ep_path.read_text(encoding="utf-8"), re.M)
         if m:
             title = m.group(1).strip()
+    # news 周报是多篇合集，无单一原文；其余各有英文原文
+    article_link = None
+    if source != "news" and config.article_path(source, slug).exists():
+        article_link = quote(f"content/{src_dir}/articles/{slug}.md")
     return {
         "ep": rec["episode"],
         "date": rec.get("published") or slug[:10],
         "title": title,
-        "link": quote(script_rel),
+        "link": quote(f"content/{src_dir}/scripts/{slug}.md"),
+        "article": article_link,
     }
 
 
@@ -56,7 +61,7 @@ def build_catalog() -> tuple:
     lines = [
         "# Claude FM 全集目录",
         "",
-        f"共 **{total} 集**，按来源分组、组内按发表时间排列。点击标题阅读中文解读全文。",
+        f"共 **{total} 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。",
         f"想按时间线收听，请到 [小宇宙](https://www.xiaoyuzhoufm.com/podcast/6a37f2bcdd580cf9cf4bf121)。",
         "",
     ]
@@ -64,7 +69,10 @@ def build_catalog() -> tuple:
         items = by_src[s]
         lines.append(f"## {label}（{len(items)}）\n")
         for e in items:
-            lines.append(f"- `EP{e['ep']}` · {e['date']} · [{e['title']}]({e['link']})")
+            row = f"- `EP{e['ep']}` · {e['date']} · [{e['title']}]({e['link']})"
+            if e["article"]:
+                row += f" · [英文原文]({e['article']})"
+            lines.append(row)
         lines.append("")
     (config.ROOT / "CATALOG.md").write_text("\n".join(lines), encoding="utf-8")
     _refresh_readme_count(total)
