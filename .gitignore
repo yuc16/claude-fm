@@ -17,3 +17,9 @@ content/autorun.log
 
 
 .DS_Store
+
+# 上传套件（本地工作目录，可重新生成）
+content/upload/
+
+# 生成的 RSS（部署到服务器，不入库）
+content/feed.xml

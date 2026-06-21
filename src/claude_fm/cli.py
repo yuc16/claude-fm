@@ -289,6 +289,14 @@ def cmd_weekly(args) -> None:
     print("\n✅ 本周更新完成。待上传包在 content/*/*/episodes/ 下。", flush=True)
 
 
+def cmd_feed(args) -> None:
+    """生成播客 RSS feed.xml（含全部已打包集），供小宇宙等订阅。"""
+    from . import feed
+    out, n = feed.write_feed()
+    print(f"已生成 {out}（{n} 集）")
+    print(f"上传到服务器后，订阅地址：{config.FEED_BASE_URL}/feed.xml")
+
+
 def cmd_voices(args) -> None:
     print("正在为各候选音色生成试听样品（同一段文本）...")
     for voice, desc, dur in tts.make_samples():
@@ -339,6 +347,9 @@ def main() -> None:
 
     p = sub.add_parser("weekly", help="每周日一条命令：三源增量解读 + news 上周周报")
     p.set_defaults(func=cmd_weekly)
+
+    p = sub.add_parser("feed", help="生成播客 RSS feed.xml")
+    p.set_defaults(func=cmd_feed)
 
     p = sub.add_parser("voices", help="生成音色试听样品")
     p.set_defaults(func=cmd_voices)

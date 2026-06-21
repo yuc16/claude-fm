@@ -80,6 +80,21 @@ VOICE_CANDIDATES = {
     "zh-CN-XiaoyiNeural": "女声，柔和",
 }
 
+# ── 播客 RSS（托管在自有服务器，供小宇宙等客户端订阅）────────────────────
+# 音频与 feed.xml 通过 Caddy 托管在东京服务器上，对外 https 访问。
+FEED_BASE_URL = "https://fm.yccode.xyz"          # 子域名，解析到服务器
+PODCAST_TITLE = "Claude FM"
+PODCAST_DESCRIPTION = (
+    "把 Anthropic 的前沿技术内容做成中文解读：智能体、可解释性、模型发布、"
+    "安全研究……通勤、健身随时听，用碎片时间积累最前沿的 AI 知识。"
+    "原文版权归 Anthropic，中文解读由 Claude 生成，仅供学习。"
+)
+PODCAST_AUTHOR = "Claude FM"
+PODCAST_EMAIL = "wangyc0924@gmail.com"
+PODCAST_COVER = f"{FEED_BASE_URL}/cover.jpg"     # 需上传一张 ≥1400×1400 封面
+PODCAST_CATEGORY = "Technology"
+PODCAST_LANGUAGE = "zh-cn"
+
 # 时长目标（分钟），超出范围会在产出时告警
 DURATION_MIN = 22
 DURATION_MAX = 28
