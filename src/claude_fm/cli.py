@@ -278,6 +278,17 @@ def cmd_news(args) -> None:
         time.sleep(wait)
 
 
+def cmd_weekly(args) -> None:
+    """每周日一条命令搞定更新：三个深度源增量解读 + news 上周周报。"""
+    import argparse as _argparse
+    for src in ("engineering", "research", "blog"):
+        print(f"\n========== 更新 {src} ==========", flush=True)
+        cmd_autorun(_argparse.Namespace(source=src, limit=None))
+    print("\n========== news 周报 ==========", flush=True)
+    cmd_news(_argparse.Namespace(limit=None))
+    print("\n✅ 本周更新完成。待上传包在 content/*/*/episodes/ 下。", flush=True)
+
+
 def cmd_voices(args) -> None:
     print("正在为各候选音色生成试听样品（同一段文本）...")
     for voice, desc, dur in tts.make_samples():
@@ -325,6 +336,9 @@ def main() -> None:
     p = sub.add_parser("news", help="news 周报合集：按周打包 news，无人值守续跑")
     p.add_argument("--limit", type=int, help="最多处理几周")
     p.set_defaults(func=cmd_news)
+
+    p = sub.add_parser("weekly", help="每周日一条命令：三源增量解读 + news 上周周报")
+    p.set_defaults(func=cmd_weekly)
 
     p = sub.add_parser("voices", help="生成音色试听样品")
     p.set_defaults(func=cmd_voices)
