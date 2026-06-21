@@ -1,7 +1,9 @@
 """调用 claude -p 无头模式生成中文解读稿（走订阅，不用 API key）。"""
 
+import os
 import re
 import subprocess
+import tempfile
 from datetime import datetime
 
 import yaml
@@ -9,6 +11,19 @@ import yaml
 from . import config
 
 _CN_NUMS = "〇一二三四五六七八九"
+
+# claude -p 默认带文件工具且会加载所在目录的项目上下文/记忆。对着讲 agent、
+# Claude Code 的文章时，它会"角色混淆"去读 state.json、扮演流水线操作员，输出
+# 状态汇报而非解读稿。对策：在中性空目录里跑（不加载本项目上下文/记忆）+ 禁用
+# 所有工具（物理上无法读文件/操作），强制它只做纯文本生成。
+_NEUTRAL_CWD = os.path.join(tempfile.gettempdir(), "claude_fm_gen")
+os.makedirs(_NEUTRAL_CWD, exist_ok=True)
+# 只列当前 claude 版本确实存在的工具名——列表里出现未知工具名会让 claude
+# 直接拒绝整个调用（"matches no known tool"），导致每次都失败。
+_DISALLOWED_TOOLS = (
+    "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch,"
+    "Task,NotebookEdit,TodoWrite"
+)
 
 
 def _cn_date(iso: str) -> str:
@@ -71,11 +86,13 @@ def run_claude(prompt: str) -> str:
                     "claude", "-p",
                     "--model", config.CLAUDE_MODEL,
                     "--output-format", "text",
+                    "--disallowedTools", _DISALLOWED_TOOLS,
                 ],
                 input=prompt,
                 capture_output=True,
                 text=True,
                 timeout=config.CLAUDE_TIMEOUT,
+                cwd=_NEUTRAL_CWD,
             )
         except subprocess.TimeoutExpired:
             last_err = f"超时（{config.CLAUDE_TIMEOUT}s）"
@@ -121,8 +138,19 @@ def interpret(article_meta: dict, article_body: str, slug: str) -> dict:
         published=article_meta.get("published", ""),
         article=article_body,
     )
-    raw = run_claude(prompt)
-    result = parse_output(raw)
+    # 解析重试：claude 偶发吐出不带 ===SCRIPT=== 标记的输出，立即重生成而非
+    # 跳过等下一轮（SessionLimitError 不在此捕获，照常上抛给 autorun）。
+    result = None
+    last_parse_err = None
+    for _ in range(3):
+        raw = run_claude(prompt)
+        try:
+            result = parse_output(raw)
+            break
+        except RuntimeError as e:
+            last_parse_err = e
+    if result is None:
+        raise last_parse_err
 
     # 短稿兜底：一次加长重写，取更长的版本
     if han_count(result["script"]) < MIN_HAN_CHARS:
