@@ -75,16 +75,24 @@ def build_catalog() -> tuple:
             lines.append(row)
         lines.append("")
     (config.ROOT / "CATALOG.md").write_text("\n".join(lines), encoding="utf-8")
-    _refresh_readme_count(total)
-    return total, {s: len(by_src[s]) for s, _, _ in _SRC_META}
+    counts = {s: len(by_src[s]) for s, _, _ in _SRC_META}
+    _refresh_readme_count(total, counts)
+    return total, counts
 
 
-def _refresh_readme_count(total: int) -> None:
-    """把 README 里徽章和表格的总集数刷成最新。"""
+# README 表格里各源对应的标签
+_TABLE_LABELS = {"engineering": "Engineering", "research": "Research",
+                 "blog": "Blog", "news": "News 周报"}
+
+
+def _refresh_readme_count(total: int, counts: dict) -> None:
+    """把 README 里徽章、表格总数、以及各源行的集数都刷成最新。"""
     readme = config.ROOT / "README.md"
     if not readme.exists():
         return
     text = readme.read_text(encoding="utf-8")
     text = re.sub(r"已更新-\d+%20集", f"已更新-{total}%20集", text)
     text = re.sub(r"\*\*\d+ 集\*\*", f"**{total} 集**", text)
+    for s, label in _TABLE_LABELS.items():
+        text = re.sub(rf"({re.escape(label)} \| )\d+( \|)", rf"\g<1>{counts[s]}\g<2>", text)
     readme.write_text(text, encoding="utf-8")
