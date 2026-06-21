@@ -1,5 +1,5 @@
 {
-  "next_episode": 339,
+  "next_episode": 453,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -7075,5 +7075,1261 @@
       "episode": 181
     }
   },
-  "voice_rotation": 241
+  "voice_rotation": 355,
+  "digests": {
+    "2026-06-07": {
+      "slug": "2026-06-07-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 276.5,
+      "episode": 339
+    },
+    "2021-05-23": {
+      "slug": "2021-05-23-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 96.7,
+      "episode": 340
+    },
+    "2022-04-24": {
+      "slug": "2022-04-24-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 123.5,
+      "episode": 341
+    },
+    "2023-01-29": {
+      "slug": "2023-01-29-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 90.6,
+      "episode": 342
+    },
+    "2023-03-05": {
+      "slug": "2023-03-05-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 150.4,
+      "episode": 343
+    },
+    "2023-03-12": {
+      "slug": "2023-03-12-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 115.7,
+      "episode": 344
+    },
+    "2023-04-16": {
+      "slug": "2023-04-16-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 108.8,
+      "episode": 345
+    },
+    "2023-04-23": {
+      "slug": "2023-04-23-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 127.4,
+      "episode": 346
+    },
+    "2023-05-07": {
+      "slug": "2023-05-07-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 178.8,
+      "episode": 347
+    },
+    "2023-05-14": {
+      "slug": "2023-05-14-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 118.1,
+      "episode": 348
+    },
+    "2023-05-21": {
+      "slug": "2023-05-21-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 92.3,
+      "episode": 349
+    },
+    "2023-06-11": {
+      "slug": "2023-06-11-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 139.8,
+      "episode": 350
+    },
+    "2023-07-09": {
+      "slug": "2023-07-09-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 131.3,
+      "episode": 351
+    },
+    "2023-07-23": {
+      "slug": "2023-07-23-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 178.4,
+      "episode": 352
+    },
+    "2023-08-06": {
+      "slug": "2023-08-06-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 127.5,
+      "episode": 353
+    },
+    "2023-08-13": {
+      "slug": "2023-08-13-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 117.7,
+      "episode": 354
+    },
+    "2023-09-03": {
+      "slug": "2023-09-03-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 125.3,
+      "episode": 355
+    },
+    "2023-09-10": {
+      "slug": "2023-09-10-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 107.0,
+      "episode": 356
+    },
+    "2023-09-17": {
+      "slug": "2023-09-17-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 245.7,
+      "episode": 357
+    },
+    "2023-09-24": {
+      "slug": "2023-09-24-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 137.7,
+      "episode": 358
+    },
+    "2023-10-29": {
+      "slug": "2023-10-29-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 132.8,
+      "episode": 359
+    },
+    "2023-11-05": {
+      "slug": "2023-11-05-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 129.6,
+      "episode": 360
+    },
+    "2023-11-19": {
+      "slug": "2023-11-19-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 136.4,
+      "episode": 361
+    },
+    "2023-12-17": {
+      "slug": "2023-12-17-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 141.6,
+      "episode": 362
+    },
+    "2024-02-11": {
+      "slug": "2024-02-11-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 134.1,
+      "episode": 363
+    },
+    "2024-02-25": {
+      "slug": "2024-02-25-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 91.6,
+      "episode": 364
+    },
+    "2024-03-03": {
+      "slug": "2024-03-03-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 118.8,
+      "episode": 365
+    },
+    "2024-03-10": {
+      "slug": "2024-03-10-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 115.2,
+      "episode": 366
+    },
+    "2024-03-17": {
+      "slug": "2024-03-17-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 139.8,
+      "episode": 367
+    },
+    "2024-03-24": {
+      "slug": "2024-03-24-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 126.2,
+      "episode": 368
+    },
+    "2024-04-21": {
+      "slug": "2024-04-21-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 138.6,
+      "episode": 369
+    },
+    "2024-05-05": {
+      "slug": "2024-05-05-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 116.9,
+      "episode": 370
+    },
+    "2024-05-12": {
+      "slug": "2024-05-12-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 169.1,
+      "episode": 371
+    },
+    "2024-05-19": {
+      "slug": "2024-05-19-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 222.0,
+      "episode": 372
+    },
+    "2024-05-26": {
+      "slug": "2024-05-26-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 102.5,
+      "episode": 373
+    },
+    "2024-06-02": {
+      "slug": "2024-06-02-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 162.2,
+      "episode": 374
+    },
+    "2024-06-09": {
+      "slug": "2024-06-09-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 129.3,
+      "episode": 375
+    },
+    "2024-06-16": {
+      "slug": "2024-06-16-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 156.7,
+      "episode": 376
+    },
+    "2024-06-23": {
+      "slug": "2024-06-23-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 160.8,
+      "episode": 377
+    },
+    "2024-06-30": {
+      "slug": "2024-06-30-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 132.6,
+      "episode": 378
+    },
+    "2024-07-07": {
+      "slug": "2024-07-07-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 86.7,
+      "episode": 379
+    },
+    "2024-07-14": {
+      "slug": "2024-07-14-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 100.2,
+      "episode": 380
+    },
+    "2024-07-28": {
+      "slug": "2024-07-28-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 103.7,
+      "episode": 381
+    },
+    "2024-08-04": {
+      "slug": "2024-08-04-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 143.2,
+      "episode": 382
+    },
+    "2024-09-01": {
+      "slug": "2024-09-01-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 113.9,
+      "episode": 383
+    },
+    "2024-09-15": {
+      "slug": "2024-09-15-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 148.6,
+      "episode": 384
+    },
+    "2024-10-06": {
+      "slug": "2024-10-06-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 134.2,
+      "episode": 385
+    },
+    "2024-10-13": {
+      "slug": "2024-10-13-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 129.9,
+      "episode": 386
+    },
+    "2024-10-20": {
+      "slug": "2024-10-20-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 174.1,
+      "episode": 387
+    },
+    "2024-10-27": {
+      "slug": "2024-10-27-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 212.4,
+      "episode": 388
+    },
+    "2024-11-17": {
+      "slug": "2024-11-17-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 143.5,
+      "episode": 389
+    },
+    "2024-11-24": {
+      "slug": "2024-11-24-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 141.3,
+      "episode": 390
+    },
+    "2024-12-08": {
+      "slug": "2024-12-08-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 173.7,
+      "episode": 391
+    },
+    "2025-01-12": {
+      "slug": "2025-01-12-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 110.6,
+      "episode": 392
+    },
+    "2025-02-02": {
+      "slug": "2025-02-02-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 2.0,
+      "episode": 393
+    },
+    "2025-02-09": {
+      "slug": "2025-02-09-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 241.1,
+      "episode": 394
+    },
+    "2025-02-23": {
+      "slug": "2025-02-23-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 222.9,
+      "episode": 395
+    },
+    "2025-03-02": {
+      "slug": "2025-03-02-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 212.7,
+      "episode": 396
+    },
+    "2025-03-16": {
+      "slug": "2025-03-16-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 171.3,
+      "episode": 397
+    },
+    "2025-03-23": {
+      "slug": "2025-03-23-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 150.5,
+      "episode": 398
+    },
+    "2025-03-30": {
+      "slug": "2025-03-30-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 162.4,
+      "episode": 399
+    },
+    "2025-04-06": {
+      "slug": "2025-04-06-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 152.9,
+      "episode": 400
+    },
+    "2025-04-20": {
+      "slug": "2025-04-20-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 151.9,
+      "episode": 401
+    },
+    "2025-04-27": {
+      "slug": "2025-04-27-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 151.1,
+      "episode": 402
+    },
+    "2025-05-04": {
+      "slug": "2025-05-04-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 99.0,
+      "episode": 403
+    },
+    "2025-05-11": {
+      "slug": "2025-05-11-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 156.2,
+      "episode": 404
+    },
+    "2025-05-18": {
+      "slug": "2025-05-18-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 264.8,
+      "episode": 405
+    },
+    "2025-05-25": {
+      "slug": "2025-05-25-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 131.7,
+      "episode": 406
+    },
+    "2025-06-01": {
+      "slug": "2025-06-01-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 155.4,
+      "episode": 407
+    },
+    "2025-06-08": {
+      "slug": "2025-06-08-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 120.2,
+      "episode": 408
+    },
+    "2025-06-22": {
+      "slug": "2025-06-22-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 186.3,
+      "episode": 409
+    },
+    "2025-07-06": {
+      "slug": "2025-07-06-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 233.0,
+      "episode": 410
+    },
+    "2025-07-13": {
+      "slug": "2025-07-13-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 225.1,
+      "episode": 411
+    },
+    "2025-07-20": {
+      "slug": "2025-07-20-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 242.3,
+      "episode": 412
+    },
+    "2025-07-27": {
+      "slug": "2025-07-27-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 98.8,
+      "episode": 413
+    },
+    "2025-08-03": {
+      "slug": "2025-08-03-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 216.3,
+      "episode": 414
+    },
+    "2025-08-10": {
+      "slug": "2025-08-10-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 209.4,
+      "episode": 415
+    },
+    "2025-08-17": {
+      "slug": "2025-08-17-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 226.7,
+      "episode": 416
+    },
+    "2025-08-24": {
+      "slug": "2025-08-24-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 216.2,
+      "episode": 417
+    },
+    "2025-08-31": {
+      "slug": "2025-08-31-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 201.3,
+      "episode": 418
+    },
+    "2025-09-07": {
+      "slug": "2025-09-07-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 224.6,
+      "episode": 419
+    },
+    "2025-09-14": {
+      "slug": "2025-09-14-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 118.8,
+      "episode": 420
+    },
+    "2025-09-21": {
+      "slug": "2025-09-21-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 123.7,
+      "episode": 421
+    },
+    "2025-09-28": {
+      "slug": "2025-09-28-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 186.7,
+      "episode": 422
+    },
+    "2025-10-05": {
+      "slug": "2025-10-05-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 220.0,
+      "episode": 423
+    },
+    "2025-10-12": {
+      "slug": "2025-10-12-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 148.1,
+      "episode": 424
+    },
+    "2025-10-19": {
+      "slug": "2025-10-19-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 273.8,
+      "episode": 425
+    },
+    "2025-10-26": {
+      "slug": "2025-10-26-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 155.4,
+      "episode": 426
+    },
+    "2025-11-02": {
+      "slug": "2025-11-02-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 224.4,
+      "episode": 427
+    },
+    "2025-11-09": {
+      "slug": "2025-11-09-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 249.6,
+      "episode": 428
+    },
+    "2025-11-16": {
+      "slug": "2025-11-16-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 217.1,
+      "episode": 429
+    },
+    "2025-11-23": {
+      "slug": "2025-11-23-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 155.9,
+      "episode": 430
+    },
+    "2025-11-30": {
+      "slug": "2025-11-30-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 215.5,
+      "episode": 431
+    },
+    "2025-12-07": {
+      "slug": "2025-12-07-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 177.5,
+      "episode": 432
+    },
+    "2025-12-14": {
+      "slug": "2025-12-14-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 213.0,
+      "episode": 433
+    },
+    "2026-01-11": {
+      "slug": "2026-01-11-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 234.2,
+      "episode": 434
+    },
+    "2026-01-18": {
+      "slug": "2026-01-18-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 155.4,
+      "episode": 435
+    },
+    "2026-01-25": {
+      "slug": "2026-01-25-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 160.0,
+      "episode": 436
+    },
+    "2026-02-01": {
+      "slug": "2026-02-01-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 254.9,
+      "episode": 437
+    },
+    "2026-02-08": {
+      "slug": "2026-02-08-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 306.5,
+      "episode": 438
+    },
+    "2026-02-15": {
+      "slug": "2026-02-15-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 246.4,
+      "episode": 439
+    },
+    "2026-02-22": {
+      "slug": "2026-02-22-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 330.2,
+      "episode": 440
+    },
+    "2026-03-01": {
+      "slug": "2026-03-01-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 174.6,
+      "episode": 441
+    },
+    "2026-03-08": {
+      "slug": "2026-03-08-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 218.0,
+      "episode": 442
+    },
+    "2026-03-29": {
+      "slug": "2026-03-29-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 136.7,
+      "episode": 443
+    },
+    "2026-04-05": {
+      "slug": "2026-04-05-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 122.4,
+      "episode": 444
+    },
+    "2026-04-12": {
+      "slug": "2026-04-12-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 214.7,
+      "episode": 445
+    },
+    "2026-04-19": {
+      "slug": "2026-04-19-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 248.5,
+      "episode": 446
+    },
+    "2026-04-26": {
+      "slug": "2026-04-26-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 164.5,
+      "episode": 447
+    },
+    "2026-05-03": {
+      "slug": "2026-05-03-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 234.8,
+      "episode": 448
+    },
+    "2026-05-10": {
+      "slug": "2026-05-10-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 249.2,
+      "episode": 449
+    },
+    "2026-05-17": {
+      "slug": "2026-05-17-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 198.5,
+      "episode": 450
+    },
+    "2026-05-24": {
+      "slug": "2026-05-24-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 278.1,
+      "episode": 451
+    },
+    "2026-05-31": {
+      "slug": "2026-05-31-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 238.8,
+      "episode": 452
+    }
+  }
 }

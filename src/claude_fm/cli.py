@@ -215,6 +215,60 @@ def cmd_autorun(args) -> None:
         time.sleep(wait)
 
 
+def cmd_news(args) -> None:
+    """news 周报合集：按周（周日为周首）把上一周的 news 打包成一期，无人值守。
+    撞会话限额自动等重置续跑，撞每周限额停下提示换号。"""
+    import time
+    from datetime import datetime
+    from . import digest
+
+    config.ensure_dirs()
+    round_no = 0
+    while True:
+        round_no += 1
+        st = state.load()
+        weeks = digest.group_news_weeks(st)
+        pending = [w for w in weeks
+                   if not st.get("digests", {}).get(w["sunday"].isoformat(), {})
+                   .get("stages", {}).get("packaged")]
+        if args.limit:
+            pending = pending[: args.limit]
+        if not pending:
+            print(f"[news] 全部完成，没有待处理周。共 {round_no - 1} 轮。")
+            return
+        print(f"[news] 第 {round_no} 轮，待处理 {len(pending)} 周  "
+              f"({datetime.now():%Y-%m-%d %H:%M})", flush=True)
+        ok, failed, limit_err = 0, [], None
+        for i, w in enumerate(pending, 1):
+            print(f"[{i}/{len(pending)}] {w['label']}（{len(w['items'])} 条）")
+            try:
+                digest.process_week(st, w)
+                ok += 1
+            except interpret.SessionLimitError as e:
+                limit_err = e
+                kind = "周限额" if e.weekly else "会话限额"
+                print(f"  ⏸ 撞{kind}，暂停（重置: {e.reset_raw or '未知'}）", file=sys.stderr)
+                break
+            except Exception as e:
+                failed.append((w["slug"], str(e)))
+                print(f"  ❌ 失败: {e}", file=sys.stderr)
+        print(f"[news] 第 {round_no} 轮完成 {ok} 周，失败 {len(failed)} 周", flush=True)
+        if limit_err is None:
+            if ok == 0:
+                print(f"[news] 本轮无进展，剩余 {len(failed)} 周均为持续失败，结束。")
+                return
+            continue
+        if limit_err.weekly:
+            print(f"[news] ⛔ 撞到【每周限额】（重置: {limit_err.reset_raw or '见错误信息'}）。"
+                  f"已停止，请换号后重新运行 news，会自动续传。", flush=True)
+            return
+        wait = _seconds_until_reset(limit_err.reset_raw)
+        wake = datetime.now().timestamp() + wait
+        print(f"[news] 撞会话限额，睡 {wait // 60} 分钟，{datetime.fromtimestamp(wake):%H:%M} "
+              f"后自动续跑", flush=True)
+        time.sleep(wait)
+
+
 def cmd_voices(args) -> None:
     print("正在为各候选音色生成试听样品（同一段文本）...")
     for voice, desc, dur in tts.make_samples():
@@ -258,6 +312,10 @@ def main() -> None:
     p.add_argument("--source", choices=list(config.SOURCES), help="只处理指定源")
     p.add_argument("--limit", type=int, help="最多处理几篇")
     p.set_defaults(func=cmd_autorun)
+
+    p = sub.add_parser("news", help="news 周报合集：按周打包 news，无人值守续跑")
+    p.add_argument("--limit", type=int, help="最多处理几周")
+    p.set_defaults(func=cmd_news)
 
     p = sub.add_parser("voices", help="生成音色试听样品")
     p.set_defaults(func=cmd_voices)
