@@ -82,7 +82,7 @@ VOICE_CANDIDATES = {
 
 # ── 播客 RSS（托管在自有服务器，供小宇宙等客户端订阅）────────────────────
 # 音频与 feed.xml 通过 Caddy 托管在东京服务器上，对外 https 访问。
-FEED_BASE_URL = "https://fm.yccode.xyz"          # 子域名，解析到服务器
+FEED_BASE_URL = "https://claude-fm.yccode.xyz"   # 子域名，解析到服务器
 PODCAST_TITLE = "Claude FM"
 PODCAST_DESCRIPTION = (
     "把 Anthropic 的前沿技术内容做成中文解读：智能体、可解释性、模型发布、"
