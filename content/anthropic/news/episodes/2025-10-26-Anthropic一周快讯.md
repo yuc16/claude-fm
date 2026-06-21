@@ -1,4 +1,4 @@
-# EP426 | Anthropic 一周快讯 · 2025年10月26日–2025年11月1日 Claude 进军 Excel
+# EP230 | Anthropic 一周快讯 · 2025年10月26日–2025年11月1日 Claude 进军 Excel
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-10-26-Anthropic一周快讯.mp3`
 - 时长：2 分 35 秒

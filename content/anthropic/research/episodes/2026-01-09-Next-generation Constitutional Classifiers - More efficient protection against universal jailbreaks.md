@@ -1,4 +1,4 @@
-# EP37 | 下一代宪法分类器：如何用百分之一的成本守住 AI 安全红线
+# EP278 | 下一代宪法分类器：如何用百分之一的成本守住 AI 安全红线
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-01-09-Next-generation Constitutional Classifiers - More efficient protection against universal jailbreaks.mp3`
 - 时长：28 分 47 秒

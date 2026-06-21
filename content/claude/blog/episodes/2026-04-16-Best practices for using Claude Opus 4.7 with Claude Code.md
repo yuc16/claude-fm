@@ -1,4 +1,4 @@
-# EP234 | 把Opus四点七当资深工程师用:效力等级与自适应思考实战指南
+# EP364 | 把Opus四点七当资深工程师用:效力等级与自适应思考实战指南
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-16-Best practices for using Claude Opus 4.7 with Claude Code.mp3`
 - 时长：23 分 09 秒

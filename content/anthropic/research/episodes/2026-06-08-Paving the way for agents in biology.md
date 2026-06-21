@@ -1,4 +1,4 @@
-# EP27 | 生物学的老城窄巷：AI智能体为何需要一条确定性数据基础设施高速路
+# EP436 | 生物学的老城窄巷：AI智能体为何需要一条确定性数据基础设施高速路
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-06-08-Paving the way for agents in biology.mp3`
 - 时长：31 分 52 秒

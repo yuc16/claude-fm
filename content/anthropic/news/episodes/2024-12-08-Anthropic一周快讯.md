@@ -1,4 +1,4 @@
-# EP391 | Anthropic 一周快讯 · 2024年12月8日–2024年12月14日 · 复盘2024大选季,Claude如何应对生成式AI的政治风险
+# EP118 | Anthropic 一周快讯 · 2024年12月8日–2024年12月14日 · 复盘2024大选季,Claude如何应对生成式AI的政治风险
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-12-08-Anthropic一周快讯.mp3`
 - 时长：2 分 53 秒

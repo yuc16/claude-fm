@@ -1,4 +1,4 @@
-# EP88 | 当 AI 被"关机"时：Anthropic 关于模型弃用的四项承诺与模型福祉思考
+# EP242 | 当 AI 被"关机"时：Anthropic 关于模型弃用的四项承诺与模型福祉思考
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-11-04-Commitments on model deprecation and preservation.mp3`
 - 时长：19 分 02 秒

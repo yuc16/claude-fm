@@ -1,4 +1,4 @@
-# EP228 | Claude Code 自动模式:自主与安全之间的中间地带
+# EP339 | Claude Code 自动模式:自主与安全之间的中间地带
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-03-24-Auto mode for Claude Code.mp3`
 - 时长：24 分 21 秒

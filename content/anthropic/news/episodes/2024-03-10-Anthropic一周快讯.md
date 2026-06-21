@@ -1,4 +1,4 @@
-# EP366 | Anthropic 一周快讯 · 2024年3月10日–2024年3月16日 | Claude 3 Haiku 登场,主打又快又便宜
+# EP63 | Anthropic 一周快讯 · 2024年3月10日–2024年3月16日 | Claude 3 Haiku 登场,主打又快又便宜
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-03-10-Anthropic一周快讯.mp3`
 - 时长：1 分 55 秒

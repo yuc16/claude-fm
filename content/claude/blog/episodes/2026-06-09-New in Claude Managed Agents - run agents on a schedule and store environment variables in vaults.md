@@ -1,4 +1,4 @@
-# EP183 | Claude 托管智能体重磅更新：定时调度加密凭证库正式上线公测
+# EP437 | Claude 托管智能体重磅更新：定时调度加密凭证库正式上线公测
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-09-New in Claude Managed Agents - run agents on a schedule and store environment variables in vaults.mp3`
 - 时长：27 分 18 秒

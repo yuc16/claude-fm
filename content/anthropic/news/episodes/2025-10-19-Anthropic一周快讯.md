@@ -1,4 +1,4 @@
-# EP425 | Anthropic 一周快讯 · 2025年10月19日–2025年10月25日:Claude 进军生命科学，谷歌云百万 TPU 大单
+# EP227 | Anthropic 一周快讯 · 2025年10月19日–2025年10月25日:Claude 进军生命科学，谷歌云百万 TPU 大单
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-10-19-Anthropic一周快讯.mp3`
 - 时长：4 分 33 秒

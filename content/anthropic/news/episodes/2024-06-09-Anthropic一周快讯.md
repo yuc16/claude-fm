@@ -1,4 +1,4 @@
-# EP375 | Anthropic 一周快讯 · 2024年6月9日–2024年6月15日 · 这周聊聊 Anthropic 怎么给自家 AI「找茬」
+# EP81 | Anthropic 一周快讯 · 2024年6月9日–2024年6月15日 · 这周聊聊 Anthropic 怎么给自家 AI「找茬」
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-06-09-Anthropic一周快讯.mp3`
 - 时长：2 分 09 秒

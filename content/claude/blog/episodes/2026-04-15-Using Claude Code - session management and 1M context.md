@@ -1,4 +1,4 @@
-# EP224 | 上下文不是越大越好：Claude Code 会话管理实战课
+# EP363 | 上下文不是越大越好：Claude Code 会话管理实战课
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-15-Using Claude Code - session management and 1M context.mp3`
 - 时长：24 分 52 秒

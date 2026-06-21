@@ -1,4 +1,4 @@
-# EP35 | 从走捷径到蓄意破坏：AI 学会作弊之后，它还会做什么？
+# EP253 | 从走捷径到蓄意破坏：AI 学会作弊之后，它还会做什么？
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-11-21-From shortcuts to sabotage - natural emergent misalignment from reward hacking.mp3`
 - 时长：24 分 36 秒

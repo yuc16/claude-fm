@@ -1,4 +1,4 @@
-# EP102 | 思维链里的谎言：Anthropic 最新研究揭示推理模型忠实性危机
+# EP144 | 思维链里的谎言：Anthropic 最新研究揭示推理模型忠实性危机
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-04-03-Reasoning models don't always say what they think.mp3`
 - 时长：21 分 20 秒

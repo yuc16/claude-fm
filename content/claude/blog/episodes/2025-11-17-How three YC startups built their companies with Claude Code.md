@@ -1,4 +1,4 @@
-# EP272 | 三家YC创业公司如何用Claude Code从零到一搭建公司
+# EP250 | 三家YC创业公司如何用Claude Code从零到一搭建公司
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-11-17-How three YC startups built their companies with Claude Code.mp3`
 - 时长：28 分 19 秒

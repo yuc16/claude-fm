@@ -1,4 +1,4 @@
-# EP79 | 给大模型打人格疫苗：Anthropic 如何用向量监控和纠正 AI 的性格漂移
+# EP182 | 给大模型打人格疫苗：Anthropic 如何用向量监控和纠正 AI 的性格漂移
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-08-01-Persona vectors - Monitoring and controlling character traits in language models.mp3`
 - 时长：26 分 28 秒

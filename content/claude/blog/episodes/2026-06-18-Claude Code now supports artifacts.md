@@ -1,4 +1,4 @@
-# EP172 | Claude Code Artifacts：让 AI 的调查成果实时同步给你的整个团队
+# EP446 | Claude Code Artifacts：让 AI 的调查成果实时同步给你的整个团队
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-18-Claude Code now supports artifacts.mp3`
 - 时长：26 分 33 秒

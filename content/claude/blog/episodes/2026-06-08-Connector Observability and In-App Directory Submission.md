@@ -1,4 +1,4 @@
-# EP185 | 给 AI 工具开发者装上一双眼睛：Claude Connector 可观测性功能深度解读
+# EP434 | 给 AI 工具开发者装上一双眼睛：Claude Connector 可观测性功能深度解读
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-08-Connector Observability and In-App Directory Submission.mp3`
 - 时长：24 分 08 秒

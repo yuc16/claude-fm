@@ -1,4 +1,4 @@
-# EP12 | 当 Claude 把自家的招聘题做完了：Anthropic 工程师与 AI 的三轮攻防战
+# EP286 | 当 Claude 把自家的招聘题做完了：Anthropic 工程师与 AI 的三轮攻防战
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2026-01-21-Designing AI resistant technical evaluations.mp3`
 - 时长：23 分 32 秒

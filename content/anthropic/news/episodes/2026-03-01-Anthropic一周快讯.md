@@ -1,4 +1,4 @@
-# EP441 | Anthropic 一周快讯 · 2026年3月1日–2026年3月7日 · Claude 助力 Mozilla 揪出 14 个 Firefox 高危漏洞
+# EP320 | Anthropic 一周快讯 · 2026年3月1日–2026年3月7日 · Claude 助力 Mozilla 揪出 14 个 Firefox 高危漏洞
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-03-01-Anthropic一周快讯.mp3`
 - 时长：2 分 54 秒

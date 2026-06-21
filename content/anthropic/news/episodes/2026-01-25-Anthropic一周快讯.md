@@ -1,4 +1,4 @@
-# EP436 | Anthropic 一周快讯 · 2026年1月25日–2026年1月31日 · Claude 牵手英国政府、登上 ServiceNow 默认模型宝座
+# EP290 | Anthropic 一周快讯 · 2026年1月25日–2026年1月31日 · Claude 牵手英国政府、登上 ServiceNow 默认模型宝座
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-01-25-Anthropic一周快讯.mp3`
 - 时长：2 分 40 秒

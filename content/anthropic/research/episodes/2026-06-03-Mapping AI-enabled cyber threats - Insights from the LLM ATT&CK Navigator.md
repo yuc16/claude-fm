@@ -1,4 +1,4 @@
-# EP141 | 从助手到自主攻击者：Anthropic年度报告绘制AI赋能网络威胁全景
+# EP427 | 从助手到自主攻击者：Anthropic年度报告绘制AI赋能网络威胁全景
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-06-03-Mapping AI-enabled cyber threats - Insights from the LLM ATT&CK Navigator.mp3`
 - 时长：25 分 29 秒

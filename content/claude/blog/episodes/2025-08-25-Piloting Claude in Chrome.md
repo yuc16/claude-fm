@@ -1,4 +1,4 @@
-# EP303 | Claude走进浏览器:AI代理时代的安全实验
+# EP194 | Claude走进浏览器:AI代理时代的安全实验
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-08-25-Piloting Claude in Chrome.mp3`
 - 时长：19 分 20 秒

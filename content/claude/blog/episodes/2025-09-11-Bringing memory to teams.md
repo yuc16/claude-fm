@@ -1,4 +1,4 @@
-# EP301 | Claude 团队记忆功能上线:让每次对话都能接上次的茬
+# EP199 | Claude 团队记忆功能上线:让每次对话都能接上次的茬
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-09-11-Bringing memory to teams.mp3`
 - 时长：18 分 57 秒

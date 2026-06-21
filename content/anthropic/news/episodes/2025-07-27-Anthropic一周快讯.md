@@ -1,4 +1,4 @@
-# EP413 | Anthropic 一周快讯 · 2025年7月27日–2025年8月2日
+# EP181 | Anthropic 一周快讯 · 2025年7月27日–2025年8月2日
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-07-27-Anthropic一周快讯.mp3`
 - 时长：1 分 38 秒

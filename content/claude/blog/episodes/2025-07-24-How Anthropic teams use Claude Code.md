@@ -1,4 +1,4 @@
-# EP309 | Anthropic 内部团队如何用 Claude Code 重塑工作方式
+# EP179 | Anthropic 内部团队如何用 Claude Code 重塑工作方式
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-07-24-How Anthropic teams use Claude Code.mp3`
 - 时长：19 分 27 秒

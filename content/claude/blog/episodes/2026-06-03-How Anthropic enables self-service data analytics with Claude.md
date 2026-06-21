@@ -1,4 +1,4 @@
-# EP188 | Anthropic 内部实战：让 Claude 处理九成五数据分析请求的完整方法论
+# EP425 | Anthropic 内部实战：让 Claude 处理九成五数据分析请求的完整方法论
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-03-How Anthropic enables self-service data analytics with Claude.mp3`
 - 时长：25 分 28 秒

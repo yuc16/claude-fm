@@ -1,4 +1,4 @@
-# EP430 | Anthropic 一周快讯 · 2025年11月23日–2025年11月29日 · Claude Opus 4.5 发布,编程能力再上一个台阶
+# EP254 | Anthropic 一周快讯 · 2025年11月23日–2025年11月29日 · Claude Opus 4.5 发布,编程能力再上一个台阶
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-11-23-Anthropic一周快讯.mp3`
 - 时长：2 分 35 秒

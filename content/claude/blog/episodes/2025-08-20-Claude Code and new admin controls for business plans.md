@@ -1,4 +1,4 @@
-# EP304 | Claude企业版整合编程助手,管理员合规控费新玩法
+# EP191 | Claude企业版整合编程助手,管理员合规控费新玩法
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-08-20-Claude Code and new admin controls for business plans.mp3`
 - 时长：18 分 57 秒

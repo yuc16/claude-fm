@@ -1,4 +1,4 @@
-# EP326 | 异步批量处理大幅省钱:解读Claude的Message Batches API
+# EP105 | 异步批量处理大幅省钱:解读Claude的Message Batches API
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2024-10-08-Introducing the Message Batches API.mp3`
 - 时长：17 分 07 秒

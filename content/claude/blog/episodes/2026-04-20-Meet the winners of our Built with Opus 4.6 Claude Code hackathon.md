@@ -1,4 +1,4 @@
-# EP223 | 非程序员的一周:律师医生音乐人如何用 Claude Code 造产品
+# EP366 | 非程序员的一周:律师医生音乐人如何用 Claude Code 造产品
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-20-Meet the winners of our Built with Opus 4.6 Claude Code hackathon.mp3`
 - 时长：25 分 29 秒

@@ -1,4 +1,4 @@
-# EP8 | AI 自主编程六小时不跑偏：多智能体 Harness 架构设计全解析
+# EP340 | AI 自主编程六小时不跑偏：多智能体 Harness 架构设计全解析
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2026-03-24-Harness design for long-running application development.mp3`
 - 时长：29 分 19 秒

@@ -1,4 +1,4 @@
-# EP95 | Claude 学会了说"不想聊了"：Anthropic 的 AI 福利实验与对话边界哲学
+# EP189 | Claude 学会了说"不想聊了"：Anthropic 的 AI 福利实验与对话边界哲学
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-08-15-Claude Opus 4 and 4.1 can now end a rare subset of conversations.mp3`
 - 时长：23 分 36 秒

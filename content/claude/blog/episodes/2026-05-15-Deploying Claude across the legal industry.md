@@ -1,4 +1,4 @@
-# EP204 | 法律行业如何落地 Claude：四款产品与十二个专业插件
+# EP403 | 法律行业如何落地 Claude：四款产品与十二个专业插件
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-15-Deploying Claude across the legal industry.mp3`
 - 时长：26 分 21 秒

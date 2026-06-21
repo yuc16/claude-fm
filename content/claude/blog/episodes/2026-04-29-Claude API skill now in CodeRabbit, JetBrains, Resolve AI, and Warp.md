@@ -1,4 +1,4 @@
-# EP221 | Claude API 技能进驻四大开发工具，告别踩坑式调用
+# EP375 | Claude API 技能进驻四大开发工具，告别踩坑式调用
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-29-Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp.mp3`
 - 时长：25 分 52 秒

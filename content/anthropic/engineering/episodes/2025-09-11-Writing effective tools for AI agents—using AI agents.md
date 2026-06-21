@@ -1,4 +1,4 @@
-# EP18 | 给 AI Agent 写工具不等于封装 API：Anthropic 评估驱动的实战设计方法论
+# EP200 | 给 AI Agent 写工具不等于封装 API：Anthropic 评估驱动的实战设计方法论
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2025-09-11-Writing effective tools for AI agents—using AI agents.mp3`
 - 时长：26 分 19 秒

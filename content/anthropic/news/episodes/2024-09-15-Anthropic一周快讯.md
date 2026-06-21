@@ -1,4 +1,4 @@
-# EP384 | Anthropic 一周快讯 · 2024年9月15日–2024年9月21日:Contextual Retrieval 让 RAG 检索准确率大跃升
+# EP101 | Anthropic 一周快讯 · 2024年9月15日–2024年9月21日:Contextual Retrieval 让 RAG 检索准确率大跃升
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-09-15-Anthropic一周快讯.mp3`
 - 时长：2 分 28 秒

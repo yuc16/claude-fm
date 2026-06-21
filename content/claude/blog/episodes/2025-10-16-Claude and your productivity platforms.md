@@ -1,4 +1,4 @@
-# EP289 | Claude打通微软三六五,企业知识一搜直达
+# EP224 | Claude打通微软三六五,企业知识一搜直达
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-16-Claude and your productivity platforms.mp3`
 - 时长：22 分 07 秒

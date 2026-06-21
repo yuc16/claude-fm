@@ -1,4 +1,4 @@
-# EP115 | 神经网络神经元开口说人话：Anthropic 用一个激活函数让 AI 可解释性提升七成
+# EP9 | 神经网络神经元开口说人话：Anthropic 用一个激活函数让 AI 可解释性提升七成
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2022-06-17-Softmax Linear Units.mp3`
 - 时长：25 分 04 秒

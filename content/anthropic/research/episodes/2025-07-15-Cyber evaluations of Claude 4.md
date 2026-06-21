@@ -1,4 +1,4 @@
-# EP152 | 当 AI 学会渗透测试：Anthropic 对 Claude 四代网络攻击能力的深度评估
+# EP177 | 当 AI 学会渗透测试：Anthropic 对 Claude 四代网络攻击能力的深度评估
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-07-15-Cyber evaluations of Claude 4.mp3`
 - 时长：29 分 41 秒

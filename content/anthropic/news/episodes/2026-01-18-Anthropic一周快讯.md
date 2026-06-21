@@ -1,4 +1,4 @@
-# EP435 | Anthropic 一周快讯 · 2026年1月18日–2026年1月24日 · Claude 迎来全新宪法文档
+# EP284 | Anthropic 一周快讯 · 2026年1月18日–2026年1月24日 · Claude 迎来全新宪法文档
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-01-18-Anthropic一周快讯.mp3`
 - 时长：2 分 35 秒

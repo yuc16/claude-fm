@@ -1,4 +1,4 @@
-# EP134 | AI 写代码的时代，决定你走多远的是领域理解，不是编程水平
+# EP441 | AI 写代码的时代，决定你走多远的是领域理解，不是编程水平
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-06-16-Agentic coding and persistent returns to expertise.mp3`
 - 时长：19 分 36 秒

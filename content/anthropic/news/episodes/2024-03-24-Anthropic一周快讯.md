@@ -1,4 +1,4 @@
-# EP368 | Anthropic 一周快讯 · 2024年3月24日–2024年3月30日：聚焦 AI 第三方测试政策主张
+# EP65 | Anthropic 一周快讯 · 2024年3月24日–2024年3月30日：聚焦 AI 第三方测试政策主张
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-03-24-Anthropic一周快讯.mp3`
 - 时长：2 分 06 秒

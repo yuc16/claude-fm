@@ -1,4 +1,4 @@
-# EP50 | Agent 时代的信任基础：Anthropic 如何让自主 AI 既能干又不乱来
+# EP355 | Agent 时代的信任基础：Anthropic 如何让自主 AI 既能干又不乱来
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-04-09-Trustworthy agents in practice.mp3`
 - 时长：25 分 50 秒

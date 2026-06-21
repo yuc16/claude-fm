@@ -1,4 +1,4 @@
-# EP176 | 把 Agent 上线时间压缩到几天：Claude 托管运行时深度解读
+# EP350 | 把 Agent 上线时间压缩到几天：Claude 托管运行时深度解读
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-08-Claude Managed Agents - get to production 10x faster.mp3`
 - 时长：26 分 07 秒

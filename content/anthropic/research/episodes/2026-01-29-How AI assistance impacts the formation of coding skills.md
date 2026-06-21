@@ -1,4 +1,4 @@
-# EP67 | AI 帮你写代码，但可能同时削弱你调试它的能力
+# EP297 | AI 帮你写代码，但可能同时削弱你调试它的能力
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-01-29-How AI assistance impacts the formation of coding skills.mp3`
 - 时长：28 分 56 秒

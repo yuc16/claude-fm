@@ -1,4 +1,4 @@
-# EP219 | 把推理交给 Claude，把验证交给系统：Kepler 的金融 AI 信任架构
+# EP381 | 把推理交给 Claude，把验证交给系统：Kepler 的金融 AI 信任架构
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-30-How Kepler built verifiable AI for financial services with Claude.mp3`
 - 时长：24 分 18 秒

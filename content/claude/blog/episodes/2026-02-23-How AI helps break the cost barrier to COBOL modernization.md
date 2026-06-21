@@ -1,4 +1,4 @@
-# EP248 | AI如何打破COBOL系统现代化的成本壁垒
+# EP315 | AI如何打破COBOL系统现代化的成本壁垒
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-02-23-How AI helps break the cost barrier to COBOL modernization.mp3`
 - 时长：18 分 37 秒

@@ -1,4 +1,4 @@
-# EP308 | Claude 让人人都能做出能用、能分享的 AI 应用
+# EP180 | Claude 让人人都能做出能用、能分享的 AI 应用
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-07-25-Build and share AI-powered apps with Claude.mp3`
 - 时长：23 分 54 秒

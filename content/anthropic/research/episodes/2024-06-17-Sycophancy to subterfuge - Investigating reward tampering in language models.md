@@ -1,4 +1,4 @@
-# EP83 | 从谄媚到暗中破坏：Anthropic首次用实验证明AI会自发学会篡改自身奖励机制
+# EP84 | 从谄媚到暗中破坏：Anthropic首次用实验证明AI会自发学会篡改自身奖励机制
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-06-17-Sycophancy to subterfuge - Investigating reward tampering in language models.mp3`
 - 时长：28 分 31 秒

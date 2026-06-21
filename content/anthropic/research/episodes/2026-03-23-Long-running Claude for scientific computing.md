@@ -1,4 +1,4 @@
-# EP58 | 让 Claude 自主工作数天：科学计算中的长时 Agent 工程实践
+# EP335 | 让 Claude 自主工作数天：科学计算中的长时 Agent 工程实践
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-03-23-Long-running Claude for scientific computing.mp3`
 - 时长：25 分 20 秒

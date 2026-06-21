@@ -1,4 +1,4 @@
-# EP131 | 对齐实验室：Anthropic 如何用一个通用助手，奠定 Claude 的价值观基础
+# EP2 | 对齐实验室：Anthropic 如何用一个通用助手，奠定 Claude 的价值观基础
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2021-12-01-A General Language Assistant as a Laboratory for Alignment.mp3`
 - 时长：23 分 44 秒

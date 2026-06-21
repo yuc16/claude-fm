@@ -1,4 +1,4 @@
-# EP256 | 聊天框里画图发消息:Claude新出的交互式连接器详解
+# EP292 | 聊天框里画图发消息:Claude新出的交互式连接器详解
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-01-26-Interactive connectors and MCP Apps.mp3`
 - 时长：18 分 56 秒

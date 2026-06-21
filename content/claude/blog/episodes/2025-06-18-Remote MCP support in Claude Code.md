@@ -1,4 +1,4 @@
-# EP313 | Claude Code 接入远程 MCP：告别本地服务器的开发新姿势
+# EP167 | Claude Code 接入远程 MCP：告别本地服务器的开发新姿势
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-06-18-Remote MCP support in Claude Code.mp3`
 - 时长：18 分 04 秒

@@ -1,4 +1,4 @@
-# EP22 | Anthropic 首次公开三个基础设施 Bug 的完整事后复盘：从悄悄变差到公开承认
+# EP204 | Anthropic 首次公开三个基础设施 Bug 的完整事后复盘：从悄悄变差到公开承认
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2025-09-17-A postmortem of three recent issues.mp3`
 - 时长：20 分 40 秒

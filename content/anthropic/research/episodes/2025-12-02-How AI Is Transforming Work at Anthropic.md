@@ -1,4 +1,4 @@
-# EP29 | 当AI成为同事，Anthropic一百三十二位工程师的生产力飞升与真实隐忧
+# EP263 | 当AI成为同事，Anthropic一百三十二位工程师的生产力飞升与真实隐忧
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-12-02-How AI Is Transforming Work at Anthropic.mp3`
 - 时长：24 分 52 秒

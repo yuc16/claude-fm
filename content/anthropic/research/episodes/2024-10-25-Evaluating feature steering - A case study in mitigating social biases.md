@@ -1,4 +1,4 @@
-# EP126 | 调一个旋钮能消除 AI 偏见吗？Anthropic 特征引导技术量化大检验
+# EP112 | 调一个旋钮能消除 AI 偏见吗？Anthropic 特征引导技术量化大检验
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-10-25-Evaluating feature steering - A case study in mitigating social biases.mp3`
 - 时长：23 分 04 秒

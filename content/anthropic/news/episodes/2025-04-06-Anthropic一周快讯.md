@@ -1,4 +1,4 @@
-# EP400 | Anthropic 一周快讯 · 2025年4月6日–2025年4月12日 大学生用 Claude 都在干什么?
+# EP145 | Anthropic 一周快讯 · 2025年4月6日–2025年4月12日 大学生用 Claude 都在干什么?
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-04-06-Anthropic一周快讯.mp3`
 - 时长：2 分 32 秒

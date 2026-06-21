@@ -1,4 +1,4 @@
-# EP310 | Claude 工具目录上线,一键连接你的工作软件
+# EP176 | Claude 工具目录上线,一键连接你的工作软件
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-07-14-Discover tools that work with Claude.mp3`
 - 时长：17 分 31 秒

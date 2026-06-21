@@ -1,4 +1,4 @@
-# EP128 | 让语言模型给自己出卷：揭开大模型谄媚行为与逆缩放的真相
+# EP15 | 让语言模型给自己出卷：揭开大模型谄媚行为与逆缩放的真相
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2022-12-19-Discovering Language Model Behaviors with Model-Written Evaluations.mp3`
 - 时长：26 分 24 秒

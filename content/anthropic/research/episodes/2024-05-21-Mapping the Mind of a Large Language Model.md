@@ -1,4 +1,4 @@
-# EP62 | 打开 AI 黑盒：第一次真正读懂大语言模型的内部想法
+# EP76 | 打开 AI 黑盒：第一次真正读懂大语言模型的内部想法
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-05-21-Mapping the Mind of a Large Language Model.mp3`
 - 时长：23 分 48 秒

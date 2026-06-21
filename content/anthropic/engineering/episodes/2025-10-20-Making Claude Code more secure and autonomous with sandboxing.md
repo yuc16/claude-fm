@@ -1,4 +1,4 @@
-# EP23 | 沙箱护盾：Anthropic 如何让 Claude Code 又快又安全地自主编程
+# EP229 | 沙箱护盾：Anthropic 如何让 Claude Code 又快又安全地自主编程
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2025-10-20-Making Claude Code more secure and autonomous with sandboxing.mp3`
 - 时长：28 分 03 秒

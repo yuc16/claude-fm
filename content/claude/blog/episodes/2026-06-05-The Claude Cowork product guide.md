@@ -1,4 +1,4 @@
-# EP186 | 从对话到执行：Claude Cowork 如何把 AI 知识工作的最后一公里打通
+# EP431 | 从对话到执行：Claude Cowork 如何把 AI 知识工作的最后一公里打通
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-05-The Claude Cowork product guide.mp3`
 - 时长：24 分 31 秒

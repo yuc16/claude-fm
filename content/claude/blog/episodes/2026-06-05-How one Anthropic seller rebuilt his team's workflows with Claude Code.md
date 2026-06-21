@@ -1,4 +1,4 @@
-# EP187 | 没写过一行代码，他用 Claude Code 重建了整个销售团队的工作流
+# EP429 | 没写过一行代码，他用 Claude Code 重建了整个销售团队的工作流
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-05-How one Anthropic seller rebuilt his team's workflows with Claude Code.mp3`
 - 时长：25 分 12 秒

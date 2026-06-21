@@ -1,4 +1,4 @@
-# EP306 | Claude Sonnet 4 上下文扩到百万令牌意味着什么
+# EP187 | Claude Sonnet 4 上下文扩到百万令牌意味着什么
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-08-12-Claude Sonnet 4 now supports 1M tokens of context.mp3`
 - 时长：25 分 36 秒

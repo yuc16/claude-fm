@@ -1,4 +1,4 @@
-# EP68 | AI 到底让你快了多少？Anthropic 经济指数最新实测报告
+# EP282 | AI 到底让你快了多少？Anthropic 经济指数最新实测报告
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-01-15-The Anthropic Economic Index report - New building blocks for understanding AI use.mp3`
 - 时长：26 分 17 秒

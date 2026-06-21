@@ -1,4 +1,4 @@
-# EP90 | 两百五十条毒文档就能控制任何大模型：大规模数据投毒实验揭示的安全盲区
+# EP218 | 两百五十条毒文档就能控制任何大模型：大规模数据投毒实验揭示的安全盲区
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-10-09-A small number of samples can poison LLMs of any size.mp3`
 - 时长：23 分 45 秒

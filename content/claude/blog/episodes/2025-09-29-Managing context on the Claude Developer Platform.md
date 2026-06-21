@@ -1,4 +1,4 @@
-# EP299 | Claude 上下文管理新功能：让智能体不再"失忆"也不再"爆窗"
+# EP210 | Claude 上下文管理新功能：让智能体不再"失忆"也不再"爆窗"
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-09-29-Managing context on the Claude Developer Platform.mp3`
 - 时长：21 分 15 秒

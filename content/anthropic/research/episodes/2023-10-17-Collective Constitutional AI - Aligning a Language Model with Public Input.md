@@ -1,4 +1,4 @@
-# EP86 | 让普通人给 AI 定规则：集体宪法对齐实验的教训与启示
+# EP49 | 让普通人给 AI 定规则：集体宪法对齐实验的教训与启示
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-10-17-Collective Constitutional AI - Aligning a Language Model with Public Input.mp3`
 - 时长：27 分 39 秒

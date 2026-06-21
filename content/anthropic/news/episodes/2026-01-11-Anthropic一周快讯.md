@@ -1,4 +1,4 @@
-# EP434 | Anthropic 一周快讯 · 2026年1月11日–2026年1月17日 · Labs 重组与 Claude 进军医疗健康
+# EP279 | Anthropic 一周快讯 · 2026年1月11日–2026年1月17日 · Labs 重组与 Claude 进军医疗健康
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-01-11-Anthropic一周快讯.mp3`
 - 时长：3 分 54 秒

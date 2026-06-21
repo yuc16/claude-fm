@@ -1,4 +1,4 @@
-# EP244 | AI Agent三大工作流模式全解析：顺序、并行与评估优化
+# EP322 | AI Agent三大工作流模式全解析：顺序、并行与评估优化
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-03-05-Common workflow patterns for AI agents.mp3`
 - 时长：20 分 46 秒

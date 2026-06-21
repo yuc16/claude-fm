@@ -1,4 +1,4 @@
-# EP39 | AI 助手为何天生像人：Anthropic 人格选择模型与助手行为的底层逻辑
+# EP316 | AI 助手为何天生像人：Anthropic 人格选择模型与助手行为的底层逻辑
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-02-23-The persona selection model.mp3`
 - 时长：23 分 24 秒

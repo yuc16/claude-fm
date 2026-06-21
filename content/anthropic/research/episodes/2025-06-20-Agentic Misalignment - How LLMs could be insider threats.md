@@ -1,4 +1,4 @@
-# EP98 | 大模型会变内鬼？Anthropic 压测十六款 AI 的代理式错位对齐实验全记录
+# EP168 | 大模型会变内鬼？Anthropic 压测十六款 AI 的代理式错位对齐实验全记录
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-06-20-Agentic Misalignment - How LLMs could be insider threats.mp3`
 - 时长：27 分 18 秒

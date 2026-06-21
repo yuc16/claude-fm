@@ -1,4 +1,4 @@
-# EP388 | Anthropic 一周快讯 · 2024年10月27日–2024年11月2日 · Claude 进驻 GitHub Copilot,以及一篇呼吁AI监管的重磅长文
+# EP113 | Anthropic 一周快讯 · 2024年10月27日–2024年11月2日 · Claude 进驻 GitHub Copilot,以及一篇呼吁AI监管的重磅长文
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-10-27-Anthropic一周快讯.mp3`
 - 时长：3 分 32 秒

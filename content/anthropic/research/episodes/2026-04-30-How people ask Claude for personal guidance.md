@@ -1,4 +1,4 @@
-# EP34 | 人生大事问 Claude：Anthropic 用六十万条对话揭示 AI 顾问的边界与风险
+# EP382 | 人生大事问 Claude：Anthropic 用六十万条对话揭示 AI 顾问的边界与风险
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-04-30-How people ask Claude for personal guidance.mp3`
 - 时长：28 分 04 秒

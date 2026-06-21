@@ -1,4 +1,4 @@
-# EP19 | 给 AI 装上"暂停键"：Anthropic 的 think 工具如何让 Claude 在工具调用中学会深呼吸
+# EP139 | 给 AI 装上"暂停键"：Anthropic 的 think 工具如何让 Claude 在工具调用中学会深呼吸
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2025-03-20-The - think - tool - Enabling Claude to stop and think.mp3`
 - 时长：21 分 55 秒

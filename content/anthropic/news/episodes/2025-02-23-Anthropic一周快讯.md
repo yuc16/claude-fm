@@ -1,4 +1,4 @@
-# EP395 | Anthropic 一周快讯 · 2025年2月23日–2025年3月1日 · Claude 3.7 Sonnet 和 Claude Code 双双登场
+# EP130 | Anthropic 一周快讯 · 2025年2月23日–2025年3月1日 · Claude 3.7 Sonnet 和 Claude Code 双双登场
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-02-23-Anthropic一周快讯.mp3`
 - 时长：3 分 42 秒

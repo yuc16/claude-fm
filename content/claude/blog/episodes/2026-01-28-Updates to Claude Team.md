@@ -1,4 +1,4 @@
-# EP255 | Claude团队版降价:让中小团队用得起AI协作
+# EP295 | Claude团队版降价:让中小团队用得起AI协作
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-01-28-Updates to Claude Team.mp3`
 - 时长：19 分 51 秒

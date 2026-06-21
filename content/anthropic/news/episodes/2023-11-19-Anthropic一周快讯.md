@@ -1,4 +1,4 @@
-# EP361 | Anthropic 一周快讯 · 2023年11月19日–2023年11月25日 | Claude 2.1 来了,二十万 token 上下文window重磅升级
+# EP54 | Anthropic 一周快讯 · 2023年11月19日–2023年11月25日 | Claude 2.1 来了,二十万 token 上下文window重磅升级
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-11-19-Anthropic一周快讯.mp3`
 - 时长：2 分 16 秒

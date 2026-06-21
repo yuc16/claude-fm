@@ -1,4 +1,4 @@
-# EP153 | AI 超越了病毒学专家之后：Anthropic 如何划定大语言模型的生物风险红线
+# EP196 | AI 超越了病毒学专家之后：Anthropic 如何划定大语言模型的生物风险红线
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-09-05-LLMs and biorisk.mp3`
 - 时长：24 分 17 秒

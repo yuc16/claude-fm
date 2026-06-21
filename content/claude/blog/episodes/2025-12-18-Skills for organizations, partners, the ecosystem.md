@@ -1,4 +1,4 @@
-# EP262 | Claude Skills 从单人技巧到组织标配的进化之路
+# EP273 | Claude Skills 从单人技巧到组织标配的进化之路
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-12-18-Skills for organizations, partners, the ecosystem.mp3`
 - 时长：20 分 42 秒

@@ -1,4 +1,4 @@
-# EP158 | AI 做裁判会偏心吗？语言模型决策歧视的系统评估与消除方法
+# EP56 | AI 做裁判会偏心吗？语言模型决策歧视的系统评估与消除方法
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-12-07-Evaluating and Mitigating Discrimination in Language Model Decisions.mp3`
 - 时长：20 分 12 秒

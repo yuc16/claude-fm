@@ -1,4 +1,4 @@
-# EP254 | 零售业如何把AI试点炼狱变成全公司级转型
+# EP294 | 零售业如何把AI试点炼狱变成全公司级转型
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-01-28-How leading retailers are turning AI pilots into enterprise-wide transformation.mp3`
 - 时长：21 分 17 秒

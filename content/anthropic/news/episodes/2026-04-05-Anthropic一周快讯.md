@@ -1,4 +1,4 @@
-# EP444 | Anthropic 一周快讯 · 2026年4月5日–2026年4月11日 · 与 Google、Broadcom 签下数千兆瓦级算力大单
+# EP347 | Anthropic 一周快讯 · 2026年4月5日–2026年4月11日 · 与 Google、Broadcom 签下数千兆瓦级算力大单
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-04-05-Anthropic一周快讯.mp3`
 - 时长：2 分 02 秒

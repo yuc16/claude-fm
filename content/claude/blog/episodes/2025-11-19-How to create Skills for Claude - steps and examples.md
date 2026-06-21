@@ -1,4 +1,4 @@
-# EP271 | 如何为 Claude 打造一个真正好用的技能包
+# EP251 | 如何为 Claude 打造一个真正好用的技能包
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-11-19-How to create Skills for Claude - steps and examples.mp3`
 - 时长：22 分 16 秒

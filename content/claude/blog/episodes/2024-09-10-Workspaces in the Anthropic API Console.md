@@ -1,4 +1,4 @@
-# EP328 | Claude API 新功能 Workspaces：如何科学管理你的多套 Claude 部署
+# EP100 | Claude API 新功能 Workspaces：如何科学管理你的多套 Claude 部署
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2024-09-10-Workspaces in the Anthropic API Console.mp3`
 - 时长：17 分 01 秒

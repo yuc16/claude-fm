@@ -1,4 +1,4 @@
-# EP192 | 让 Claude 为自己编写执行方案：动态工作流如何突破 AI 助手的能力天花板
+# EP423 | 让 Claude 为自己编写执行方案：动态工作流如何突破 AI 助手的能力天花板
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-02-A harness for every task - dynamic workflows in Claude Code.mp3`
 - 时长：24 分 27 秒

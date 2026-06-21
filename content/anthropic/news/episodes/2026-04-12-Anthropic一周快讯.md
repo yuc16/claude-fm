@@ -1,4 +1,4 @@
-# EP445 | Anthropic 一周快讯 · 2026年4月12日–2026年4月18日 · Opus 4.7 发布,首搭网络安全防护机制
+# EP359 | Anthropic 一周快讯 · 2026年4月12日–2026年4月18日 · Opus 4.7 发布,首搭网络安全防护机制
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-04-12-Anthropic一周快讯.mp3`
 - 时长：3 分 34 秒

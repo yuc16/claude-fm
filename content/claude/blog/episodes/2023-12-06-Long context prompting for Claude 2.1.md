@@ -1,4 +1,4 @@
-# EP336 | Claude 二点一长文本提示技巧：一句话让准确率从二成七飙到九成八
+# EP55 | Claude 二点一长文本提示技巧：一句话让准确率从二成七飙到九成八
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2023-12-06-Long context prompting for Claude 2.1.mp3`
 - 时长：18 分 22 秒

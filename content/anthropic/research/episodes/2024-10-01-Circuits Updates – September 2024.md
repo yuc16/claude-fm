@@ -1,4 +1,4 @@
-# EP154 | 解剖大模型的"电路"：Anthropic 如何追踪继任者注意力头与稀疏自编码器特征粒度
+# EP103 | 解剖大模型的"电路"：Anthropic 如何追踪继任者注意力头与稀疏自编码器特征粒度
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-10-01-Circuits Updates – September 2024.mp3`
 - 时长：23 分 32 秒

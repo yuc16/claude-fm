@@ -1,4 +1,4 @@
-# EP20 | 让 AI 智能体跨越多个会话持续推进复杂任务的框架设计实践
+# EP259 | 让 AI 智能体跨越多个会话持续推进复杂任务的框架设计实践
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2025-11-26-Effective harnesses for long-running agents.mp3`
 - 时长：26 分 22 秒

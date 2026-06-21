@@ -1,4 +1,4 @@
-# EP433 | Anthropic 一周快讯 · 2025年12月14日–2025年12月20日:这周不发模型,谈的全是责任和监管
+# EP271 | Anthropic 一周快讯 · 2025年12月14日–2025年12月20日:这周不发模型,谈的全是责任和监管
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-12-14-Anthropic一周快讯.mp3`
 - 时长：3 分 33 秒

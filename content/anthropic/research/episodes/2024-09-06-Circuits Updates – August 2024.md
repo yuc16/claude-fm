@@ -1,4 +1,4 @@
-# EP159 | AI 可解释性研究的内部视角：Anthropic 如何给稀疏自编码器打分
+# EP98 | AI 可解释性研究的内部视角：Anthropic 如何给稀疏自编码器打分
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-09-06-Circuits Updates – August 2024.mp3`
 - 时长：25 分 09 秒

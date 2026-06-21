@@ -1,4 +1,4 @@
-# EP196 | 当 AI 智能体成为攻守双方的武器：Anthropic 零信任安全框架全解析
+# EP419 | 当 AI 智能体成为攻守双方的武器：Anthropic 零信任安全框架全解析
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-27-Zero Trust for AI agents.mp3`
 - 时长：27 分 33 秒

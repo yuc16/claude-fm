@@ -1,4 +1,4 @@
-# EP347 | Anthropic 一周快讯 · 2023年5月7日–2023年5月13日 | Claude 上下文窗口飙到十万 token
+# EP25 | Anthropic 一周快讯 · 2023年5月7日–2023年5月13日 | Claude 上下文窗口飙到十万 token
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-05-07-Anthropic一周快讯.mp3`
 - 时长：2 分 58 秒

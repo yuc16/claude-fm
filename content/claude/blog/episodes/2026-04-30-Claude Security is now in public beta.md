@@ -1,4 +1,4 @@
-# EP217 | Claude Security 公测上线：AI 攻防节奏加快企业如何应对
+# EP380 | Claude Security 公测上线：AI 攻防节奏加快企业如何应对
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-30-Claude Security is now in public beta.mp3`
 - 时长：22 分 17 秒

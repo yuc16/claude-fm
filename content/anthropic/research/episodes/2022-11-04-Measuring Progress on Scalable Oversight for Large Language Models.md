@@ -1,4 +1,4 @@
-# EP120 | 当 AI 比你更聪明，谁来监督它？Anthropic 关于可扩展监督问题的早期探索
+# EP13 | 当 AI 比你更聪明，谁来监督它？Anthropic 关于可扩展监督问题的早期探索
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2022-11-04-Measuring Progress on Scalable Oversight for Large Language Models.mp3`
 - 时长：19 分 34 秒

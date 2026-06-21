@@ -1,4 +1,4 @@
-# EP69 | AI 在帮你做决定时，有没有在悄悄削弱你做决定的能力？Anthropic 首次大规模去自主化模式研究解读
+# EP293 | AI 在帮你做决定时，有没有在悄悄削弱你做决定的能力？Anthropic 首次大规模去自主化模式研究解读
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-01-28-Disempowerment patterns in real-world AI usage.mp3`
 - 时长：25 分 16 秒

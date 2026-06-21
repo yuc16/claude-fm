@@ -1,4 +1,4 @@
-# EP407 | Anthropic 一周快讯 · 2025年6月1日–2025年6月7日 国家安全成为本周关键词
+# EP161 | Anthropic 一周快讯 · 2025年6月1日–2025年6月7日 国家安全成为本周关键词
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-06-01-Anthropic一周快讯.mp3`
 - 时长：2 分 35 秒

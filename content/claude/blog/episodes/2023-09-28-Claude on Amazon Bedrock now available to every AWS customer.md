@@ -1,4 +1,4 @@
-# EP337 | Claude登陆亚马逊云科技：企业级AI落地的一次关键开局
+# EP45 | Claude登陆亚马逊云科技：企业级AI落地的一次关键开局
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2023-09-28-Claude on Amazon Bedrock now available to every AWS customer.mp3`
 - 时长：17 分 58 秒

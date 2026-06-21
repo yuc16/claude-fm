@@ -1,4 +1,4 @@
-# EP206 | 大代码库驯服指南:为什么工具链比模型更重要
+# EP401 | 大代码库驯服指南:为什么工具链比模型更重要
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-14-How Claude Code works in large codebases - Best practices and where to start.mp3`
 - 时长：27 分 44 秒

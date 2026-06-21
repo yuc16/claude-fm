@@ -1,4 +1,4 @@
-# EP13 | Claude 的评测觉察：模型如何识破考卷并反向破解了加密答案库
+# EP324 | Claude 的评测觉察：模型如何识破考卷并反向破解了加密答案库
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2026-03-06-Eval awareness in Claude Opus 4.6’s BrowseComp performance.mp3`
 - 时长：27 分 35 秒

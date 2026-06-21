@@ -1,4 +1,4 @@
-# EP263 | Claude如何通过电路板厂商的合作变身电子工程师
+# EP270 | Claude如何通过电路板厂商的合作变身电子工程师
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-12-12-Making Claude a better electrical engineer.mp3`
 - 时长：21 分 31 秒

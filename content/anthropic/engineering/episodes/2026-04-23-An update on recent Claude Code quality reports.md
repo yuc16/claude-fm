@@ -1,4 +1,4 @@
-# EP4 | Claude Code 三月危机：Anthropic 罕见公开的工程事故全复盘
+# EP370 | Claude Code 三月危机：Anthropic 罕见公开的工程事故全复盘
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2026-04-23-An update on recent Claude Code quality reports.mp3`
 - 时长：28 分 11 秒

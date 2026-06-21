@@ -1,4 +1,4 @@
-# EP194 | AI 已能批量找出漏洞，但九成七没被修：Anthropic 的代码安全六步实战法
+# EP418 | AI 已能批量找出漏洞，但九成七没被修：Anthropic 的代码安全六步实战法
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-27-Using LLMs to secure source code.mp3`
 - 时长：23 分 53 秒

@@ -1,4 +1,4 @@
-# EP179 | 十二小时、三件神器：Opus 四点八黑客松三强项目全解析
+# EP443 | 十二小时、三件神器：Opus 四点八黑客松三强项目全解析
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-17-Meet the winners of our Claude Opus 4.8 Build Day hackathon.mp3`
 - 时长：23 分 22 秒

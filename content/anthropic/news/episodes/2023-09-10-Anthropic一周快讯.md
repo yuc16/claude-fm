@@ -1,4 +1,4 @@
-# EP356 | Anthropic 一周快讯 · 2023年9月10日–2023年9月16日
+# EP42 | Anthropic 一周快讯 · 2023年9月10日–2023年9月16日
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-09-10-Anthropic一周快讯.mp3`
 - 时长：1 分 47 秒

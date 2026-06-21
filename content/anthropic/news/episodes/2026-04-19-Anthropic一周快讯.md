@@ -1,4 +1,4 @@
-# EP446 | Anthropic 一周快讯 · 2026年4月19日–2026年4月25日 · Amazon五千兆瓦扩容、NEC日本合作、选举安全更新
+# EP365 | Anthropic 一周快讯 · 2026年4月19日–2026年4月25日 · Amazon五千兆瓦扩容、NEC日本合作、选举安全更新
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-04-19-Anthropic一周快讯.mp3`
 - 时长：4 分 08 秒

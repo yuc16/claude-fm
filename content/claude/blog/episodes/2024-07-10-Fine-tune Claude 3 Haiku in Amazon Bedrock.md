@@ -1,4 +1,4 @@
-# EP331 | Claude三点豪库微调上线Bedrock,小模型也能干大模型的活
+# EP90 | Claude三点豪库微调上线Bedrock,小模型也能干大模型的活
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2024-07-10-Fine-tune Claude 3 Haiku in Amazon Bedrock.mp3`
 - 时长：21 分 15 秒

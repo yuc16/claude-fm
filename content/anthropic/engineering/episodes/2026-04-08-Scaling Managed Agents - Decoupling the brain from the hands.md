@@ -1,4 +1,4 @@
-# EP6 | 大脑与双手的分离：Anthropic 如何为 AI Agent 设计一套能活过任何实现的底层架构
+# EP352 | 大脑与双手的分离：Anthropic 如何为 AI Agent 设计一套能活过任何实现的底层架构
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2026-04-08-Scaling Managed Agents - Decoupling the brain from the hands.mp3`
 - 时长：28 分 19 秒

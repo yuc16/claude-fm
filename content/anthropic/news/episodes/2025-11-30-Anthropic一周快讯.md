@@ -1,4 +1,4 @@
-# EP431 | Anthropic 一周快讯 · 2025年11月30日–2025年12月6日 · Claude Code 年化收入破十亿美元,顺手收购了 Bun
+# EP260 | Anthropic 一周快讯 · 2025年11月30日–2025年12月6日 · Claude Code 年化收入破十亿美元,顺手收购了 Bun
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-11-30-Anthropic一周快讯.mp3`
 - 时长：3 分 35 秒

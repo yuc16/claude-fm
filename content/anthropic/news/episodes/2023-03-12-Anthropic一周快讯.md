@@ -1,4 +1,4 @@
-# EP344 | Anthropic 一周快讯 · 2023年3月12日–2023年3月18日
+# EP20 | Anthropic 一周快讯 · 2023年3月12日–2023年3月18日
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-03-12-Anthropic一周快讯.mp3`
 - 时长：1 分 55 秒

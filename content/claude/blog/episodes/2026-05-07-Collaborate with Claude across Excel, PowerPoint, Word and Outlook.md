@@ -1,4 +1,4 @@
-# EP213 | Claude正式打通Excel、PPT、Word和Outlook,一次对话贯穿全流程办公
+# EP388 | Claude正式打通Excel、PPT、Word和Outlook,一次对话贯穿全流程办公
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-07-Collaborate with Claude across Excel, PowerPoint, Word and Outlook.mp3`
 - 时长：25 分 43 秒

@@ -1,4 +1,4 @@
-# EP171 | Claude 打通衣食住行：当 AI 助手从信息提供者进化为行动执行者
+# EP372 | Claude 打通衣食住行：当 AI 助手从信息提供者进化为行动执行者
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-23-New connectors in Claude for everyday life.mp3`
 - 时长：26 分 17 秒

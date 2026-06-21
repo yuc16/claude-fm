@@ -1,4 +1,4 @@
-# EP232 | API、CLI 还是 MCP？智能体接入生产系统该怎么选
+# EP368 | API、CLI 还是 MCP？智能体接入生产系统该怎么选
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-22-Building agents that reach production systems with MCP.mp3`
 - 时长：25 分 31 秒

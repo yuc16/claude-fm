@@ -1,4 +1,4 @@
-# EP252 | Opus四点六上线前,哈维彩虹购物车与Lovable抢先实测揭秘
+# EP306 | Opus四点六上线前,哈维彩虹购物车与Lovable抢先实测揭秘
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-02-09-Harvey, Bolt, Shopify & Lovable Test Claude Opus 4.6 Pre-Launch.mp3`
 - 时长：21 分 52 秒

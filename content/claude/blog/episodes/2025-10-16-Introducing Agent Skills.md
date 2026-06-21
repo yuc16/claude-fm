@@ -1,4 +1,4 @@
-# EP290 | Claude Skills上线:把专业经验打包成Claude的技能包
+# EP226 | Claude Skills上线:把专业经验打包成Claude的技能包
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-16-Introducing Agent Skills.mp3`
 - 时长：20 分 12 秒

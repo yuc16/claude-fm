@@ -1,4 +1,4 @@
-# EP93 | AI 已站上网络安全的拐点：Anthropic 如何让 Claude 成为防御者的利器
+# EP213 | AI 已站上网络安全的拐点：Anthropic 如何让 Claude 成为防御者的利器
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-10-03-Building AI for cyber defenders.mp3`
 - 时长：25 分 01 秒

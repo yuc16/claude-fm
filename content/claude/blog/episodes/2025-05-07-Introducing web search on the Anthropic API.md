@@ -1,4 +1,4 @@
-# EP315 | Claude 联网搜索上线:给 AI 装上实时世界的眼睛
+# EP155 | Claude 联网搜索上线:给 AI 装上实时世界的眼睛
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-05-07-Introducing web search on the Anthropic API.mp3`
 - 时长：21 分 16 秒

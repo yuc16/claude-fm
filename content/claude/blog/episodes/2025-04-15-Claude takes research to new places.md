@@ -1,4 +1,4 @@
-# EP317 | Claude 上线深度研究功能,把信息搜集时间压缩到分钟级
+# EP147 | Claude 上线深度研究功能,把信息搜集时间压缩到分钟级
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-04-15-Claude takes research to new places.mp3`
 - 时长：24 分 00 秒

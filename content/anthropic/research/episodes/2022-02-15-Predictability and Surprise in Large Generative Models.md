@@ -1,4 +1,4 @@
-# EP87 | 预测得了规模，预测不了惊喜：大型生成模型的根本性悖论
+# EP4 | 预测得了规模，预测不了惊喜：大型生成模型的根本性悖论
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2022-02-15-Predictability and Surprise in Large Generative Models.mp3`
 - 时长：19 分 06 秒

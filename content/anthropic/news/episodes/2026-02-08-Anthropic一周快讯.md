@@ -1,4 +1,4 @@
-# EP438 | Anthropic 一周快讯 · 2026年2月8日–2026年2月14日:三百八十亿美元融资落地,顺带承诺替消费者扛电价
+# EP305 | Anthropic 一周快讯 · 2026年2月8日–2026年2月14日:三百八十亿美元融资落地,顺带承诺替消费者扛电价
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-02-08-Anthropic一周快讯.mp3`
 - 时长：5 分 06 秒

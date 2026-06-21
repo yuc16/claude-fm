@@ -1,4 +1,4 @@
-# EP284 | Cowork插件来了:让Claude变成你团队的专属专家
+# EP299 | Cowork插件来了:让Claude变成你团队的专属专家
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-01-30-Customize Cowork with plugins.mp3`
 - 时长：17 分 28 秒

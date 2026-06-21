@@ -1,4 +1,4 @@
-# EP442 | Anthropic 一周快讯 · 2026年3月8日–2026年3月14日 · 悉尼办公室、Anthropic Institute 与十亿美元级合作伙伴计划
+# EP326 | Anthropic 一周快讯 · 2026年3月8日–2026年3月14日 · 悉尼办公室、Anthropic Institute 与十亿美元级合作伙伴计划
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-03-08-Anthropic一周快讯.mp3`
 - 时长：3 分 38 秒

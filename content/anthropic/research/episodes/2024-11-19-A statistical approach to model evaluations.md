@@ -1,4 +1,4 @@
-# EP133 | 当 AI 排行榜不说误差：用统计学给模型评测补上最重要的一关
+# EP115 | 当 AI 排行榜不说误差：用统计学给模型评测补上最重要的一关
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-11-19-A statistical approach to model evaluations.mp3`
 - 时长：26 分 37 秒

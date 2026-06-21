@@ -1,4 +1,4 @@
-# EP109 | 当 AI 开口说话，代表的是谁的声音——大模型全球观点偏见量化解构
+# EP31 | 当 AI 开口说话，代表的是谁的声音——大模型全球观点偏见量化解构
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-06-29-Towards Measuring the Representation of Subjective Global Opinions in Language Models.mp3`
 - 时长：22 分 12 秒

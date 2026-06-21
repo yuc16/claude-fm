@@ -1,4 +1,4 @@
-# EP335 | Claude推出团队版与苹果手机应用,办公协作迎来新选项
+# EP71 | Claude推出团队版与苹果手机应用,办公协作迎来新选项
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2024-05-01-Introducing the Claude Team plan and iOS app.mp3`
 - 时长：20 分 07 秒

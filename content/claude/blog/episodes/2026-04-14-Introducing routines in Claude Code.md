@@ -1,4 +1,4 @@
-# EP233 | Claude Code 推出 Routines:让 AI 智能体云端自动值班
+# EP361 | Claude Code 推出 Routines:让 AI 智能体云端自动值班
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-14-Introducing routines in Claude Code.mp3`
 - 时长：18 分 34 秒

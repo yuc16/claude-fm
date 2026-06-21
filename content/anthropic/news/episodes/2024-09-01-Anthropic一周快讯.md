@@ -1,4 +1,4 @@
-# EP383 | Anthropic 一周快讯 · 2024年9月1日–2024年9月7日:Claude 进驻 Salesforce Einstein 生态
+# EP97 | Anthropic 一周快讯 · 2024年9月1日–2024年9月7日:Claude 进驻 Salesforce Einstein 生态
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-09-01-Anthropic一周快讯.mp3`
 - 时长：1 分 53 秒

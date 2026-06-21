@@ -1,4 +1,4 @@
-# EP180 | Claude Design 大升级：AI 帮你守住品牌规范，设计到代码的信息断层从此终结
+# EP442 | Claude Design 大升级：AI 帮你守住品牌规范，设计到代码的信息断层从此终结
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-17-Claude Design now stays on brand for daily work.mp3`
 - 时长：25 分 48 秒

@@ -1,4 +1,4 @@
-# EP174 | Claude Code 桌面大改版：当开发者从码农变成 AI Agent 的调度指挥官
+# EP362 | Claude Code 桌面大改版：当开发者从码农变成 AI Agent 的调度指挥官
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-14-Redesigning Claude Code on desktop for parallel agents.mp3`
 - 时长：21 分 29 秒

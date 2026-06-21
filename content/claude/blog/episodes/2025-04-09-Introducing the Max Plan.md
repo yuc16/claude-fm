@@ -1,4 +1,4 @@
-# EP318 | Claude Max 计划详解:更高用量上限背后的深度协作逻辑
+# EP146 | Claude Max 计划详解:更高用量上限背后的深度协作逻辑
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-04-09-Introducing the Max Plan.mp3`
 - 时长：20 分 31 秒

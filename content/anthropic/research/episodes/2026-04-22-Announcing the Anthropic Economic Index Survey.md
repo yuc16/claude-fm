@@ -1,4 +1,4 @@
-# EP49 | 统计数字之外：Anthropic 用对话式调查追踪 AI 对工作的真实冲击
+# EP367 | 统计数字之外：Anthropic 用对话式调查追踪 AI 对工作的真实冲击
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-04-22-Announcing the Anthropic Economic Index Survey.mp3`
 - 时长：25 分 54 秒

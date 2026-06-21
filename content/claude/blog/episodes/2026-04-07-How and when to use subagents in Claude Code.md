@@ -1,4 +1,4 @@
-# EP226 | 什么时候该把任务交给 Claude Code 的子代理
+# EP349 | 什么时候该把任务交给 Claude Code 的子代理
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-07-How and when to use subagents in Claude Code.mp3`
 - 时长：27 分 46 秒

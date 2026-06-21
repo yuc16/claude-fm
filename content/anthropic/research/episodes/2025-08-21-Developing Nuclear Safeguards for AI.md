@@ -1,4 +1,4 @@
-# EP139 | 核武器与AI的边界：Anthropic 联手美国能源部，打造首个核扩散实时防火墙
+# EP192 | 核武器与AI的边界：Anthropic 联手美国能源部，打造首个核扩散实时防火墙
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-08-21-Developing Nuclear Safeguards for AI.mp3`
 - 时长：22 分 56 秒

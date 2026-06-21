@@ -1,4 +1,4 @@
-# EP416 | Anthropic 一周快讯 · 2025年8月17日–2025年8月23日 · Claude Code 并入商业版套餐,核安全分类器同步上线
+# EP190 | Anthropic 一周快讯 · 2025年8月17日–2025年8月23日 · Claude Code 并入商业版套餐,核安全分类器同步上线
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-08-17-Anthropic一周快讯.mp3`
 - 时长：3 分 46 秒

@@ -1,4 +1,4 @@
-# EP211 | Claude Code 新增智能体总览视图,告别终端标签满天飞
+# EP394 | Claude Code 新增智能体总览视图,告别终端标签满天飞
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-11-Agent view in Claude Code.mp3`
 - 时长：23 分 45 秒

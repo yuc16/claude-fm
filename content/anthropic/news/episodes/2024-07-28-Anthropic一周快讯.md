@@ -1,4 +1,4 @@
-# EP381 | Anthropic 一周快讯 · 2024年7月28日–2024年8月3日:Claude 正式登陆巴西
+# EP93 | Anthropic 一周快讯 · 2024年7月28日–2024年8月3日:Claude 正式登陆巴西
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-07-28-Anthropic一周快讯.mp3`
 - 时长：1 分 43 秒

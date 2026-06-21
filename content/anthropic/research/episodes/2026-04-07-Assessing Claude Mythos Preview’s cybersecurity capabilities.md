@@ -1,4 +1,4 @@
-# EP143 | 一个 AI 模型自主找到了二十七年前的漏洞，还自己写好了攻击代码
+# EP348 | 一个 AI 模型自主找到了二十七年前的漏洞，还自己写好了攻击代码
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-04-07-Assessing Claude Mythos Preview’s cybersecurity capabilities.mp3`
 - 时长：27 分 54 秒

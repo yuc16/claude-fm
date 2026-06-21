@@ -1,4 +1,4 @@
-# EP210 | 
+# EP398 | 
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-12-How Anthropic's cybersecurity team built a threat detection platform with Claude Code.mp3`
 - 时长：25 分 06 秒

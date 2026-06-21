@@ -1,4 +1,4 @@
-# EP215 | 非技术产品经理用Claude Code六周造出压力管理App
+# EP384 | 非技术产品经理用Claude Code六周造出压力管理App
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-01-How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks.mp3`
 - 时长：25 分 09 秒

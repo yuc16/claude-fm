@@ -1,4 +1,4 @@
-# EP294 | Claude Code 如何用沙箱技术告别权限弹窗,更安全也更自主
+# EP217 | Claude Code 如何用沙箱技术告别权限弹窗,更安全也更自主
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-08-Beyond permission prompts - making Claude Code more secure and autonomous.mp3`
 - 时长：22 分 51 秒

@@ -1,4 +1,4 @@
-# EP268 | 从代码补全到自主执行:智能体编程到底改变了什么
+# EP262 | 从代码补全到自主执行:智能体编程到底改变了什么
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-12-01-The key benefits of transitioning to agentic coding.mp3`
 - 时长：20 分 20 秒

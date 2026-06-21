@@ -1,4 +1,4 @@
-# EP345 | Anthropic 一周快讯 · 2023年4月16日–2023年4月22日
+# EP22 | Anthropic 一周快讯 · 2023年4月16日–2023年4月22日
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-04-16-Anthropic一周快讯.mp3`
 - 时长：1 分 48 秒

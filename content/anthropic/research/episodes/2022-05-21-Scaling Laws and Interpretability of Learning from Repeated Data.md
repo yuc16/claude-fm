@@ -1,4 +1,4 @@
-# EP116 | 训练数据里的定时炸弹：重复数据如何悄悄蚕食大模型的泛化能力
+# EP8 | 训练数据里的定时炸弹：重复数据如何悄悄蚕食大模型的泛化能力
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2022-05-21-Scaling Laws and Interpretability of Learning from Repeated Data.mp3`
 - 时长：25 分 50 秒

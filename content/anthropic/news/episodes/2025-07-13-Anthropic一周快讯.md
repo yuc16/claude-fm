@@ -1,4 +1,4 @@
-# EP411 | Anthropic 一周快讯 · 2025年7月13日–2025年7月19日 · 国防部两亿美元大单领跑本周
+# EP175 | Anthropic 一周快讯 · 2025年7月13日–2025年7月19日 · 国防部两亿美元大单领跑本周
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-07-13-Anthropic一周快讯.mp3`
 - 时长：3 分 45 秒

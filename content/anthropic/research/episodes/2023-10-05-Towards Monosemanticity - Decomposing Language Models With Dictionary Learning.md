@@ -1,4 +1,4 @@
-# EP108 | 神经元不是真相：用字典学习解锁大语言模型的内部特征
+# EP48 | 神经元不是真相：用字典学习解锁大语言模型的内部特征
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-10-05-Towards Monosemanticity - Decomposing Language Models With Dictionary Learning.mp3`
 - 时长：25 分 29 秒

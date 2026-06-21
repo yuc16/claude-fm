@@ -1,4 +1,4 @@
-# EP402 | Anthropic 一周快讯 · 2025年4月27日–2025年5月3日:经济顾问团亮相,出口管制立场表态
+# EP151 | Anthropic 一周快讯 · 2025年4月27日–2025年5月3日:经济顾问团亮相,出口管制立场表态
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-04-27-Anthropic一周快讯.mp3`
 - 时长：2 分 31 秒

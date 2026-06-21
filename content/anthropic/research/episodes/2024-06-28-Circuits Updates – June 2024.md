@@ -1,4 +1,4 @@
-# EP137 | 拆解大模型的「词汇」：稀疏自编码器与机械可解释性的前沿战场
+# EP86 | 拆解大模型的「词汇」：稀疏自编码器与机械可解释性的前沿战场
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-06-28-Circuits Updates – June 2024.mp3`
 - 时长：21 分 12 秒

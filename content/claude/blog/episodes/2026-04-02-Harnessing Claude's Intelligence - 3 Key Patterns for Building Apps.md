@@ -1,4 +1,4 @@
-# EP197 | 驯服 Claude 的智能:跟上模型进化的三个应用设计模式
+# EP346 | 驯服 Claude 的智能:跟上模型进化的三个应用设计模式
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-02-Harnessing Claude's Intelligence - 3 Key Patterns for Building Apps.mp3`
 - 时长：27 分 06 秒

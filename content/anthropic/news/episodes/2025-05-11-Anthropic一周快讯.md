@@ -1,4 +1,4 @@
-# EP404 | Anthropic 一周快讯 · 2025年5月11日–2025年5月17日 · 二点五万美元悬赏越狱漏洞
+# EP156 | Anthropic 一周快讯 · 2025年5月11日–2025年5月17日 · 二点五万美元悬赏越狱漏洞
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-05-11-Anthropic一周快讯.mp3`
 - 时长：2 分 36 秒

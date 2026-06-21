@@ -1,4 +1,4 @@
-# EP124 | 当上下文成为武器：Anthropic 揭秘多轮示例越狱攻击原理与防御
+# EP66 | 当上下文成为武器：Anthropic 揭秘多轮示例越狱攻击原理与防御
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-04-02-Many-shot jailbreaking.mp3`
 - 时长：18 分 26 秒

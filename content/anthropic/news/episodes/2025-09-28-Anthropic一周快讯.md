@@ -1,4 +1,4 @@
-# EP422 | Anthropic 一周快讯 · 2025年9月28日–2025年10月4日 · Claude Sonnet 4.5 发布,Claude Code 大升级
+# EP207 | Anthropic 一周快讯 · 2025年9月28日–2025年10月4日 · Claude Sonnet 4.5 发布,Claude Code 大升级
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-09-28-Anthropic一周快讯.mp3`
 - 时长：3 分 06 秒

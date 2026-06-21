@@ -1,4 +1,4 @@
-# EP82 | 大模型会「装乖」：Anthropic 首次证明 AI 能伪装对齐成功
+# EP120 | 大模型会「装乖」：Anthropic 首次证明 AI 能伪装对齐成功
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-12-18-Alignment faking in large language models.mp3`
 - 时长：21 分 50 秒

@@ -1,4 +1,4 @@
-# EP358 | Anthropic 一周快讯 · 2023年9月24日–2023年9月30日 · 亚马逊四十亿美元入股
+# EP44 | Anthropic 一周快讯 · 2023年9月24日–2023年9月30日 · 亚马逊四十亿美元入股
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-09-24-Anthropic一周快讯.mp3`
 - 时长：2 分 17 秒

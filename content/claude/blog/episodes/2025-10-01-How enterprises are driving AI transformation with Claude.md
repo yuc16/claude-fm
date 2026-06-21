@@ -1,4 +1,4 @@
-# EP296 | 五个真实案例看懂企业如何用 Claude 实现 AI 转型
+# EP212 | 五个真实案例看懂企业如何用 Claude 实现 AI 转型
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-01-How enterprises are driving AI transformation with Claude.mp3`
 - 时长：20 分 42 秒

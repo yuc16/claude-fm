@@ -1,4 +1,4 @@
-# EP199 | Claude如何帮Anthropic财务团队守住数字背后的叙事逻辑
+# EP410 | Claude如何帮Anthropic财务团队守住数字背后的叙事逻辑
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-22-How Anthropic's finance team uses Claude to shape the narrative behind the numbers.mp3`
 - 时长：25 分 21 秒

@@ -1,4 +1,4 @@
-# EP374 | Anthropic 一周快讯 · 2024年6月2日–2024年6月8日 · Claude 登陆加拿大,选举安全测试方法公开
+# EP79 | Anthropic 一周快讯 · 2024年6月2日–2024年6月8日 · Claude 登陆加拿大,选举安全测试方法公开
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-06-02-Anthropic一周快讯.mp3`
 - 时长：2 分 42 秒

@@ -1,4 +1,4 @@
-# EP157 | 神经元不是真相：用字典学习找出语言模型里真正的意义单元
+# EP47 | 神经元不是真相：用字典学习找出语言模型里真正的意义单元
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-10-05-Decomposing Language Models Into Understandable Components.mp3`
 - 时长：27 分 37 秒

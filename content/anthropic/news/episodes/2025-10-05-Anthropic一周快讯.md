@@ -1,4 +1,4 @@
-# EP423 | Anthropic 一周快讯 · 2025年10月5日–2025年10月11日 企业版图与全球布局双扩张
+# EP214 | Anthropic 一周快讯 · 2025年10月5日–2025年10月11日 企业版图与全球布局双扩张
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-10-05-Anthropic一周快讯.mp3`
 - 时长：3 分 40 秒

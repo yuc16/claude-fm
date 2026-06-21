@@ -1,4 +1,4 @@
-# EP146 | 让 Claude 当测试专家：AI 驱动的属性测试如何在 NumPy 里揪出隐藏十年的 Bug
+# EP280 | 让 Claude 当测试专家：AI 驱动的属性测试如何在 NumPy 里揪出隐藏十年的 Bug
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-01-14-Finding bugs with Claude and property-based testing.mp3`
 - 时长：24 分 40 秒

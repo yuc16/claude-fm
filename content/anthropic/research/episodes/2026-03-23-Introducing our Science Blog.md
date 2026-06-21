@@ -1,4 +1,4 @@
-# EP57 | Anthropic 科学博客启航：AI 正在把几十年的科学进步压缩进几年
+# EP334 | Anthropic 科学博客启航：AI 正在把几十年的科学进步压缩进几年
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-03-23-Introducing our Science Blog.mp3`
 - 时长：33 分 12 秒

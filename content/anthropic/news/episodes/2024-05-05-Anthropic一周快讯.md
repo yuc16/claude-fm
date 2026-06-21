@@ -1,4 +1,4 @@
-# EP370 | Anthropic 一周快讯 · 2024年5月5日–2024年5月11日 · 更新使用政策,划清红线
+# EP72 | Anthropic 一周快讯 · 2024年5月5日–2024年5月11日 · 更新使用政策,划清红线
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-05-05-Anthropic一周快讯.mp3`
 - 时长：1 分 56 秒

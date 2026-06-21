@@ -1,4 +1,4 @@
-# EP151 | Claude 亲自下场参加黑客竞赛：七场网络安全实战检验 AI 攻防能力的真实边界
+# EP185 | Claude 亲自下场参加黑客竞赛：七场网络安全实战检验 AI 攻防能力的真实边界
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-08-09-Claude does cyber competitions.mp3`
 - 时长：28 分 50 秒

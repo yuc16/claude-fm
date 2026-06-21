@@ -1,4 +1,4 @@
-# EP253 | Claude Opus 4.6 进军金融:从研究到建模的全面升级
+# EP301 | Claude Opus 4.6 进军金融:从研究到建模的全面升级
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-02-05-Advancing finance with Claude Opus 4.6.mp3`
 - 时长：22 分 18 秒

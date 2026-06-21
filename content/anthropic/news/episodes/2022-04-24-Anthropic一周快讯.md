@@ -1,4 +1,4 @@
-# EP341 | Anthropic 一周快讯 · 2022年4月24日–2022年4月30日 · 五点八亿美元 B 轮融资落地
+# EP7 | Anthropic 一周快讯 · 2022年4月24日–2022年4月30日 · 五点八亿美元 B 轮融资落地
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2022-04-24-Anthropic一周快讯.mp3`
 - 时长：2 分 03 秒

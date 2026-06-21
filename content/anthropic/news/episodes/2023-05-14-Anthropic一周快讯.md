@@ -1,4 +1,4 @@
-# EP348 | Anthropic 一周快讯 · 2023年5月14日–2023年5月20日 · Zoom 入股并接入 Claude
+# EP26 | Anthropic 一周快讯 · 2023年5月14日–2023年5月20日 · Zoom 入股并接入 Claude
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-05-14-Anthropic一周快讯.mp3`
 - 时长：1 分 58 秒

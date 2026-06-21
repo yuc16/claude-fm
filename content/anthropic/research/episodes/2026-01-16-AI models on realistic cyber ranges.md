@@ -1,4 +1,4 @@
-# EP147 | AI攻防新前线：Claude仅用标准工具独立突破真实网络靶场
+# EP283 | AI攻防新前线：Claude仅用标准工具独立突破真实网络靶场
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-01-16-AI models on realistic cyber ranges.mp3`
 - 时长：19 分 06 秒

@@ -1,4 +1,4 @@
-# EP212 | Claude 平台全功能登陆 AWS,该怎么选这条路
+# EP395 | Claude 平台全功能登陆 AWS,该怎么选这条路
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-11-Introducing the Claude Platform on AWS.mp3`
 - 时长：27 分 55 秒

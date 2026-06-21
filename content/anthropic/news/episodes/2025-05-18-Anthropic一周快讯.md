@@ -1,4 +1,4 @@
-# EP405 | Anthropic 一周快讯 · 2025年5月18日–2025年5月24日:Claude 4 双子星登场,Opus 4 首次拉满 ASL-3 安全防线
+# EP157 | Anthropic 一周快讯 · 2025年5月18日–2025年5月24日:Claude 4 双子星登场,Opus 4 首次拉满 ASL-3 安全防线
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-05-18-Anthropic一周快讯.mp3`
 - 时长：4 分 24 秒

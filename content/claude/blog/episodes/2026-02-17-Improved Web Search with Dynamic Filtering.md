@@ -1,4 +1,4 @@
-# EP250 | 让 Claude 学会边搜索边过滤,网页搜索准确率与效率双提升
+# EP310 | 让 Claude 学会边搜索边过滤,网页搜索准确率与效率双提升
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-02-17-Improved Web Search with Dynamic Filtering.mp3`
 - 时长：22 分 35 秒

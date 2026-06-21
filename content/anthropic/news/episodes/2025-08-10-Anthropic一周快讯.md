@@ -1,4 +1,4 @@
-# EP415 | Anthropic 一周快讯 · 2025年8月10日–2025年8月16日 · 安全团队揭秘与政府全面开放Claude
+# EP186 | Anthropic 一周快讯 · 2025年8月10日–2025年8月16日 · 安全团队揭秘与政府全面开放Claude
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-08-10-Anthropic一周快讯.mp3`
 - 时长：3 分 29 秒

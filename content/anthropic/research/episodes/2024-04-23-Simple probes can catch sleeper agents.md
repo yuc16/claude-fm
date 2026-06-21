@@ -1,4 +1,4 @@
-# EP165 | 两句话就能抓住叛变AI：Anthropic休眠智能体探针实验深度解读
+# EP69 | 两句话就能抓住叛变AI：Anthropic休眠智能体探针实验深度解读
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-04-23-Simple probes can catch sleeper agents.mp3`
 - 时长：22 分 33 秒

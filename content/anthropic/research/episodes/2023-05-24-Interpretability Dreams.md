@@ -1,4 +1,4 @@
-# EP122 | 当AI读懂自己：机械可解释性的宏伟梦想与三年后的现实对照
+# EP29 | 当AI读懂自己：机械可解释性的宏伟梦想与三年后的现实对照
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-05-24-Interpretability Dreams.mp3`
 - 时长：23 分 57 秒

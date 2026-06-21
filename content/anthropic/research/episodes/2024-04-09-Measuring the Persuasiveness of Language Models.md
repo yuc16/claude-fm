@@ -1,4 +1,4 @@
-# EP155 | 语言模型的说服力已悄然追平人类：Anthropic 用三千人的实验给出答案
+# EP67 | 语言模型的说服力已悄然追平人类：Anthropic 用三千人的实验给出答案
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-04-09-Measuring the Persuasiveness of Language Models.mp3`
 - 时长：24 分 03 秒

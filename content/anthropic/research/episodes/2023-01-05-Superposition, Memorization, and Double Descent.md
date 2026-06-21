@@ -1,4 +1,4 @@
-# EP112 | 当神经网络开始"背答案"：叠加态、记忆化与双重下降的机械解释
+# EP16 | 当神经网络开始"背答案"：叠加态、记忆化与双重下降的机械解释
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-01-05-Superposition, Memorization, and Double Descent.mp3`
 - 时长：23 分 17 秒

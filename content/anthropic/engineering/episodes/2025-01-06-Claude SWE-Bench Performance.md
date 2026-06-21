@@ -1,4 +1,4 @@
-# EP25 | Claude 四十九分背后的工程哲学：用最简脚手架撬动真实软件工程能力的底层逻辑
+# EP123 | Claude 四十九分背后的工程哲学：用最简脚手架撬动真实软件工程能力的底层逻辑
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2025-01-06-Claude SWE-Bench Performance.mp3`
 - 时长：25 分 52 秒

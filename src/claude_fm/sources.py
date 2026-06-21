@@ -39,10 +39,12 @@ def discover_sitemap_sources() -> dict[str, list[ArticleRef]]:
         if src["kind"] != "sitemap":
             continue
         prefix = src["prefix"]
+        # 只要 /<source>/<slug> 单级文章；排除 /<source>/team/... 这类多级页面
         refs = [
             ArticleRef(url=u, source=name, lastmod=mod)
             for u, mod in entries
-            if u.startswith(prefix) and u != prefix.rstrip("/")
+            if u.startswith(prefix)
+            and (rem := u[len(prefix):].rstrip("/")) and "/" not in rem
         ]
         # 新文章在前；lastmod 是修改时间不是发表时间，但用于"取最近 N 篇"足够
         refs.sort(key=lambda r: r.lastmod, reverse=True)

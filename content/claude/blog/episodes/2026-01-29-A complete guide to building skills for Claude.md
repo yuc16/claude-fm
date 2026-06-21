@@ -1,4 +1,4 @@
-# EP285 | 从零打造 Claude 技能：官方完整指南解读
+# EP296 | 从零打造 Claude 技能：官方完整指南解读
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-01-29-A complete guide to building skills for Claude.mp3`
 - 时长：19 分 38 秒

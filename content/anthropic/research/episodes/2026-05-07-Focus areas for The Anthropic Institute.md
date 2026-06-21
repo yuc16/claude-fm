@@ -1,4 +1,4 @@
-# EP46 | AI 改变世界的四张底牌：经济冲击、安全威胁、认知重塑与智能爆炸
+# EP390 | AI 改变世界的四张底牌：经济冲击、安全威胁、认知重塑与智能爆炸
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-05-07-Focus areas for The Anthropic Institute.mp3`
 - 时长：27 分 28 秒

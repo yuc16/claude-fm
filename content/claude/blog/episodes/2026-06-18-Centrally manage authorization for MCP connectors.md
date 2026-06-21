@@ -1,4 +1,4 @@
-# EP178 | MCP 连接器企业托管授权来了：管理员配置一次，全员零感知开箱即用
+# EP445 | MCP 连接器企业托管授权来了：管理员配置一次，全员零感知开箱即用
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-18-Centrally manage authorization for MCP connectors.mp3`
 - 时长：28 分 16 秒

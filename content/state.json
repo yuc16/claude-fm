@@ -1,5 +1,5 @@
 {
-  "next_episode": 454,
+  "next_episode": 449,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -13,7 +13,7 @@
       "title": "Building Effective AI Agents",
       "published": "2024-12-19",
       "duration_sec": 1786.9,
-      "episode": 1
+      "episode": 121
     },
     "https://www.anthropic.com/engineering/how-we-contain-claude": {
       "stages": {
@@ -27,7 +27,7 @@
       "title": "How we contain Claude across products",
       "published": "2026-05-25",
       "duration_sec": 1678.3,
-      "episode": 2
+      "episode": 414
     },
     "https://www.anthropic.com/engineering/claude-code-auto-mode": {
       "stages": {
@@ -41,7 +41,7 @@
       "title": "How we built Claude Code auto mode: a safer way to skip permissions",
       "published": "2026-03-25",
       "duration_sec": 1651.6,
-      "episode": 3
+      "episode": 341
     },
     "https://www.anthropic.com/engineering/april-23-postmortem": {
       "stages": {
@@ -55,7 +55,7 @@
       "title": "An update on recent Claude Code quality reports",
       "published": "2026-04-23",
       "duration_sec": 1691.7,
-      "episode": 4
+      "episode": 370
     },
     "https://www.anthropic.com/engineering/infrastructure-noise": {
       "stages": {
@@ -69,7 +69,7 @@
       "title": "Quantifying infrastructure noise in agentic coding evals",
       "published": "2026-02-05",
       "duration_sec": 1624.1,
-      "episode": 5
+      "episode": 304
     },
     "https://www.anthropic.com/engineering/managed-agents": {
       "stages": {
@@ -83,7 +83,7 @@
       "title": "Scaling Managed Agents: Decoupling the brain from the hands",
       "published": "2026-04-08",
       "duration_sec": 1699.7,
-      "episode": 6
+      "episode": 352
     },
     "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills": {
       "stages": {
@@ -97,7 +97,7 @@
       "title": "Equipping agents for the real world with Agent Skills",
       "published": "2025-10-16",
       "duration_sec": 1942.7,
-      "episode": 7
+      "episode": 225
     },
     "https://www.anthropic.com/engineering/harness-design-long-running-apps": {
       "stages": {
@@ -111,7 +111,7 @@
       "title": "Harness design for long-running application development",
       "published": "2026-03-24",
       "duration_sec": 1759.9,
-      "episode": 8
+      "episode": 340
     },
     "https://www.anthropic.com/engineering/eval-awareness-browsecomp": {
       "stages": {
@@ -125,7 +125,7 @@
       "title": "Eval awareness in Claude Opus 4.6’s BrowseComp performance",
       "published": "2026-03-06",
       "duration_sec": 1655.2,
-      "episode": 13
+      "episode": 324
     },
     "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents": {
       "stages": {
@@ -139,7 +139,7 @@
       "title": "Demystifying evals for AI agents",
       "published": "2026-01-09",
       "duration_sec": 1801.2,
-      "episode": 9
+      "episode": 277
     },
     "https://www.anthropic.com/engineering/advanced-tool-use": {
       "stages": {
@@ -153,7 +153,7 @@
       "title": "Introducing advanced tool use on the Claude Developer Platform",
       "published": "2025-11-24",
       "duration_sec": 1644.3,
-      "episode": 10
+      "episode": 255
     },
     "https://www.anthropic.com/engineering/building-c-compiler": {
       "stages": {
@@ -167,7 +167,7 @@
       "title": "Building a C compiler with a team of parallel Claudes",
       "published": "2026-02-05",
       "duration_sec": 1718.1,
-      "episode": 14
+      "episode": 302
     },
     "https://www.anthropic.com/engineering/claude-code-best-practices": {
       "stages": {
@@ -181,7 +181,7 @@
       "title": "Best practices for Claude Code - Claude Code Docs",
       "published": "2026-05-28",
       "duration_sec": 1615.3,
-      "episode": 11
+      "episode": 420
     },
     "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations": {
       "stages": {
@@ -195,7 +195,7 @@
       "title": "Designing AI resistant technical evaluations",
       "published": "2026-01-21",
       "duration_sec": 1412.2,
-      "episode": 12
+      "episode": 286
     },
     "https://www.anthropic.com/engineering/contextual-retrieval": {
       "stages": {
@@ -209,7 +209,7 @@
       "title": "Contextual Retrieval in AI Systems",
       "published": "2024-09-19",
       "duration_sec": 1621.8,
-      "episode": 15
+      "episode": 102
     },
     "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents": {
       "stages": {
@@ -223,7 +223,7 @@
       "title": "Effective context engineering for AI agents",
       "published": "2025-09-29",
       "duration_sec": 1581.8,
-      "episode": 16
+      "episode": 209
     },
     "https://www.anthropic.com/engineering/multi-agent-research-system": {
       "stages": {
@@ -237,7 +237,7 @@
       "title": "How we built our multi-agent research system",
       "published": "2025-06-13",
       "duration_sec": 2048.7,
-      "episode": 17
+      "episode": 164
     },
     "https://www.anthropic.com/engineering/writing-tools-for-agents": {
       "stages": {
@@ -251,7 +251,7 @@
       "title": "Writing effective tools for AI agents—using AI agents",
       "published": "2025-09-11",
       "duration_sec": 1579.4,
-      "episode": 18
+      "episode": 200
     },
     "https://www.anthropic.com/engineering/claude-think-tool": {
       "stages": {
@@ -265,7 +265,7 @@
       "title": "The \"think\" tool: Enabling Claude to stop and think",
       "published": "2025-03-20",
       "duration_sec": 1315.4,
-      "episode": 19
+      "episode": 139
     },
     "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues": {
       "stages": {
@@ -279,7 +279,7 @@
       "title": "A postmortem of three recent issues",
       "published": "2025-09-17",
       "duration_sec": 1240.4,
-      "episode": 22
+      "episode": 204
     },
     "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents": {
       "stages": {
@@ -293,7 +293,7 @@
       "title": "Effective harnesses for long-running agents",
       "published": "2025-11-26",
       "duration_sec": 1582.4,
-      "episode": 20
+      "episode": 259
     },
     "https://www.anthropic.com/engineering/code-execution-with-mcp": {
       "stages": {
@@ -307,7 +307,7 @@
       "title": "Code execution with MCP: building more efficient AI agents",
       "published": "2025-11-04",
       "duration_sec": 1430.1,
-      "episode": 21
+      "episode": 241
     },
     "https://www.anthropic.com/engineering/claude-code-sandboxing": {
       "stages": {
@@ -321,7 +321,7 @@
       "title": "Making Claude Code more secure and autonomous with sandboxing",
       "published": "2025-10-20",
       "duration_sec": 1683.2,
-      "episode": 23
+      "episode": 229
     },
     "https://www.anthropic.com/engineering/desktop-extensions": {
       "stages": {
@@ -335,7 +335,7 @@
       "title": "Claude Desktop Extensions: One-click MCP server installation for Claude Desktop",
       "published": "2025-06-26",
       "duration_sec": 1886.5,
-      "episode": 24
+      "episode": 172
     },
     "https://www.anthropic.com/engineering/swe-bench-sonnet": {
       "stages": {
@@ -349,7 +349,7 @@
       "title": "Claude SWE-Bench Performance",
       "published": "2025-01-06",
       "duration_sec": 1552.5,
-      "episode": 25
+      "episode": 123
     },
     "https://www.anthropic.com/research/making-claude-a-chemist": {
       "stages": {
@@ -363,7 +363,7 @@
       "title": "Making Claude a chemist",
       "published": "2026-06-05",
       "duration_sec": 1823.4,
-      "episode": 26,
+      "episode": 430,
       "voice": "zh-CN-YunxiNeural"
     },
     "https://www.anthropic.com/research/agents-in-biology": {
@@ -378,7 +378,7 @@
       "title": "Paving the way for agents in biology",
       "published": "2026-06-08",
       "duration_sec": 1912.9,
-      "episode": 27
+      "episode": 436
     },
     "https://www.anthropic.com/research/measuring-agent-autonomy": {
       "stages": {
@@ -392,7 +392,7 @@
       "title": "Measuring AI agent autonomy in practice",
       "published": "2026-02-18",
       "duration_sec": 1572.6,
-      "episode": 28
+      "episode": 311
     },
     "https://www.anthropic.com/research/values-wild": {
       "stages": {
@@ -406,7 +406,7 @@
       "title": "Values in the wild: Discovering and analyzing values in real-world language model interactions",
       "published": "2025-04-21",
       "duration_sec": 1678.9,
-      "episode": 30
+      "episode": 149
     },
     "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic": {
       "stages": {
@@ -420,7 +420,7 @@
       "title": "How AI Is Transforming Work at Anthropic",
       "published": "2025-12-02",
       "duration_sec": 1492.0,
-      "episode": 29,
+      "episode": 263,
       "voice": "zh-CN-XiaoxiaoNeural"
     },
     "https://www.anthropic.com/research/assistant-axis": {
@@ -435,7 +435,7 @@
       "title": "The assistant axis: situating and stabilizing the character of large language models",
       "published": "2026-01-19",
       "duration_sec": 1470.9,
-      "episode": 31,
+      "episode": 285,
       "voice": "zh-CN-YunxiNeural"
     },
     "https://www.anthropic.com/research/introspection": {
@@ -450,7 +450,7 @@
       "title": "Emergent introspective awareness in large language models",
       "published": "2025-10-29",
       "duration_sec": 1336.8,
-      "episode": 32,
+      "episode": 233,
       "voice": "zh-CN-YunyangNeural"
     },
     "https://www.anthropic.com/research/estimating-productivity-gains": {
@@ -465,7 +465,7 @@
       "title": "Estimating AI productivity gains",
       "published": "2025-11-25",
       "duration_sec": 1519.4,
-      "episode": 33
+      "episode": 257
     },
     "https://www.anthropic.com/research/claude-personal-guidance": {
       "stages": {
@@ -479,7 +479,7 @@
       "title": "How people ask Claude for personal guidance",
       "published": "2026-04-30",
       "duration_sec": 1684.1,
-      "episode": 34
+      "episode": 382
     },
     "https://www.anthropic.com/research/emergent-misalignment-reward-hacking": {
       "stages": {
@@ -493,7 +493,7 @@
       "title": "From shortcuts to sabotage: natural emergent misalignment from reward hacking",
       "published": "2025-11-21",
       "duration_sec": 1476.3,
-      "episode": 35
+      "episode": 253
     },
     "https://www.anthropic.com/research/emotion-concepts-function": {
       "stages": {
@@ -507,7 +507,7 @@
       "title": "Emotion concepts and their function in a large language model",
       "published": "2026-04-02",
       "duration_sec": 1781.8,
-      "episode": 36
+      "episode": 345
     },
     "https://www.anthropic.com/research/next-generation-constitutional-classifiers": {
       "stages": {
@@ -521,7 +521,7 @@
       "title": "Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks",
       "published": "2026-01-09",
       "duration_sec": 1727.9,
-      "episode": 37
+      "episode": 278
     },
     "https://www.anthropic.com/research/automated-alignment-researchers": {
       "stages": {
@@ -535,7 +535,7 @@
       "title": "Automated Alignment Researchers: Using large language models to scale scalable oversight",
       "published": "2026-04-14",
       "duration_sec": 1701.0,
-      "episode": 38
+      "episode": 360
     },
     "https://www.anthropic.com/research/persona-selection-model": {
       "stages": {
@@ -549,7 +549,7 @@
       "title": "The persona selection model",
       "published": "2026-02-23",
       "duration_sec": 1404.7,
-      "episode": 39
+      "episode": 316
     },
     "https://www.anthropic.com/research/natural-language-autoencoders": {
       "stages": {
@@ -563,7 +563,7 @@
       "title": "Natural Language Autoencoders",
       "published": "2026-05-07",
       "duration_sec": 1967.1,
-      "episode": 40
+      "episode": 391
     },
     "https://www.anthropic.com/research/coding-agents-social-sciences": {
       "stages": {
@@ -577,7 +577,7 @@
       "title": "Coding agents in the social sciences",
       "published": "2026-05-27",
       "duration_sec": 1593.5,
-      "episode": 41
+      "episode": 416
     },
     "https://www.anthropic.com/research/glasswing-initial-update": {
       "stages": {
@@ -591,7 +591,7 @@
       "title": "Project Glasswing: An initial update",
       "published": "2026-05-22",
       "duration_sec": 1866.8,
-      "episode": 42
+      "episode": 412
     },
     "https://www.anthropic.com/research/teaching-claude-why": {
       "stages": {
@@ -605,7 +605,7 @@
       "title": "Teaching Claude why",
       "published": "2026-05-08",
       "duration_sec": 1518.5,
-      "episode": 43
+      "episode": 392
     },
     "https://www.anthropic.com/research/2028-ai-leadership": {
       "stages": {
@@ -619,7 +619,7 @@
       "title": "2028: Two scenarios for global AI leadership",
       "published": "2026-05-14",
       "duration_sec": 1737.5,
-      "episode": 44
+      "episode": 400
     },
     "https://www.anthropic.com/research/donating-open-source-petri": {
       "stages": {
@@ -633,7 +633,7 @@
       "title": "Donating our open-source alignment tool",
       "published": "2026-05-07",
       "duration_sec": 1619.0,
-      "episode": 45
+      "episode": 389
     },
     "https://www.anthropic.com/research/anthropic-institute-agenda": {
       "stages": {
@@ -647,7 +647,7 @@
       "title": "Focus areas for The Anthropic Institute",
       "published": "2026-05-07",
       "duration_sec": 1648.2,
-      "episode": 46
+      "episode": 390
     },
     "https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench": {
       "stages": {
@@ -661,7 +661,7 @@
       "title": "Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench",
       "published": "2026-04-29",
       "duration_sec": 1606.7,
-      "episode": 47
+      "episode": 377
     },
     "https://www.anthropic.com/research/81k-economics": {
       "stages": {
@@ -675,7 +675,7 @@
       "title": "What 81,000 people told us about the economics of AI",
       "published": "2026-04-22",
       "duration_sec": 1329.5,
-      "episode": 48
+      "episode": 369
     },
     "https://www.anthropic.com/research/economic-index-survey-announcement": {
       "stages": {
@@ -689,7 +689,7 @@
       "title": "Announcing the Anthropic Economic Index Survey",
       "published": "2026-04-22",
       "duration_sec": 1554.4,
-      "episode": 49
+      "episode": 367
     },
     "https://www.anthropic.com/research/trustworthy-agents": {
       "stages": {
@@ -703,7 +703,7 @@
       "title": "Trustworthy agents in practice",
       "published": "2026-04-09",
       "duration_sec": 1550.5,
-      "episode": 50
+      "episode": 355
     },
     "https://www.anthropic.com/research/labor-market-impacts": {
       "stages": {
@@ -717,7 +717,7 @@
       "title": "Labor market impacts of AI: A new measure and early evidence",
       "published": "2026-03-05",
       "duration_sec": 1820.0,
-      "episode": 51,
+      "episode": 323,
       "voice": "zh-CN-XiaoxiaoNeural"
     },
     "https://www.anthropic.com/research/diff-tool": {
@@ -732,7 +732,7 @@
       "title": "A “diff” tool for AI: Finding behavioral differences in new models",
       "published": "2026-03-13",
       "duration_sec": 1568.7,
-      "episode": 52,
+      "episode": 331,
       "voice": "zh-CN-YunxiNeural"
     },
     "https://www.anthropic.com/research/how-australia-uses-claude": {
@@ -747,7 +747,7 @@
       "title": "How Australia Uses Claude: Findings from the Anthropic Economic Index",
       "published": "2026-03-31",
       "duration_sec": 1518.4,
-      "episode": 53
+      "episode": 344
     },
     "https://www.anthropic.com/research/project-fetch-robot-dog": {
       "stages": {
@@ -761,7 +761,7 @@
       "title": "Project Fetch: Can Claude train a robot dog?",
       "published": "2025-11-12",
       "duration_sec": 1517.2,
-      "episode": 54,
+      "episode": 246,
       "voice": "zh-CN-YunyangNeural"
     },
     "https://www.anthropic.com/research/project-vend-2": {
@@ -776,7 +776,7 @@
       "title": "Project Vend: Phase two",
       "published": "2025-12-18",
       "duration_sec": 1825.7,
-      "episode": 55
+      "episode": 272
     },
     "https://www.anthropic.com/research/project-vend-1": {
       "stages": {
@@ -790,7 +790,7 @@
       "title": "Project Vend: Can Claude run a small shop? (And why does that matter?)",
       "published": "2025-06-27",
       "duration_sec": 1561.2,
-      "episode": 56
+      "episode": 173
     },
     "https://www.anthropic.com/research/introducing-anthropic-science": {
       "stages": {
@@ -804,7 +804,7 @@
       "title": "Introducing our Science Blog",
       "published": "2026-03-23",
       "duration_sec": 1992.0,
-      "episode": 57,
+      "episode": 334,
       "voice": "zh-CN-XiaoxiaoNeural"
     },
     "https://www.anthropic.com/research/long-running-Claude": {
@@ -820,7 +820,7 @@
       "published": "2026-03-23",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1520.2,
-      "episode": 58
+      "episode": 335
     },
     "https://www.anthropic.com/research/vibe-physics": {
       "stages": {
@@ -835,7 +835,7 @@
       "published": "2026-03-23",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1561.3,
-      "episode": 59
+      "episode": 337
     },
     "https://www.anthropic.com/research/economic-index-march-2026-report": {
       "stages": {
@@ -850,7 +850,7 @@
       "published": "2026-03-24",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1468.9,
-      "episode": 60
+      "episode": 338
     },
     "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report": {
       "stages": {
@@ -865,7 +865,7 @@
       "published": "2026-01-15",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1836.0,
-      "episode": 61
+      "episode": 281
     },
     "https://www.anthropic.com/research/mapping-mind-language-model": {
       "stages": {
@@ -880,7 +880,7 @@
       "published": "2024-05-21",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1428.6,
-      "episode": 62
+      "episode": 76
     },
     "https://www.anthropic.com/research/deprecation-updates-opus-3": {
       "stages": {
@@ -895,7 +895,7 @@
       "published": "2026-02-25",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1303.2,
-      "episode": 63
+      "episode": 319
     },
     "https://www.anthropic.com/research/AI-fluency-index": {
       "stages": {
@@ -910,7 +910,7 @@
       "published": "2026-02-23",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1578.1,
-      "episode": 64
+      "episode": 314
     },
     "https://www.anthropic.com/research/anthropic-interviewer": {
       "stages": {
@@ -925,7 +925,7 @@
       "published": "2025-12-04",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1407.9,
-      "episode": 65
+      "episode": 264
     },
     "https://www.anthropic.com/research/india-brief-economic-index": {
       "stages": {
@@ -940,7 +940,7 @@
       "published": "2026-02-16",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1341.2,
-      "episode": 66
+      "episode": 309
     },
     "https://www.anthropic.com/research/AI-assistance-coding-skills": {
       "stages": {
@@ -955,7 +955,7 @@
       "published": "2026-01-29",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1736.6,
-      "episode": 67
+      "episode": 297
     },
     "https://www.anthropic.com/research/economic-index-primitives": {
       "stages": {
@@ -970,7 +970,7 @@
       "published": "2026-01-15",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1577.6,
-      "episode": 68
+      "episode": 282
     },
     "https://www.anthropic.com/research/disempowerment-patterns": {
       "stages": {
@@ -985,7 +985,7 @@
       "published": "2026-01-28",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1516.5,
-      "episode": 69
+      "episode": 293
     },
     "https://www.anthropic.com/research/anthropic-economic-index-september-2025-report": {
       "stages": {
@@ -1000,7 +1000,7 @@
       "published": "2025-09-15",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1438.5,
-      "episode": 70
+      "episode": 203
     },
     "https://www.anthropic.com/research/bloom": {
       "stages": {
@@ -1015,22 +1015,7 @@
       "published": "2025-12-19",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1684.6,
-      "episode": 71
-    },
-    "https://www.anthropic.com/research/team/economic-research": {
-      "stages": {
-        "fetched": true,
-        "interpreted": true,
-        "synthesized": true,
-        "packaged": true
-      },
-      "source": "research",
-      "slug": "2026-03-24-Economic Research",
-      "title": "Economic Research",
-      "published": "2026-03-24",
-      "voice": "zh-CN-YunyangNeural",
-      "duration_sec": 1506.2,
-      "episode": 72
+      "episode": 275
     },
     "https://www.anthropic.com/research/prompt-injection-defenses": {
       "stages": {
@@ -1045,52 +1030,7 @@
       "published": "2025-11-24",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1489.1,
-      "episode": 73
-    },
-    "https://www.anthropic.com/research/team/societal-impacts": {
-      "stages": {
-        "fetched": true,
-        "interpreted": true,
-        "synthesized": true,
-        "packaged": true
-      },
-      "source": "research",
-      "slug": "2026-03-18-Societal Impacts Research",
-      "title": "Societal Impacts Research",
-      "published": "2026-03-18",
-      "voice": "zh-CN-YunxiNeural",
-      "duration_sec": 1515.5,
-      "episode": 74
-    },
-    "https://www.anthropic.com/research/team/alignment": {
-      "stages": {
-        "fetched": true,
-        "interpreted": true,
-        "synthesized": true,
-        "packaged": true
-      },
-      "source": "research",
-      "slug": "2026-05-08-Alignment Research",
-      "title": "Alignment Research",
-      "published": "2026-05-08",
-      "voice": "zh-CN-YunyangNeural",
-      "duration_sec": 1268.6,
-      "episode": 75
-    },
-    "https://www.anthropic.com/research/team/interpretability": {
-      "stages": {
-        "fetched": true,
-        "interpreted": true,
-        "synthesized": true,
-        "packaged": true
-      },
-      "source": "research",
-      "slug": "2026-05-07-Interpretability Research",
-      "title": "Interpretability Research",
-      "published": "2026-05-07",
-      "voice": "zh-CN-YunyangNeural",
-      "duration_sec": 1426.7,
-      "episode": 76
+      "episode": 256
     },
     "https://www.anthropic.com/research/constitutional-classifiers": {
       "stages": {
@@ -1105,7 +1045,7 @@
       "published": "2025-02-03",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1585.2,
-      "episode": 77
+      "episode": 127
     },
     "https://www.anthropic.com/research/tracing-thoughts-language-model": {
       "stages": {
@@ -1120,7 +1060,7 @@
       "published": "2025-03-27",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1383.6,
-      "episode": 78
+      "episode": 141
     },
     "https://www.anthropic.com/research/persona-vectors": {
       "stages": {
@@ -1135,7 +1075,7 @@
       "published": "2025-08-01",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1588.4,
-      "episode": 79
+      "episode": 182
     },
     "https://www.anthropic.com/research/toy-models-of-superposition": {
       "stages": {
@@ -1150,7 +1090,7 @@
       "published": "2022-09-14",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1336.3,
-      "episode": 80
+      "episode": 12
     },
     "https://www.anthropic.com/research/claude-character": {
       "stages": {
@@ -1165,7 +1105,7 @@
       "published": "2024-06-08",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1335.9,
-      "episode": 81
+      "episode": 80
     },
     "https://www.anthropic.com/research/alignment-faking": {
       "stages": {
@@ -1180,7 +1120,7 @@
       "published": "2024-12-18",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1310.5,
-      "episode": 82
+      "episode": 120
     },
     "https://www.anthropic.com/research/auditing-hidden-objectives": {
       "stages": {
@@ -1195,7 +1135,7 @@
       "published": "2025-03-13",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1463.6,
-      "episode": 92
+      "episode": 135
     },
     "https://www.anthropic.com/research/reward-tampering": {
       "stages": {
@@ -1210,7 +1150,7 @@
       "published": "2024-06-17",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1711.6,
-      "episode": 83
+      "episode": 84
     },
     "https://www.anthropic.com/research/economic-index-geography": {
       "stages": {
@@ -1225,7 +1165,7 @@
       "published": "2025-09-15",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1809.5,
-      "episode": 84
+      "episode": 202
     },
     "https://www.anthropic.com/research/impact-software-development": {
       "stages": {
@@ -1240,7 +1180,7 @@
       "published": "2025-04-28",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1416.2,
-      "episode": 85
+      "episode": 152
     },
     "https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input": {
       "stages": {
@@ -1255,7 +1195,7 @@
       "published": "2023-10-17",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1659.2,
-      "episode": 86
+      "episode": 49
     },
     "https://www.anthropic.com/research/predictability-and-surprise-in-large-generative-models": {
       "stages": {
@@ -1270,7 +1210,7 @@
       "published": "2022-02-15",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1146.0,
-      "episode": 87
+      "episode": 4
     },
     "https://www.anthropic.com/research/deprecation-commitments": {
       "stages": {
@@ -1285,7 +1225,7 @@
       "published": "2025-11-04",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1142.9,
-      "episode": 88
+      "episode": 242
     },
     "https://www.anthropic.com/research/economic-policy-responses": {
       "stages": {
@@ -1300,7 +1240,7 @@
       "published": "2025-10-14",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1615.7,
-      "episode": 89
+      "episode": 222
     },
     "https://www.anthropic.com/research/small-samples-poison": {
       "stages": {
@@ -1315,7 +1255,7 @@
       "published": "2025-10-09",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1425.6,
-      "episode": 90
+      "episode": 218
     },
     "https://www.anthropic.com/research/petri-open-source-auditing": {
       "stages": {
@@ -1330,7 +1270,7 @@
       "published": "2025-10-06",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1798.6,
-      "episode": 91
+      "episode": 216
     },
     "https://www.anthropic.com/research/building-ai-cyber-defenders": {
       "stages": {
@@ -1345,7 +1285,7 @@
       "published": "2025-10-03",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1501.3,
-      "episode": 93
+      "episode": 213
     },
     "https://www.anthropic.com/research/clio": {
       "stages": {
@@ -1360,7 +1300,7 @@
       "published": "2024-12-12",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1500.4,
-      "episode": 94
+      "episode": 119
     },
     "https://www.anthropic.com/research/end-subset-conversations": {
       "stages": {
@@ -1375,7 +1315,7 @@
       "published": "2025-08-15",
       "voice": "zh-CN-XiaoxiaoNeural",
       "duration_sec": 1416.0,
-      "episode": 95
+      "episode": 189
     },
     "https://www.anthropic.com/research/visible-extended-thinking": {
       "stages": {
@@ -1390,7 +1330,7 @@
       "published": "2025-02-24",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1725.4,
-      "episode": 96
+      "episode": 131
     },
     "https://www.anthropic.com/research/shade-arena-sabotage-monitoring": {
       "stages": {
@@ -1405,7 +1345,7 @@
       "published": "2025-06-16",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1611.4,
-      "episode": 97
+      "episode": 165
     },
     "https://www.anthropic.com/research/agentic-misalignment": {
       "stages": {
@@ -1420,7 +1360,7 @@
       "published": "2025-06-20",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1638.9,
-      "episode": 98
+      "episode": 168
     },
     "https://www.anthropic.com/research/confidential-inference-trusted-vms": {
       "stages": {
@@ -1435,7 +1375,7 @@
       "published": "2025-06-18",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1270.2,
-      "episode": 99
+      "episode": 166
     },
     "https://www.anthropic.com/research/open-source-circuit-tracing": {
       "stages": {
@@ -1450,7 +1390,7 @@
       "published": "2025-05-29",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1410.7,
-      "episode": 100
+      "episode": 160
     },
     "https://www.anthropic.com/research/exploring-model-welfare": {
       "stages": {
@@ -1465,7 +1405,7 @@
       "published": "2025-04-24",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1240.4,
-      "episode": 101
+      "episode": 150
     },
     "https://www.anthropic.com/research/reasoning-models-dont-say-think": {
       "stages": {
@@ -1480,7 +1420,7 @@
       "published": "2025-04-03",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1280.3,
-      "episode": 102
+      "episode": 144
     },
     "https://www.anthropic.com/research/forecasting-rare-behaviors": {
       "stages": {
@@ -1495,7 +1435,7 @@
       "published": "2025-02-25",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1376.4,
-      "episode": 103
+      "episode": 132
     },
     "https://www.anthropic.com/research/crosscoder-model-diffing": {
       "stages": {
@@ -1510,7 +1450,7 @@
       "published": "2025-02-20",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1568.4,
-      "episode": 104
+      "episode": 129
     },
     "https://www.anthropic.com/research/evaluating-ai-systems": {
       "stages": {
@@ -1525,7 +1465,7 @@
       "published": "2023-10-04",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1562.2,
-      "episode": 105
+      "episode": 46
     },
     "https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback": {
       "stages": {
@@ -1540,7 +1480,7 @@
       "published": "2022-04-12",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1377.7,
-      "episode": 106
+      "episode": 6
     },
     "https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models": {
       "stages": {
@@ -1555,7 +1495,7 @@
       "published": "2023-10-23",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1312.6,
-      "episode": 107
+      "episode": 50
     },
     "https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning": {
       "stages": {
@@ -1570,7 +1510,7 @@
       "published": "2023-10-05",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1529.9,
-      "episode": 108
+      "episode": 48
     },
     "https://www.anthropic.com/research/towards-measuring-the-representation-of-subjective-global-opinions-in-language-models": {
       "stages": {
@@ -1585,7 +1525,7 @@
       "published": "2023-06-29",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1332.6,
-      "episode": 109
+      "episode": 31
     },
     "https://www.anthropic.com/research/the-capacity-for-moral-self-correction-in-large-language-models": {
       "stages": {
@@ -1600,7 +1540,7 @@
       "published": "2023-02-15",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1480.2,
-      "episode": 110
+      "episode": 18
     },
     "https://www.anthropic.com/research/swe-bench-sonnet": {
       "stages": {
@@ -1615,7 +1555,7 @@
       "published": "2025-01-06",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1591.1,
-      "episode": 111
+      "episode": 124
     },
     "https://www.anthropic.com/research/superposition-memorization-and-double-descent": {
       "stages": {
@@ -1630,7 +1570,7 @@
       "published": "2023-01-05",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1397.9,
-      "episode": 112
+      "episode": 16
     },
     "https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions": {
       "stages": {
@@ -1645,7 +1585,7 @@
       "published": "2023-08-08",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1237.8,
-      "episode": 113
+      "episode": 37
     },
     "https://www.anthropic.com/research/specific-versus-general-principles-for-constitutional-ai": {
       "stages": {
@@ -1660,7 +1600,7 @@
       "published": "2023-10-24",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1337.4,
-      "episode": 114
+      "episode": 51
     },
     "https://www.anthropic.com/research/softmax-linear-units": {
       "stages": {
@@ -1675,7 +1615,7 @@
       "published": "2022-06-17",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1504.4,
-      "episode": 115
+      "episode": 9
     },
     "https://www.anthropic.com/research/scaling-laws-and-interpretability-of-learning-from-repeated-data": {
       "stages": {
@@ -1690,7 +1630,7 @@
       "published": "2022-05-21",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1550.7,
-      "episode": 116
+      "episode": 8
     },
     "https://www.anthropic.com/research/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned": {
       "stages": {
@@ -1705,7 +1645,7 @@
       "published": "2022-08-22",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1275.3,
-      "episode": 117
+      "episode": 11
     },
     "https://www.anthropic.com/research/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning": {
       "stages": {
@@ -1720,7 +1660,7 @@
       "published": "2023-07-18",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1353.7,
-      "episode": 118
+      "episode": 34
     },
     "https://www.anthropic.com/research/privileged-bases-in-the-transformer-residual-stream": {
       "stages": {
@@ -1735,7 +1675,7 @@
       "published": "2023-03-16",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1447.8,
-      "episode": 119
+      "episode": 21
     },
     "https://www.anthropic.com/research/measuring-progress-on-scalable-oversight-for-large-language-models": {
       "stages": {
@@ -1750,7 +1690,7 @@
       "published": "2022-11-04",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1174.6,
-      "episode": 120
+      "episode": 13
     },
     "https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning": {
       "stages": {
@@ -1765,7 +1705,7 @@
       "published": "2023-07-18",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1366.6,
-      "episode": 121
+      "episode": 33
     },
     "https://www.anthropic.com/research/interpretability-dreams": {
       "stages": {
@@ -1780,7 +1720,7 @@
       "published": "2023-05-24",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1437.6,
-      "episode": 122
+      "episode": 29
     },
     "https://www.anthropic.com/research/language-models-mostly-know-what-they-know": {
       "stages": {
@@ -1795,7 +1735,7 @@
       "published": "2022-07-11",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1344.0,
-      "episode": 123
+      "episode": 10
     },
     "https://www.anthropic.com/research/many-shot-jailbreaking": {
       "stages": {
@@ -1810,7 +1750,7 @@
       "published": "2024-04-02",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1106.7,
-      "episode": 124
+      "episode": 66
     },
     "https://www.anthropic.com/research/influence-functions": {
       "stages": {
@@ -1825,7 +1765,7 @@
       "published": "2023-08-08",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1305.1,
-      "episode": 125
+      "episode": 38
     },
     "https://www.anthropic.com/research/evaluating-feature-steering": {
       "stages": {
@@ -1840,7 +1780,7 @@
       "published": "2024-10-25",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1384.1,
-      "episode": 126
+      "episode": 112
     },
     "https://www.anthropic.com/research/distributed-representations-composition-superposition": {
       "stages": {
@@ -1855,7 +1795,7 @@
       "published": "2023-05-04",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1384.5,
-      "episode": 127
+      "episode": 24
     },
     "https://www.anthropic.com/research/discovering-language-model-behaviors-with-model-written-evaluations": {
       "stages": {
@@ -1870,7 +1810,7 @@
       "published": "2022-12-19",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1584.7,
-      "episode": 128
+      "episode": 15
     },
     "https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback": {
       "stages": {
@@ -1885,7 +1825,7 @@
       "published": "2022-12-15",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1481.2,
-      "episode": 129
+      "episode": 14
     },
     "https://www.anthropic.com/research/circuits-updates-may-2023": {
       "stages": {
@@ -1900,7 +1840,7 @@
       "published": "2023-05-24",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1465.0,
-      "episode": 130
+      "episode": 28
     },
     "https://www.anthropic.com/research/a-general-language-assistant-as-a-laboratory-for-alignment": {
       "stages": {
@@ -1915,7 +1855,7 @@
       "published": "2021-12-01",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1424.8,
-      "episode": 131
+      "episode": 2
     },
     "https://www.anthropic.com/research/building-effective-agents": {
       "stages": {
@@ -1930,7 +1870,7 @@
       "published": "2024-12-19",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1725.6,
-      "episode": 132
+      "episode": 122
     },
     "https://www.anthropic.com/research/statistical-approach-to-model-evals": {
       "stages": {
@@ -1945,7 +1885,7 @@
       "published": "2024-11-19",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1597.3,
-      "episode": 133
+      "episode": 115
     },
     "https://www.anthropic.com/research/sabotage-evaluations": {
       "stages": {
@@ -1960,7 +1900,7 @@
       "published": "2024-10-18",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1460.7,
-      "episode": 135
+      "episode": 109
     },
     "https://www.anthropic.com/research/features-as-classifiers": {
       "stages": {
@@ -1975,7 +1915,7 @@
       "published": "2024-10-16",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1207.3,
-      "episode": 136
+      "episode": 108
     },
     "https://www.anthropic.com/research/circuits-updates-june-2024": {
       "stages": {
@@ -1990,7 +1930,7 @@
       "published": "2024-06-28",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1272.4,
-      "episode": 137
+      "episode": 86
     },
     "https://www.anthropic.com/research/circuits-updates-sept-2024": {
       "stages": {
@@ -2005,7 +1945,7 @@
       "published": "2024-10-01",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1412.1,
-      "episode": 154
+      "episode": 103
     },
     "https://www.anthropic.com/research/measuring-model-persuasiveness": {
       "stages": {
@@ -2020,7 +1960,7 @@
       "published": "2024-04-09",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1443.3,
-      "episode": 155
+      "episode": 67
     },
     "https://www.anthropic.com/research/circuits-updates-august-2024": {
       "stages": {
@@ -2035,7 +1975,7 @@
       "published": "2024-09-06",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1509.0,
-      "episode": 159
+      "episode": 98
     },
     "https://www.anthropic.com/research/a-mathematical-framework-for-transformer-circuits": {
       "stages": {
@@ -2050,7 +1990,7 @@
       "published": "2021-12-22",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1489.6,
-      "episode": 156
+      "episode": 3
     },
     "https://www.anthropic.com/research/decomposing-language-models-into-understandable-components": {
       "stages": {
@@ -2065,7 +2005,7 @@
       "published": "2023-10-05",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1657.7,
-      "episode": 157
+      "episode": 47
     },
     "https://www.anthropic.com/research/evaluating-and-mitigating-discrimination-in-language-model-decisions": {
       "stages": {
@@ -2080,7 +2020,7 @@
       "published": "2023-12-07",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1212.4,
-      "episode": 158
+      "episode": 56
     },
     "https://www.anthropic.com/research/in-context-learning-and-induction-heads": {
       "stages": {
@@ -2095,7 +2035,7 @@
       "published": "2022-03-08",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1306.5,
-      "episode": 160
+      "episode": 5
     },
     "https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training": {
       "stages": {
@@ -2110,7 +2050,7 @@
       "published": "2024-01-14",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1277.1,
-      "episode": 161
+      "episode": 58
     },
     "https://www.anthropic.com/research/transformer-circuits": {
       "stages": {
@@ -2125,7 +2065,7 @@
       "published": "2024-03-08",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1406.4,
-      "episode": 162
+      "episode": 62
     },
     "https://www.anthropic.com/research/circuits-updates-july-2024": {
       "stages": {
@@ -2140,7 +2080,7 @@
       "published": "2024-07-31",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1797.6,
-      "episode": 163
+      "episode": 94
     },
     "https://www.anthropic.com/research/engineering-challenges-interpretability": {
       "stages": {
@@ -2155,7 +2095,7 @@
       "published": "2024-06-13",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1704.8,
-      "episode": 164
+      "episode": 82
     },
     "https://www.anthropic.com/research/probes-catch-sleeper-agents": {
       "stages": {
@@ -2170,7 +2110,7 @@
       "published": "2024-04-23",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1353.5,
-      "episode": 165
+      "episode": 69
     },
     "https://www.anthropic.com/research/circuits-updates-april-2024": {
       "stages": {
@@ -2185,7 +2125,7 @@
       "published": "2024-04-26",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1629.8,
-      "episode": 166
+      "episode": 70
     },
     "https://www.anthropic.com/news/tcs-anthropic-partnership": {
       "stages": {
@@ -4252,7 +4192,7 @@
       "published": "2023-08-23",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1337.1,
-      "episode": 338
+      "episode": 40
     },
     "https://claude.com/blog/amazon-bedrock-general-availability": {
       "stages": {
@@ -4267,7 +4207,7 @@
       "published": "2023-09-28",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1078.0,
-      "episode": 337
+      "episode": 45
     },
     "https://claude.com/blog/claude-2-1-prompting": {
       "stages": {
@@ -4282,7 +4222,7 @@
       "published": "2023-12-06",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1102.4,
-      "episode": 336
+      "episode": 55
     },
     "https://claude.com/blog/team-plan-and-ios": {
       "stages": {
@@ -4297,7 +4237,7 @@
       "published": "2024-05-01",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1207.0,
-      "episode": 335
+      "episode": 71
     },
     "https://claude.com/blog/prompt-generator": {
       "stages": {
@@ -4312,7 +4252,7 @@
       "published": "2024-05-20",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1020.8,
-      "episode": 334
+      "episode": 75
     },
     "https://claude.com/blog/tool-use-ga": {
       "stages": {
@@ -4327,7 +4267,7 @@
       "published": "2024-05-30",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1318.4,
-      "episode": 333
+      "episode": 78
     },
     "https://claude.com/blog/evaluate-prompts": {
       "stages": {
@@ -4342,7 +4282,7 @@
       "published": "2024-07-09",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1051.8,
-      "episode": 332
+      "episode": 89
     },
     "https://claude.com/blog/fine-tune-claude-3-haiku": {
       "stages": {
@@ -4357,7 +4297,7 @@
       "published": "2024-07-10",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1275.6,
-      "episode": 331
+      "episode": 90
     },
     "https://claude.com/blog/android-app": {
       "stages": {
@@ -4372,7 +4312,7 @@
       "published": "2024-07-16",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1246.3,
-      "episode": 330
+      "episode": 92
     },
     "https://claude.com/blog/artifacts": {
       "stages": {
@@ -4387,7 +4327,7 @@
       "published": "2024-08-27",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1120.8,
-      "episode": 329
+      "episode": 96
     },
     "https://claude.com/blog/claude-for-enterprise": {
       "stages": {
@@ -4402,7 +4342,7 @@
       "published": "2024-09-10",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1240.6,
-      "episode": 327
+      "episode": 99
     },
     "https://claude.com/blog/workspaces": {
       "stages": {
@@ -4417,7 +4357,7 @@
       "published": "2024-09-10",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1021.6,
-      "episode": 328
+      "episode": 100
     },
     "https://claude.com/blog/message-batches-api": {
       "stages": {
@@ -4432,7 +4372,7 @@
       "published": "2024-10-08",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1027.8,
-      "episode": 326
+      "episode": 105
     },
     "https://claude.com/blog/prompt-improver": {
       "stages": {
@@ -4447,7 +4387,7 @@
       "published": "2024-10-14",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1298.8,
-      "episode": 325
+      "episode": 107
     },
     "https://claude.com/blog/analysis-tool": {
       "stages": {
@@ -4462,7 +4402,7 @@
       "published": "2024-10-24",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1132.0,
-      "episode": 324
+      "episode": 111
     },
     "https://claude.com/blog/trainium2-and-distillation": {
       "stages": {
@@ -4477,7 +4417,7 @@
       "published": "2024-12-03",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1160.2,
-      "episode": 323
+      "episode": 117
     },
     "https://claude.com/blog/upgraded-anthropic-console": {
       "stages": {
@@ -4492,7 +4432,7 @@
       "published": "2025-03-06",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1491.3,
-      "episode": 322
+      "episode": 134
     },
     "https://claude.com/blog/token-saving-updates": {
       "stages": {
@@ -4507,7 +4447,7 @@
       "published": "2025-03-13",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1160.8,
-      "episode": 321
+      "episode": 136
     },
     "https://claude.com/blog/web-search": {
       "stages": {
@@ -4522,7 +4462,7 @@
       "published": "2025-03-20",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1317.2,
-      "episode": 320
+      "episode": 138
     },
     "https://claude.com/blog/claude-on-google-cloud-fedramp-high": {
       "stages": {
@@ -4537,7 +4477,7 @@
       "published": "2025-04-02",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1119.9,
-      "episode": 319
+      "episode": 143
     },
     "https://claude.com/blog/max-plan": {
       "stages": {
@@ -4552,7 +4492,7 @@
       "published": "2025-04-09",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1231.1,
-      "episode": 318
+      "episode": 146
     },
     "https://claude.com/blog/research": {
       "stages": {
@@ -4567,7 +4507,7 @@
       "published": "2025-04-15",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1440.3,
-      "episode": 317
+      "episode": 147
     },
     "https://claude.com/blog/integrations": {
       "stages": {
@@ -4582,7 +4522,7 @@
       "published": "2025-05-01",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1036.4,
-      "episode": 316
+      "episode": 153
     },
     "https://claude.com/blog/web-search-api": {
       "stages": {
@@ -4597,7 +4537,7 @@
       "published": "2025-05-07",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1276.6,
-      "episode": 315
+      "episode": 155
     },
     "https://claude.com/blog/agent-capabilities-api": {
       "stages": {
@@ -4612,7 +4552,7 @@
       "published": "2025-05-22",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1289.8,
-      "episode": 314
+      "episode": 158
     },
     "https://claude.com/blog/claude-code-remote-mcp": {
       "stages": {
@@ -4627,7 +4567,7 @@
       "published": "2025-06-18",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1084.4,
-      "episode": 313
+      "episode": 167
     },
     "https://claude.com/blog/introducing-citations-api": {
       "stages": {
@@ -4642,7 +4582,7 @@
       "published": "2025-06-23",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1020.9,
-      "episode": 312
+      "episode": 170
     },
     "https://claude.com/blog/build-artifacts": {
       "stages": {
@@ -4657,7 +4597,7 @@
       "published": "2025-06-25",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1169.9,
-      "episode": 311
+      "episode": 171
     },
     "https://claude.com/blog/connectors-directory": {
       "stages": {
@@ -4672,7 +4612,7 @@
       "published": "2025-07-14",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1051.4,
-      "episode": 310
+      "episode": 176
     },
     "https://claude.com/blog/how-anthropic-teams-use-claude-code": {
       "stages": {
@@ -4687,7 +4627,7 @@
       "published": "2025-07-24",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1167.1,
-      "episode": 309
+      "episode": 179
     },
     "https://claude.com/blog/claude-powered-artifacts": {
       "stages": {
@@ -4702,7 +4642,7 @@
       "published": "2025-07-25",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1434.6,
-      "episode": 308
+      "episode": 180
     },
     "https://claude.com/blog/automate-security-reviews-with-claude-code": {
       "stages": {
@@ -4717,7 +4657,7 @@
       "published": "2025-08-06",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1550.6,
-      "episode": 307
+      "episode": 184
     },
     "https://claude.com/blog/1m-context": {
       "stages": {
@@ -4732,7 +4672,7 @@
       "published": "2025-08-12",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1536.3,
-      "episode": 306
+      "episode": 187
     },
     "https://claude.com/blog/prompt-caching": {
       "stages": {
@@ -4747,7 +4687,7 @@
       "published": "2025-08-14",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1146.9,
-      "episode": 305
+      "episode": 188
     },
     "https://claude.com/blog/claude-code-and-new-admin-controls-for-business-plans": {
       "stages": {
@@ -4762,7 +4702,7 @@
       "published": "2025-08-20",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1137.0,
-      "episode": 304
+      "episode": 191
     },
     "https://claude.com/blog/claude-for-chrome": {
       "stages": {
@@ -4777,7 +4717,7 @@
       "published": "2025-08-25",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1160.1,
-      "episode": 303
+      "episode": 194
     },
     "https://claude.com/blog/create-files": {
       "stages": {
@@ -4792,7 +4732,7 @@
       "published": "2025-09-09",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1181.2,
-      "episode": 302
+      "episode": 198
     },
     "https://claude.com/blog/memory": {
       "stages": {
@@ -4807,7 +4747,7 @@
       "published": "2025-09-11",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1137.9,
-      "episode": 301
+      "episode": 199
     },
     "https://claude.com/blog/claude-now-available-in-microsoft-365-copilot": {
       "stages": {
@@ -4822,7 +4762,7 @@
       "published": "2025-09-24",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1248.3,
-      "episode": 300
+      "episode": 206
     },
     "https://claude.com/blog/building-agents-with-the-claude-agent-sdk": {
       "stages": {
@@ -4837,7 +4777,7 @@
       "published": "2025-09-29",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1456.9,
-      "episode": 298
+      "episode": 208
     },
     "https://claude.com/blog/context-management": {
       "stages": {
@@ -4852,7 +4792,7 @@
       "published": "2025-09-29",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1275.3,
-      "episode": 299
+      "episode": 210
     },
     "https://claude.com/blog/claude-and-slack": {
       "stages": {
@@ -4867,7 +4807,7 @@
       "published": "2025-10-01",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1323.3,
-      "episode": 297
+      "episode": 211
     },
     "https://claude.com/blog/driving-ai-transformation-with-claude": {
       "stages": {
@@ -4882,7 +4822,7 @@
       "published": "2025-10-01",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1242.4,
-      "episode": 296
+      "episode": 212
     },
     "https://claude.com/blog/optimize-code-performance-quickly": {
       "stages": {
@@ -4897,7 +4837,7 @@
       "published": "2025-10-06",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1340.9,
-      "episode": 295
+      "episode": 215
     },
     "https://claude.com/blog/beyond-permission-prompts-making-claude-code-more-secure-and-autonomous": {
       "stages": {
@@ -4912,7 +4852,7 @@
       "published": "2025-10-08",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1371.5,
-      "episode": 294
+      "episode": 217
     },
     "https://claude.com/blog/claude-code-plugins": {
       "stages": {
@@ -4927,7 +4867,7 @@
       "published": "2025-10-09",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1207.8,
-      "episode": 293
+      "episode": 219
     },
     "https://claude.com/blog/build-responsive-web-layouts": {
       "stages": {
@@ -4942,7 +4882,7 @@
       "published": "2025-10-10",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1311.0,
-      "episode": 292
+      "episode": 220
     },
     "https://claude.com/blog/scaling-agentic-coding": {
       "stages": {
@@ -4957,7 +4897,7 @@
       "published": "2025-10-15",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1428.2,
-      "episode": 291
+      "episode": 223
     },
     "https://claude.com/blog/productivity-platforms": {
       "stages": {
@@ -4972,7 +4912,7 @@
       "published": "2025-10-16",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1327.8,
-      "episode": 289
+      "episode": 224
     },
     "https://claude.com/blog/skills": {
       "stages": {
@@ -4987,7 +4927,7 @@
       "published": "2025-10-16",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1212.1,
-      "episode": 290
+      "episode": 226
     },
     "https://claude.com/blog/claude-code-on-the-web": {
       "stages": {
@@ -5002,7 +4942,7 @@
       "published": "2025-10-20",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1121.7,
-      "episode": 288
+      "episode": 228
     },
     "https://claude.com/blog/integrate-apis-seamlessly": {
       "stages": {
@@ -5017,7 +4957,7 @@
       "published": "2025-10-27",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1083.6,
-      "episode": 287
+      "episode": 231
     },
     "https://claude.com/blog/fix-software-bugs-faster-with-claude": {
       "stages": {
@@ -5032,7 +4972,7 @@
       "published": "2025-10-28",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1172.8,
-      "episode": 283
+      "episode": 232
     },
     "https://claude.com/blog/building-ai-agents-in-financial-services": {
       "stages": {
@@ -5047,7 +4987,7 @@
       "published": "2025-10-30",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1272.7,
-      "episode": 281
+      "episode": 234
     },
     "https://claude.com/blog/building-ai-agents-in-healthcare-and-life-sciences": {
       "stages": {
@@ -5062,7 +5002,7 @@
       "published": "2025-10-30",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1383.9,
-      "episode": 280
+      "episode": 235
     },
     "https://claude.com/blog/how-brex-improves-code-quality-and-productivity-with-claude-code": {
       "stages": {
@@ -5077,7 +5017,7 @@
       "published": "2025-10-30",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1329.4,
-      "episode": 282
+      "episode": 236
     },
     "https://claude.com/blog/introduction-to-agentic-coding": {
       "stages": {
@@ -5092,7 +5032,7 @@
       "published": "2025-10-30",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1079.1,
-      "episode": 279
+      "episode": 237
     },
     "https://claude.com/blog/what-is-model-context-protocol": {
       "stages": {
@@ -5107,7 +5047,7 @@
       "published": "2025-10-31",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1248.8,
-      "episode": 278
+      "episode": 238
     },
     "https://claude.com/blog/building-ai-agents-for-startups": {
       "stages": {
@@ -5122,7 +5062,7 @@
       "published": "2025-11-03",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1289.4,
-      "episode": 277
+      "episode": 240
     },
     "https://claude.com/blog/best-practices-for-prompt-engineering": {
       "stages": {
@@ -5137,7 +5077,7 @@
       "published": "2025-11-10",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1551.9,
-      "episode": 276
+      "episode": 244
     },
     "https://claude.com/blog/improving-frontend-design-through-skills": {
       "stages": {
@@ -5152,7 +5092,7 @@
       "published": "2025-11-12",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1539.7,
-      "episode": 275
+      "episode": 245
     },
     "https://claude.com/blog/skills-explained": {
       "stages": {
@@ -5167,7 +5107,7 @@
       "published": "2025-11-13",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1249.8,
-      "episode": 274
+      "episode": 247
     },
     "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform": {
       "stages": {
@@ -5182,7 +5122,7 @@
       "published": "2025-11-14",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1365.3,
-      "episode": 273
+      "episode": 248
     },
     "https://claude.com/blog/building-companies-with-claude-code": {
       "stages": {
@@ -5197,7 +5137,7 @@
       "published": "2025-11-17",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1699.8,
-      "episode": 272
+      "episode": 250
     },
     "https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples": {
       "stages": {
@@ -5212,7 +5152,7 @@
       "published": "2025-11-19",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1336.2,
-      "episode": 271
+      "episode": 251
     },
     "https://claude.com/blog/your-thinking-partner": {
       "stages": {
@@ -5227,7 +5167,7 @@
       "published": "2025-11-20",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1253.5,
-      "episode": 270
+      "episode": 252
     },
     "https://claude.com/blog/using-claude-md-files": {
       "stages": {
@@ -5242,7 +5182,7 @@
       "published": "2025-11-25",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1642.1,
-      "episode": 269
+      "episode": 258
     },
     "https://claude.com/blog/key-benefits-transitioning-agentic-coding": {
       "stages": {
@@ -5257,7 +5197,7 @@
       "published": "2025-12-01",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1220.1,
-      "episode": 268
+      "episode": 262
     },
     "https://claude.com/blog/claude-code-and-slack": {
       "stages": {
@@ -5272,7 +5212,7 @@
       "published": "2025-12-08",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1361.6,
-      "episode": 267
+      "episode": 266
     },
     "https://claude.com/blog/how-anthropic-uses-claude-legal": {
       "stages": {
@@ -5287,7 +5227,7 @@
       "published": "2025-12-08",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1313.1,
-      "episode": 266
+      "episode": 267
     },
     "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026": {
       "stages": {
@@ -5302,7 +5242,7 @@
       "published": "2025-12-09",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1158.0,
-      "episode": 265
+      "episode": 268
     },
     "https://claude.com/blog/how-to-configure-hooks": {
       "stages": {
@@ -5317,7 +5257,7 @@
       "published": "2025-12-11",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1345.1,
-      "episode": 264
+      "episode": 269
     },
     "https://claude.com/blog/making-claude-a-better-electrical-engineer": {
       "stages": {
@@ -5332,7 +5272,7 @@
       "published": "2025-12-12",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1291.0,
-      "episode": 263
+      "episode": 270
     },
     "https://claude.com/blog/organization-skills-and-directory": {
       "stages": {
@@ -5347,7 +5287,7 @@
       "published": "2025-12-18",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1242.2,
-      "episode": 262
+      "episode": 273
     },
     "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers": {
       "stages": {
@@ -5362,7 +5302,7 @@
       "published": "2025-12-19",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1277.4,
-      "episode": 261
+      "episode": 274
     },
     "https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026": {
       "stages": {
@@ -5377,7 +5317,7 @@
       "published": "2026-01-21",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1366.5,
-      "episode": 260
+      "episode": 287
     },
     "https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work": {
       "stages": {
@@ -5392,7 +5332,7 @@
       "published": "2026-01-22",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1466.3,
-      "episode": 259
+      "episode": 288
     },
     "https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them": {
       "stages": {
@@ -5407,7 +5347,7 @@
       "published": "2026-01-23",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1599.3,
-      "episode": 258
+      "episode": 289
     },
     "https://claude.com/blog/how-anthropic-uses-claude-marketing": {
       "stages": {
@@ -5422,7 +5362,7 @@
       "published": "2026-01-26",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1386.7,
-      "episode": 257
+      "episode": 291
     },
     "https://claude.com/blog/interactive-tools-in-claude": {
       "stages": {
@@ -5437,7 +5377,7 @@
       "published": "2026-01-26",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1136.6,
-      "episode": 256
+      "episode": 292
     },
     "https://claude.com/blog/how-leading-retailers-are-turning-ai-pilots-into-enterprise-wide-transformation": {
       "stages": {
@@ -5452,7 +5392,7 @@
       "published": "2026-01-28",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1277.5,
-      "episode": 254
+      "episode": 294
     },
     "https://claude.com/blog/claude-team-updates": {
       "stages": {
@@ -5467,7 +5407,7 @@
       "published": "2026-01-28",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1191.5,
-      "episode": 255
+      "episode": 295
     },
     "https://claude.com/blog/complete-guide-to-building-skills-for-claude": {
       "stages": {
@@ -5482,7 +5422,7 @@
       "published": "2026-01-29",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1178.1,
-      "episode": 285
+      "episode": 296
     },
     "https://claude.com/blog/contribution-metrics": {
       "stages": {
@@ -5497,7 +5437,7 @@
       "published": "2026-01-29",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1224.9,
-      "episode": 286
+      "episode": 298
     },
     "https://claude.com/blog/cowork-plugins": {
       "stages": {
@@ -5512,7 +5452,7 @@
       "published": "2026-01-30",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1048.2,
-      "episode": 284
+      "episode": 299
     },
     "https://claude.com/blog/opus-4-6-finance": {
       "stages": {
@@ -5527,7 +5467,7 @@
       "published": "2026-02-05",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1338.8,
-      "episode": 253
+      "episode": 301
     },
     "https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early": {
       "stages": {
@@ -5542,7 +5482,7 @@
       "published": "2026-02-09",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1312.0,
-      "episode": 252
+      "episode": 306
     },
     "https://claude.com/blog/self-serve-enterprise": {
       "stages": {
@@ -5557,7 +5497,7 @@
       "published": "2026-02-12",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1136.3,
-      "episode": 251
+      "episode": 307
     },
     "https://claude.com/blog/improved-web-search-with-dynamic-filtering": {
       "stages": {
@@ -5572,7 +5512,7 @@
       "published": "2026-02-17",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1355.2,
-      "episode": 250
+      "episode": 310
     },
     "https://claude.com/blog/preview-review-and-merge-with-claude-code": {
       "stages": {
@@ -5587,7 +5527,7 @@
       "published": "2026-02-20",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1319.8,
-      "episode": 249
+      "episode": 312
     },
     "https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization": {
       "stages": {
@@ -5602,7 +5542,7 @@
       "published": "2026-02-23",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1117.1,
-      "episode": 248
+      "episode": 315
     },
     "https://claude.com/blog/cowork-plugins-finance": {
       "stages": {
@@ -5617,7 +5557,7 @@
       "published": "2026-02-24",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1498.2,
-      "episode": 246
+      "episode": 317
     },
     "https://claude.com/blog/cowork-plugins-across-enterprise": {
       "stages": {
@@ -5632,7 +5572,7 @@
       "published": "2026-02-24",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1200.0,
-      "episode": 247
+      "episode": 318
     },
     "https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills": {
       "stages": {
@@ -5647,7 +5587,7 @@
       "published": "2026-03-03",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1718.5,
-      "episode": 245
+      "episode": 321
     },
     "https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them": {
       "stages": {
@@ -5662,7 +5602,7 @@
       "published": "2026-03-05",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1246.8,
-      "episode": 244
+      "episode": 322
     },
     "https://claude.com/blog/code-review": {
       "stages": {
@@ -5677,7 +5617,7 @@
       "published": "2026-03-09",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1152.2,
-      "episode": 243
+      "episode": 327
     },
     "https://claude.com/blog/claude-excel-powerpoint-updates": {
       "stages": {
@@ -5692,7 +5632,7 @@
       "published": "2026-03-11",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1086.6,
-      "episode": 242
+      "episode": 328
     },
     "https://claude.com/blog/claude-builds-visuals": {
       "stages": {
@@ -5707,7 +5647,7 @@
       "published": "2026-03-12",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1211.4,
-      "episode": 241
+      "episode": 329
     },
     "https://claude.com/blog/1m-context-ga": {
       "stages": {
@@ -5722,7 +5662,7 @@
       "published": "2026-03-13",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1288.6,
-      "episode": 240
+      "episode": 330
     },
     "https://claude.com/blog/code-with-claude-san-francisco-london-tokyo": {
       "stages": {
@@ -5737,7 +5677,7 @@
       "published": "2026-03-18",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 975.2,
-      "episode": 239
+      "episode": 332
     },
     "https://claude.com/blog/product-management-on-the-ai-exponential": {
       "stages": {
@@ -5752,7 +5692,7 @@
       "published": "2026-03-19",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1475.1,
-      "episode": 230
+      "episode": 333
     },
     "https://claude.com/blog/dispatch-and-computer-use": {
       "stages": {
@@ -5767,7 +5707,7 @@
       "published": "2026-03-23",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1428.6,
-      "episode": 229
+      "episode": 336
     },
     "https://claude.com/blog/auto-mode": {
       "stages": {
@@ -5782,7 +5722,7 @@
       "published": "2026-03-24",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1461.5,
-      "episode": 228
+      "episode": 339
     },
     "https://claude.com/blog/claude-platform-compliance-api": {
       "stages": {
@@ -5797,7 +5737,7 @@
       "published": "2026-03-30",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1422.5,
-      "episode": 227
+      "episode": 343
     },
     "https://claude.com/blog/harnessing-claudes-intelligence": {
       "stages": {
@@ -5812,7 +5752,7 @@
       "published": "2026-04-02",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1626.0,
-      "episode": 197
+      "episode": 346
     },
     "https://claude.com/blog/subagents-in-claude-code": {
       "stages": {
@@ -5827,7 +5767,7 @@
       "published": "2026-04-07",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1666.1,
-      "episode": 226
+      "episode": 349
     },
     "https://claude.com/blog/claude-managed-agents": {
       "stages": {
@@ -5842,7 +5782,7 @@
       "published": "2026-04-08",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1567.2,
-      "episode": 176
+      "episode": 350
     },
     "https://claude.com/blog/carta-healthcare-clinical-abstractor": {
       "stages": {
@@ -5857,7 +5797,7 @@
       "published": "2026-04-08",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1343.6,
-      "episode": 238
+      "episode": 351
     },
     "https://claude.com/blog/cowork-for-enterprise": {
       "stages": {
@@ -5872,7 +5812,7 @@
       "published": "2026-04-09",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1280.0,
-      "episode": 237
+      "episode": 353
     },
     "https://claude.com/blog/the-advisor-strategy": {
       "stages": {
@@ -5887,7 +5827,7 @@
       "published": "2026-04-09",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1157.0,
-      "episode": 236
+      "episode": 354
     },
     "https://claude.com/blog/multi-agent-coordination-patterns": {
       "stages": {
@@ -5902,7 +5842,7 @@
       "published": "2026-04-10",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1585.1,
-      "episode": 225
+      "episode": 356
     },
     "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense": {
       "stages": {
@@ -5917,7 +5857,7 @@
       "published": "2026-04-10",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1694.9,
-      "episode": 175
+      "episode": 357
     },
     "https://claude.com/blog/seeing-like-an-agent": {
       "stages": {
@@ -5932,7 +5872,7 @@
       "published": "2026-04-10",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1630.5,
-      "episode": 235
+      "episode": 358
     },
     "https://claude.com/blog/introducing-routines-in-claude-code": {
       "stages": {
@@ -5947,7 +5887,7 @@
       "published": "2026-04-14",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1114.6,
-      "episode": 233
+      "episode": 361
     },
     "https://claude.com/blog/claude-code-desktop-redesign": {
       "stages": {
@@ -5962,7 +5902,7 @@
       "published": "2026-04-14",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1289.6,
-      "episode": 174
+      "episode": 362
     },
     "https://claude.com/blog/using-claude-code-session-management-and-1m-context": {
       "stages": {
@@ -5977,7 +5917,7 @@
       "published": "2026-04-15",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1492.7,
-      "episode": 224
+      "episode": 363
     },
     "https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code": {
       "stages": {
@@ -5992,7 +5932,7 @@
       "published": "2026-04-16",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1389.4,
-      "episode": 234
+      "episode": 364
     },
     "https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon": {
       "stages": {
@@ -6007,7 +5947,7 @@
       "published": "2026-04-20",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1529.8,
-      "episode": 223
+      "episode": 366
     },
     "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp": {
       "stages": {
@@ -6022,7 +5962,7 @@
       "published": "2026-04-22",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1531.8,
-      "episode": 232
+      "episode": 368
     },
     "https://claude.com/blog/claude-managed-agents-memory": {
       "stages": {
@@ -6037,7 +5977,7 @@
       "published": "2026-04-23",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1554.0,
-      "episode": 173
+      "episode": 371
     },
     "https://claude.com/blog/connectors-for-everyday-life": {
       "stages": {
@@ -6052,7 +5992,7 @@
       "published": "2026-04-23",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1577.3,
-      "episode": 171
+      "episode": 372
     },
     "https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development": {
       "stages": {
@@ -6067,7 +6007,7 @@
       "published": "2026-04-28",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1541.2,
-      "episode": 231
+      "episode": 374
     },
     "https://claude.com/blog/claude-api-skill": {
       "stages": {
@@ -6082,7 +6022,7 @@
       "published": "2026-04-29",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1552.4,
-      "episode": 221
+      "episode": 375
     },
     "https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork": {
       "stages": {
@@ -6097,7 +6037,7 @@
       "published": "2026-04-29",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1578.8,
-      "episode": 220
+      "episode": 376
     },
     "https://claude.com/blog/product-development-in-the-agentic-era": {
       "stages": {
@@ -6112,7 +6052,7 @@
       "published": "2026-04-29",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1492.4,
-      "episode": 222
+      "episode": 378
     },
     "https://claude.com/blog/building-ai-agents-for-the-enterprise": {
       "stages": {
@@ -6127,7 +6067,7 @@
       "published": "2026-04-30",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1468.9,
-      "episode": 216
+      "episode": 379
     },
     "https://claude.com/blog/claude-security-public-beta": {
       "stages": {
@@ -6142,7 +6082,7 @@
       "published": "2026-04-30",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1337.8,
-      "episode": 217
+      "episode": 380
     },
     "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude": {
       "stages": {
@@ -6157,7 +6097,7 @@
       "published": "2026-04-30",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1458.8,
-      "episode": 219
+      "episode": 381
     },
     "https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything": {
       "stages": {
@@ -6172,7 +6112,7 @@
       "published": "2026-04-30",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1498.7,
-      "episode": 218
+      "episode": 383
     },
     "https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks": {
       "stages": {
@@ -6187,7 +6127,7 @@
       "published": "2026-05-01",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1509.1,
-      "episode": 215
+      "episode": 384
     },
     "https://claude.com/blog/deploying-claude-across-financial-services": {
       "stages": {
@@ -6202,7 +6142,7 @@
       "published": "2026-05-05",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1540.9,
-      "episode": 214
+      "episode": 386
     },
     "https://claude.com/blog/new-in-claude-managed-agents": {
       "stages": {
@@ -6217,7 +6157,7 @@
       "published": "2026-05-06",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1488.6,
-      "episode": 170
+      "episode": 387
     },
     "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook": {
       "stages": {
@@ -6232,7 +6172,7 @@
       "published": "2026-05-07",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1543.3,
-      "episode": 213
+      "episode": 388
     },
     "https://claude.com/blog/agent-view-in-claude-code": {
       "stages": {
@@ -6247,7 +6187,7 @@
       "published": "2026-05-11",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1425.7,
-      "episode": 211
+      "episode": 394
     },
     "https://claude.com/blog/claude-platform-on-aws": {
       "stages": {
@@ -6262,7 +6202,7 @@
       "published": "2026-05-11",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1675.7,
-      "episode": 212
+      "episode": 395
     },
     "https://claude.com/blog/claude-for-the-legal-industry": {
       "stages": {
@@ -6277,7 +6217,7 @@
       "published": "2026-05-12",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1514.1,
-      "episode": 209
+      "episode": 396
     },
     "https://claude.com/blog/code-w-claude-sf-2026-sf": {
       "stages": {
@@ -6292,7 +6232,7 @@
       "published": "2026-05-12",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1480.9,
-      "episode": 208
+      "episode": 397
     },
     "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity": {
       "stages": {
@@ -6307,7 +6247,7 @@
       "published": "2026-05-12",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1506.0,
-      "episode": 210
+      "episode": 398
     },
     "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude": {
       "stages": {
@@ -6322,7 +6262,7 @@
       "published": "2026-05-13",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1558.7,
-      "episode": 207
+      "episode": 399
     },
     "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start": {
       "stages": {
@@ -6337,7 +6277,7 @@
       "published": "2026-05-14",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1664.3,
-      "episode": 206
+      "episode": 401
     },
     "https://claude.com/blog/the-founders-playbook": {
       "stages": {
@@ -6352,7 +6292,7 @@
       "published": "2026-05-14",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1487.5,
-      "episode": 205
+      "episode": 402
     },
     "https://claude.com/blog/deploying-claude-across-the-legal-industry": {
       "stages": {
@@ -6367,7 +6307,7 @@
       "published": "2026-05-15",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1581.4,
-      "episode": 204
+      "episode": 403
     },
     "https://claude.com/blog/claude-managed-agents-updates": {
       "stages": {
@@ -6382,7 +6322,7 @@
       "published": "2026-05-19",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1800.5,
-      "episode": 169
+      "episode": 405
     },
     "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book": {
       "stages": {
@@ -6397,7 +6337,7 @@
       "published": "2026-05-20",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1469.1,
-      "episode": 203
+      "episode": 406
     },
     "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html": {
       "stages": {
@@ -6412,7 +6352,7 @@
       "published": "2026-05-20",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1559.4,
-      "episode": 202
+      "episode": 407
     },
     "https://claude.com/blog/compliance-api-security-partners": {
       "stages": {
@@ -6427,7 +6367,7 @@
       "published": "2026-05-21",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1558.9,
-      "episode": 200
+      "episode": 408
     },
     "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity": {
       "stages": {
@@ -6442,7 +6382,7 @@
       "published": "2026-05-21",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1518.6,
-      "episode": 201
+      "episode": 409
     },
     "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers": {
       "stages": {
@@ -6457,7 +6397,7 @@
       "published": "2026-05-22",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1521.8,
-      "episode": 199
+      "episode": 410
     },
     "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build": {
       "stages": {
@@ -6472,7 +6412,7 @@
       "published": "2026-05-26",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1522.8,
-      "episode": 198
+      "episode": 415
     },
     "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system": {
       "stages": {
@@ -6487,7 +6427,7 @@
       "published": "2026-05-27",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1539.5,
-      "episode": 195
+      "episode": 417
     },
     "https://claude.com/blog/using-llms-to-secure-source-code": {
       "stages": {
@@ -6502,7 +6442,7 @@
       "published": "2026-05-27",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1433.9,
-      "episode": 194
+      "episode": 418
     },
     "https://claude.com/blog/zero-trust-for-ai-agents": {
       "stages": {
@@ -6517,7 +6457,7 @@
       "published": "2026-05-27",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1653.9,
-      "episode": 196
+      "episode": 419
     },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "stages": {
@@ -6532,7 +6472,7 @@
       "published": "2026-05-28",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1407.9,
-      "episode": 193
+      "episode": 421
     },
     "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code": {
       "stages": {
@@ -6547,7 +6487,7 @@
       "published": "2026-06-02",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1467.0,
-      "episode": 192
+      "episode": 423
     },
     "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork": {
       "stages": {
@@ -6562,7 +6502,7 @@
       "published": "2026-06-03",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1744.1,
-      "episode": 190
+      "episode": 424
     },
     "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude": {
       "stages": {
@@ -6577,7 +6517,7 @@
       "published": "2026-06-03",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1528.9,
-      "episode": 188
+      "episode": 425
     },
     "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills": {
       "stages": {
@@ -6592,7 +6532,7 @@
       "published": "2026-06-03",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1543.0,
-      "episode": 189
+      "episode": 426
     },
     "https://claude.com/blog/running-an-ai-native-engineering-org": {
       "stages": {
@@ -6607,7 +6547,7 @@
       "published": "2026-06-03",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1771.4,
-      "episode": 191
+      "episode": 428
     },
     "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering": {
       "stages": {
@@ -6622,7 +6562,7 @@
       "published": "2026-06-05",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1512.0,
-      "episode": 187
+      "episode": 429
     },
     "https://claude.com/blog/the-claude-cowork-product-guide": {
       "stages": {
@@ -6637,7 +6577,7 @@
       "published": "2026-06-05",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1471.5,
-      "episode": 186
+      "episode": 431
     },
     "https://claude.com/blog/claude-for-foundation-models": {
       "stages": {
@@ -6652,7 +6592,7 @@
       "published": "2026-06-08",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1619.9,
-      "episode": 168
+      "episode": 433
     },
     "https://claude.com/blog/observability-for-developers-building-connectors": {
       "stages": {
@@ -6667,7 +6607,7 @@
       "published": "2026-06-08",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1448.0,
-      "episode": 185
+      "episode": 434
     },
     "https://claude.com/blog/whats-new-in-claude-managed-agents": {
       "stages": {
@@ -6682,7 +6622,7 @@
       "published": "2026-06-09",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1638.7,
-      "episode": 183
+      "episode": 437
     },
     "https://claude.com/blog/building-with-claude-managed-agents": {
       "stages": {
@@ -6697,7 +6637,7 @@
       "published": "2026-06-10",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1854.6,
-      "episode": 182
+      "episode": 438
     },
     "https://www.anthropic.com/research/claude-code-expertise": {
       "stages": {
@@ -6712,7 +6652,7 @@
       "published": "2026-06-16",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1176.4,
-      "episode": 134
+      "episode": 441
     },
     "https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon": {
       "stages": {
@@ -6727,22 +6667,7 @@
       "published": "2026-06-15",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1609.5,
-      "episode": 184
-    },
-    "https://www.anthropic.com/research/team/frontier-red-team": {
-      "stages": {
-        "fetched": true,
-        "interpreted": true,
-        "synthesized": true,
-        "packaged": true
-      },
-      "source": "research",
-      "slug": "0000-00-00-Frontier Red Team",
-      "title": "Frontier Red Team",
-      "published": "",
-      "voice": "zh-CN-YunxiNeural",
-      "duration_sec": 1763.0,
-      "episode": 138
+      "episode": 440
     },
     "https://www.anthropic.com/research/mythos-preview": {
       "stages": {
@@ -6757,7 +6682,7 @@
       "published": "2026-04-07",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1674.8,
-      "episode": 143
+      "episode": 348
     },
     "https://www.anthropic.com/research/nuclear-safeguards-for-ai": {
       "stages": {
@@ -6772,7 +6697,7 @@
       "published": "2025-08-21",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1376.0,
-      "episode": 139
+      "episode": 192
     },
     "https://www.anthropic.com/research/n-days": {
       "stages": {
@@ -6787,7 +6712,7 @@
       "published": "2026-06-08",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1234.8,
-      "episode": 140
+      "episode": 435
     },
     "https://www.anthropic.com/research/attack-navigator": {
       "stages": {
@@ -6802,7 +6727,7 @@
       "published": "2026-06-03",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1529.1,
-      "episode": 141
+      "episode": 427
     },
     "https://www.anthropic.com/research/exploit-evals": {
       "stages": {
@@ -6817,7 +6742,7 @@
       "published": "2026-05-22",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1172.1,
-      "episode": 142
+      "episode": 411
     },
     "https://www.anthropic.com/research/exploit": {
       "stages": {
@@ -6832,7 +6757,7 @@
       "published": "2026-03-06",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1459.3,
-      "episode": 144
+      "episode": 325
     },
     "https://www.anthropic.com/research/zero-days": {
       "stages": {
@@ -6847,7 +6772,7 @@
       "published": "2026-02-05",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1374.9,
-      "episode": 145
+      "episode": 303
     },
     "https://www.anthropic.com/research/property-based-testing": {
       "stages": {
@@ -6862,7 +6787,7 @@
       "published": "2026-01-14",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1480.2,
-      "episode": 146
+      "episode": 280
     },
     "https://www.anthropic.com/research/cyber-toolkits-update": {
       "stages": {
@@ -6877,7 +6802,7 @@
       "published": "2026-01-16",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1146.7,
-      "episode": 147
+      "episode": 283
     },
     "https://www.anthropic.com/research/critical-infrastructure-defense": {
       "stages": {
@@ -6892,7 +6817,7 @@
       "published": "2026-01-08",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1212.9,
-      "episode": 148
+      "episode": 276
     },
     "https://www.anthropic.com/research/smart-contracts": {
       "stages": {
@@ -6907,7 +6832,7 @@
       "published": "2025-12-01",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1514.7,
-      "episode": 149
+      "episode": 261
     },
     "https://www.anthropic.com/research/cyber-toolkits": {
       "stages": {
@@ -6922,7 +6847,7 @@
       "published": "2025-06-13",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1627.3,
-      "episode": 150
+      "episode": 163
     },
     "https://www.anthropic.com/research/cyber-competitions": {
       "stages": {
@@ -6937,7 +6862,7 @@
       "published": "2025-08-09",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1730.7,
-      "episode": 151
+      "episode": 185
     },
     "https://www.anthropic.com/research/claude-4-cyber": {
       "stages": {
@@ -6952,7 +6877,7 @@
       "published": "2025-07-15",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1781.9,
-      "episode": 152
+      "episode": 177
     },
     "https://www.anthropic.com/research/biorisk": {
       "stages": {
@@ -6967,7 +6892,7 @@
       "published": "2025-09-05",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1457.1,
-      "episode": 153
+      "episode": 196
     },
     "https://www.anthropic.com/research/project-fetch-phase-two": {
       "stages": {
@@ -6982,7 +6907,7 @@
       "published": "2026-06-18",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1434.6,
-      "episode": 167
+      "episode": 447
     },
     "https://claude.com/blog/artifacts-in-claude-code": {
       "stages": {
@@ -6997,7 +6922,7 @@
       "published": "2026-06-18",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1593.8,
-      "episode": 172
+      "episode": 446
     },
     "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more": {
       "stages": {
@@ -7012,7 +6937,7 @@
       "published": "2026-06-18",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1502.6,
-      "episode": 177
+      "episode": 448
     },
     "https://claude.com/blog/enterprise-managed-auth": {
       "stages": {
@@ -7027,7 +6952,7 @@
       "published": "2026-06-18",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1696.1,
-      "episode": 178
+      "episode": 445
     },
     "https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon": {
       "stages": {
@@ -7042,7 +6967,7 @@
       "published": "2026-06-17",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1402.1,
-      "episode": 179
+      "episode": 443
     },
     "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work": {
       "stages": {
@@ -7057,7 +6982,7 @@
       "published": "2026-06-17",
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 1548.8,
-      "episode": 180
+      "episode": 442
     },
     "https://claude.com/blog/workload-identity-federation": {
       "stages": {
@@ -7072,7 +6997,7 @@
       "published": "2026-06-17",
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1584.7,
-      "episode": 181
+      "episode": 444
     },
     "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
       "stages": {
@@ -7104,7 +7029,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 354.7,
-      "episode": 339,
+      "episode": 432,
       "item_count": 6
     },
     "2021-05-23": {
@@ -7116,7 +7041,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 96.7,
-      "episode": 340
+      "episode": 1
     },
     "2022-04-24": {
       "slug": "2022-04-24-Anthropic一周快讯",
@@ -7127,7 +7052,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 123.5,
-      "episode": 341
+      "episode": 7
     },
     "2023-01-29": {
       "slug": "2023-01-29-Anthropic一周快讯",
@@ -7138,7 +7063,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 90.6,
-      "episode": 342
+      "episode": 17
     },
     "2023-03-05": {
       "slug": "2023-03-05-Anthropic一周快讯",
@@ -7149,7 +7074,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 150.4,
-      "episode": 343
+      "episode": 19
     },
     "2023-03-12": {
       "slug": "2023-03-12-Anthropic一周快讯",
@@ -7160,7 +7085,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 115.7,
-      "episode": 344
+      "episode": 20
     },
     "2023-04-16": {
       "slug": "2023-04-16-Anthropic一周快讯",
@@ -7171,7 +7096,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 108.8,
-      "episode": 345
+      "episode": 22
     },
     "2023-04-23": {
       "slug": "2023-04-23-Anthropic一周快讯",
@@ -7182,7 +7107,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 127.4,
-      "episode": 346
+      "episode": 23
     },
     "2023-05-07": {
       "slug": "2023-05-07-Anthropic一周快讯",
@@ -7193,7 +7118,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 178.8,
-      "episode": 347
+      "episode": 25
     },
     "2023-05-14": {
       "slug": "2023-05-14-Anthropic一周快讯",
@@ -7204,7 +7129,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 118.1,
-      "episode": 348
+      "episode": 26
     },
     "2023-05-21": {
       "slug": "2023-05-21-Anthropic一周快讯",
@@ -7215,7 +7140,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 92.3,
-      "episode": 349
+      "episode": 27
     },
     "2023-06-11": {
       "slug": "2023-06-11-Anthropic一周快讯",
@@ -7226,7 +7151,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 139.8,
-      "episode": 350
+      "episode": 30
     },
     "2023-07-09": {
       "slug": "2023-07-09-Anthropic一周快讯",
@@ -7237,7 +7162,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 131.3,
-      "episode": 351
+      "episode": 32
     },
     "2023-07-23": {
       "slug": "2023-07-23-Anthropic一周快讯",
@@ -7248,7 +7173,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 178.4,
-      "episode": 352
+      "episode": 35
     },
     "2023-08-06": {
       "slug": "2023-08-06-Anthropic一周快讯",
@@ -7259,7 +7184,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 127.5,
-      "episode": 353
+      "episode": 36
     },
     "2023-08-13": {
       "slug": "2023-08-13-Anthropic一周快讯",
@@ -7270,7 +7195,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 117.7,
-      "episode": 354
+      "episode": 39
     },
     "2023-09-03": {
       "slug": "2023-09-03-Anthropic一周快讯",
@@ -7281,7 +7206,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 125.3,
-      "episode": 355
+      "episode": 41
     },
     "2023-09-10": {
       "slug": "2023-09-10-Anthropic一周快讯",
@@ -7292,7 +7217,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 107.0,
-      "episode": 356
+      "episode": 42
     },
     "2023-09-17": {
       "slug": "2023-09-17-Anthropic一周快讯",
@@ -7303,7 +7228,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 245.7,
-      "episode": 357
+      "episode": 43
     },
     "2023-09-24": {
       "slug": "2023-09-24-Anthropic一周快讯",
@@ -7314,7 +7239,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 137.7,
-      "episode": 358
+      "episode": 44
     },
     "2023-10-29": {
       "slug": "2023-10-29-Anthropic一周快讯",
@@ -7325,7 +7250,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 132.8,
-      "episode": 359
+      "episode": 52
     },
     "2023-11-05": {
       "slug": "2023-11-05-Anthropic一周快讯",
@@ -7336,7 +7261,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 129.6,
-      "episode": 360
+      "episode": 53
     },
     "2023-11-19": {
       "slug": "2023-11-19-Anthropic一周快讯",
@@ -7347,7 +7272,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 136.4,
-      "episode": 361
+      "episode": 54
     },
     "2023-12-17": {
       "slug": "2023-12-17-Anthropic一周快讯",
@@ -7358,7 +7283,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 141.6,
-      "episode": 362
+      "episode": 57
     },
     "2024-02-11": {
       "slug": "2024-02-11-Anthropic一周快讯",
@@ -7369,7 +7294,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 134.1,
-      "episode": 363
+      "episode": 59
     },
     "2024-02-25": {
       "slug": "2024-02-25-Anthropic一周快讯",
@@ -7380,7 +7305,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 91.6,
-      "episode": 364
+      "episode": 60
     },
     "2024-03-03": {
       "slug": "2024-03-03-Anthropic一周快讯",
@@ -7391,7 +7316,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 118.8,
-      "episode": 365
+      "episode": 61
     },
     "2024-03-10": {
       "slug": "2024-03-10-Anthropic一周快讯",
@@ -7402,7 +7327,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 115.2,
-      "episode": 366
+      "episode": 63
     },
     "2024-03-17": {
       "slug": "2024-03-17-Anthropic一周快讯",
@@ -7413,7 +7338,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 139.8,
-      "episode": 367
+      "episode": 64
     },
     "2024-03-24": {
       "slug": "2024-03-24-Anthropic一周快讯",
@@ -7424,7 +7349,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 126.2,
-      "episode": 368
+      "episode": 65
     },
     "2024-04-21": {
       "slug": "2024-04-21-Anthropic一周快讯",
@@ -7435,7 +7360,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 138.6,
-      "episode": 369
+      "episode": 68
     },
     "2024-05-05": {
       "slug": "2024-05-05-Anthropic一周快讯",
@@ -7446,7 +7371,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 116.9,
-      "episode": 370
+      "episode": 72
     },
     "2024-05-12": {
       "slug": "2024-05-12-Anthropic一周快讯",
@@ -7457,7 +7382,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 169.1,
-      "episode": 371
+      "episode": 73
     },
     "2024-05-19": {
       "slug": "2024-05-19-Anthropic一周快讯",
@@ -7468,7 +7393,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 222.0,
-      "episode": 372
+      "episode": 74
     },
     "2024-05-26": {
       "slug": "2024-05-26-Anthropic一周快讯",
@@ -7479,7 +7404,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 102.5,
-      "episode": 373
+      "episode": 77
     },
     "2024-06-02": {
       "slug": "2024-06-02-Anthropic一周快讯",
@@ -7490,7 +7415,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 162.2,
-      "episode": 374
+      "episode": 79
     },
     "2024-06-09": {
       "slug": "2024-06-09-Anthropic一周快讯",
@@ -7501,7 +7426,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 129.3,
-      "episode": 375
+      "episode": 81
     },
     "2024-06-16": {
       "slug": "2024-06-16-Anthropic一周快讯",
@@ -7512,7 +7437,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 156.7,
-      "episode": 376
+      "episode": 83
     },
     "2024-06-23": {
       "slug": "2024-06-23-Anthropic一周快讯",
@@ -7523,7 +7448,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 160.8,
-      "episode": 377
+      "episode": 85
     },
     "2024-06-30": {
       "slug": "2024-06-30-Anthropic一周快讯",
@@ -7534,7 +7459,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 132.6,
-      "episode": 378
+      "episode": 87
     },
     "2024-07-07": {
       "slug": "2024-07-07-Anthropic一周快讯",
@@ -7545,7 +7470,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 86.7,
-      "episode": 379
+      "episode": 88
     },
     "2024-07-14": {
       "slug": "2024-07-14-Anthropic一周快讯",
@@ -7556,7 +7481,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 100.2,
-      "episode": 380
+      "episode": 91
     },
     "2024-07-28": {
       "slug": "2024-07-28-Anthropic一周快讯",
@@ -7567,7 +7492,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 103.7,
-      "episode": 381
+      "episode": 93
     },
     "2024-08-04": {
       "slug": "2024-08-04-Anthropic一周快讯",
@@ -7578,7 +7503,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 143.2,
-      "episode": 382
+      "episode": 95
     },
     "2024-09-01": {
       "slug": "2024-09-01-Anthropic一周快讯",
@@ -7589,7 +7514,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 113.9,
-      "episode": 383
+      "episode": 97
     },
     "2024-09-15": {
       "slug": "2024-09-15-Anthropic一周快讯",
@@ -7600,7 +7525,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 148.6,
-      "episode": 384
+      "episode": 101
     },
     "2024-10-06": {
       "slug": "2024-10-06-Anthropic一周快讯",
@@ -7611,7 +7536,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 134.2,
-      "episode": 385
+      "episode": 104
     },
     "2024-10-13": {
       "slug": "2024-10-13-Anthropic一周快讯",
@@ -7622,7 +7547,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 129.9,
-      "episode": 386
+      "episode": 106
     },
     "2024-10-20": {
       "slug": "2024-10-20-Anthropic一周快讯",
@@ -7633,7 +7558,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 174.1,
-      "episode": 387
+      "episode": 110
     },
     "2024-10-27": {
       "slug": "2024-10-27-Anthropic一周快讯",
@@ -7644,7 +7569,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 212.4,
-      "episode": 388
+      "episode": 113
     },
     "2024-11-17": {
       "slug": "2024-11-17-Anthropic一周快讯",
@@ -7655,7 +7580,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 143.5,
-      "episode": 389
+      "episode": 114
     },
     "2024-11-24": {
       "slug": "2024-11-24-Anthropic一周快讯",
@@ -7666,7 +7591,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 141.3,
-      "episode": 390
+      "episode": 116
     },
     "2024-12-08": {
       "slug": "2024-12-08-Anthropic一周快讯",
@@ -7677,7 +7602,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 173.7,
-      "episode": 391
+      "episode": 118
     },
     "2025-01-12": {
       "slug": "2025-01-12-Anthropic一周快讯",
@@ -7688,7 +7613,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 110.6,
-      "episode": 392
+      "episode": 125
     },
     "2025-02-02": {
       "slug": "2025-02-02-Anthropic一周快讯",
@@ -7699,7 +7624,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 2.0,
-      "episode": 393
+      "episode": 126
     },
     "2025-02-09": {
       "slug": "2025-02-09-Anthropic一周快讯",
@@ -7710,7 +7635,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 241.1,
-      "episode": 394
+      "episode": 128
     },
     "2025-02-23": {
       "slug": "2025-02-23-Anthropic一周快讯",
@@ -7721,7 +7646,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 222.9,
-      "episode": 395
+      "episode": 130
     },
     "2025-03-02": {
       "slug": "2025-03-02-Anthropic一周快讯",
@@ -7732,7 +7657,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 212.7,
-      "episode": 396
+      "episode": 133
     },
     "2025-03-16": {
       "slug": "2025-03-16-Anthropic一周快讯",
@@ -7743,7 +7668,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 171.3,
-      "episode": 397
+      "episode": 137
     },
     "2025-03-23": {
       "slug": "2025-03-23-Anthropic一周快讯",
@@ -7754,7 +7679,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 150.5,
-      "episode": 398
+      "episode": 140
     },
     "2025-03-30": {
       "slug": "2025-03-30-Anthropic一周快讯",
@@ -7765,7 +7690,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 162.4,
-      "episode": 399
+      "episode": 142
     },
     "2025-04-06": {
       "slug": "2025-04-06-Anthropic一周快讯",
@@ -7776,7 +7701,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 152.9,
-      "episode": 400
+      "episode": 145
     },
     "2025-04-20": {
       "slug": "2025-04-20-Anthropic一周快讯",
@@ -7787,7 +7712,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 151.9,
-      "episode": 401
+      "episode": 148
     },
     "2025-04-27": {
       "slug": "2025-04-27-Anthropic一周快讯",
@@ -7798,7 +7723,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 151.1,
-      "episode": 402
+      "episode": 151
     },
     "2025-05-04": {
       "slug": "2025-05-04-Anthropic一周快讯",
@@ -7809,7 +7734,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 99.0,
-      "episode": 403
+      "episode": 154
     },
     "2025-05-11": {
       "slug": "2025-05-11-Anthropic一周快讯",
@@ -7820,7 +7745,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 156.2,
-      "episode": 404
+      "episode": 156
     },
     "2025-05-18": {
       "slug": "2025-05-18-Anthropic一周快讯",
@@ -7831,7 +7756,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 264.8,
-      "episode": 405
+      "episode": 157
     },
     "2025-05-25": {
       "slug": "2025-05-25-Anthropic一周快讯",
@@ -7842,7 +7767,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 131.7,
-      "episode": 406
+      "episode": 159
     },
     "2025-06-01": {
       "slug": "2025-06-01-Anthropic一周快讯",
@@ -7853,7 +7778,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 155.4,
-      "episode": 407
+      "episode": 161
     },
     "2025-06-08": {
       "slug": "2025-06-08-Anthropic一周快讯",
@@ -7864,7 +7789,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 120.2,
-      "episode": 408
+      "episode": 162
     },
     "2025-06-22": {
       "slug": "2025-06-22-Anthropic一周快讯",
@@ -7875,7 +7800,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 186.3,
-      "episode": 409
+      "episode": 169
     },
     "2025-07-06": {
       "slug": "2025-07-06-Anthropic一周快讯",
@@ -7886,7 +7811,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 233.0,
-      "episode": 410
+      "episode": 174
     },
     "2025-07-13": {
       "slug": "2025-07-13-Anthropic一周快讯",
@@ -7897,7 +7822,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 225.1,
-      "episode": 411
+      "episode": 175
     },
     "2025-07-20": {
       "slug": "2025-07-20-Anthropic一周快讯",
@@ -7908,7 +7833,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 242.3,
-      "episode": 412
+      "episode": 178
     },
     "2025-07-27": {
       "slug": "2025-07-27-Anthropic一周快讯",
@@ -7919,7 +7844,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 98.8,
-      "episode": 413
+      "episode": 181
     },
     "2025-08-03": {
       "slug": "2025-08-03-Anthropic一周快讯",
@@ -7930,7 +7855,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 216.3,
-      "episode": 414
+      "episode": 183
     },
     "2025-08-10": {
       "slug": "2025-08-10-Anthropic一周快讯",
@@ -7941,7 +7866,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 209.4,
-      "episode": 415
+      "episode": 186
     },
     "2025-08-17": {
       "slug": "2025-08-17-Anthropic一周快讯",
@@ -7952,7 +7877,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 226.7,
-      "episode": 416
+      "episode": 190
     },
     "2025-08-24": {
       "slug": "2025-08-24-Anthropic一周快讯",
@@ -7963,7 +7888,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 216.2,
-      "episode": 417
+      "episode": 193
     },
     "2025-08-31": {
       "slug": "2025-08-31-Anthropic一周快讯",
@@ -7974,7 +7899,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 201.3,
-      "episode": 418
+      "episode": 195
     },
     "2025-09-07": {
       "slug": "2025-09-07-Anthropic一周快讯",
@@ -7985,7 +7910,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 224.6,
-      "episode": 419
+      "episode": 197
     },
     "2025-09-14": {
       "slug": "2025-09-14-Anthropic一周快讯",
@@ -7996,7 +7921,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 118.8,
-      "episode": 420
+      "episode": 201
     },
     "2025-09-21": {
       "slug": "2025-09-21-Anthropic一周快讯",
@@ -8007,7 +7932,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 123.7,
-      "episode": 421
+      "episode": 205
     },
     "2025-09-28": {
       "slug": "2025-09-28-Anthropic一周快讯",
@@ -8018,7 +7943,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 186.7,
-      "episode": 422
+      "episode": 207
     },
     "2025-10-05": {
       "slug": "2025-10-05-Anthropic一周快讯",
@@ -8029,7 +7954,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 220.0,
-      "episode": 423
+      "episode": 214
     },
     "2025-10-12": {
       "slug": "2025-10-12-Anthropic一周快讯",
@@ -8040,7 +7965,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 148.1,
-      "episode": 424
+      "episode": 221
     },
     "2025-10-19": {
       "slug": "2025-10-19-Anthropic一周快讯",
@@ -8051,7 +7976,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 273.8,
-      "episode": 425
+      "episode": 227
     },
     "2025-10-26": {
       "slug": "2025-10-26-Anthropic一周快讯",
@@ -8062,7 +7987,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 155.4,
-      "episode": 426
+      "episode": 230
     },
     "2025-11-02": {
       "slug": "2025-11-02-Anthropic一周快讯",
@@ -8073,7 +7998,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 224.4,
-      "episode": 427
+      "episode": 239
     },
     "2025-11-09": {
       "slug": "2025-11-09-Anthropic一周快讯",
@@ -8084,7 +8009,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 249.6,
-      "episode": 428
+      "episode": 243
     },
     "2025-11-16": {
       "slug": "2025-11-16-Anthropic一周快讯",
@@ -8095,7 +8020,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 217.1,
-      "episode": 429
+      "episode": 249
     },
     "2025-11-23": {
       "slug": "2025-11-23-Anthropic一周快讯",
@@ -8106,7 +8031,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 155.9,
-      "episode": 430
+      "episode": 254
     },
     "2025-11-30": {
       "slug": "2025-11-30-Anthropic一周快讯",
@@ -8117,7 +8042,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 215.5,
-      "episode": 431
+      "episode": 260
     },
     "2025-12-07": {
       "slug": "2025-12-07-Anthropic一周快讯",
@@ -8128,7 +8053,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 177.5,
-      "episode": 432
+      "episode": 265
     },
     "2025-12-14": {
       "slug": "2025-12-14-Anthropic一周快讯",
@@ -8139,7 +8064,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 213.0,
-      "episode": 433
+      "episode": 271
     },
     "2026-01-11": {
       "slug": "2026-01-11-Anthropic一周快讯",
@@ -8150,7 +8075,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 234.2,
-      "episode": 434
+      "episode": 279
     },
     "2026-01-18": {
       "slug": "2026-01-18-Anthropic一周快讯",
@@ -8161,7 +8086,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 155.4,
-      "episode": 435
+      "episode": 284
     },
     "2026-01-25": {
       "slug": "2026-01-25-Anthropic一周快讯",
@@ -8172,7 +8097,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 160.0,
-      "episode": 436
+      "episode": 290
     },
     "2026-02-01": {
       "slug": "2026-02-01-Anthropic一周快讯",
@@ -8183,7 +8108,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 254.9,
-      "episode": 437
+      "episode": 300
     },
     "2026-02-08": {
       "slug": "2026-02-08-Anthropic一周快讯",
@@ -8194,7 +8119,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 306.5,
-      "episode": 438
+      "episode": 305
     },
     "2026-02-15": {
       "slug": "2026-02-15-Anthropic一周快讯",
@@ -8205,7 +8130,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 246.4,
-      "episode": 439
+      "episode": 308
     },
     "2026-02-22": {
       "slug": "2026-02-22-Anthropic一周快讯",
@@ -8216,7 +8141,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 330.2,
-      "episode": 440
+      "episode": 313
     },
     "2026-03-01": {
       "slug": "2026-03-01-Anthropic一周快讯",
@@ -8227,7 +8152,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 174.6,
-      "episode": 441
+      "episode": 320
     },
     "2026-03-08": {
       "slug": "2026-03-08-Anthropic一周快讯",
@@ -8238,7 +8163,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 218.0,
-      "episode": 442
+      "episode": 326
     },
     "2026-03-29": {
       "slug": "2026-03-29-Anthropic一周快讯",
@@ -8249,7 +8174,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 136.7,
-      "episode": 443
+      "episode": 342
     },
     "2026-04-05": {
       "slug": "2026-04-05-Anthropic一周快讯",
@@ -8260,7 +8185,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 122.4,
-      "episode": 444
+      "episode": 347
     },
     "2026-04-12": {
       "slug": "2026-04-12-Anthropic一周快讯",
@@ -8271,7 +8196,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 214.7,
-      "episode": 445
+      "episode": 359
     },
     "2026-04-19": {
       "slug": "2026-04-19-Anthropic一周快讯",
@@ -8282,7 +8207,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 248.5,
-      "episode": 446
+      "episode": 365
     },
     "2026-04-26": {
       "slug": "2026-04-26-Anthropic一周快讯",
@@ -8293,7 +8218,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 164.5,
-      "episode": 447
+      "episode": 373
     },
     "2026-05-03": {
       "slug": "2026-05-03-Anthropic一周快讯",
@@ -8304,7 +8229,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 234.8,
-      "episode": 448
+      "episode": 385
     },
     "2026-05-10": {
       "slug": "2026-05-10-Anthropic一周快讯",
@@ -8315,7 +8240,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 249.2,
-      "episode": 449
+      "episode": 393
     },
     "2026-05-17": {
       "slug": "2026-05-17-Anthropic一周快讯",
@@ -8326,7 +8251,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 198.5,
-      "episode": 450
+      "episode": 404
     },
     "2026-05-24": {
       "slug": "2026-05-24-Anthropic一周快讯",
@@ -8337,7 +8262,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 278.1,
-      "episode": 451
+      "episode": 413
     },
     "2026-05-31": {
       "slug": "2026-05-31-Anthropic一周快讯",
@@ -8348,7 +8273,7 @@
       },
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 238.8,
-      "episode": 452
+      "episode": 422
     },
     "2026-06-14": {
       "slug": "2026-06-14-Anthropic一周快讯",
@@ -8359,7 +8284,7 @@
       },
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 112.4,
-      "episode": 453
+      "episode": 439
     }
   }
 }

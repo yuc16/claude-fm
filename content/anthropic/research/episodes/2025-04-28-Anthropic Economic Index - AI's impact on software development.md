@@ -1,4 +1,4 @@
-# EP85 | 五十万次真实对话揭秘：AI 正在怎样改变程序员的工作方式
+# EP152 | 五十万次真实对话揭秘：AI 正在怎样改变程序员的工作方式
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-04-28-Anthropic Economic Index - AI's impact on software development.mp3`
 - 时长：23 分 36 秒

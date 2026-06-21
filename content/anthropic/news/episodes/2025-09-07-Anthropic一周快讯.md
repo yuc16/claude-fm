@@ -1,4 +1,4 @@
-# EP419 | Anthropic 一周快讯 · 2025年9月7日–2025年9月13日：力挺加州AI监管新法，并联手美英安全机构补漏洞
+# EP197 | Anthropic 一周快讯 · 2025年9月7日–2025年9月13日：力挺加州AI监管新法，并联手美英安全机构补漏洞
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-09-07-Anthropic一周快讯.mp3`
 - 时长：3 分 44 秒

@@ -1,4 +1,4 @@
-# EP117 | 攻破大模型的防线：Anthropic 红队测试揭示的 AI 安全真相
+# EP11 | 攻破大模型的防线：Anthropic 红队测试揭示的 AI 安全真相
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2022-08-22-Red Teaming Language Models to Reduce Harms - Methods, Scaling Behaviors, and Lessons Learned.mp3`
 - 时长：21 分 15 秒

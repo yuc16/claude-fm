@@ -1,4 +1,4 @@
-# EP362 | Anthropic 一周快讯 · 2023年12月17日–2023年12月23日:商业条款升级,Messages API 上线公测
+# EP57 | Anthropic 一周快讯 · 2023年12月17日–2023年12月23日:商业条款升级,Messages API 上线公测
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-12-17-Anthropic一周快讯.mp3`
 - 时长：2 分 21 秒

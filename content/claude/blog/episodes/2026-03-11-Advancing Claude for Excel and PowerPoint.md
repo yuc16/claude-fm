@@ -1,4 +1,4 @@
-# EP242 | Claude 进军 Excel 和 PowerPoint：让财务分析跨文件无缝协作
+# EP328 | Claude 进军 Excel 和 PowerPoint：让财务分析跨文件无缝协作
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-03-11-Advancing Claude for Excel and PowerPoint.mp3`
 - 时长：18 分 06 秒

@@ -1,4 +1,4 @@
-# EP414 | Anthropic 一周快讯 · 2025年8月3日–2025年8月9日 · Claude Opus 4.1 上线，编码能力再进一步
+# EP183 | Anthropic 一周快讯 · 2025年8月3日–2025年8月9日 · Claude Opus 4.1 上线，编码能力再进一步
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-08-03-Anthropic一周快讯.mp3`
 - 时长：3 分 36 秒

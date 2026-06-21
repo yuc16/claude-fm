@@ -1,4 +1,4 @@
-# EP177 | 告别 CLAUDE.md 大杂烩：七种方法系统掌控你的 Claude Code
+# EP448 | 告别 CLAUDE.md 大杂烩：七种方法系统掌控你的 Claude Code
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-18-Steering Claude Code - skills, hooks, subagents and more.mp3`
 - 时长：25 分 02 秒

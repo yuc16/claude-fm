@@ -1,4 +1,4 @@
-# EP437 | Anthropic 一周快讯 · 2026年2月1日–2026年2月7日(Opus 4.6 上新,百万 token 上下文来了)
+# EP300 | Anthropic 一周快讯 · 2026年2月1日–2026年2月7日(Opus 4.6 上新,百万 token 上下文来了)
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-02-01-Anthropic一周快讯.mp3`
 - 时长：4 分 14 秒

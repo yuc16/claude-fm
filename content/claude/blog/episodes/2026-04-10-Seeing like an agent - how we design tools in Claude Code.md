@@ -1,4 +1,4 @@
-# EP235 | 像智能体一样思考:解密Claude Code工具设计方法论
+# EP358 | 像智能体一样思考:解密Claude Code工具设计方法论
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-10-Seeing like an agent - how we design tools in Claude Code.mp3`
 - 时长：27 分 10 秒

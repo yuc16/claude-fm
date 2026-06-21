@@ -1,4 +1,4 @@
-# EP209 | Claude 进军法律行业：二十多个连接器与十二个执业插件全解析
+# EP396 | Claude 进军法律行业：二十多个连接器与十二个执业插件全解析
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-12-Claude for the legal industry.mp3`
 - 时长：25 分 14 秒

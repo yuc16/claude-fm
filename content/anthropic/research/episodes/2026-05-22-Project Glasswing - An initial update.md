@@ -1,4 +1,4 @@
-# EP42 | 玻璃翅项目首月实战：AI找漏洞破万，修复速度成了最大的新瓶颈
+# EP412 | 玻璃翅项目首月实战：AI找漏洞破万，修复速度成了最大的新瓶颈
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-05-22-Project Glasswing - An initial update.mp3`
 - 时长：31 分 06 秒

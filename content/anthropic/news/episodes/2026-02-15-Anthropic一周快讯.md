@@ -1,4 +1,4 @@
-# EP439 | Anthropic 一周快讯 · 2026年2月15日–2026年2月21日 · Sonnet 4.6 发布,百万 token 上下文来了
+# EP308 | Anthropic 一周快讯 · 2026年2月15日–2026年2月21日 · Sonnet 4.6 发布,百万 token 上下文来了
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-02-15-Anthropic一周快讯.mp3`
 - 时长：4 分 06 秒

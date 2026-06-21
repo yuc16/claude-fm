@@ -1,4 +1,4 @@
-# EP412 | Anthropic 一周快讯 · 2025年7月20日–2025年7月26日:从能源报告到欧盟行为准则,这周全是政策牌
+# EP178 | Anthropic 一周快讯 · 2025年7月20日–2025年7月26日:从能源报告到欧盟行为准则,这周全是政策牌
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-07-20-Anthropic一周快讯.mp3`
 - 时长：4 分 02 秒

@@ -1,4 +1,4 @@
-# EP243 | Claude Code 上线代码评审系统，AI 帮你抓住审查时漏掉的 Bug
+# EP327 | Claude Code 上线代码评审系统，AI 帮你抓住审查时漏掉的 Bug
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-03-09-Code Review for Claude Code.mp3`
 - 时长：19 分 12 秒

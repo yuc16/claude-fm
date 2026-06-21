@@ -1,4 +1,4 @@
-# EP60 | 越用越强，Anthropic经济报告首次量化AI用户学习曲线效应
+# EP338 | 越用越强，Anthropic经济报告首次量化AI用户学习曲线效应
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-03-24-Anthropic Economic Index report - Learning curves.mp3`
 - 时长：24 分 28 秒

@@ -1,4 +1,4 @@
-# EP28 | 实测 AI 智能体自主性：Anthropic 的真实世界部署数据全解读
+# EP311 | 实测 AI 智能体自主性：Anthropic 的真实世界部署数据全解读
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-02-18-Measuring AI agent autonomy in practice.mp3`
 - 时长：26 分 12 秒

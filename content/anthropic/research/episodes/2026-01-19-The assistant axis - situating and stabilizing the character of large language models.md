@@ -1,4 +1,4 @@
-# EP31 | AI 的人格会漂移——Anthropic 如何用助手轴线把模型稳住
+# EP285 | AI 的人格会漂移——Anthropic 如何用助手轴线把模型稳住
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-01-19-The assistant axis - situating and stabilizing the character of large language models.mp3`
 - 时长：24 分 30 秒

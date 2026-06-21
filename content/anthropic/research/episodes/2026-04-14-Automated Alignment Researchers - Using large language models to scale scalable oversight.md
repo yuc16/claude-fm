@@ -1,4 +1,4 @@
-# EP38 | 让 AI 来做 AI 安全研究：Anthropic 用九个 Claude 五天超越人类研究员一周成果
+# EP360 | 让 AI 来做 AI 安全研究：Anthropic 用九个 Claude 五天超越人类研究员一周成果
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-04-14-Automated Alignment Researchers - Using large language models to scale scalable oversight.mp3`
 - 时长：28 分 21 秒

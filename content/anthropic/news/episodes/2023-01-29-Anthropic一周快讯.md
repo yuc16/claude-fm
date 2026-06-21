@@ -1,4 +1,4 @@
-# EP342 | Anthropic 一周快讯 · 2023年1月29日–2023年2月4日：Anthropic 官宣 Google Cloud 合作
+# EP17 | Anthropic 一周快讯 · 2023年1月29日–2023年2月4日：Anthropic 官宣 Google Cloud 合作
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-01-29-Anthropic一周快讯.mp3`
 - 时长：1 分 30 秒

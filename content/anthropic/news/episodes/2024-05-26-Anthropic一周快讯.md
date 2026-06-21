@@ -1,4 +1,4 @@
-# EP373 | Anthropic 一周快讯 · 2024年5月26日–2024年6月1日 · 新董事会成员加入
+# EP77 | Anthropic 一周快讯 · 2024年5月26日–2024年6月1日 · 新董事会成员加入
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-05-26-Anthropic一周快讯.mp3`
 - 时长：1 分 42 秒

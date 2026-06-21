@@ -1,4 +1,4 @@
-# EP130 | 用字典学习攻破神经网络的叠加困境：Anthropic 可解释性研究内部进展报告
+# EP28 | 用字典学习攻破神经网络的叠加困境：Anthropic 可解释性研究内部进展报告
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-05-24-Circuits Updates — May 2023.mp3`
 - 时长：24 分 25 秒

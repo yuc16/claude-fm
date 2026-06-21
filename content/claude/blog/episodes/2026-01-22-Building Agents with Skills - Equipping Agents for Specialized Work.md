@@ -1,4 +1,4 @@
-# EP259 | 用技能武装智能体 让通用模型变身行业专家
+# EP288 | 用技能武装智能体 让通用模型变身行业专家
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-01-22-Building Agents with Skills - Equipping Agents for Specialized Work.mp3`
 - 时长：24 分 26 秒

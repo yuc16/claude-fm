@@ -1,4 +1,4 @@
-# EP195 | 规划优先于代码：CodeRabbit 如何用 Claude 解决「AI 写出来的东西能跑但不对」的老大难问题
+# EP417 | 规划优先于代码：CodeRabbit 如何用 Claude 解决「AI 写出来的东西能跑但不对」的老大难问题
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-27-How CodeRabbit used Claude to build an agent orchestration system.mp3`
 - 时长：25 分 39 秒

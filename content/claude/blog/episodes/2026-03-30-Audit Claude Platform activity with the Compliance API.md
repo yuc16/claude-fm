@@ -1,4 +1,4 @@
-# EP227 | 用合规API审计Claude平台里的每一次操作
+# EP343 | 用合规API审计Claude平台里的每一次操作
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-03-30-Audit Claude Platform activity with the Compliance API.mp3`
 - 时长：23 分 42 秒

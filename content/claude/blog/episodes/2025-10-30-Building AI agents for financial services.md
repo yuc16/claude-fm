@@ -1,4 +1,4 @@
-# EP281 | 金融机构如何用AI智能体平衡效率与合规风险
+# EP234 | 金融机构如何用AI智能体平衡效率与合规风险
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-30-Building AI agents for financial services.mp3`
 - 时长：21 分 12 秒

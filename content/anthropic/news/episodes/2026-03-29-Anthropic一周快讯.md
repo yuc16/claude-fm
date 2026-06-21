@@ -1,4 +1,4 @@
-# EP443 | Anthropic 一周快讯 · 2026年3月29日–2026年4月4日 | 牵手澳大利亚政府,签署AI安全合作备忘录
+# EP342 | Anthropic 一周快讯 · 2026年3月29日–2026年4月4日 | 牵手澳大利亚政府,签署AI安全合作备忘录
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-03-29-Anthropic一周快讯.mp3`
 - 时长：2 分 16 秒

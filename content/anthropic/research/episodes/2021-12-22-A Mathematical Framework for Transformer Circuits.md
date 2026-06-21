@@ -1,4 +1,4 @@
-# EP156 | 从黑盒到电路图：Anthropic 如何用数学框架读懂 Transformer 的内部算法
+# EP3 | 从黑盒到电路图：Anthropic 如何用数学框架读懂 Transformer 的内部算法
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2021-12-22-A Mathematical Framework for Transformer Circuits.mp3`
 - 时长：24 分 49 秒

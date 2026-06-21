@@ -1,4 +1,4 @@
-# EP343 | Anthropic 一周快讯 · 2023年3月5日–2023年3月11日 · Anthropic 罕见公开自己的 AI 安全世界观
+# EP19 | Anthropic 一周快讯 · 2023年3月5日–2023年3月11日 · Anthropic 罕见公开自己的 AI 安全世界观
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-03-05-Anthropic一周快讯.mp3`
 - 时长：2 分 30 秒

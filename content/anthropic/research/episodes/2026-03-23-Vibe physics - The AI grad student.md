@@ -1,4 +1,4 @@
-# EP59 | AI 博士研究生上岗：哈佛教授让 Claude 两周完成前沿物理论文
+# EP337 | AI 博士研究生上岗：哈佛教授让 Claude 两周完成前沿物理论文
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-03-23-Vibe physics - The AI grad student.mp3`
 - 时长：26 分 01 秒

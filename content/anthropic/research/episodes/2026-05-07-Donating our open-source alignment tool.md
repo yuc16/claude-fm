@@ -1,4 +1,4 @@
-# EP45 | 如何测试 AI 是否真的对齐：Petri 三点零与独立评估机构的未来
+# EP389 | 如何测试 AI 是否真的对齐：Petri 三点零与独立评估机构的未来
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-05-07-Donating our open-source alignment tool.mp3`
 - 时长：26 分 59 秒

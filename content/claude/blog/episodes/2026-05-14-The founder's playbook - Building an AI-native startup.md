@@ -1,4 +1,4 @@
-# EP205 | 创始人手册：AI时代如何从执行者变成统筹者
+# EP402 | 创始人手册：AI时代如何从执行者变成统筹者
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-14-The founder's playbook - Building an AI-native startup.mp3`
 - 时长：24 分 47 秒

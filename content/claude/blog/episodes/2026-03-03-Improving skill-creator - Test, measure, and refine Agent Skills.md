@@ -1,4 +1,4 @@
-# EP245 | 让技能学会自我证明:Claude Skills测评与优化新方法
+# EP321 | 让技能学会自我证明:Claude Skills测评与优化新方法
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-03-03-Improving skill-creator - Test, measure, and refine Agent Skills.mp3`
 - 时长：28 分 38 秒

@@ -1,4 +1,4 @@
-# EP166 | 神经网络的解剖学：Anthropic 解释性团队如何把 AI 的"思维电路"拆给你看
+# EP70 | 神经网络的解剖学：Anthropic 解释性团队如何把 AI 的"思维电路"拆给你看
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-04-26-Circuits Updates – April 2024.mp3`
 - 时长：27 分 09 秒

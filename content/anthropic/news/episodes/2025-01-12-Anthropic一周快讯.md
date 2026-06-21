@@ -1,4 +1,4 @@
-# EP392 | Anthropic 一周快讯 · 2025年1月12日–2025年1月18日：拿下 ISO 42001 认证
+# EP125 | Anthropic 一周快讯 · 2025年1月12日–2025年1月18日：拿下 ISO 42001 认证
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-01-12-Anthropic一周快讯.mp3`
 - 时长：1 分 50 秒

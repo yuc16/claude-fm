@@ -1,4 +1,4 @@
-# EP125 | 影响函数：Anthropic 如何把大模型的每句话追溯到训练数据源头
+# EP38 | 影响函数：Anthropic 如何把大模型的每句话追溯到训练数据源头
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-08-08-Tracing Model Outputs to the Training Data.mp3`
 - 时长：21 分 45 秒

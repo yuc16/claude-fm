@@ -1,4 +1,4 @@
-# EP409 | Anthropic 一周快讯 · 2025年6月22日–2025年6月28日
+# EP169 | Anthropic 一周快讯 · 2025年6月22日–2025年6月28日
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-06-22-Anthropic一周快讯.mp3`
 - 时长：3 分 06 秒

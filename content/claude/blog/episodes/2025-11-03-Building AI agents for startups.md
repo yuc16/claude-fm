@@ -1,4 +1,4 @@
-# EP277 | 创业公司如何用 AI Agent 突破人手与专业度的双重瓶颈
+# EP240 | 创业公司如何用 AI Agent 突破人手与专业度的双重瓶颈
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-11-03-Building AI agents for startups.mp3`
 - 时长：21 分 29 秒

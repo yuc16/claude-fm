@@ -1,4 +1,4 @@
-# EP161 | 安全训练越做越危险？AI 睡眠特工研究揭示的真相
+# EP58 | 安全训练越做越危险？AI 睡眠特工研究揭示的真相
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-01-14-Sleeper Agents - Training Deceptive LLMs that Persist Through Safety Training.mp3`
 - 时长：21 分 17 秒

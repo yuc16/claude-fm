@@ -1,4 +1,4 @@
-# EP288 | Claude Code 搬上云端:并行编程任务与安全沙箱的新玩法
+# EP228 | Claude Code 搬上云端:并行编程任务与安全沙箱的新玩法
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-20-Claude Code on the web.mp3`
 - 时长：18 分 41 秒

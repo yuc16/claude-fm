@@ -1,4 +1,4 @@
-# EP367 | Anthropic 一周快讯 · 2024年3月17日–2024年3月23日 · Claude 3 上线 Vertex AI
+# EP64 | Anthropic 一周快讯 · 2024年3月17日–2024年3月23日 · Claude 3 上线 Vertex AI
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-03-17-Anthropic一周快讯.mp3`
 - 时长：2 分 19 秒

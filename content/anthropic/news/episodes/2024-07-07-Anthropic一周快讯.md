@@ -1,4 +1,4 @@
-# EP379 | Anthropic 一周快讯 · 2024年7月7日–2024年7月13日：Claude 3 Haiku 在 Amazon Bedrock 上线微调能力
+# EP88 | Anthropic 一周快讯 · 2024年7月7日–2024年7月13日：Claude 3 Haiku 在 Amazon Bedrock 上线微调能力
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-07-07-Anthropic一周快讯.mp3`
 - 时长：1 分 26 秒

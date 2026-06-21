@@ -1,4 +1,4 @@
-# EP378 | Anthropic 一周快讯 · 2024年6月30日–2024年7月6日 | 出资重金,推动第三方模型评测生态
+# EP87 | Anthropic 一周快讯 · 2024年6月30日–2024年7月6日 | 出资重金,推动第三方模型评测生态
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-06-30-Anthropic一周快讯.mp3`
 - 时长：2 分 12 秒

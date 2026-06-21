@@ -1,4 +1,4 @@
-# EP283 | 用Claude把调试这件苦差事变成系统化解题
+# EP232 | 用Claude把调试这件苦差事变成系统化解题
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-28-Fix software bugs faster with Claude.mp3`
 - 时长：19 分 32 秒

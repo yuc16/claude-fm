@@ -1,4 +1,4 @@
-# EP322 | Anthropic Console 升级实录:从写提示词到团队协作的生产力跃迁
+# EP134 | Anthropic Console 升级实录:从写提示词到团队协作的生产力跃迁
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-03-06-Get to production faster with the upgraded Anthropic Console.mp3`
 - 时长：24 分 51 秒

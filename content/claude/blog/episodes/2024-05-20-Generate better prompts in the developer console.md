@@ -1,4 +1,4 @@
-# EP334 | Claude 提示词生成器：让写 prompt 这件事不再靠玄学
+# EP75 | Claude 提示词生成器：让写 prompt 这件事不再靠玄学
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2024-05-20-Generate better prompts in the developer console.mp3`
 - 时长：17 分 00 秒

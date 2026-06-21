@@ -1,4 +1,4 @@
-# EP201 | Opus上阵网络安全一线:渗透测试、修复闭环与合规化落地的实战进展
+# EP409 | Opus上阵网络安全一线:渗透测试、修复闭环与合规化落地的实战进展
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-21-How our partners are putting Opus to work for cybersecurity.mp3`
 - 时长：25 分 18 秒

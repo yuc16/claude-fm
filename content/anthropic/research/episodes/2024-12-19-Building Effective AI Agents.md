@@ -1,4 +1,4 @@
-# EP132 | 别迷信框架：Anthropic 工程师亲授 AI Agent 设计的底层逻辑
+# EP122 | 别迷信框架：Anthropic 工程师亲授 AI Agent 设计的底层逻辑
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-12-19-Building Effective AI Agents.mp3`
 - 时长：28 分 45 秒

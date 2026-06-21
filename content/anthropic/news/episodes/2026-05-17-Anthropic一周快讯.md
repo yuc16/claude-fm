@@ -1,4 +1,4 @@
-# EP450 | Anthropic 一周快讯 · 2026年5月17日–2026年5月23日：收购 Stainless、牵手 KPMG,还有一场关于 AI 价值观的对话
+# EP404 | Anthropic 一周快讯 · 2026年5月17日–2026年5月23日：收购 Stainless、牵手 KPMG,还有一场关于 AI 价值观的对话
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-05-17-Anthropic一周快讯.mp3`
 - 时长：3 分 18 秒

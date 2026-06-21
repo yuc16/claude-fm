@@ -1,4 +1,4 @@
-# EP251 | Claude 企业版开放自助购买,企业如何用 AI 重塑日常工作
+# EP307 | Claude 企业版开放自助购买,企业如何用 AI 重塑日常工作
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-02-12-Claude Enterprise, now available self-serve.mp3`
 - 时长：18 分 56 秒

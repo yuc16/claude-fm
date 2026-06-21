@@ -1,4 +1,4 @@
-# EP169 | Claude 智能体进企业：自托管沙箱与 MCP 私网隧道全解析
+# EP405 | Claude 智能体进企业：自托管沙箱与 MCP 私网隧道全解析
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-19-New in Claude Managed Agents - self-hosted sandboxes and MCP tunnels.mp3`
 - 时长：30 分 00 秒

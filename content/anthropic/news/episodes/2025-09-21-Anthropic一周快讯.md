@@ -1,4 +1,4 @@
-# EP421 | Anthropic 一周快讯 · 2025年9月21日–2025年9月27日:国际业务大扩张，新设管理董事职位
+# EP205 | Anthropic 一周快讯 · 2025年9月21日–2025年9月27日:国际业务大扩张，新设管理董事职位
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-09-21-Anthropic一周快讯.mp3`
 - 时长：2 分 03 秒

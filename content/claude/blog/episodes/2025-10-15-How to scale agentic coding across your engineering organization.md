@@ -1,4 +1,4 @@
-# EP291 | 如何把 Agentic Coding 推广到整个工程团队
+# EP223 | 如何把 Agentic Coding 推广到整个工程团队
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-15-How to scale agentic coding across your engineering organization.mp3`
 - 时长：23 分 48 秒

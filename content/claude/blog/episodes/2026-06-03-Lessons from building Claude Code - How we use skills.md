@@ -1,4 +1,4 @@
-# EP189 | Skills 不只是 Markdown：Anthropic 用几百个内部工具踩出的 AI 工程实践
+# EP426 | Skills 不只是 Markdown：Anthropic 用几百个内部工具踩出的 AI 工程实践
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-03-Lessons from building Claude Code - How we use skills.mp3`
 - 时长：25 分 43 秒

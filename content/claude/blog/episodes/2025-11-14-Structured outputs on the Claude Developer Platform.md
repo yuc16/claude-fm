@@ -1,4 +1,4 @@
-# EP273 | Claude 结构化输出上线,彻底告别格式翻车的烦恼
+# EP248 | Claude 结构化输出上线,彻底告别格式翻车的烦恼
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-11-14-Structured outputs on the Claude Developer Platform.mp3`
 - 时长：22 分 45 秒

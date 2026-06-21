@@ -1,4 +1,4 @@
-# EP349 | Anthropic 一周快讯 · 2023年5月21日–2023年5月27日 · 4.5亿美元 C 轮融资落地
+# EP27 | Anthropic 一周快讯 · 2023年5月21日–2023年5月27日 · 4.5亿美元 C 轮融资落地
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-05-21-Anthropic一周快讯.mp3`
 - 时长：1 分 32 秒

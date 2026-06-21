@@ -1,4 +1,4 @@
-# EP275 | 告别AI审美趋同：用Skills让Claude设计出真正有个性的前端
+# EP245 | 告别AI审美趋同：用Skills让Claude设计出真正有个性的前端
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-11-12-Improving frontend design through Skills.mp3`
 - 时长：25 分 39 秒

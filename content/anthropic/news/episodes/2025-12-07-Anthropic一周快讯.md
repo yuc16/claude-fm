@@ -1,4 +1,4 @@
-# EP432 | Anthropic 一周快讯 · 2025年12月7日–2025年12月13日 · MCP 捐给基金会
+# EP265 | Anthropic 一周快讯 · 2025年12月7日–2025年12月13日 · MCP 捐给基金会
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-12-07-Anthropic一周快讯.mp3`
 - 时长：2 分 57 秒

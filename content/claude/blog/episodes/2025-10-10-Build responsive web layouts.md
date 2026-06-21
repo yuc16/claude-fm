@@ -1,4 +1,4 @@
-# EP292 | 告别断点猜谜：用 Claude 让响应式网页布局一次做对
+# EP220 | 告别断点猜谜：用 Claude 让响应式网页布局一次做对
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-10-Build responsive web layouts.mp3`
 - 时长：21 分 51 秒

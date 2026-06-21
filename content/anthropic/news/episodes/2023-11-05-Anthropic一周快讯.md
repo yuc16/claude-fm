@@ -1,4 +1,4 @@
-# EP360 | Anthropic 一周快讯 · 2023年11月5日–2023年11月11日 · 美国AI行政令、G7准则与英国安全峰会，Anthropic的政策表态周
+# EP53 | Anthropic 一周快讯 · 2023年11月5日–2023年11月11日 · 美国AI行政令、G7准则与英国安全峰会，Anthropic的政策表态周
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-11-05-Anthropic一周快讯.mp3`
 - 时长：2 分 09 秒

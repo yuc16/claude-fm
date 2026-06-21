@@ -1,4 +1,4 @@
-# EP408 | Anthropic 一周快讯 · 2025年6月8日–2025年6月14日 · Claude 拿下美国政府最高安全认证
+# EP162 | Anthropic 一周快讯 · 2025年6月8日–2025年6月14日 · Claude 拿下美国政府最高安全认证
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-06-08-Anthropic一周快讯.mp3`
 - 时长：2 分 00 秒

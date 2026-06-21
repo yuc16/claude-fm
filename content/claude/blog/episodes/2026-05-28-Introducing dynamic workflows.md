@@ -1,4 +1,4 @@
-# EP193 | Claude Code 动态工作流：并行百个智能体，把季度级工程压缩进几天
+# EP421 | Claude Code 动态工作流：并行百个智能体，把季度级工程压缩进几天
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-28-Introducing dynamic workflows.mp3`
 - 时长：23 分 27 秒

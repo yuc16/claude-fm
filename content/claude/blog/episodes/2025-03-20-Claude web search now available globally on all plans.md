@@ -1,4 +1,4 @@
-# EP320 | Claude 联网搜索全面开放,实时信息加引用回答
+# EP138 | Claude 联网搜索全面开放,实时信息加引用回答
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-03-20-Claude web search now available globally on all plans.mp3`
 - 时长：21 分 57 秒

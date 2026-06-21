@@ -1,4 +1,4 @@
-# EP129 | 让 AI 自我约束：Constitutional AI 如何用一部原则清单训练无害但不回避的智能助手
+# EP14 | 让 AI 自我约束：Constitutional AI 如何用一部原则清单训练无害但不回避的智能助手
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2022-12-15-Constitutional AI - Harmlessness from AI Feedback.mp3`
 - 时长：24 分 41 秒

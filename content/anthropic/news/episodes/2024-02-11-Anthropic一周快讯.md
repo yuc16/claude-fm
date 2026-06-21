@@ -1,4 +1,4 @@
-# EP363 | Anthropic 一周快讯 · 2024年2月11日–2024年2月17日：为2024全球大选季提前布防
+# EP59 | Anthropic 一周快讯 · 2024年2月11日–2024年2月17日：为2024全球大选季提前布防
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-02-11-Anthropic一周快讯.mp3`
 - 时长：2 分 14 秒

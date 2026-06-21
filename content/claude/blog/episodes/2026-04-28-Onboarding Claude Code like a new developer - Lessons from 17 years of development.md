@@ -1,4 +1,4 @@
-# EP231 | 像带新人一样带 Claude Code 十七年代码库的实战心法
+# EP374 | 像带新人一样带 Claude Code 十七年代码库的实战心法
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-28-Onboarding Claude Code like a new developer - Lessons from 17 years of development.mp3`
 - 时长：25 分 41 秒

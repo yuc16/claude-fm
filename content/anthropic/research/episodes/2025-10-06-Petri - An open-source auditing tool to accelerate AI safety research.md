@@ -1,4 +1,4 @@
-# EP91 | AI 怎么审计 AI：Anthropic 开源工具 Petri 与大模型行为安全评估新范式
+# EP216 | AI 怎么审计 AI：Anthropic 开源工具 Petri 与大模型行为安全评估新范式
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-10-06-Petri - An open-source auditing tool to accelerate AI safety research.mp3`
 - 时长：29 分 58 秒

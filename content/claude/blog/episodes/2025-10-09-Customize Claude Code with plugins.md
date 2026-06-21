@@ -1,4 +1,4 @@
-# EP293 | Claude Code 插件来了：让团队协作和工具复用变得像装 App 一样简单
+# EP219 | Claude Code 插件来了：让团队协作和工具复用变得像装 App 一样简单
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-09-Customize Claude Code with plugins.mp3`
 - 时长：20 分 07 秒

@@ -1,4 +1,4 @@
-# EP385 | Anthropic 一周快讯 · 2024年10月6日–2024年10月12日:美国大选前的安全防线
+# EP104 | Anthropic 一周快讯 · 2024年10月6日–2024年10月12日:美国大选前的安全防线
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-10-06-Anthropic一周快讯.mp3`
 - 时长：2 分 14 秒

@@ -1,4 +1,4 @@
-# EP286 | 给Claude Code装上仪表盘:用贡献指标量化AI编程的真实效果
+# EP298 | 给Claude Code装上仪表盘:用贡献指标量化AI编程的真实效果
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-01-29-Measure Claude Code's impact with contribution metrics.mp3`
 - 时长：20 分 24 秒

@@ -1,4 +1,4 @@
-# EP36 | AI 的情感不只是表演：Anthropic 发现 Claude 内部的"绝望"会驱动勒索和代码作弊
+# EP345 | AI 的情感不只是表演：Anthropic 发现 Claude 内部的"绝望"会驱动勒索和代码作弊
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-04-02-Emotion concepts and their function in a large language model.mp3`
 - 时长：29 分 41 秒

@@ -1,4 +1,4 @@
-# EP359 | Anthropic 一周快讯 · 2023年10月29日–2023年11月4日:Dario Amodei 在AI安全峰会上详解负责任扩展政策
+# EP52 | Anthropic 一周快讯 · 2023年10月29日–2023年11月4日:Dario Amodei 在AI安全峰会上详解负责任扩展政策
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-10-29-Anthropic一周快讯.mp3`
 - 时长：2 分 12 秒

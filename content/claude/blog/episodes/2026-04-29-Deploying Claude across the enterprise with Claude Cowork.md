@@ -1,4 +1,4 @@
-# EP220 | 从一个人试用到全公司标配：Claude Cowork 企业部署指南
+# EP376 | 从一个人试用到全公司标配：Claude Cowork 企业部署指南
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-29-Deploying Claude across the enterprise with Claude Cowork.mp3`
 - 时长：26 分 18 秒

@@ -1,4 +1,4 @@
-# EP64 | AI 流利度指数：迭代让你受益翻倍，成果越完美越该追问
+# EP314 | AI 流利度指数：迭代让你受益翻倍，成果越完美越该追问
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-02-23-Anthropic Education Report - The AI Fluency Index.mp3`
 - 时长：26 分 18 秒

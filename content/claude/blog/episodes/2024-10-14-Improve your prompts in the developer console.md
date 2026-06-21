@@ -1,4 +1,4 @@
-# EP325 | 让 Claude 帮你自动优化提示词,开发者控制台里的提示工程升级
+# EP107 | 让 Claude 帮你自动优化提示词,开发者控制台里的提示工程升级
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2024-10-14-Improve your prompts in the developer console.mp3`
 - 时长：21 分 38 秒

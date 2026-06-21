@@ -1,4 +1,4 @@
-# EP440 | Anthropic 一周快讯 · 2026年2月22日–2026年2月28日 · 收购 Vercept、RSP 升级到三点零，还有跟美国国防部的罕见交锋
+# EP313 | Anthropic 一周快讯 · 2026年2月22日–2026年2月28日 · 收购 Vercept、RSP 升级到三点零，还有跟美国国防部的罕见交锋
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-02-22-Anthropic一周快讯.mp3`
 - 时长：5 分 30 秒

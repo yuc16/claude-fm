@@ -1,4 +1,4 @@
-# EP66 | Anthropic 数据实测：印度 AI 用户如何用十五分钟完成四小时的工作
+# EP309 | Anthropic 数据实测：印度 AI 用户如何用十五分钟完成四小时的工作
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-02-16-India Country Brief - The Anthropic Economic Index.mp3`
 - 时长：22 分 21 秒

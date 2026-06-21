@@ -1,4 +1,4 @@
-# EP119 | 残差流的秘密：Adam 优化器如何在神经网络里制造"特权坐标"
+# EP21 | 残差流的秘密：Adam 优化器如何在神经网络里制造"特权坐标"
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-03-16-Privileged Bases in the Transformer Residual Stream.mp3`
 - 时长：24 分 07 秒

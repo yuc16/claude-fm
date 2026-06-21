@@ -1,4 +1,4 @@
-# EP173 | Agent 终于有了长期记忆：Claude 托管 Agent 跨会话学习能力全解析
+# EP371 | Agent 终于有了长期记忆：Claude 托管 Agent 跨会话学习能力全解析
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-23-Built-in memory for Claude Managed Agents.mp3`
 - 时长：25 分 54 秒

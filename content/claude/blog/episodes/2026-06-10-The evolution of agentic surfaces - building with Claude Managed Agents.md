@@ -1,4 +1,4 @@
-# EP182 | 从原型到生产只需几天：拆解 Claude Managed Agents 的架构设计与工程实践
+# EP438 | 从原型到生产只需几天：拆解 Claude Managed Agents 的架构设计与工程实践
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-10-The evolution of agentic surfaces - building with Claude Managed Agents.mp3`
 - 时长：30 分 54 秒

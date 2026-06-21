@@ -1,4 +1,4 @@
-# EP365 | Anthropic 一周快讯 · 2024年3月3日–2024年3月9日:Claude 3 家族正式登场
+# EP61 | Anthropic 一周快讯 · 2024年3月3日–2024年3月9日:Claude 3 家族正式登场
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-03-03-Anthropic一周快讯.mp3`
 - 时长：1 分 58 秒

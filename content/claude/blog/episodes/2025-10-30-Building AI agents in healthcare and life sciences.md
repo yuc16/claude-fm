@@ -1,4 +1,4 @@
-# EP280 | AI智能体如何在医疗与生命科学领域落地见效
+# EP235 | AI智能体如何在医疗与生命科学领域落地见效
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-30-Building AI agents in healthcare and life sciences.mp3`
 - 时长：23 分 03 秒

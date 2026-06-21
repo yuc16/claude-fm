@@ -1,4 +1,4 @@
-# EP80 | 神经网络的"过载"奥秘：叠加现象如何重塑 AI 可解释性的底层认知
+# EP12 | 神经网络的"过载"奥秘：叠加现象如何重塑 AI 可解释性的底层认知
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2022-09-14-Toy Models of Superposition.mp3`
 - 时长：22 分 16 秒

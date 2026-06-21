@@ -1,4 +1,4 @@
-# EP319 | Claude登顶美国政府云：FedRAMP高规格与IL2认证解读
+# EP143 | Claude登顶美国政府云：FedRAMP高规格与IL2认证解读
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-04-02-Claude on Google Cloud’s Vertex AI - FedRAMP High and IL2 Authorized.mp3`
 - 时长：18 分 39 秒

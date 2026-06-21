@@ -1,4 +1,4 @@
-# EP81 | 不止于无害：Anthropic 如何用性格训练让 Claude 拥有真正的品格
+# EP80 | 不止于无害：Anthropic 如何用性格训练让 Claude 拥有真正的品格
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-06-08-Claude’s Character.mp3`
 - 时长：22 分 15 秒

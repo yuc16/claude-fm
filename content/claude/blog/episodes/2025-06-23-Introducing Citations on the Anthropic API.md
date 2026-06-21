@@ -1,4 +1,4 @@
-# EP312 | Claude 引用功能上线:让 AI 回答有据可查不再编造
+# EP170 | Claude 引用功能上线:让 AI 回答有据可查不再编造
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-06-23-Introducing Citations on the Anthropic API.mp3`
 - 时长：17 分 00 秒

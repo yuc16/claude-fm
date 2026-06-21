@@ -1,4 +1,4 @@
-# EP48 | 八万人亲口告诉我们：AI 真的在改变工作吗，谁在受益，谁在担心
+# EP369 | 八万人亲口告诉我们：AI 真的在改变工作吗，谁在受益，谁在担心
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-04-22-What 81,000 people told us about the economics of AI.mp3`
 - 时长：22 分 09 秒

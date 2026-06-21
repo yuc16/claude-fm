@@ -1,4 +1,4 @@
-# EP257 | 不会写代码的市场营销人如何用Claude Code把广告制作效率提升六十倍
+# EP291 | 不会写代码的市场营销人如何用Claude Code把广告制作效率提升六十倍
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-01-26-How Anthropic uses Claude in Marketing.mp3`
 - 时长：23 分 06 秒

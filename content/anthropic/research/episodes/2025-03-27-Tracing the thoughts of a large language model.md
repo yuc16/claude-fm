@@ -1,4 +1,4 @@
-# EP78 | AI 显微镜下的 Claude：Anthropic 首次追踪大语言模型内部思维轨迹
+# EP141 | AI 显微镜下的 Claude：Anthropic 首次追踪大语言模型内部思维轨迹
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-03-27-Tracing the thoughts of a large language model.mp3`
 - 时长：23 分 03 秒

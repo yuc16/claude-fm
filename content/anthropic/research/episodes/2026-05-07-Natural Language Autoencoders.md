@@ -1,4 +1,4 @@
-# EP40 | AI 终于说出真正在想什么：解码大模型内心的自然语言自编码器
+# EP391 | AI 终于说出真正在想什么：解码大模型内心的自然语言自编码器
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-05-07-Natural Language Autoencoders.mp3`
 - 时长：32 分 47 秒

@@ -1,4 +1,4 @@
-# EP418 | Anthropic 一周快讯 · 2025年8月31日–2025年9月6日 · 一百八十三亿美元估值刷新纪录
+# EP195 | Anthropic 一周快讯 · 2025年8月31日–2025年9月6日 · 一百八十三亿美元估值刷新纪录
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-08-31-Anthropic一周快讯.mp3`
 - 时长：3 分 21 秒

@@ -1,4 +1,4 @@
-# EP403 | Anthropic 一周快讯 · 2025年5月4日–2025年5月10日：发起 AI for Science 科研扶持计划
+# EP154 | Anthropic 一周快讯 · 2025年5月4日–2025年5月10日：发起 AI for Science 科研扶持计划
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-05-04-Anthropic一周快讯.mp3`
 - 时长：1 分 39 秒

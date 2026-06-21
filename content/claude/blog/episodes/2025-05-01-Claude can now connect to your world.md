@@ -1,4 +1,4 @@
-# EP316 | Claude 接入你的全部工具,MCP 时代真正开始了
+# EP153 | Claude 接入你的全部工具,MCP 时代真正开始了
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-05-01-Claude can now connect to your world.mp3`
 - 时长：17 分 16 秒

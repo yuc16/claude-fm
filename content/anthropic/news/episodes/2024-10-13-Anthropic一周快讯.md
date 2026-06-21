@@ -1,4 +1,4 @@
-# EP386 | Anthropic 一周快讯 · 2024年10月13日–2024年10月19日 · 安全治理框架升级
+# EP106 | Anthropic 一周快讯 · 2024年10月13日–2024年10月19日 · 安全治理框架升级
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-10-13-Anthropic一周快讯.mp3`
 - 时长：2 分 09 秒

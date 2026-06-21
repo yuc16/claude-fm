@@ -1,4 +1,4 @@
-# EP236 | 顾问策略:Opus当军师,Sonnet去打仗,省钱又聪明
+# EP354 | 顾问策略:Opus当军师,Sonnet去打仗,省钱又聪明
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-09-The advisor strategy - Give Sonnet an intelligence boost with Opus.mp3`
 - 时长：19 分 17 秒

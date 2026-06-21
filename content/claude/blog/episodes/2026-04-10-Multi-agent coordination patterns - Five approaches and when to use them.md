@@ -1,4 +1,4 @@
-# EP225 | 五种多智能体协作模式，你的项目该选哪一种
+# EP356 | 五种多智能体协作模式，你的项目该选哪一种
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-10-Multi-agent coordination patterns - Five approaches and when to use them.mp3`
 - 时长：26 分 25 秒

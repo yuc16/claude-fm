@@ -1,4 +1,4 @@
-# EP346 | Anthropic 一周快讯 · 2023年4月23日–2023年4月29日 · 跟 Scale 牵手,Claude 要进企业市场了
+# EP23 | Anthropic 一周快讯 · 2023年4月23日–2023年4月29日 · 跟 Scale 牵手,Claude 要进企业市场了
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-04-23-Anthropic一周快讯.mp3`
 - 时长：2 分 07 秒

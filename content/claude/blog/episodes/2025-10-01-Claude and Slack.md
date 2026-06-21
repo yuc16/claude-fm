@@ -1,4 +1,4 @@
-# EP297 | Claude 进驻 Slack:智能体如何嵌入你的日常工作流
+# EP211 | Claude 进驻 Slack:智能体如何嵌入你的日常工作流
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-01-Claude and Slack.mp3`
 - 时长：22 分 03 秒

@@ -1,4 +1,4 @@
-# EP279 | 从代码自动补全到自主编程代理：Claude Code如何重塑软件开发
+# EP237 | 从代码自动补全到自主编程代理：Claude Code如何重塑软件开发
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-30-Introduction to agentic coding.mp3`
 - 时长：17 分 59 秒

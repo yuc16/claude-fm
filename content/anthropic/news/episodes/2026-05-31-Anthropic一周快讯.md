@@ -1,4 +1,4 @@
-# EP452 | Anthropic 一周快讯 · 2026年5月31日–2026年6月6日 | 网络安全成本周关键词
+# EP422 | Anthropic 一周快讯 · 2026年5月31日–2026年6月6日 | 网络安全成本周关键词
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-05-31-Anthropic一周快讯.mp3`
 - 时长：3 分 58 秒

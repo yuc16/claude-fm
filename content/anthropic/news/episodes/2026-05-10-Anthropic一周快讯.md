@@ -1,4 +1,4 @@
-# EP449 | Anthropic 一周快讯 · 2026年5月10日–2026年5月16日:小企业、20亿美元慈善承诺与PwC加码合作
+# EP393 | Anthropic 一周快讯 · 2026年5月10日–2026年5月16日:小企业、20亿美元慈善承诺与PwC加码合作
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-05-10-Anthropic一周快讯.mp3`
 - 时长：4 分 09 秒

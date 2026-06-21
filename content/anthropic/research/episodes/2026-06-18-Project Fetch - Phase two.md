@@ -1,4 +1,4 @@
-# EP167 | 机器狗实验：Claude Opus 四点七以十八倍速度完成机器人任务，物理代理 AI 时代来了吗
+# EP447 | 机器狗实验：Claude Opus 四点七以十八倍速度完成机器人任务，物理代理 AI 时代来了吗
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-06-18-Project Fetch - Phase two.mp3`
 - 时长：23 分 54 秒

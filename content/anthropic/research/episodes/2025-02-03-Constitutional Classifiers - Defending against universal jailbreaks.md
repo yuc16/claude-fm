@@ -1,4 +1,4 @@
-# EP77 | 用宪法给大模型装安检：Anthropic 防御通用越狱实验全解析
+# EP127 | 用宪法给大模型装安检：Anthropic 防御通用越狱实验全解析
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-02-03-Constitutional Classifiers - Defending against universal jailbreaks.mp3`
 - 时长：26 分 25 秒

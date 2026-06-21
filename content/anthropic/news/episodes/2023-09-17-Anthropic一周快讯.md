@@ -1,4 +1,4 @@
-# EP357 | Anthropic 一周快讯 · 2023年9月17日–2023年9月23日 · 安全框架与治理结构双发布
+# EP43 | Anthropic 一周快讯 · 2023年9月17日–2023年9月23日 · 安全框架与治理结构双发布
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-09-17-Anthropic一周快讯.mp3`
 - 时长：4 分 05 秒

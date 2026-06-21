@@ -1,4 +1,4 @@
-# EP110 | 大模型会「自我纠偏」吗？Anthropic 用实验给出了谨慎乐观的答案
+# EP18 | 大模型会「自我纠偏」吗？Anthropic 用实验给出了谨慎乐观的答案
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-02-15-The Capacity for Moral Self-Correction in Large Language Models.mp3`
 - 时长：24 分 40 秒

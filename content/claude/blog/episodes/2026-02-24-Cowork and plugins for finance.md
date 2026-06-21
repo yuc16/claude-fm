@@ -1,4 +1,4 @@
-# EP246 | Claude打通Excel与PPT,五款金融插件来了
+# EP317 | Claude打通Excel与PPT,五款金融插件来了
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-02-24-Cowork and plugins for finance.mp3`
 - 时长：24 分 58 秒

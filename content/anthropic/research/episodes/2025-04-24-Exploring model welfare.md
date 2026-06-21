@@ -1,4 +1,4 @@
-# EP101 | AI有没有感受：Anthropic探索模型福祉背后的哲学与实践
+# EP150 | AI有没有感受：Anthropic探索模型福祉背后的哲学与实践
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-04-24-Exploring model welfare.mp3`
 - 时长：20 分 40 秒

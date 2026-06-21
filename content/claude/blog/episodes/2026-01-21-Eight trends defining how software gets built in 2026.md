@@ -1,4 +1,4 @@
-# EP260 | 二〇二六编程新格局:智能体如何重塑软件开发协作
+# EP287 | 二〇二六编程新格局:智能体如何重塑软件开发协作
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-01-21-Eight trends defining how software gets built in 2026.mp3`
 - 时长：22 分 46 秒

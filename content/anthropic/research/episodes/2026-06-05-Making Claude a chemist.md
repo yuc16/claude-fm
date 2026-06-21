@@ -1,4 +1,4 @@
-# EP26 | 当 Claude 拿起核磁共振仪：Anthropic 让 AI 真正走进化学实验室
+# EP430 | 当 Claude 拿起核磁共振仪：Anthropic 让 AI 真正走进化学实验室
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-06-05-Making Claude a chemist.mp3`
 - 时长：30 分 23 秒

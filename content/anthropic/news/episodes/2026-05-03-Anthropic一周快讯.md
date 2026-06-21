@@ -1,4 +1,4 @@
-# EP448 | Anthropic 一周快讯 · 2026年5月3日–2026年5月9日 · SpaceX 联手扩容,Claude 限额翻倍
+# EP385 | Anthropic 一周快讯 · 2026年5月3日–2026年5月9日 · SpaceX 联手扩容,Claude 限额翻倍
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-05-03-Anthropic一周快讯.mp3`
 - 时长：3 分 54 秒

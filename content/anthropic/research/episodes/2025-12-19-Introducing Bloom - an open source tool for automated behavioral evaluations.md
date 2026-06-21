@@ -1,4 +1,4 @@
-# EP71 | Bloom：用 AI 生成测试题来评估 AI，Anthropic 如何破解行为评估的污染难题
+# EP275 | Bloom：用 AI 生成测试题来评估 AI，Anthropic 如何破解行为评估的污染难题
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-12-19-Introducing Bloom - an open source tool for automated behavioral evaluations.mp3`
 - 时长：28 分 04 秒

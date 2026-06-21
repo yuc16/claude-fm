@@ -1,4 +1,4 @@
-# EP270 | Claude 升级思考搭档:记忆语音浏览器全打通
+# EP252 | Claude 升级思考搭档:记忆语音浏览器全打通
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-11-20-Claude - From Chatbot to Thinking Partner.mp3`
 - 时长：20 分 53 秒

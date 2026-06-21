@@ -1,4 +1,4 @@
-# EP43 | 教 Claude 知其所以然：Anthropic 如何让 AI 从背规则到真懂道理
+# EP392 | 教 Claude 知其所以然：Anthropic 如何让 AI 从背规则到真懂道理
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-05-08-Teaching Claude why.mp3`
 - 时长：25 分 18 秒

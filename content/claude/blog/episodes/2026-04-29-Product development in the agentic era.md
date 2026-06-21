@@ -1,4 +1,4 @@
-# EP222 | 用Claude Code把产品经理的工作搭成可复用的智能体
+# EP378 | 用Claude Code把产品经理的工作搭成可复用的智能体
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-29-Product development in the agentic era.mp3`
 - 时长：24 分 52 秒

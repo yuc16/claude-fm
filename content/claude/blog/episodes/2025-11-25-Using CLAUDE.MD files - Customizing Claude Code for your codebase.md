@@ -1,4 +1,4 @@
-# EP269 | 用 CLAUDE.md 文件驯化你的 AI 编程助手
+# EP258 | 用 CLAUDE.md 文件驯化你的 AI 编程助手
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-11-25-Using CLAUDE.MD files - Customizing Claude Code for your codebase.mp3`
 - 时长：27 分 22 秒

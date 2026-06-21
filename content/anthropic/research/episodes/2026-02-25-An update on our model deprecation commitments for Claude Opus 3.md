@@ -1,4 +1,4 @@
-# EP63 | AI 退役不等于消失：Anthropic 给 Claude Opus 3 开专栏的伦理实验
+# EP319 | AI 退役不等于消失：Anthropic 给 Claude Opus 3 开专栏的伦理实验
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-02-25-An update on our model deprecation commitments for Claude Opus 3.mp3`
 - 时长：21 分 43 秒

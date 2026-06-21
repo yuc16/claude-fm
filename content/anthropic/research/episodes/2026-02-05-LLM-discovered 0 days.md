@@ -1,4 +1,4 @@
-# EP145 | Claude 挖出五百个零日漏洞：AI 安全能力正式跨越临界点
+# EP303 | Claude 挖出五百个零日漏洞：AI 安全能力正式跨越临界点
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-02-05-LLM-discovered 0 days.mp3`
 - 时长：22 分 54 秒

@@ -1,4 +1,4 @@
-# EP230 | 模型指数级进化时代,产品经理的四种新打法
+# EP333 | 模型指数级进化时代,产品经理的四种新打法
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-03-19-Product management on the AI exponential.mp3`
 - 时长：24 分 35 秒

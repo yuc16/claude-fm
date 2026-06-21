@@ -1,4 +1,4 @@
-# EP447 | Anthropic 一周快讯 · 2026年4月26日–2026年5月2日:悉尼新办公室开张,Claude 也开始"懂"创意行业了
+# EP373 | Anthropic 一周快讯 · 2026年4月26日–2026年5月2日:悉尼新办公室开张,Claude 也开始"懂"创意行业了
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-04-26-Anthropic一周快讯.mp3`
 - 时长：2 分 44 秒

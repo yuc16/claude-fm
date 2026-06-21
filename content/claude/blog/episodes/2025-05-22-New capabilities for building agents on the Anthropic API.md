@@ -1,4 +1,4 @@
-# EP314 | Claude新增四大能力,Anthropic API打造智能体全家桶
+# EP158 | Claude新增四大能力,Anthropic API打造智能体全家桶
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-05-22-New capabilities for building agents on the Anthropic API.mp3`
 - 时长：21 分 29 秒

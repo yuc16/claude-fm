@@ -1,4 +1,4 @@
-# EP207 | 陪Claude把电脑操作做扎实：从点击精度到安全防线
+# EP399 | 陪Claude把电脑操作做扎实：从点击精度到安全防线
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-13-Best practices for computer and browser use with Claude.mp3`
 - 时长：25 分 58 秒

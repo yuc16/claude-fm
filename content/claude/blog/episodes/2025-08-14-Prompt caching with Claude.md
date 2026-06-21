@@ -1,4 +1,4 @@
-# EP305 | Claude提示缓存上线,长对话省钱又提速九成
+# EP188 | Claude提示缓存上线,长对话省钱又提速九成
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-08-14-Prompt caching with Claude.mp3`
 - 时长：19 分 06 秒

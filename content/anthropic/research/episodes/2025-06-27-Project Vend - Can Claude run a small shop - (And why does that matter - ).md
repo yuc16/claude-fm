@@ -1,4 +1,4 @@
-# EP56 | Claude当了一个月店长：Anthropic真实经营实验的教训与启示
+# EP173 | Claude当了一个月店长：Anthropic真实经营实验的教训与启示
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-06-27-Project Vend - Can Claude run a small shop - (And why does that matter - ).mp3`
 - 时长：26 分 01 秒

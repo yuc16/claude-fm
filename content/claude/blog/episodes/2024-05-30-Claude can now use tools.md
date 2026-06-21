@@ -1,4 +1,4 @@
-# EP333 | Claude工具调用正式上线:AI从聊天走向行动的关键一步
+# EP78 | Claude工具调用正式上线:AI从聊天走向行动的关键一步
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2024-05-30-Claude can now use tools.mp3`
 - 时长：21 分 58 秒

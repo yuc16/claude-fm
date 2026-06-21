@@ -1,4 +1,4 @@
-# EP52 | 给 AI 模型做 diff：自动揪出新模型里藏着的隐性行为开关
+# EP331 | 给 AI 模型做 diff：自动揪出新模型里藏着的隐性行为开关
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-03-13-A “diff” tool for AI - Finding behavioral differences in new models.mp3`
 - 时长：26 分 08 秒

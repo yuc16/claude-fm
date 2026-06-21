@@ -1,4 +1,4 @@
-# EP393 | Anthropic 一周快讯 · 2025年2月2日–2025年2月8日 | Lyft 牵手 Claude
+# EP126 | Anthropic 一周快讯 · 2025年2月2日–2025年2月8日 | Lyft 牵手 Claude
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-02-02-Anthropic一周快讯.mp3`
 - 时长：0 分 02 秒

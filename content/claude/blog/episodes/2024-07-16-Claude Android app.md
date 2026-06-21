@@ -1,4 +1,4 @@
-# EP330 | Claude 安卓客户端上线背后，移动端 AI 助手的入口之战
+# EP92 | Claude 安卓客户端上线背后，移动端 AI 助手的入口之战
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2024-07-16-Claude Android app.mp3`
 - 时长：20 分 46 秒

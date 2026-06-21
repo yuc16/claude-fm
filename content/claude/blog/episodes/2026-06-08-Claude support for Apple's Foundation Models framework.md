@@ -1,4 +1,4 @@
-# EP168 | 苹果端侧模型联手 Claude，移动 AI 应用迎来混合架构新范式
+# EP433 | 苹果端侧模型联手 Claude，移动 AI 应用迎来混合架构新范式
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-08-Claude support for Apple's Foundation Models framework.mp3`
 - 时长：26 分 59 秒

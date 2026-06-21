@@ -1,4 +1,4 @@
-# EP390 | Anthropic 一周快讯 · 2024年11月24日–2024年11月30日 · MCP 协议正式开源
+# EP116 | Anthropic 一周快讯 · 2024年11月24日–2024年11月30日 · MCP 协议正式开源
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-11-24-Anthropic一周快讯.mp3`
 - 时长：2 分 21 秒

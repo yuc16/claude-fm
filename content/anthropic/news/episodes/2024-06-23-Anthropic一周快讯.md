@@ -1,4 +1,4 @@
-# EP377 | Anthropic 一周快讯 · 2024年6月23日–2024年6月29日 · Claude 进军 Projects 和美国政府市场
+# EP85 | Anthropic 一周快讯 · 2024年6月23日–2024年6月29日 · Claude 进军 Projects 和美国政府市场
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-06-23-Anthropic一周快讯.mp3`
 - 时长：2 分 40 秒

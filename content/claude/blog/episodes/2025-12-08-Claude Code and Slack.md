@@ -1,4 +1,4 @@
-# EP267 | 从 Slack 聊天到代码上线：Claude Code 进驻团队协作的新方式
+# EP266 | 从 Slack 聊天到代码上线：Claude Code 进驻团队协作的新方式
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-12-08-Claude Code and Slack.mp3`
 - 时长：22 分 41 秒

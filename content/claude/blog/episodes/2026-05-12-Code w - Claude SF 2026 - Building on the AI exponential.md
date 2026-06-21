@@ -1,4 +1,4 @@
-# EP208 | Code with Claude大会回顾：四个新功能与AI指数级构建
+# EP397 | Code with Claude大会回顾：四个新功能与AI指数级构建
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-12-Code w - Claude SF 2026 - Building on the AI exponential.mp3`
 - 时长：24 分 40 秒

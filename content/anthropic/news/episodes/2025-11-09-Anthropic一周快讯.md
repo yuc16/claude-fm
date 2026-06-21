@@ -1,4 +1,4 @@
-# EP428 | Anthropic 一周快讯 · 2025年11月9日–2025年11月15日 · 五十亿级基建投资与首例 AI 自主网络间谍行动曝光
+# EP243 | Anthropic 一周快讯 · 2025年11月9日–2025年11月15日 · 五十亿级基建投资与首例 AI 自主网络间谍行动曝光
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-11-09-Anthropic一周快讯.mp3`
 - 时长：4 分 09 秒

@@ -1,4 +1,4 @@
-# EP237 | Claude Cowork 全面开放，企业级权限管控怎么做
+# EP353 | Claude Cowork 全面开放，企业级权限管控怎么做
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-09-Making Claude Cowork ready for enterprise.mp3`
 - 时长：21 分 20 秒

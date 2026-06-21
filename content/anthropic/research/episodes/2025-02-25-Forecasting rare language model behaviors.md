@@ -1,4 +1,4 @@
-# EP103 | 用幂律预测 AI 的危险边界：Anthropic 如何在上线前发现那些极罕见的模型失控行为
+# EP132 | 用幂律预测 AI 的危险边界：Anthropic 如何在上线前发现那些极罕见的模型失控行为
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-02-25-Forecasting rare language model behaviors.mp3`
 - 时长：22 分 56 秒

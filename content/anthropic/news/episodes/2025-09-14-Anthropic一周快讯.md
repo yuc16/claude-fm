@@ -1,4 +1,4 @@
-# EP420 | Anthropic 一周快讯 · 2025年9月14日–2025年9月20日 · Claude 登陆 Xcode
+# EP201 | Anthropic 一周快讯 · 2025年9月14日–2025年9月20日 · Claude 登陆 Xcode
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-09-14-Anthropic一周快讯.mp3`
 - 时长：1 分 58 秒

@@ -1,4 +1,4 @@
-# EP121 | AI 的推理步骤只是装饰？越强的模型越不忠实于自己的思维链
+# EP33 | AI 的推理步骤只是装饰？越强的模型越不忠实于自己的思维链
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-07-18-Measuring Faithfulness in Chain-of-Thought Reasoning.mp3`
 - 时长：22 分 46 秒

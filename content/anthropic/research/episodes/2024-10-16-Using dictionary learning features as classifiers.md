@@ -1,4 +1,4 @@
-# EP136 | 用字典学习特征做分类器——AI 可解释性研究迈向实用的关键一步
+# EP108 | 用字典学习特征做分类器——AI 可解释性研究迈向实用的关键一步
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-10-16-Using dictionary learning features as classifiers.mp3`
 - 时长：20 分 07 秒

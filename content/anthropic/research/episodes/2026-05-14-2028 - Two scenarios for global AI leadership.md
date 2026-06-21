@@ -1,4 +1,4 @@
-# EP44 | 芯片、蒸馏攻击与二零二八年的两种未来：Anthropic 的中美 AI 竞争白皮书全解读
+# EP400 | 芯片、蒸馏攻击与二零二八年的两种未来：Anthropic 的中美 AI 竞争白皮书全解读
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-05-14-2028 - Two scenarios for global AI leadership.mp3`
 - 时长：28 分 57 秒

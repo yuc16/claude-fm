@@ -1,4 +1,4 @@
-# EP164 | 打开 AI 的黑盒：Anthropic 可解释性团队规模化背后的工程挑战
+# EP82 | 打开 AI 的黑盒：Anthropic 可解释性团队规模化背后的工程挑战
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-06-13-The engineering challenges of scaling interpretability.mp3`
 - 时长：28 分 24 秒

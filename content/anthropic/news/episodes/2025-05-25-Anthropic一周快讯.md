@@ -1,4 +1,4 @@
-# EP406 | Anthropic 一周快讯 · 2025年5月25日–2025年5月31日：Netflix 创始人 Reed Hastings 加入董事会
+# EP159 | Anthropic 一周快讯 · 2025年5月25日–2025年5月31日：Netflix 创始人 Reed Hastings 加入董事会
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-05-25-Anthropic一周快讯.mp3`
 - 时长：2 分 11 秒

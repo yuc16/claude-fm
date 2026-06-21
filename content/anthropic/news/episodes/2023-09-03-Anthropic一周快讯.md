@@ -1,4 +1,4 @@
-# EP355 | Anthropic 一周快讯 · 2023年9月3日–2023年9月9日 · Claude Pro 付费订阅上线
+# EP41 | Anthropic 一周快讯 · 2023年9月3日–2023年9月9日 · Claude Pro 付费订阅上线
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-09-03-Anthropic一周快讯.mp3`
 - 时长：2 分 05 秒

@@ -1,4 +1,4 @@
-# EP175 | AI让漏洞利用窗口缩短到小时级，Anthropic给出七条重构安全防线的实战建议
+# EP357 | AI让漏洞利用窗口缩短到小时级，Anthropic给出七条重构安全防线的实战建议
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-10-Preparing your security program for AI-accelerated offense.mp3`
 - 时长：28 分 14 秒

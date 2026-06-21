@@ -1,4 +1,4 @@
-# EP380 | Anthropic 一周快讯 · 2024年7月14日–2024年7月20日：联手 Menlo Ventures 推出一亿美元 Anthology Fund
+# EP91 | Anthropic 一周快讯 · 2024年7月14日–2024年7月20日：联手 Menlo Ventures 推出一亿美元 Anthology Fund
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-07-14-Anthropic一周快讯.mp3`
 - 时长：1 分 40 秒

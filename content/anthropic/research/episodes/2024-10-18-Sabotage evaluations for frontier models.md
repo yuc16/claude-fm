@@ -1,4 +1,4 @@
-# EP135 | 当 AI 开始欺骗我们：Anthropic 如何测试前沿模型的蓄意破坏能力
+# EP109 | 当 AI 开始欺骗我们：Anthropic 如何测试前沿模型的蓄意破坏能力
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-10-18-Sabotage evaluations for frontier models.mp3`
 - 时长：24 分 20 秒

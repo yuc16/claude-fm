@@ -1,4 +1,4 @@
-# EP266 | Anthropic法务团队如何用Claude把审核从几天缩短到几小时
+# EP267 | Anthropic法务团队如何用Claude把审核从几天缩短到几小时
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-12-08-How Anthropic uses Claude in Legal.mp3`
 - 时长：21 分 53 秒

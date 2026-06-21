@@ -1,4 +1,4 @@
-# EP453 | Anthropic 一周快讯 · 2026年6月14日–2026年6月20日 | 首尔新办公室落地，韩国AI合作全面铺开
+# EP439 | Anthropic 一周快讯 · 2026年6月14日–2026年6月20日 | 首尔新办公室落地，韩国AI合作全面铺开
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-06-14-Anthropic一周快讯.mp3`
 - 时长：1 分 52 秒

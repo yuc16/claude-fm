@@ -1,4 +1,4 @@
-# EP32 | 语言模型的自我认知：Anthropic 用三个实验证明 AI 真的能察觉自己在想什么
+# EP233 | 语言模型的自我认知：Anthropic 用三个实验证明 AI 真的能察觉自己在想什么
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-10-29-Emergent introspective awareness in large language models.mp3`
 - 时长：22 分 16 秒

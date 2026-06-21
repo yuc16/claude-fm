@@ -1,4 +1,4 @@
-# EP150 | 当 AI 学会打穿网络：大模型配上黑客工具包能做什么
+# EP163 | 当 AI 学会打穿网络：大模型配上黑客工具包能做什么
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-06-13-Cyber toolkits for LLMs.mp3`
 - 时长：27 分 07 秒

@@ -1,4 +1,4 @@
-# EP338 | Claude二登陆亚马逊云科技Bedrock，企业级AI落地启示
+# EP40 | Claude二登陆亚马逊云科技Bedrock，企业级AI落地启示
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2023-08-23-Claude 2 on Amazon Bedrock.mp3`
 - 时长：22 分 17 秒

@@ -1,4 +1,4 @@
-# EP54 | 让机器狗去捡球：Claude 如何打通 AI 与物理世界的边界
+# EP246 | 让机器狗去捡球：Claude 如何打通 AI 与物理世界的边界
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-11-12-Project Fetch - Can Claude train a robot dog -.mp3`
 - 时长：25 分 17 秒

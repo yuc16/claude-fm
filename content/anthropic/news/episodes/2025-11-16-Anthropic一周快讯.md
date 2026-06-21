@@ -1,4 +1,4 @@
-# EP429 | Anthropic 一周快讯 · 2025年11月16日–2025年11月22日 · 微软、英伟达三方联手,三十亿美元算力大单落地
+# EP249 | Anthropic 一周快讯 · 2025年11月16日–2025年11月22日 · 微软、英伟达三方联手,三十亿美元算力大单落地
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-11-16-Anthropic一周快讯.mp3`
 - 时长：3 分 37 秒

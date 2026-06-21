@@ -1,4 +1,4 @@
-# EP352 | Anthropic 一周快讯 · 2023年7月23日–2023年7月29日 · 这周主题是安全:模型安全与红队测试
+# EP35 | Anthropic 一周快讯 · 2023年7月23日–2023年7月29日 · 这周主题是安全:模型安全与红队测试
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-07-23-Anthropic一周快讯.mp3`
 - 时长：2 分 58 秒

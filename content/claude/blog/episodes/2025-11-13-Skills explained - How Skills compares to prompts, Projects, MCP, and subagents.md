@@ -1,4 +1,4 @@
-# EP274 | Skills到底是什么:对比Prompt、Projects、MCP和子代理全解析
+# EP247 | Skills到底是什么:对比Prompt、Projects、MCP和子代理全解析
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-11-13-Skills explained - How Skills compares to prompts, Projects, MCP, and subagents.mp3`
 - 时长：20 分 49 秒

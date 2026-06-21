@@ -1,4 +1,4 @@
-# EP350 | Anthropic 一周快讯 · 2023年6月11日–2023年6月17日 · 这周关注AI问责制提案
+# EP30 | Anthropic 一周快讯 · 2023年6月11日–2023年6月17日 · 这周关注AI问责制提案
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-06-11-Anthropic一周快讯.mp3`
 - 时长：2 分 19 秒

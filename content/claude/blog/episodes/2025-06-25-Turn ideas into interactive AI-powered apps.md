@@ -1,4 +1,4 @@
-# EP311 | 从对话到应用:Claude artifacts如何让人人都能造AI app
+# EP171 | 从对话到应用:Claude artifacts如何让人人都能造AI app
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-06-25-Turn ideas into interactive AI-powered apps.mp3`
 - 时长：19 分 29 秒

@@ -1,4 +1,4 @@
-# EP114 | 给 AI 立一部宪法：具体条款与通用原则，哪种方式真正让大模型安全
+# EP51 | 给 AI 立一部宪法：具体条款与通用原则，哪种方式真正让大模型安全
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-10-24-Specific versus General Principles for Constitutional AI.mp3`
 - 时长：22 分 17 秒

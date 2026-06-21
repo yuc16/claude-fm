@@ -1,4 +1,4 @@
-# EP203 | 一夜跑完四千客户打分：销售负责人的Claude Cowork实战笔记
+# EP406 | 一夜跑完四千客户打分：销售负责人的Claude Cowork实战笔记
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-20-How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book.mp3`
 - 时长：24 分 29 秒

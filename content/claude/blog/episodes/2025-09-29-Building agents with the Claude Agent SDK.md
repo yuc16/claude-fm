@@ -1,4 +1,4 @@
-# EP298 | 给 Claude 一台电脑:解读 Claude Agent SDK 的智能体构建之道
+# EP208 | 给 Claude 一台电脑:解读 Claude Agent SDK 的智能体构建之道
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-09-29-Building agents with the Claude Agent SDK.mp3`
 - 时长：24 分 16 秒

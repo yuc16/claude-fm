@@ -1,4 +1,4 @@
-# EP241 | Claude如何在对话里亲手画图,把抽象概念讲明白
+# EP329 | Claude如何在对话里亲手画图,把抽象概念讲明白
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-03-12-Claude builds interactive visuals right in your conversation.mp3`
 - 时长：20 分 11 秒

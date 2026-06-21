@@ -1,4 +1,4 @@
-# EP113 | 训练数据的指纹：用影响函数追溯大语言模型行为的来源
+# EP37 | 训练数据的指纹：用影响函数追溯大语言模型行为的来源
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-08-08-Studying Large Language Model Generalization with Influence Functions.mp3`
 - 时长：20 分 37 秒

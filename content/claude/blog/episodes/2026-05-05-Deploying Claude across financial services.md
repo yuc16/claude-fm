@@ -1,4 +1,4 @@
-# EP214 | 金融机构全员部署:从尽调到月结的Claude实战路线图
+# EP386 | 金融机构全员部署:从尽调到月结的Claude实战路线图
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-05-Deploying Claude across financial services.mp3`
 - 时长：25 分 40 秒

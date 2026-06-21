@@ -1,4 +1,4 @@
-# EP427 | Anthropic 一周快讯 · 2025年11月2日–2025年11月8日 · 欧洲扩张全面提速,Claude 进军冰岛全国课堂
+# EP239 | Anthropic 一周快讯 · 2025年11月2日–2025年11月8日 · 欧洲扩张全面提速,Claude 进军冰岛全国课堂
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-11-02-Anthropic一周快讯.mp3`
 - 时长：3 分 44 秒

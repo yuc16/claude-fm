@@ -1,4 +1,4 @@
-# EP47 | 当 AI 开始解出人类束手无策的生物研究难题：BioMysteryBench 实测全解析
+# EP377 | 当 AI 开始解出人类束手无策的生物研究难题：BioMysteryBench 实测全解析
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-04-29-Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench.mp3`
 - 时长：26 分 46 秒

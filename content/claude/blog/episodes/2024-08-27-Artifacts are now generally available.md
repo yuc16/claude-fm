@@ -1,4 +1,4 @@
-# EP329 | Claude Artifacts 全量上线：从对话到协作创作的转折点
+# EP96 | Claude Artifacts 全量上线：从对话到协作创作的转折点
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2024-08-27-Artifacts are now generally available.mp3`
 - 时长：18 分 40 秒

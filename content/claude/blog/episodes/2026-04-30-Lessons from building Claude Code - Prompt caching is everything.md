@@ -1,4 +1,4 @@
-# EP218 | 提示词缓存才是一切:Claude Code的省钱提速法则
+# EP383 | 提示词缓存才是一切:Claude Code的省钱提速法则
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-04-30-Lessons from building Claude Code - Prompt caching is everything.mp3`
 - 时长：24 分 58 秒

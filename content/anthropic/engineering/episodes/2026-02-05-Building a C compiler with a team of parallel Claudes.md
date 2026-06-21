@@ -1,4 +1,4 @@
-# EP14 | 用十六个并行 Claude 从零造出 C 编译器：智能体团队的工程极限测试
+# EP302 | 用十六个并行 Claude 从零造出 C 编译器：智能体团队的工程极限测试
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2026-02-05-Building a C compiler with a team of parallel Claudes.mp3`
 - 时长：28 分 38 秒

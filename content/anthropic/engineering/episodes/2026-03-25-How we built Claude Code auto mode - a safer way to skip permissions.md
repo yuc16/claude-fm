@@ -1,4 +1,4 @@
-# EP3 | Claude Code 自动模式：用 AI 分类器替代人类审批，把 agent 从"点击地狱"里解救出来
+# EP341 | Claude Code 自动模式：用 AI 分类器替代人类审批，把 agent 从"点击地狱"里解救出来
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2026-03-25-How we built Claude Code auto mode - a safer way to skip permissions.mp3`
 - 时长：27 分 31 秒

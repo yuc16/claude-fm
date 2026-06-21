@@ -1,4 +1,4 @@
-# EP107 | AI助手为何总顺着你说：大模型奉承行为的根源与应对之道
+# EP50 | AI助手为何总顺着你说：大模型奉承行为的根源与应对之道
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-10-23-Towards Understanding Sycophancy in Language Models.mp3`
 - 时长：21 分 52 秒

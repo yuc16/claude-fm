@@ -1,4 +1,4 @@
-# EP247 | Claude Cowork插件升级:企业如何打造专属AI协作平台
+# EP318 | Claude Cowork插件升级:企业如何打造专属AI协作平台
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-02-24-Cowork and plugins for teams across the enterprise.mp3`
 - 时长：20 分 00 秒

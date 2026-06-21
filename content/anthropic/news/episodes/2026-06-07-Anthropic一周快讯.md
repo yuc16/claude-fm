@@ -1,4 +1,4 @@
-# EP339 | Anthropic 一周快讯 · 2026年6月7日–2026年6月13日:最强模型Fable 5上线即遭美国政府勒令下架
+# EP432 | Anthropic 一周快讯 · 2026年6月7日–2026年6月13日:最强模型Fable 5上线即遭美国政府勒令下架
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-06-07-Anthropic一周快讯.mp3`
 - 时长：5 分 54 秒

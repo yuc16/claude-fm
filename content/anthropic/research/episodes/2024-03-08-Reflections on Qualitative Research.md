@@ -1,4 +1,4 @@
-# EP162 | 解码黑盒：Anthropic 为什么说 AI 可解释性研究的核心是定性方法
+# EP62 | 解码黑盒：Anthropic 为什么说 AI 可解释性研究的核心是定性方法
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2024-03-08-Reflections on Qualitative Research.mp3`
 - 时长：23 分 26 秒

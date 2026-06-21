@@ -1,4 +1,4 @@
-# EP30 | Claude 的真实价值观：三十万条对话背后的 AI 对齐实证
+# EP149 | Claude 的真实价值观：三十万条对话背后的 AI 对齐实证
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-04-21-Values in the wild - Discovering and analyzing values in real-world language model interactions.mp3`
 - 时长：27 分 58 秒

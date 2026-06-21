@@ -1,4 +1,4 @@
-# EP399 | Anthropic 一周快讯 · 2025年3月30日–2025年4月5日 · Claude 进军高校,首届开发者大会定档
+# EP142 | Anthropic 一周快讯 · 2025年3月30日–2025年4月5日 · Claude 进军高校,首届开发者大会定档
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-03-30-Anthropic一周快讯.mp3`
 - 时长：2 分 42 秒

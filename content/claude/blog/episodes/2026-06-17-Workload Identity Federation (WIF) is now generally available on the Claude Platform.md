@@ -1,4 +1,4 @@
-# EP181 | 告别静态密钥：Anthropic 正式开放工作负载身份联合，企业级 AI 认证进入新时代
+# EP444 | 告别静态密钥：Anthropic 正式开放工作负载身份联合，企业级 AI 认证进入新时代
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-17-Workload Identity Federation (WIF) is now generally available on the Claude Platform.mp3`
 - 时长：26 分 24 秒

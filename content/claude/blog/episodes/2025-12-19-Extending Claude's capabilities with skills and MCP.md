@@ -1,4 +1,4 @@
-# EP261 | Skills加MCP:让Claude真正听懂你团队的工作方式
+# EP274 | Skills加MCP:让Claude真正听懂你团队的工作方式
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-12-19-Extending Claude's capabilities with skills and MCP.mp3`
 - 时长：21 分 17 秒

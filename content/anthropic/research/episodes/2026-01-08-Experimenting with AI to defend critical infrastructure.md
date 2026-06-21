@@ -1,4 +1,4 @@
-# EP148 | AI加速网络防御：Claude三小时完成专家数周工作，Anthropic与国家实验室守护关键基础设施
+# EP276 | AI加速网络防御：Claude三小时完成专家数周工作，Anthropic与国家实验室守护关键基础设施
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2026-01-08-Experimenting with AI to defend critical infrastructure.mp3`
 - 时长：20 分 12 秒

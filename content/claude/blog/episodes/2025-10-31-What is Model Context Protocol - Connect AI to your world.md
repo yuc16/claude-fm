@@ -1,4 +1,4 @@
-# EP278 | MCP 协议解析：让 AI 真正连接你的工具和数据
+# EP238 | MCP 协议解析：让 AI 真正连接你的工具和数据
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-31-What is Model Context Protocol - Connect AI to your world.mp3`
 - 时长：20 分 48 秒

@@ -1,4 +1,4 @@
-# EP369 | Anthropic 一周快讯 · 2024年4月21日–2024年4月27日 · 联合多家公司承诺儿童安全准则
+# EP68 | Anthropic 一周快讯 · 2024年4月21日–2024年4月27日 · 联合多家公司承诺儿童安全准则
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-04-21-Anthropic一周快讯.mp3`
 - 时长：2 分 18 秒

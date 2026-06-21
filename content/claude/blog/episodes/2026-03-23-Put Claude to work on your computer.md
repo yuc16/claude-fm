@@ -1,4 +1,4 @@
-# EP229 | Claude 现在能替你操作电脑,还能用手机远程派活
+# EP336 | Claude 现在能替你操作电脑,还能用手机远程派活
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-03-23-Put Claude to work on your computer.mp3`
 - 时长：23 分 48 秒

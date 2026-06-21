@@ -1,4 +1,4 @@
-# EP100 | 打开 AI 黑箱：Anthropic 开源回路追踪工具，看清大模型如何思考
+# EP160 | 打开 AI 黑箱：Anthropic 开源回路追踪工具，看清大模型如何思考
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-05-29-Open-sourcing circuit-tracing tools.mp3`
 - 时长：23 分 30 秒

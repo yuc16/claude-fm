@@ -1,4 +1,4 @@
-# EP249 | Claude Code桌面端打通预览、审查与合并全流程
+# EP312 | Claude Code桌面端打通预览、审查与合并全流程
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-02-20-Preview, review, and merge with Claude Code.mp3`
 - 时长：21 分 59 秒

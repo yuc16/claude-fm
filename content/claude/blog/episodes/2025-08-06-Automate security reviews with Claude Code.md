@@ -1,4 +1,4 @@
-# EP307 | Claude Code 自动化安全审查：从终端到 PR 的全流程防线
+# EP184 | Claude Code 自动化安全审查：从终端到 PR 的全流程防线
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-08-06-Automate security reviews with Claude Code.mp3`
 - 时长：25 分 50 秒

@@ -1,4 +1,4 @@
-# EP376 | Anthropic 一周快讯 · 2024年6月16日–2024年6月22日 | Claude 3.5 Sonnet 发布,性能反超 Opus
+# EP83 | Anthropic 一周快讯 · 2024年6月16日–2024年6月22日 | Claude 3.5 Sonnet 发布,性能反超 Opus
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-06-16-Anthropic一周快讯.mp3`
 - 时长：2 分 36 秒

@@ -1,4 +1,4 @@
-# EP92 | 当 AI 学会演戏：Anthropic 如何审计语言模型的隐藏目标
+# EP135 | 当 AI 学会演戏：Anthropic 如何审计语言模型的隐藏目标
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-03-13-Auditing language models for hidden objectives.mp3`
 - 时长：24 分 23 秒

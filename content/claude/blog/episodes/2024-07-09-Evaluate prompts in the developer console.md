@@ -1,4 +1,4 @@
-# EP332 | Claude开发者控制台上线评估功能：让写提示词不再靠猜
+# EP89 | Claude开发者控制台上线评估功能：让写提示词不再靠猜
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2024-07-09-Evaluate prompts in the developer console.mp3`
 - 时长：17 分 31 秒

@@ -1,4 +1,4 @@
-# EP387 | Anthropic 一周快讯 · 2024年10月20日–2024年10月26日 | Claude 3.5 Sonnet 升级、Haiku 上线,computer use 首次公测
+# EP110 | Anthropic 一周快讯 · 2024年10月20日–2024年10月26日 | Claude 3.5 Sonnet 升级、Haiku 上线,computer use 首次公测
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-10-20-Anthropic一周快讯.mp3`
 - 时长：2 分 54 秒

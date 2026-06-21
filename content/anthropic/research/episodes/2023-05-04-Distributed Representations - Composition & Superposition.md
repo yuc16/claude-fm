@@ -1,4 +1,4 @@
-# EP127 | 分布式表示的两种灵魂：神经网络里的组合与叠加之争
+# EP24 | 分布式表示的两种灵魂：神经网络里的组合与叠加之争
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-05-04-Distributed Representations - Composition & Superposition.mp3`
 - 时长：23 分 04 秒

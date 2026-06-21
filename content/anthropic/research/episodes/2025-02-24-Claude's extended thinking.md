@@ -1,4 +1,4 @@
-# EP96 | 让 AI 多想一会儿：Claude 扩展思考的推理机制、安全边界与工程实践
+# EP131 | 让 AI 多想一会儿：Claude 扩展思考的推理机制、安全边界与工程实践
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-02-24-Claude's extended thinking.mp3`
 - 时长：28 分 45 秒

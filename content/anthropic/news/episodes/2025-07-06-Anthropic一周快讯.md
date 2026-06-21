@@ -1,4 +1,4 @@
-# EP410 | Anthropic 一周快讯 · 2025年7月6日–2025年7月12日 · 一份透明度框架提案最值得关注
+# EP174 | Anthropic 一周快讯 · 2025年7月6日–2025年7月12日 · 一份透明度框架提案最值得关注
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-07-06-Anthropic一周快讯.mp3`
 - 时长：3 分 53 秒

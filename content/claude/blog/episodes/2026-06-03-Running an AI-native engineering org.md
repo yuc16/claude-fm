@@ -1,4 +1,4 @@
-# EP191 | 写代码已经不是瓶颈了——Anthropic 工程总监谈 AI 原生团队如何重新运转
+# EP428 | 写代码已经不是瓶颈了——Anthropic 工程总监谈 AI 原生团队如何重新运转
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-03-Running an AI-native engineering org.mp3`
 - 时长：29 分 31 秒

@@ -1,4 +1,4 @@
-# EP276 | 提示词工程进阶指南：让 Claude 真正听懂你的话
+# EP244 | 提示词工程进阶指南：让 Claude 真正听懂你的话
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-11-10-Prompt engineering best practices.mp3`
 - 时长：25 分 51 秒

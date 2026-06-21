@@ -1,4 +1,4 @@
-# EP287 | 告别救火式调试:用 Claude 提前设计稳健的 API 集成
+# EP231 | 告别救火式调试:用 Claude 提前设计稳健的 API 集成
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-27-How to integrate APIs seamlessly.mp3`
 - 时长：18 分 03 秒

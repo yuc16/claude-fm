@@ -1,4 +1,4 @@
-# EP302 | Claude学会造文件了，从聊天框直接产出可用文档
+# EP198 | Claude学会造文件了，从聊天框直接产出可用文档
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-09-09-Claude can now create and edit files.mp3`
 - 时长：19 分 41 秒

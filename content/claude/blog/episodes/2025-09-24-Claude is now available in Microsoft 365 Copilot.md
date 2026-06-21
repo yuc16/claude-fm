@@ -1,4 +1,4 @@
-# EP300 | Claude入驻微软三百六十五Copilot意味着什么
+# EP206 | Claude入驻微软三百六十五Copilot意味着什么
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-09-24-Claude is now available in Microsoft 365 Copilot.mp3`
 - 时长：20 分 48 秒

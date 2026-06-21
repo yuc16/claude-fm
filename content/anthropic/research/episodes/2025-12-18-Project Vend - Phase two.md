@@ -1,4 +1,4 @@
-# EP55 | AI 自己开店两个月，亏损、政变、午夜玄学聊天——Anthropic 的 Project Vend 第二阶段实验报告
+# EP272 | AI 自己开店两个月，亏损、政变、午夜玄学聊天——Anthropic 的 Project Vend 第二阶段实验报告
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-12-18-Project Vend - Phase two.mp3`
 - 时长：30 分 25 秒

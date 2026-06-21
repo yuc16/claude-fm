@@ -1,4 +1,4 @@
-# EP264 | 用 Hooks 给 Claude Code 装上自动化引擎
+# EP269 | 用 Hooks 给 Claude Code 装上自动化引擎
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-12-11-Claude Code power user customization - How to configure hooks.mp3`
 - 时长：22 分 25 秒

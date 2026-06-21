@@ -1,4 +1,4 @@
-# EP118 | 大模型说的推理可信吗？问题分解如何让 AI 推理更忠实
+# EP34 | 大模型说的推理可信吗？问题分解如何让 AI 推理更忠实
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2023-07-18-Question Decomposition Improves the Faithfulness of Model-Generated Reasoning.mp3`
 - 时长：22 分 33 秒

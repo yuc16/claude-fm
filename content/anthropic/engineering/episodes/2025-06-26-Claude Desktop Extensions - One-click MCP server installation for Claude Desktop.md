@@ -1,4 +1,4 @@
-# EP24 | 告别命令行地狱：Claude 桌面扩展如何让百万普通用户一键安装 MCP 服务器
+# EP172 | 告别命令行地狱：Claude 桌面扩展如何让百万普通用户一键安装 MCP 服务器
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2025-06-26-Claude Desktop Extensions - One-click MCP server installation for Claude Desktop.mp3`
 - 时长：31 分 26 秒

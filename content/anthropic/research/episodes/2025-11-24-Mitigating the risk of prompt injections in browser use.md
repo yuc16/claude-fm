@@ -1,4 +1,4 @@
-# EP73 | 浏览网页的 AI Agent 如何被黑：提示词注入攻击与防御全解
+# EP256 | 浏览网页的 AI Agent 如何被黑：提示词注入攻击与防御全解
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-11-24-Mitigating the risk of prompt injections in browser use.mp3`
 - 时长：24 分 49 秒

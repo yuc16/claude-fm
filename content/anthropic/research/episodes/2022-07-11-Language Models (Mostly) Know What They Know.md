@@ -1,4 +1,4 @@
-# EP123 | AI 知道自己不知道什么吗？Anthropic 早期研究揭示语言模型的元认知之路
+# EP10 | AI 知道自己不知道什么吗？Anthropic 早期研究揭示语言模型的元认知之路
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2022-07-11-Language Models (Mostly) Know What They Know.mp3`
 - 时长：22 分 24 秒

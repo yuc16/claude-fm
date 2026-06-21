@@ -1,4 +1,4 @@
-# EP106 | 从人类反馈到对齐：深解 Anthropic 奠基之作，如何训练既有用又无害的 AI 助手
+# EP6 | 从人类反馈到对齐：深解 Anthropic 奠基之作，如何训练既有用又无害的 AI 助手
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2022-04-12-Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.mp3`
 - 时长：22 分 57 秒

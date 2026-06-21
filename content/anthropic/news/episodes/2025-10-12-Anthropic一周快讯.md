@@ -1,4 +1,4 @@
-# EP424 | Anthropic 一周快讯 · 2025年10月12日–2025年10月18日：Haiku 4.5 来了,小模型也能打
+# EP221 | Anthropic 一周快讯 · 2025年10月12日–2025年10月18日：Haiku 4.5 来了,小模型也能打
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-10-12-Anthropic一周快讯.mp3`
 - 时长：2 分 28 秒

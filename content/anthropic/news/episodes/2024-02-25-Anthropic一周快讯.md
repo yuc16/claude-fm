@@ -1,4 +1,4 @@
-# EP364 | Anthropic 一周快讯 · 2024年2月25日–2024年3月2日 · 聊聊给 Claude 写好提示词这件事
+# EP60 | Anthropic 一周快讯 · 2024年2月25日–2024年3月2日 · 聊聊给 Claude 写好提示词这件事
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-02-25-Anthropic一周快讯.mp3`
 - 时长：1 分 31 秒

@@ -1,4 +1,4 @@
-# EP65 | 用 AI 访问一千两百五十个人，Anthropic 发现了什么关于我们和 AI 的秘密
+# EP264 | 用 AI 访问一千两百五十个人，Anthropic 发现了什么关于我们和 AI 的秘密
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2025-12-04-Introducing Anthropic Interviewer.mp3`
 - 时长：23 分 27 秒

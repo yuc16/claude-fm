@@ -1,4 +1,4 @@
-# EP417 | Anthropic 一周快讯 · 2025年8月24日–2025年8月30日 · 威胁情报报告揭示 AI 滥用新趋势
+# EP193 | Anthropic 一周快讯 · 2025年8月24日–2025年8月30日 · 威胁情报报告揭示 AI 滥用新趋势
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2025-08-24-Anthropic一周快讯.mp3`
 - 时长：3 分 36 秒

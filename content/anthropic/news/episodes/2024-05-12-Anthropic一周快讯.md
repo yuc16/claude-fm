@@ -1,4 +1,4 @@
-# EP371 | Anthropic 一周快讯 · 2024年5月12日–2024年5月18日 · Claude 正式登陆欧洲，外加一位重磅产品高管加入
+# EP73 | Anthropic 一周快讯 · 2024年5月12日–2024年5月18日 · Claude 正式登陆欧洲，外加一位重磅产品高管加入
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-05-12-Anthropic一周快讯.mp3`
 - 时长：2 分 49 秒

@@ -1,4 +1,4 @@
-# EP382 | Anthropic 一周快讯 · 2024年8月4日–2024年8月10日：模型安全漏洞悬赏计划升级
+# EP95 | Anthropic 一周快讯 · 2024年8月4日–2024年8月10日：模型安全漏洞悬赏计划升级
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-08-04-Anthropic一周快讯.mp3`
 - 时长：2 分 23 秒

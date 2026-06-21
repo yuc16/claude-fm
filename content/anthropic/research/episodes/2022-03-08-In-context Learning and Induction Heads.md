@@ -1,4 +1,4 @@
-# EP160 | Transformer 的顿悟时刻：感应头如何赋予模型上下文学习能力
+# EP5 | Transformer 的顿悟时刻：感应头如何赋予模型上下文学习能力
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/research/audio/2022-03-08-In-context Learning and Induction Heads.mp3`
 - 时长：21 分 46 秒

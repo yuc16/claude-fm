@@ -1,4 +1,4 @@
-# EP354 | Anthropic 一周快讯 · 2023年8月13日–2023年8月19日｜SKT 追加投资一亿美元，联手定制电信行业大模型
+# EP39 | Anthropic 一周快讯 · 2023年8月13日–2023年8月19日｜SKT 追加投资一亿美元，联手定制电信行业大模型
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-08-13-Anthropic一周快讯.mp3`
 - 时长：1 分 57 秒

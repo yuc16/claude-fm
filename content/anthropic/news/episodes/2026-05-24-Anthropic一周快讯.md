@@ -1,4 +1,4 @@
-# EP451 | Anthropic 一周快讯 · 2026年5月24日–2026年5月30日 · Opus 4.8 发布与650亿美元融资双线齐发
+# EP413 | Anthropic 一周快讯 · 2026年5月24日–2026年5月30日 · Opus 4.8 发布与650亿美元融资双线齐发
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2026-05-24-Anthropic一周快讯.mp3`
 - 时长：4 分 38 秒

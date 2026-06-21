@@ -1,4 +1,4 @@
-# EP190 | 从提问到托管：Claude Cowork 让知识工作者把重复劳动彻底交给 AI
+# EP424 | 从提问到托管：Claude Cowork 让知识工作者把重复劳动彻底交给 AI
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-06-03-Best practices for getting started with Claude Cowork.mp3`
 - 时长：29 分 04 秒

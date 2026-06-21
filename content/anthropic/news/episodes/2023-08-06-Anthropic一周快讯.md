@@ -1,4 +1,4 @@
-# EP353 | Anthropic 一周快讯 · 2023年8月6日–2023年8月12日 · Claude Instant 迎来 1.2 升级
+# EP36 | Anthropic 一周快讯 · 2023年8月6日–2023年8月12日 · Claude Instant 迎来 1.2 升级
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2023-08-06-Anthropic一周快讯.mp3`
 - 时长：2 分 07 秒

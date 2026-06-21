@@ -1,4 +1,4 @@
-# EP282 | 从写代码到审代码：Brex 如何用 Claude Code 重塑全员协作方式
+# EP236 | 从写代码到审代码：Brex 如何用 Claude Code 重塑全员协作方式
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-30-How Brex improves code quality and productivity with Claude Code.mp3`
 - 时长：22 分 09 秒

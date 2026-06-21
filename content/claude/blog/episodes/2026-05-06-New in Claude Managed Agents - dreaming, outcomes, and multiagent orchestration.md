@@ -1,4 +1,4 @@
-# EP170 | Claude 托管智能体三项新能力：让 AI 学会做梦、自我评分与多体协作
+# EP387 | Claude 托管智能体三项新能力：让 AI 学会做梦、自我评分与多体协作
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2026-05-06-New in Claude Managed Agents - dreaming, outcomes, and multiagent orchestration.mp3`
 - 时长：24 分 48 秒

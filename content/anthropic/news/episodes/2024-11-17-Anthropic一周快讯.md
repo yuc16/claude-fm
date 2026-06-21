@@ -1,4 +1,4 @@
-# EP389 | Anthropic 一周快讯 · 2024年11月17日–2024年11月23日:亚马逊再砸40亿美元,Trainium成训练核心引擎
+# EP114 | Anthropic 一周快讯 · 2024年11月17日–2024年11月23日:亚马逊再砸40亿美元,Trainium成训练核心引擎
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-11-17-Anthropic一周快讯.mp3`
 - 时长：2 分 23 秒

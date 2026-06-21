@@ -1,4 +1,4 @@
-# EP372 | Anthropic 一周快讯 · 2024年5月19日–2024年5月25日 · 金门大桥版 Claude 上线又下线
+# EP74 | Anthropic 一周快讯 · 2024年5月19日–2024年5月25日 · 金门大桥版 Claude 上线又下线
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/news/audio/2024-05-19-Anthropic一周快讯.mp3`
 - 时长：3 分 42 秒

@@ -1,4 +1,4 @@
-# EP7 | 让 AI 智能体秒变领域专家：Agent Skills 的设计哲学与工程实践全解析
+# EP225 | 让 AI 智能体秒变领域专家：Agent Skills 的设计哲学与工程实践全解析
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/anthropic/engineering/audio/2025-10-16-Equipping agents for the real world with Agent Skills.mp3`
 - 时长：32 分 22 秒

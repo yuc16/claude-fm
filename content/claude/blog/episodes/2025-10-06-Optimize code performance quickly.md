@@ -1,4 +1,4 @@
-# EP295 | 从被动救火到主动优化:用Claude提速你的代码性能
+# EP215 | 从被动救火到主动优化:用Claude提速你的代码性能
 
 - 音频文件：`/Users/wangyc/Desktop/projects/claude-fm/content/claude/blog/audio/2025-10-06-Optimize code performance quickly.mp3`
 - 时长：22 分 20 秒
