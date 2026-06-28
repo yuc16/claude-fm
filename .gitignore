@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# Local runtime config
+.env
+
 # 音频成品太大（约 1.7GB），不进 git；可由解读稿用 edge-tts 重新合成
 *.mp3
 

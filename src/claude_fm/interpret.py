@@ -1,11 +1,16 @@
-"""调用 claude -p 无头模式生成中文解读稿（走订阅，不用 API key）。"""
+"""调用模型生成中文解读稿。"""
 
+import json
 import os
 import re
 import subprocess
 import tempfile
+import time
 from datetime import datetime
+from pathlib import Path
+from typing import Any, Iterator
 
+import httpx
 import yaml
 
 from . import config
@@ -24,6 +29,9 @@ _DISALLOWED_TOOLS = (
     "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch,"
     "Task,NotebookEdit,TodoWrite"
 )
+
+_CODEX_URL = "https://chatgpt.com/backend-api/codex/responses"
+_CODEX_AUTH_PATH = Path.home() / ".codex" / "auth.json"
 
 
 def _cn_date(iso: str) -> str:
@@ -65,6 +73,10 @@ class SessionLimitError(RuntimeError):
         self.weekly = weekly
 
 
+class CodexAuthError(RuntimeError):
+    pass
+
+
 def _parse_session_limit(text: str):
     """识别限额错误，返回 (reset_raw, weekly) 或 None（非限额错误）。"""
     low = text.lower()
@@ -76,11 +88,172 @@ def _parse_session_limit(text: str):
     return (m.group(1).strip() if m else "", weekly)
 
 
+def run_llm(prompt: str) -> str:
+    """按配置选择解读后端。"""
+    if config.INTERPRET_PROVIDER == "codex":
+        return run_codex(prompt)
+    if config.INTERPRET_PROVIDER == "claude":
+        return run_claude(prompt)
+    raise RuntimeError(f"未知 INTERPRET_PROVIDER: {config.INTERPRET_PROVIDER}")
+
+
+def run_codex(prompt: str) -> str:
+    """通过 Codex Responses SSE endpoint 生成文本，认证来自 ~/.codex/auth.json。"""
+    last_err = ""
+    for attempt in range(3):
+        try:
+            return _run_codex_once(prompt)
+        except SessionLimitError:
+            raise
+        except Exception as exc:  # noqa: BLE001
+            last_err = str(exc)[:500]
+            if attempt >= 2 or not _is_retryable_error(exc):
+                break
+            time.sleep(20.0 * (attempt + 1))
+    raise RuntimeError(f"codex responses 调用失败（3 次）: {last_err}")
+
+
+def _run_codex_once(prompt: str) -> str:
+    body: dict[str, Any] = {
+        "model": config.CODEX_MODEL,
+        "store": False,
+        "stream": True,
+        "instructions": "你是中文科技播客解读稿生成器。严格遵守用户提示词里的输出格式。",
+        "input": [
+            {
+                "role": "user",
+                "content": [{"type": "input_text", "text": prompt}],
+            }
+        ],
+        "text": {"verbosity": "medium"},
+        "reasoning": {"effort": config.CODEX_REASONING_EFFORT, "summary": "auto"},
+        "include": ["reasoning.encrypted_content"],
+        "tool_choice": "none",
+        "parallel_tool_calls": False,
+    }
+    timeout = httpx.Timeout(
+        connect=30.0,
+        read=config.CODEX_TIMEOUT,
+        write=30.0,
+        pool=30.0,
+    )
+    parts: list[str] = []
+    with httpx.Client(timeout=timeout) as client:
+        with client.stream("POST", _CODEX_URL, headers=_codex_headers(), json=body) as response:
+            if response.status_code != 200:
+                raw = response.read().decode("utf-8", "ignore")
+                message = _friendly_codex_error(response.status_code, raw)
+                if _is_codex_limit_error(response.status_code, message):
+                    raise SessionLimitError(message)
+                raise RuntimeError(message)
+            for event in _iter_sse(response):
+                event_type = event.get("type")
+                if event_type == "response.output_text.delta":
+                    parts.append(event.get("delta") or "")
+                elif event_type in {"error", "response.failed"}:
+                    message = f"Codex stream error: {json.dumps(event, ensure_ascii=False)[:500]}"
+                    if _is_codex_limit_error(None, message):
+                        raise SessionLimitError(message)
+                    raise RuntimeError(message)
+    text = "".join(parts).strip()
+    if not text:
+        raise RuntimeError("Codex responses 无输出")
+    return text
+
+
+def _codex_headers() -> dict[str, str]:
+    access_token, account_id = _load_codex_token()
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+        "OpenAI-Beta": "responses=experimental",
+        "originator": os.getenv("OPENAI_CODEX_ORIGINATOR", "claude-fm"),
+        "User-Agent": "claude-fm (python)",
+        "accept": "text/event-stream",
+        "content-type": "application/json",
+    }
+    if account_id:
+        headers["chatgpt-account-id"] = account_id
+    return headers
+
+
+def _load_codex_token() -> tuple[str, str]:
+    if not _CODEX_AUTH_PATH.exists():
+        raise CodexAuthError(f"缺少 {_CODEX_AUTH_PATH}。请先运行 `codex login`。")
+    try:
+        data = json.loads(_CODEX_AUTH_PATH.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        raise CodexAuthError(f"读取 {_CODEX_AUTH_PATH} 失败: {exc}") from exc
+    tokens = data.get("tokens") or {}
+    access_token = tokens.get("access_token") or ""
+    account_id = tokens.get("account_id") or ""
+    if not access_token:
+        raise CodexAuthError(f"{_CODEX_AUTH_PATH} 中没有 access_token。请重新运行 `codex login`。")
+    return access_token, account_id
+
+
+def _iter_sse(response: httpx.Response) -> Iterator[dict[str, Any]]:
+    buffer: list[str] = []
+    for line in response.iter_lines():
+        if line == "":
+            if not buffer:
+                continue
+            payload_lines = [item[5:].strip() for item in buffer if item.startswith("data:")]
+            buffer = []
+            raw = "\n".join(payload_lines).strip()
+            if not raw or raw == "[DONE]":
+                continue
+            try:
+                yield json.loads(raw)
+            except json.JSONDecodeError:
+                continue
+            continue
+        buffer.append(line)
+
+
+def _friendly_codex_error(code: int, raw: str) -> str:
+    if code == 401:
+        return "ChatGPT OAuth token expired. Re-run `codex login`."
+    if code == 403:
+        return "ChatGPT access denied. The account may need an active Plus/Pro subscription."
+    if code == 429:
+        return "ChatGPT quota or rate limit exceeded."
+    return f"HTTP {code}: {raw[:500]}"
+
+
+def _is_codex_limit_error(code: int | None, message: str) -> bool:
+    if code == 429:
+        return True
+    low = message.lower()
+    return any(k in low for k in ("rate limit", "quota", "usage limit", "weekly limit"))
+
+
+def _is_retryable_error(exc: Exception) -> bool:
+    if isinstance(exc, (httpx.TimeoutException, httpx.TransportError)):
+        return True
+    message = str(exc).lower()
+    return any(
+        key in message
+        for key in (
+            "429",
+            "rate limit",
+            "quota",
+            "timeout",
+            "timed out",
+            "server disconnected",
+            "connection",
+            "temporarily",
+            "try again",
+            "限流",
+            "配额",
+        )
+    )
+
+
 def run_claude(prompt: str) -> str:
     """子进程跑 claude -p，带 2 次重试。撞限额时抛 SessionLimitError。"""
-    # 深度思考：在 prompt 末尾追加触发词（Claude Code 据此分配思考预算）
-    if config.CLAUDE_THINKING:
-        prompt = f"{prompt}\n\n{config.CLAUDE_THINKING}"
+    # Claude CLI 通过 prompt 触发词分配思考预算。
+    if config.CLAUDE_REASONING_EFFORT:
+        prompt = f"{prompt}\n\n{config.CLAUDE_REASONING_EFFORT}"
     last_err = ""
     for _ in range(3):
         try:
@@ -146,7 +319,7 @@ def interpret(article_meta: dict, article_body: str, slug: str) -> dict:
     result = None
     last_parse_err = None
     for _ in range(3):
-        raw = run_claude(prompt)
+        raw = run_llm(prompt)
         try:
             result = parse_output(raw)
             break
@@ -162,7 +335,7 @@ def interpret(article_meta: dict, article_body: str, slug: str) -> dict:
             "太短了。这次必须写满 6800 个汉字以上，把核心内容和实践应用部分大幅展开。"
         )
         try:
-            retry = parse_output(run_claude(retry_prompt))
+            retry = parse_output(run_llm(retry_prompt))
             if han_count(retry["script"]) > han_count(result["script"]):
                 result = retry
         except RuntimeError:
@@ -173,7 +346,7 @@ def interpret(article_meta: dict, article_body: str, slug: str) -> dict:
         "article_title": article_meta.get("title", ""),
         "url": article_meta.get("url", ""),
         "published": article_meta.get("published", ""),
-        "model": config.CLAUDE_MODEL,
+        "model": config.interpret_model(),
         "generated": datetime.now().strftime("%Y-%m-%d %H:%M"),
         "han_chars": han_count(result["script"]),
     }

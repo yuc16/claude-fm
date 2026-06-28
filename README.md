@@ -61,4 +61,4 @@ https://fm.yccode.xyz/feed.xml
 ## 关于版权
 
 本项目为个人**非商业**的学习用途整理，**与 Anthropic 无任何官方关联**。<br>
-所有原文版权归 [Anthropic](https://www.anthropic.com) 所有；中文解读由 claude-sonnet-4-6 生成，仅供学习参考，请以英文原文为准。
+所有原文版权归 [Anthropic](https://www.anthropic.com) 所有；中文解读由当前配置的 AI 模型生成，仅供学习参考，请以英文原文为准。

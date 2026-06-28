@@ -29,7 +29,7 @@ def write_episode(
 原文：{article_meta.get('title', '')}
 链接：{article_meta.get('url', '')}
 发表时间：{article_meta.get('published', '未知')}
-本期解读由 Claude（{config.CLAUDE_MODEL}）生成，音频由 edge-tts 合成。
+本期解读由模型（{config.interpret_model()}）生成，音频由 edge-tts 合成。
 """
     out = config.episode_path(source, slug)
     out.parent.mkdir(parents=True, exist_ok=True)

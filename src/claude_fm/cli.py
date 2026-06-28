@@ -47,7 +47,7 @@ def _pipeline_one(ref: sources.ArticleRef, st: dict) -> None:
 
     # 2. 解读
     if not stages.get("interpreted"):
-        print(f"  [2/4] claude 生成解读稿（{config.CLAUDE_MODEL}，可能需要几分钟）...")
+        print(f"  [2/4] 模型生成解读稿（{config.interpret_model()}，可能需要几分钟）...")
         result = interpret.interpret(meta, body, slug)
         print(f"        完成，{interpret.han_count(result['script'])} 个汉字")
         stages["interpreted"] = True

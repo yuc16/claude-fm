@@ -117,12 +117,12 @@ def build_prompt(label: str, items: list) -> str:
 
 
 def _interpret_week(week: dict) -> dict:
-    """调 claude 生成周报稿，带解析重试，写入 scripts/<slug>.md。"""
+    """调用模型生成周报稿，带解析重试，写入 scripts/<slug>.md。"""
     prompt = build_prompt(week["label"], week["items"])
     result = last_err = None
     for _ in range(3):
         try:
-            result = interpret.parse_output(interpret.run_claude(prompt))
+            result = interpret.parse_output(interpret.run_llm(prompt))
             break
         except RuntimeError as e:
             if isinstance(e, interpret.SessionLimitError):
@@ -135,7 +135,7 @@ def _interpret_week(week: dict) -> dict:
         "episode_title": result["episode_title"],
         "week": week["label"],
         "item_count": len(week["items"]),
-        "model": config.CLAUDE_MODEL,
+        "model": config.interpret_model(),
         "generated": datetime.now().strftime("%Y-%m-%d %H:%M"),
         "han_chars": interpret.han_count(result["script"]),
     }
@@ -171,7 +171,7 @@ def _write_episode(week: dict, episode_no: int, episode_title: str,
 本期收录的原文：
 {chr(10).join(src_lines)}
 
-本期由 Claude（{config.CLAUDE_MODEL}）生成，音频由 edge-tts 合成。
+本期由模型（{config.interpret_model()}）生成，音频由 edge-tts 合成。
 """
     out = config.episode_path("news", week["slug"])
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -209,7 +209,7 @@ def process_week(st: dict, week: dict) -> None:
     stages = d["stages"]
 
     if not stages.get("interpreted"):
-        print(f"  [1/3] claude 生成周报稿（{week['label']}，{len(week['items'])} 条）...")
+        print(f"  [1/3] 模型生成周报稿（{week['label']}，{len(week['items'])} 条）...")
         result = _interpret_week(week)
         print(f"        完成，{interpret.han_count(result['script'])} 个汉字")
         stages["interpreted"] = True
