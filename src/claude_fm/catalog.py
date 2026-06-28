@@ -92,7 +92,9 @@ def _refresh_readme_count(total: int, counts: dict) -> None:
         return
     text = readme.read_text(encoding="utf-8")
     text = re.sub(r"已更新-\d+%20集", f"已更新-{total}%20集", text)
+    text = re.sub(r"\*\*共 \d+ 集", f"**共 {total} 集", text)
     text = re.sub(r"\*\*\d+ 集\*\*", f"**{total} 集**", text)
+    text = re.sub(r"完整 \d+ 集目录", f"完整 {total} 集目录", text)
     for s, label in _TABLE_LABELS.items():
         text = re.sub(rf"({re.escape(label)} \| )\d+( \|)", rf"\g<1>{counts[s]}\g<2>", text)
     readme.write_text(text, encoding="utf-8")

@@ -16,7 +16,7 @@
 
 [Anthropic](https://www.anthropic.com)在 engineering、research、news 和官方 blog 上持续发布大量高质量的 AI 技术内容，平常没有大量时间阅读。
 
-**Claude FM 把它们逐篇做成口语化的中文解读**，整理成一档可以随时收听的播客——通勤、健身、做家务的时候听一听，用碎片时间把最前沿的 AI 进展听懂。claude-fm把 Anthropic 这几年（2021 至今）的内容系统梳理了一遍，目前**共 448 集，按发表时间排成一条 AI 技术演进的时间线**，并且每周日持续更新。
+**Claude FM 把它们逐篇做成口语化的中文解读**，整理成一档可以随时收听的播客——通勤、健身、做家务的时候听一听，用碎片时间把最前沿的 AI 进展听懂。claude-fm把 Anthropic 这几年（2021 至今）的内容系统梳理了一遍，目前**共 453 集，按发表时间排成一条 AI 技术演进的时间线**，并且每周日持续更新。
 
 ## 🎧 收听
 
@@ -38,7 +38,7 @@ https://fm.yccode.xyz/feed.xml
 - 📝 [Prompt 工程最佳实践](content/claude/blog/scripts/2025-11-10-Prompt%20engineering%20best%20practices.md) · *Prompt engineering best practices*
 - 📰 [Anthropic 一周快讯 · 2026年6月7日–2026年6月13日：最强模型 Fable 5 上线即遭美国政府勒令下架](content/anthropic/news/scripts/2026-06-07-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 
-📋 **完整 448 集目录(可点开每集文字稿)** 👉 **[CATALOG.md](CATALOG.md)**
+📋 **完整 453 集目录(可点开每集文字稿)** 👉 **[CATALOG.md](CATALOG.md)**
 
 全部解读稿也在 [`content/`](content/) 下按来源分目录存放（`scripts/` 是中文解读，`articles/` 是英文原文）。
 
