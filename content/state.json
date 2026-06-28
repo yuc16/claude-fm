@@ -1,5 +1,5 @@
 {
-  "next_episode": 449,
+  "next_episode": 454,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -7016,9 +7016,78 @@
       "slug": "2026-06-12-Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
       "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
       "published": "2026-06-12"
+    },
+    "https://www.anthropic.com/research/economic-index-june-2026-report": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-06-26-Anthropic Economic Index report - Cadences",
+      "title": "Anthropic Economic Index report: Cadences",
+      "published": "2026-06-26",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 2346.6,
+      "episode": 449
+    },
+    "https://claude.com/blog/building-effective-human-agent-teams": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-06-24-Lessons from Anthropic on building effective human-agent teams - Claude by Anthropic",
+      "title": "Lessons from Anthropic on building effective human-agent teams | Claude by Anthropic",
+      "published": "2026-06-24",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1853.0,
+      "episode": 450
+    },
+    "https://claude.com/blog/agent-identity-access-model": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-06-24-Agent identity - a new access model for autonomous, team-wide AI - Claude by Anthropic",
+      "title": "Agent identity: a new access model for autonomous, team-wide AI | Claude by Anthropic",
+      "published": "2026-06-24",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1619.0,
+      "episode": 451
+    },
+    "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-06-22-Claude Desktop on AWS, Google Cloud, and Microsoft Foundry - Claude by Anthropic",
+      "title": "Claude Desktop on AWS, Google Cloud, and Microsoft Foundry | Claude by Anthropic",
+      "published": "2026-06-22",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1765.9,
+      "episode": 452
+    },
+    "https://www.anthropic.com/news/introducing-claude-tag": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-06-23-Introducing Claude Tag",
+      "title": "Introducing Claude Tag",
+      "published": "2026-06-23"
     }
   },
-  "voice_rotation": 356,
+  "voice_rotation": 361,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -8285,6 +8354,18 @@
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 112.4,
       "episode": 439
+    },
+    "2026-06-21": {
+      "slug": "2026-06-21-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 168.9,
+      "episode": 453,
+      "item_count": 1
     }
   }
 }

@@ -4,7 +4,7 @@
 
 **把 Anthropic 官网发布的技术博客内容，转化为中文音频解读，让你在碎片时间听懂最前沿的 AI**
 
-![episodes](https://img.shields.io/badge/已更新-448%20集-1DB954)
+![episodes](https://img.shields.io/badge/已更新-453%20集-1DB954)
 ![update](https://img.shields.io/badge/更新频率-每周日-FF8800)
 ![language](https://img.shields.io/badge/语言-简体中文-blue)
 
@@ -47,10 +47,10 @@ https://fm.yccode.xyz/feed.xml
 | 来源 | 集数 | 内容 |
 |---|:---:|---|
 | 🛠️ Engineering | 25 | 工程实践深度解读（智能体、Claude Code、评测…） |
-| 🔬 Research | 137 | 研究论文深度解读（可解释性、对齐、安全…） |
-| 📝 Blog | 171 | 官方博客深度解读（产品、技能、最佳实践…） |
-| 📰 News 周报 | 115 | 「一周快讯」合集，速览每周官方动态 |
-| | **448 集** | 覆盖 2021 至今，每周日更新 |
+| 🔬 Research | 138 | 研究论文深度解读（可解释性、对齐、安全…） |
+| 📝 Blog | 174 | 官方博客深度解读（产品、技能、最佳实践…） |
+| 📰 News 周报 | 116 | 「一周快讯」合集，速览每周官方动态 |
+| | **453 集** | 覆盖 2021 至今，每周日更新 |
 
 前四个源逐篇做约 25 分钟的深度解读；news 时效性强、多为公告，按周聚合成几分钟的「一周快讯」。
 
