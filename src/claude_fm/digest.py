@@ -36,7 +36,14 @@ def current_sunday() -> date:
     return t - timedelta(days=(t.weekday() + 1) % 7)
 
 
-def sync_news(st: dict) -> int:
+def in_date_window(published: str, start: str | None, end: str | None) -> bool:
+    if not start or not end or not published:
+        return True
+    day = published[:10]
+    return start <= day <= end
+
+
+def sync_news(st: dict, published_start: str | None = None, published_end: str | None = None) -> int:
     """发现并抓取新增 news 原文（fetched=True，用修复后的提取器保证日期正确）。
     返回新增篇数。让周报命令自包含：先同步新 news，再聚合成周。"""
     from . import sources, fetch
@@ -50,6 +57,13 @@ def sync_news(st: dict) -> int:
             data = fetch.fetch_article(ref)
         except Exception as e:
             print(f"  ⚠️ news 抓取失败 {ref.url}: {e}", flush=True)
+            continue
+        if not in_date_window(data["published"], published_start, published_end):
+            print(
+                f"  - 跳过 news {data['published'] or '未知'}  "
+                f"{data['title'][:50]}（不在 {published_start}–{published_end}）",
+                flush=True,
+            )
             continue
         fetch.save_article(ref, data)
         art = st["articles"].setdefault(ref.url, {"stages": {}})

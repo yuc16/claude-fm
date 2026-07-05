@@ -8,8 +8,25 @@
 
 import argparse
 import sys
+from datetime import date, timedelta
 
 from . import config, episode, fetch, interpret, sources, state, tts
+
+
+def _previous_week_window() -> tuple[str, str]:
+    """返回上一个完整周日-周六窗口，YYYY-MM-DD。"""
+    today = date.today()
+    this_sunday = today - timedelta(days=(today.weekday() + 1) % 7)
+    start = this_sunday - timedelta(days=7)
+    end = this_sunday - timedelta(days=1)
+    return start.isoformat(), end.isoformat()
+
+
+def _in_date_window(published: str, start: str | None, end: str | None) -> bool:
+    if not start or not end or not published:
+        return True
+    day = published[:10]
+    return start <= day <= end
 
 
 def cmd_discover(args) -> None:
@@ -26,7 +43,12 @@ def cmd_discover(args) -> None:
             print(f"    ... 还有 {len(new) - args.show} 篇")
 
 
-def _pipeline_one(ref: sources.ArticleRef, st: dict) -> None:
+def _pipeline_one(
+    ref: sources.ArticleRef,
+    st: dict,
+    published_start: str | None = None,
+    published_end: str | None = None,
+) -> bool:
     """单篇文章走完 抓取→解读→TTS→上传包，幂等：完成的阶段跳过。"""
     art = state.get_article(st, ref.url)
     art["source"] = ref.source
@@ -36,10 +58,20 @@ def _pipeline_one(ref: sources.ArticleRef, st: dict) -> None:
     if not stages.get("fetched"):
         print(f"  [1/4] 抓取原文 {ref.url}")
         data = fetch.fetch_article(ref)
+        if not _in_date_window(data["published"], published_start, published_end):
+            print(
+                f"        跳过，发布日期 {data['published'] or '未知'} 不在 "
+                f"{published_start}–{published_end}",
+                flush=True,
+            )
+            st["articles"].pop(ref.url, None)
+            return False
         fetch.save_article(ref, data)
         art.update(slug=data["slug"], title=data["title"], published=data["published"])
         stages["fetched"] = True
         state.save(st)
+    elif not _in_date_window(art.get("published", ""), published_start, published_end):
+        return False
     slug = art["slug"]
 
     article_path = config.article_path(ref.source, slug)
@@ -91,9 +123,17 @@ def _pipeline_one(ref: sources.ArticleRef, st: dict) -> None:
         state.save(st)
         ep_rel = config.episode_path(ref.source, slug).relative_to(config.ROOT)
         print(f"  [4/4] 上传包就绪: {ep_rel}（EP{ep_no}）")
+    return True
 
 
-def _collect_refs(st, source=None, limit=None, url=None) -> list:
+def _collect_refs(
+    st,
+    source=None,
+    limit=None,
+    url=None,
+    published_start: str | None = None,
+    published_end: str | None = None,
+) -> list:
     """收集待处理文章（未完成 packaged 的）。"""
     if url:
         src = next(
@@ -111,20 +151,27 @@ def _collect_refs(st, source=None, limit=None, url=None) -> list:
         refs.extend(
             r for r in source_refs
             if not st["articles"].get(r.url, {}).get("stages", {}).get("packaged")
+            and _in_date_window(
+                st["articles"].get(r.url, {}).get("published", ""),
+                published_start,
+                published_end,
+            )
         )
     # sitemap 顺序大致按时间倒序（新文章在前），limit 取最前面的
     return refs[:limit] if limit else refs
 
 
-def _run_batch(refs, st):
+def _run_batch(refs, st, published_start: str | None = None, published_end: str | None = None):
     """跑一批文章。返回 (完成数, 失败列表, 限额异常或 None)。
     撞限额时立即停止剩余文章并把 SessionLimitError 上报。"""
-    ok, failed = 0, []
+    ok, skipped, failed = 0, 0, []
     for i, ref in enumerate(refs, 1):
         print(f"[{i}/{len(refs)}] {ref.url}")
         try:
-            _pipeline_one(ref, st)
-            ok += 1
+            if _pipeline_one(ref, st, published_start, published_end):
+                ok += 1
+            else:
+                skipped += 1
         except interpret.SessionLimitError as e:
             kind = "周限额" if e.weekly else "会话限额"
             print(f"  ⏸ 撞{kind}，暂停（重置: {e.reset_raw or '未知'}）", file=sys.stderr)
@@ -132,6 +179,8 @@ def _run_batch(refs, st):
         except Exception as e:
             failed.append((ref.url, str(e)))
             print(f"  ❌ 失败: {e}", file=sys.stderr)
+    if skipped:
+        print(f"跳过 {skipped} 篇不在目标日期窗口的文章。", flush=True)
     return ok, failed, None
 
 
@@ -187,18 +236,20 @@ def cmd_autorun(args) -> None:
     while True:
         round_no += 1
         st = state.load()
-        refs = _collect_refs(st, args.source, args.limit, None)
+        published_start = getattr(args, "published_start", None)
+        published_end = getattr(args, "published_end", None)
+        refs = _collect_refs(st, args.source, args.limit, None, published_start, published_end)
         if not refs:
             print(f"[autorun] 全部完成，没有待处理文章。共 {round_no - 1} 轮。")
             return
         print(f"[autorun] 第 {round_no} 轮，待处理 {len(refs)} 篇  "
               f"({datetime.now():%Y-%m-%d %H:%M})", flush=True)
-        ok, failed, limit_err = _run_batch(refs, st)
+        ok, failed, limit_err = _run_batch(refs, st, published_start, published_end)
         print(f"[autorun] 第 {round_no} 轮完成 {ok} 篇，失败 {len(failed)} 篇", flush=True)
         if limit_err is None:
             # 没撞限额：若本轮零进展，说明剩下的都是持续失败的，停止避免死循环
             if ok == 0:
-                print(f"[autorun] 本轮无进展，剩余 {len(failed)} 篇均为持续失败，结束。")
+                print(f"[autorun] 本轮无进展，结束。")
                 for url, err in failed:
                     print(f"  失败: {url}  |  {err[:80]}")
                 return
@@ -223,20 +274,33 @@ def cmd_news(args) -> None:
     from . import digest
 
     config.ensure_dirs()
+    published_start = getattr(args, "published_start", None)
+    published_end = getattr(args, "published_end", None)
+    if not published_start or not published_end:
+        published_start, published_end = _previous_week_window()
+    target_sunday = digest.week_sunday(published_start)
+    print(f"[news] 目标窗口：{published_start}–{published_end}", flush=True)
     # 先同步新增 news 原文（发现→抓取），再按周聚合
     st = state.load()
-    n = digest.sync_news(st)
+    n = digest.sync_news(st, published_start, published_end)
     if n:
         print(f"[news] 同步到 {n} 篇新 news", flush=True)
     # 迟到文章落入已完成的周 → 重置该周以重做
-    stale = digest.reset_stale_weeks(st, digest.group_news_weeks(st))
+    target_weeks = [
+        w for w in digest.group_news_weeks(st)
+        if w["sunday"] == target_sunday
+    ]
+    stale = digest.reset_stale_weeks(st, target_weeks)
     if stale:
         print(f"[news] 检测到 {len(stale)} 周有新增文章，将重做: {', '.join(stale)}", flush=True)
     round_no = 0
     while True:
         round_no += 1
         st = state.load()
-        weeks = digest.group_news_weeks(st)
+        weeks = [
+            w for w in digest.group_news_weeks(st)
+            if w["sunday"] == target_sunday
+        ]
         pending = [w for w in weeks
                    if not st.get("digests", {}).get(w["sunday"].isoformat(), {})
                    .get("stages", {}).get("packaged")]
@@ -281,11 +345,22 @@ def cmd_news(args) -> None:
 def cmd_weekly(args) -> None:
     """每周日一条命令搞定更新：三个深度源增量解读 + news 上周周报。"""
     import argparse as _argparse
+    published_start, published_end = _previous_week_window()
+    print(f"本次 weekly 只更新上一周：{published_start}–{published_end}", flush=True)
     for src in ("engineering", "research", "blog"):
         print(f"\n========== 更新 {src} ==========", flush=True)
-        cmd_autorun(_argparse.Namespace(source=src, limit=None))
+        cmd_autorun(_argparse.Namespace(
+            source=src,
+            limit=None,
+            published_start=published_start,
+            published_end=published_end,
+        ))
     print("\n========== news 周报 ==========", flush=True)
-    cmd_news(_argparse.Namespace(limit=None))
+    cmd_news(_argparse.Namespace(
+        limit=None,
+        published_start=published_start,
+        published_end=published_end,
+    ))
     print("\n========== 刷新 RSS 与目录 ==========", flush=True)
     cmd_feed(None)
     cmd_catalog(None)

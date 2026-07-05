@@ -1,5 +1,5 @@
 {
-  "next_episode": 454,
+  "next_episode": 459,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -7085,9 +7085,105 @@
       "slug": "2026-06-23-Introducing Claude Tag",
       "title": "Introducing Claude Tag",
       "published": "2026-06-23"
+    },
+    "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-02-New analytics and cost controls are available for Claude Enterprise - Claude by Anthropic",
+      "title": "New analytics and cost controls are available for Claude Enterprise | Claude by Anthropic",
+      "published": "2026-07-02",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1656.6,
+      "episode": 454
+    },
+    "https://claude.com/blog/getting-started-with-loops": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-06-30-Getting started with loops - Claude by Anthropic",
+      "title": "Getting started with loops | Claude by Anthropic",
+      "published": "2026-06-30",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1435.6,
+      "episode": 455
+    },
+    "https://claude.com/blog/introducing-the-claude-apps-gateway": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-06-29-Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud - Claude by Anthropic",
+      "title": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud | Claude by Anthropic",
+      "published": "2026-06-29",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1391.0,
+      "episode": 456
+    },
+    "https://claude.com/blog/claude-in-microsoft-foundry": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-06-29-Claude in Microsoft Foundry is now generally available - Claude by Anthropic",
+      "title": "Claude in Microsoft Foundry is now generally available | Claude by Anthropic",
+      "published": "2026-06-29",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1408.3,
+      "episode": 457
+    },
+    "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-02-More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "published": "2026-07-02"
+    },
+    "https://www.anthropic.com/news/claude-sonnet-5": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-06-30-Introducing Claude Sonnet 5",
+      "title": "Introducing Claude Sonnet 5",
+      "published": "2026-06-30"
+    },
+    "https://www.anthropic.com/news/redeploying-fable-5": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-06-30-Redeploying Claude Fable 5",
+      "title": "Redeploying Claude Fable 5",
+      "published": "2026-06-30"
+    },
+    "https://www.anthropic.com/news/claude-science-ai-workbench": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-06-30-Claude Science, an AI workbench for scientists",
+      "title": "Claude Science, an AI workbench for scientists",
+      "published": "2026-06-30"
     }
   },
-  "voice_rotation": 361,
+  "voice_rotation": 366,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -8366,6 +8462,18 @@
       "duration_sec": 168.9,
       "episode": 453,
       "item_count": 1
+    },
+    "2026-06-28": {
+      "slug": "2026-06-28-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 280.6,
+      "episode": 458,
+      "item_count": 4
     }
   }
 }

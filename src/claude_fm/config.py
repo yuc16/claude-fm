@@ -108,10 +108,20 @@ CLAUDE_TIMEOUT = 1200  # 单篇解读超时（秒）；开深度思考后更慢�
 # 越深质量越高但越慢越耗 token；每周新增集数不多，用 ultrathink 完全可承受。
 CLAUDE_REASONING_EFFORT = _env("CLAUDE_REASONING_EFFORT", "ultrathink")
 
+# DeepSeek API（OpenAI 兼容格式）
+DEEPSEEK_API_KEY = _env("DEEPSEEK_API_KEY", "")
+DEEPSEEK_BASE_URL = _env("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
+DEEPSEEK_MODEL = _env("DEEPSEEK_MODEL", "deepseek-v4-pro")
+DEEPSEEK_REASONING_EFFORT = _env("DEEPSEEK_REASONING_EFFORT", "high")
+DEEPSEEK_THINKING = _env("DEEPSEEK_THINKING", "enabled")
+DEEPSEEK_TIMEOUT = 1200
+
 
 def interpret_model() -> str:
     if INTERPRET_PROVIDER == "codex":
         return CODEX_MODEL
+    if INTERPRET_PROVIDER == "deepseek":
+        return DEEPSEEK_MODEL
     return CLAUDE_MODEL
 
 # TTS 音色。运行 `claude-fm voices` 生成试听样品后，把选中的音色填到这里。

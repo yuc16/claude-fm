@@ -64,7 +64,7 @@ def build_prompt(title: str, url: str, source: str, published: str, article: str
 
 
 class SessionLimitError(RuntimeError):
-    """claude 订阅限额耗尽。reset_raw 是原始重置时间文本（如 '4:50pm'）；
+    """模型后端限额耗尽。reset_raw 是原始重置时间文本（如 '4:50pm'）；
     weekly=True 表示是周限额（重置在数天后，不该睡等，应停下提示换号）。"""
 
     def __init__(self, message: str, reset_raw: str = "", weekly: bool = False):
@@ -74,6 +74,10 @@ class SessionLimitError(RuntimeError):
 
 
 class CodexAuthError(RuntimeError):
+    pass
+
+
+class DeepSeekAuthError(RuntimeError):
     pass
 
 
@@ -92,6 +96,8 @@ def run_llm(prompt: str) -> str:
     """按配置选择解读后端。"""
     if config.INTERPRET_PROVIDER == "codex":
         return run_codex(prompt)
+    if config.INTERPRET_PROVIDER == "deepseek":
+        return run_deepseek(prompt)
     if config.INTERPRET_PROVIDER == "claude":
         return run_claude(prompt)
     raise RuntimeError(f"未知 INTERPRET_PROVIDER: {config.INTERPRET_PROVIDER}")
@@ -235,6 +241,8 @@ def _is_retryable_error(exc: Exception) -> bool:
         key in message
         for key in (
             "429",
+            "500",
+            "503",
             "rate limit",
             "quota",
             "timeout",
@@ -242,11 +250,114 @@ def _is_retryable_error(exc: Exception) -> bool:
             "server disconnected",
             "connection",
             "temporarily",
+            "暂时",
             "try again",
             "限流",
             "配额",
         )
     )
+
+
+def run_deepseek(prompt: str) -> str:
+    """通过 DeepSeek OpenAI-compatible Chat Completions 生成文本。"""
+    last_err = ""
+    for attempt in range(3):
+        try:
+            return _run_deepseek_once(prompt)
+        except SessionLimitError:
+            raise
+        except Exception as exc:  # noqa: BLE001
+            last_err = str(exc)[:500]
+            if attempt >= 2 or not _is_retryable_error(exc):
+                break
+            time.sleep(20.0 * (attempt + 1))
+    raise RuntimeError(f"deepseek chat completions 调用失败（3 次）: {last_err}")
+
+
+def _run_deepseek_once(prompt: str) -> str:
+    body: dict[str, Any] = {
+        "model": config.DEEPSEEK_MODEL,
+        "messages": [
+            {
+                "role": "system",
+                "content": "你是中文科技播客解读稿生成器。严格遵守用户提示词里的输出格式。",
+            },
+            {"role": "user", "content": prompt},
+        ],
+        "stream": True,
+    }
+    if config.DEEPSEEK_THINKING:
+        body["thinking"] = {"type": config.DEEPSEEK_THINKING}
+    if config.DEEPSEEK_REASONING_EFFORT:
+        body["reasoning_effort"] = config.DEEPSEEK_REASONING_EFFORT
+
+    timeout = httpx.Timeout(
+        connect=30.0,
+        read=config.DEEPSEEK_TIMEOUT,
+        write=30.0,
+        pool=30.0,
+    )
+    parts: list[str] = []
+    with httpx.Client(timeout=timeout) as client:
+        with client.stream(
+            "POST",
+            f"{config.DEEPSEEK_BASE_URL.rstrip('/')}/chat/completions",
+            headers=_deepseek_headers(),
+            json=body,
+        ) as response:
+            if response.status_code != 200:
+                raw = response.read().decode("utf-8", "ignore")
+                message = _friendly_deepseek_error(response.status_code, raw)
+                if _is_deepseek_limit_error(response.status_code, message):
+                    raise SessionLimitError(message)
+                raise RuntimeError(message)
+            for event in _iter_sse(response):
+                if "error" in event:
+                    message = f"DeepSeek stream error: {json.dumps(event, ensure_ascii=False)[:500]}"
+                    if _is_deepseek_limit_error(None, message):
+                        raise SessionLimitError(message)
+                    raise RuntimeError(message)
+                choices = event.get("choices") or []
+                if not choices:
+                    continue
+                delta = choices[0].get("delta") or {}
+                content = delta.get("content") or ""
+                if content:
+                    parts.append(content)
+    text = "".join(parts).strip()
+    if not text:
+        raise RuntimeError("DeepSeek chat completions 无输出")
+    return text
+
+
+def _deepseek_headers() -> dict[str, str]:
+    if not config.DEEPSEEK_API_KEY:
+        raise DeepSeekAuthError("缺少 DEEPSEEK_API_KEY。请在 .env 中配置 DeepSeek API key。")
+    return {
+        "Authorization": f"Bearer {config.DEEPSEEK_API_KEY}",
+        "Content-Type": "application/json",
+        "Accept": "text/event-stream",
+        "User-Agent": "claude-fm (python)",
+    }
+
+
+def _friendly_deepseek_error(code: int, raw: str) -> str:
+    if code == 401:
+        return "DeepSeek API key 错误或认证失败。请检查 DEEPSEEK_API_KEY。"
+    if code == 402:
+        return "DeepSeek 账户余额不足。请充值或切换模型后重试。"
+    if code == 429:
+        return "DeepSeek 请求速率达到上限。"
+    if code in {500, 503}:
+        return f"DeepSeek 服务暂时不可用（HTTP {code}）: {raw[:500]}"
+    return f"DeepSeek HTTP {code}: {raw[:500]}"
+
+
+def _is_deepseek_limit_error(code: int | None, message: str) -> bool:
+    if code in {402, 429}:
+        return True
+    low = message.lower()
+    return any(k in low for k in ("rate limit", "quota", "余额不足", "请求速率"))
 
 
 def run_claude(prompt: str) -> str:
@@ -294,7 +405,7 @@ def parse_output(raw: str) -> dict:
     shownotes = fields.get("SHOWNOTES", "")
     script = fields.get("SCRIPT", "")
     if not script:
-        raise RuntimeError("claude 输出缺少 ===SCRIPT=== 段，原始输出开头: " + raw[:200])
+        raise RuntimeError("模型输出缺少 ===SCRIPT=== 段，原始输出开头: " + raw[:200])
     return {"episode_title": title, "shownotes": shownotes, "script": script}
 
 

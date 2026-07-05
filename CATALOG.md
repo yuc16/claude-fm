@@ -1,6 +1,6 @@
 # Claude FM 全集目录
 
-共 **453 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
+共 **458 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
 想按时间线收听，请到 [小宇宙](https://www.xiaoyuzhoufm.com/podcast/6a37f2bcdd580cf9cf4bf121)。
 
 ## 🛠️ Engineering（25）
@@ -172,7 +172,7 @@
 - `EP447` · 2026-06-18 · [机器狗实验：Claude Opus 四点七以十八倍速度完成机器人任务，物理代理 AI 时代来了吗](content/anthropic/research/scripts/2026-06-18-Project%20Fetch%20-%20Phase%20two.md) · [英文原文](content/anthropic/research/articles/2026-06-18-Project%20Fetch%20-%20Phase%20two.md)
 - `EP449` · 2026-06-26 · [从用量节奏看 AI 如何进入工作](content/anthropic/research/scripts/2026-06-26-Anthropic%20Economic%20Index%20report%20-%20Cadences.md) · [英文原文](content/anthropic/research/articles/2026-06-26-Anthropic%20Economic%20Index%20report%20-%20Cadences.md)
 
-## 📝 Blog（174）
+## 📝 Blog（178）
 
 - `EP40` · 2023-08-23 · [Claude二登陆亚马逊云科技Bedrock，企业级AI落地启示](content/claude/blog/scripts/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md) · [英文原文](content/claude/blog/articles/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md)
 - `EP45` · 2023-09-28 · [Claude登陆亚马逊云科技：企业级AI落地的一次关键开局](content/claude/blog/scripts/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md) · [英文原文](content/claude/blog/articles/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md)
@@ -348,8 +348,12 @@
 - `EP452` · 2026-06-22 · [企业云里的完整 Claude 桌面体验](content/claude/blog/scripts/2026-06-22-Claude%20Desktop%20on%20AWS%2C%20Google%20Cloud%2C%20and%20Microsoft%20Foundry%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-06-22-Claude%20Desktop%20on%20AWS%2C%20Google%20Cloud%2C%20and%20Microsoft%20Foundry%20-%20Claude%20by%20Anthropic.md)
 - `EP450` · 2026-06-24 · [多人协作时代的人类与智能体团队](content/claude/blog/scripts/2026-06-24-Lessons%20from%20Anthropic%20on%20building%20effective%20human-agent%20teams%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-06-24-Lessons%20from%20Anthropic%20on%20building%20effective%20human-agent%20teams%20-%20Claude%20by%20Anthropic.md)
 - `EP451` · 2026-06-24 · [从个人权限到智能体身份的新模型](content/claude/blog/scripts/2026-06-24-Agent%20identity%20-%20a%20new%20access%20model%20for%20autonomous%2C%20team-wide%20AI%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-06-24-Agent%20identity%20-%20a%20new%20access%20model%20for%20autonomous%2C%20team-wide%20AI%20-%20Claude%20by%20Anthropic.md)
+- `EP456` · 2026-06-29 · [Claude 应用网关发布：集中管控 Bedrock 与 Google Cloud 上的 AI 编码](content/claude/blog/scripts/2026-06-29-Introducing%20the%20Claude%20apps%20gateway%20for%20Amazon%20Bedrock%20and%20Google%20Cloud%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-06-29-Introducing%20the%20Claude%20apps%20gateway%20for%20Amazon%20Bedrock%20and%20Google%20Cloud%20-%20Claude%20by%20Anthropic.md)
+- `EP457` · 2026-06-29 · [Claude 正式入驻 Microsoft Foundry：在您的 Azure 里运行顶尖 AI](content/claude/blog/scripts/2026-06-29-Claude%20in%20Microsoft%20Foundry%20is%20now%20generally%20available%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-06-29-Claude%20in%20Microsoft%20Foundry%20is%20now%20generally%20available%20-%20Claude%20by%20Anthropic.md)
+- `EP455` · 2026-06-30 · [详解 Claude Code 循环机制：如何让编程智能体持续高效工作](content/claude/blog/scripts/2026-06-30-Getting%20started%20with%20loops%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-06-30-Getting%20started%20with%20loops%20-%20Claude%20by%20Anthropic.md)
+- `EP454` · 2026-07-02 · [Claude 企业版发布精细管控：让每一分钱都花在刀刃上的管理哲学](content/claude/blog/scripts/2026-07-02-New%20analytics%20and%20cost%20controls%20are%20available%20for%20Claude%20Enterprise%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-02-New%20analytics%20and%20cost%20controls%20are%20available%20for%20Claude%20Enterprise%20-%20Claude%20by%20Anthropic.md)
 
-## 📰 News 周报（116）
+## 📰 News 周报（117）
 
 - `EP1` · 2021-05-23 · [Anthropic 一周快讯 · 2021年5月23日–2021年5月29日 · 公司刚成立不久就拿到一点二四亿美元 A 轮融资](content/anthropic/news/scripts/2021-05-23-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP7` · 2022-04-24 · [Anthropic 一周快讯 · 2022年4月24日–2022年4月30日 · 五点八亿美元 B 轮融资落地](content/anthropic/news/scripts/2022-04-24-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
@@ -467,3 +471,4 @@
 - `EP432` · 2026-06-07 · [Anthropic 一周快讯 · 2026年6月7日–2026年6月13日:最强模型Fable 5上线即遭美国政府勒令下架](content/anthropic/news/scripts/2026-06-07-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP439` · 2026-06-14 · [Anthropic 一周快讯 · 2026年6月14日–2026年6月20日 | 首尔新办公室落地，韩国AI合作全面铺开](content/anthropic/news/scripts/2026-06-14-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP453` · 2026-06-21 · [Anthropic 一周快讯 · 2026年6月21日–2026年6月27日：Claude Tag 让 Claude 进入团队协作](content/anthropic/news/scripts/2026-06-21-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
+- `EP458` · 2026-06-28 · [Anthropic 一周快讯 · 2026年6月28日–2026年7月4日：Sonnet 5与科学家工作台齐发布，Fable 5回归](content/anthropic/news/scripts/2026-06-28-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
