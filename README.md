@@ -4,7 +4,7 @@
 
 **把 Anthropic 官网发布的技术博客内容，转化为中文音频解读，让你在碎片时间听懂最前沿的 AI**
 
-![episodes](https://img.shields.io/badge/已更新-458%20集-1DB954)
+![episodes](https://img.shields.io/badge/已更新-469%20集-1DB954)
 ![update](https://img.shields.io/badge/更新频率-每周日-FF8800)
 ![language](https://img.shields.io/badge/语言-简体中文-blue)
 
@@ -16,7 +16,7 @@
 
 [Anthropic](https://www.anthropic.com)在 engineering、research、news 和官方 blog 上持续发布大量高质量的 AI 技术内容，平常没有大量时间阅读。
 
-**Claude FM 把它们逐篇做成口语化的中文解读**，整理成一档可以随时收听的播客——通勤、健身、做家务的时候听一听，用碎片时间把最前沿的 AI 进展听懂。claude-fm把 Anthropic 这几年（2021 至今）的内容系统梳理了一遍，目前**共 458 集，按发表时间排成一条 AI 技术演进的时间线**，并且每周日持续更新。
+**Claude FM 把它们逐篇做成口语化的中文解读**，整理成一档可以随时收听的播客——通勤、健身、做家务的时候听一听，用碎片时间把最前沿的 AI 进展听懂。claude-fm把 Anthropic 这几年（2021 至今）的内容系统梳理了一遍，目前**共 469 集，按发表时间排成一条 AI 技术演进的时间线**，并且每周日持续更新。
 
 ## 🎧 收听
 
@@ -38,7 +38,7 @@ https://fm.yccode.xyz/feed.xml
 - 📝 [Prompt 工程最佳实践](content/claude/blog/scripts/2025-11-10-Prompt%20engineering%20best%20practices.md) · *Prompt engineering best practices*
 - 📰 [Anthropic 一周快讯 · 2026年6月7日–2026年6月13日：最强模型 Fable 5 上线即遭美国政府勒令下架](content/anthropic/news/scripts/2026-06-07-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 
-📋 **完整 458 集目录(可点开每集文字稿)** 👉 **[CATALOG.md](CATALOG.md)**
+📋 **完整 469 集目录(可点开每集文字稿)** 👉 **[CATALOG.md](CATALOG.md)**
 
 全部解读稿也在 [`content/`](content/) 下按来源分目录存放（`scripts/` 是中文解读，`articles/` 是英文原文）。
 
@@ -47,10 +47,10 @@ https://fm.yccode.xyz/feed.xml
 | 来源 | 集数 | 内容 |
 |---|:---:|---|
 | 🛠️ Engineering | 25 | 工程实践深度解读（智能体、Claude Code、评测…） |
-| 🔬 Research | 138 | 研究论文深度解读（可解释性、对齐、安全…） |
-| 📝 Blog | 178 | 官方博客深度解读（产品、技能、最佳实践…） |
-| 📰 News 周报 | 117 | 「一周快讯」合集，速览每周官方动态 |
-| | **458 集** | 覆盖 2021 至今，每周日更新 |
+| 🔬 Research | 140 | 研究论文深度解读（可解释性、对齐、安全…） |
+| 📝 Blog | 186 | 官方博客深度解读（产品、技能、最佳实践…） |
+| 📰 News 周报 | 118 | 「一周快讯」合集，速览每周官方动态 |
+| | **469 集** | 覆盖 2021 至今，每周日更新 |
 
 前四个源逐篇做约 25 分钟的深度解读；news 时效性强、多为公告，按周聚合成几分钟的「一周快讯」。
 

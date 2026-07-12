@@ -1,5 +1,5 @@
 {
-  "next_episode": 459,
+  "next_episode": 470,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -7181,9 +7181,204 @@
       "slug": "2026-06-30-Claude Science, an AI workbench for scientists",
       "title": "Claude Science, an AI workbench for scientists",
       "published": "2026-06-30"
+    },
+    "https://www.anthropic.com/research/off-switch-dual-use": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-07-08-An off switch for dual use knowledge in AI models",
+      "title": "An off switch for dual use knowledge in AI models",
+      "published": "2026-07-08",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1496.5,
+      "episode": 459
+    },
+    "https://www.anthropic.com/research/global-workspace": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-07-06-A global workspace in language models",
+      "title": "A global workspace in language models",
+      "published": "2026-07-06",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1872.6,
+      "episode": 460
+    },
+    "https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-10-Working at the frontier - How Cognition trusts Claude Fable 5 to work through the night - Claude by Anthropic",
+      "title": "Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night | Claude by Anthropic",
+      "published": "2026-07-10",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1885.9,
+      "episode": 461
+    },
+    "https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-08-Working at the frontier - How Thomson Reuters builds AI for high- stakes professional work - Claude by Anthropic",
+      "title": "Working at the frontier: How Thomson Reuters builds AI for high- stakes professional work | Claude by Anthropic",
+      "published": "2026-07-08",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1692.1,
+      "episode": 462
+    },
+    "https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-08-Using Claude Cowork in marketing operations to automate reporting and campaign building - Claude by Anthropic",
+      "title": "Using Claude Cowork in marketing operations to automate reporting and campaign building | Claude by Anthropic",
+      "published": "2026-07-08",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1795.3,
+      "episode": 463
+    },
+    "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-07-Bringing Claude Code and Claude Cowork to government - Claude by Anthropic",
+      "title": "Bringing Claude Code and Claude Cowork to government | Claude by Anthropic",
+      "published": "2026-07-07",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 2053.0,
+      "episode": 464
+    },
+    "https://claude.com/blog/claude-model-and-effort-level-in-claude-code": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-07-Choosing a Claude model and effort level in Claude Code - Claude by Anthropic",
+      "title": "Choosing a Claude model and effort level in Claude Code | Claude by Anthropic",
+      "published": "2026-07-07",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1740.6,
+      "episode": 465
+    },
+    "https://claude.com/blog/cowork-web-mobile": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-07-Claude Cowork on web and mobile - hand off work anywhere - Claude by Anthropic",
+      "title": "Claude Cowork on web and mobile: hand off work anywhere | Claude by Anthropic",
+      "published": "2026-07-07",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1701.0,
+      "episode": 466
+    },
+    "https://claude.com/blog/how-people-are-using-claude-cowork": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-07-How people are using Claude Cowork - Claude by Anthropic",
+      "title": "How people are using Claude Cowork | Claude by Anthropic",
+      "published": "2026-07-07",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1509.2,
+      "episode": 467
+    },
+    "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-06-A field guide to Claude Fable 5 - Finding your unknowns - Claude - Claude by Anthropic",
+      "title": "A field guide to Claude Fable 5: Finding your unknowns | Claude | Claude by Anthropic",
+      "published": "2026-07-06",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1749.8,
+      "episode": 468
+    },
+    "https://www.anthropic.com/news/ust-claude": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-09-UST is bringing Claude to physical AI",
+      "title": "UST is bringing Claude to physical AI",
+      "published": "2026-07-09"
+    },
+    "https://www.anthropic.com/news/ben-bernanke": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-09-Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "published": "2026-07-09"
+    },
+    "https://www.anthropic.com/news/hard-questions": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-09-Inviting hard questions",
+      "title": "Inviting hard questions",
+      "published": "2026-07-09"
+    },
+    "https://www.anthropic.com/news/reflect-with-claude": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-09-A new way to reflect on how you use Claude",
+      "title": "A new way to reflect on how you use Claude",
+      "published": "2026-07-09"
+    },
+    "https://www.anthropic.com/news/alberta-government-claude-cybersecurity": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-06-Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
+      "published": "2026-07-06"
     }
   },
-  "voice_rotation": 366,
+  "voice_rotation": 377,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -8474,6 +8669,18 @@
       "duration_sec": 280.6,
       "episode": 458,
       "item_count": 4
+    },
+    "2026-07-05": {
+      "slug": "2026-07-05-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 514.8,
+      "episode": 469,
+      "item_count": 5
     }
   }
 }
