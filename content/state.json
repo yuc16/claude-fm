@@ -1,5 +1,5 @@
 {
-  "next_episode": 470,
+  "next_episode": 479,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -7376,9 +7376,147 @@
       "slug": "2026-07-06-Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
       "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
       "published": "2026-07-06"
+    },
+    "https://www.anthropic.com/research/how-canada-uses-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-07-14-How Canada uses Claude",
+      "title": "How Canada uses Claude",
+      "published": "2026-07-14",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1643.7,
+      "episode": 470
+    },
+    "https://www.anthropic.com/research/claude-values-models-languages": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-07-13-How Claude's values vary by model and language",
+      "title": "How Claude's values vary by model and language",
+      "published": "2026-07-13",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1773.2,
+      "episode": 471
+    },
+    "https://claude.com/blog/working-at-the-frontier-cursor": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-17-How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems - Claude by Anthropic",
+      "title": "How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems | Claude by Anthropic",
+      "published": "2026-07-17",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1521.4,
+      "episode": 472
+    },
+    "https://claude.com/blog/ciso-guide-to-agentic-ai": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-17-CISO's guide to agentic AI - Claude by Anthropic",
+      "title": "CISO's guide to agentic AI | Claude by Anthropic",
+      "published": "2026-07-17",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 2120.5,
+      "episode": 473
+    },
+    "https://claude.com/blog/ai-code-migration": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-16-How Anthropic runs large-scale code migrations with Claude Code - Claude by Anthropic",
+      "title": "How Anthropic runs large-scale code migrations with Claude Code | Claude by Anthropic",
+      "published": "2026-07-16",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1747.4,
+      "episode": 474
+    },
+    "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-16-Working with Claude Fable 5 in Claude Cowork - Claude by Anthropic",
+      "title": "Working with Claude Fable 5 in Claude Cowork | Claude by Anthropic",
+      "published": "2026-07-16",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 2007.8,
+      "episode": 475
+    },
+    "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-15-Base44 uses Claude Fable 5 for its hardest engineering work - Claude by Anthropic",
+      "title": "Base44 uses Claude Fable 5 for its hardest engineering work | Claude by Anthropic",
+      "published": "2026-07-15",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1693.7,
+      "episode": 476
+    },
+    "https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-13-Working at the frontier - How Hebbia builds AI for financial diligence that can't miss a detail - Claude by Anthropic",
+      "title": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail | Claude by Anthropic",
+      "published": "2026-07-13",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1735.1,
+      "episode": 477
+    },
+    "https://www.anthropic.com/news/claude-for-teachers": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-14-Introducing Claude for Teachers",
+      "title": "Introducing Claude for Teachers",
+      "published": "2026-07-14"
+    },
+    "https://www.anthropic.com/news/canadian-ai-research": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-14-Anthropic commits $10 million to Canadian AI research",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "published": "2026-07-14"
     }
   },
-  "voice_rotation": 377,
+  "voice_rotation": 386,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -8681,6 +8819,18 @@
       "duration_sec": 514.8,
       "episode": 469,
       "item_count": 5
+    },
+    "2026-07-12": {
+      "slug": "2026-07-12-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 224.4,
+      "episode": 478,
+      "item_count": 2
     }
   }
 }
