@@ -1,6 +1,6 @@
 # Claude FM 全集目录
 
-共 **478 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
+共 **490 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
 想按时间线收听，请到 [小宇宙](https://www.xiaoyuzhoufm.com/podcast/6a37f2bcdd580cf9cf4bf121)。
 
 ## 🛠️ Engineering（25）
@@ -31,7 +31,7 @@
 - `EP414` · 2026-05-25 · [给 AI Agent 套上笼头：Anthropic 三大产品的安全边界工程实录](content/anthropic/engineering/scripts/2026-05-25-How%20we%20contain%20Claude%20across%20products.md) · [英文原文](content/anthropic/engineering/articles/2026-05-25-How%20we%20contain%20Claude%20across%20products.md)
 - `EP420` · 2026-05-28 · [Claude Code 高效使用指南：从上下文管理到自动化编程工作流的完整实践](content/anthropic/engineering/scripts/2026-05-28-Best%20practices%20for%20Claude%20Code%20-%20Claude%20Code%20Docs.md) · [英文原文](content/anthropic/engineering/articles/2026-05-28-Best%20practices%20for%20Claude%20Code%20-%20Claude%20Code%20Docs.md)
 
-## 🔬 Research（142）
+## 🔬 Research（143）
 
 - `EP2` · 2021-12-01 · [对齐实验室：Anthropic 如何用一个通用助手，奠定 Claude 的价值观基础](content/anthropic/research/scripts/2021-12-01-A%20General%20Language%20Assistant%20as%20a%20Laboratory%20for%20Alignment.md) · [英文原文](content/anthropic/research/articles/2021-12-01-A%20General%20Language%20Assistant%20as%20a%20Laboratory%20for%20Alignment.md)
 - `EP3` · 2021-12-22 · [从黑盒到电路图：Anthropic 如何用数学框架读懂 Transformer 的内部算法](content/anthropic/research/scripts/2021-12-22-A%20Mathematical%20Framework%20for%20Transformer%20Circuits.md) · [英文原文](content/anthropic/research/articles/2021-12-22-A%20Mathematical%20Framework%20for%20Transformer%20Circuits.md)
@@ -175,8 +175,9 @@
 - `EP459` · 2026-07-08 · [给双用途知识装上可拆卸开关](content/anthropic/research/scripts/2026-07-08-An%20off%20switch%20for%20dual%20use%20knowledge%20in%20AI%20models.md) · [英文原文](content/anthropic/research/articles/2026-07-08-An%20off%20switch%20for%20dual%20use%20knowledge%20in%20AI%20models.md)
 - `EP471` · 2026-07-13 · [Claude价值表达为何会随模型和语言漂移](content/anthropic/research/scripts/2026-07-13-How%20Claude%27s%20values%20vary%20by%20model%20and%20language.md) · [英文原文](content/anthropic/research/articles/2026-07-13-How%20Claude%27s%20values%20vary%20by%20model%20and%20language.md)
 - `EP470` · 2026-07-14 · [从加拿大看 Claude 的真实采用曲线](content/anthropic/research/scripts/2026-07-14-How%20Canada%20uses%20Claude.md) · [英文原文](content/anthropic/research/articles/2026-07-14-How%20Canada%20uses%20Claude.md)
+- `EP479` · 2026-07-24 · [AI 会开无人机意味着什么](content/anthropic/research/scripts/2026-07-24-Project%20Pilot%20-%20Can%20AI%20models%20fly%20drones%20-.md) · [英文原文](content/anthropic/research/articles/2026-07-24-Project%20Pilot%20-%20Can%20AI%20models%20fly%20drones%20-.md)
 
-## 📝 Blog（192）
+## 📝 Blog（202）
 
 - `EP40` · 2023-08-23 · [Claude二登陆亚马逊云科技Bedrock，企业级AI落地启示](content/claude/blog/scripts/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md) · [英文原文](content/claude/blog/articles/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md)
 - `EP45` · 2023-09-28 · [Claude登陆亚马逊云科技：企业级AI落地的一次关键开局](content/claude/blog/scripts/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md) · [英文原文](content/claude/blog/articles/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md)
@@ -370,8 +371,18 @@
 - `EP475` · 2026-07-16 · [Claude Cowork 里的长任务协作法](content/claude/blog/scripts/2026-07-16-Working%20with%20Claude%20Fable%205%20in%20Claude%20Cowork%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-16-Working%20with%20Claude%20Fable%205%20in%20Claude%20Cowork%20-%20Claude%20by%20Anthropic.md)
 - `EP472` · 2026-07-17 · [Cursor如何判断Fable能扛最难代码问题](content/claude/blog/scripts/2026-07-17-How%20Cursor%20knew%20Claude%20Fable%205%20was%20ready%20for%20the%20hardest%201%25%20of%20problems%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-17-How%20Cursor%20knew%20Claude%20Fable%205%20was%20ready%20for%20the%20hardest%201%25%20of%20problems%20-%20Claude%20by%20Anthropic.md)
 - `EP473` · 2026-07-17 · [CISO 安全落地智能体 AI 指南](content/claude/blog/scripts/2026-07-17-CISO%27s%20guide%20to%20agentic%20AI%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-17-CISO%27s%20guide%20to%20agentic%20AI%20-%20Claude%20by%20Anthropic.md)
+- `EP489` · 2026-07-20 · [乐天如何让智能体自主跑过一整夜](content/claude/blog/scripts/2026-07-20-How%20Rakuten%20builds%20agents%20overnight%20with%20Claude%20Fable%205%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-20-How%20Rakuten%20builds%20agents%20overnight%20with%20Claude%20Fable%205%20-%20Claude%20by%20Anthropic.md)
+- `EP487` · 2026-07-21 · [AI 原生软件研发如何建立安全护栏](content/claude/blog/scripts/2026-07-21-How%20Anthropic%20secures%20its%20AI-native%20software%20development%20lifecycle%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-21-How%20Anthropic%20secures%20its%20AI-native%20software%20development%20lifecycle%20-%20Claude%20by%20Anthropic.md)
+- `EP488` · 2026-07-21 · [Datadog给Claude打造通用机床](content/claude/blog/scripts/2026-07-21-How%20Datadog%20built%20a%20%E2%80%9Cuniversal%20machine%20tool%E2%80%9D%20for%20Claude%20Code%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-21-How%20Datadog%20built%20a%20%E2%80%9Cuniversal%20machine%20tool%E2%80%9D%20for%20Claude%20Code%20-%20Claude%20by%20Anthropic.md)
+- `EP485` · 2026-07-22 · [让 Claude Code 学会自我验收](content/claude/blog/scripts/2026-07-22-Building%20verification%20loops%20in%20Claude%20Code%20with%20skills%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-22-Building%20verification%20loops%20in%20Claude%20Code%20with%20skills%20-%20Claude%20by%20Anthropic.md)
+- `EP486` · 2026-07-22 · [Claude 驱动的自主网络安全调查员](content/claude/blog/scripts/2026-07-22-How%20Outtake%20built%20a%20cyber%20investigator%20on%20Claude%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-22-How%20Outtake%20built%20a%20cyber%20investigator%20on%20Claude%20-%20Claude%20by%20Anthropic.md)
+- `EP483` · 2026-07-23 · [Claude认证体系背后的企业AI落地战](content/claude/blog/scripts/2026-07-23-Four%20role-based%20certifications%20for%20the%20people%20who%20put%20Claude%20to%20work%20for%20customers%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-23-Four%20role-based%20certifications%20for%20the%20people%20who%20put%20Claude%20to%20work%20for%20customers%20-%20Claude%20by%20Anthropic.md)
+- `EP484` · 2026-07-23 · [Claude语音模式让难题边说边想](content/claude/blog/scripts/2026-07-23-Think%20through%20hard%20problems%20in%20voice%20mode%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-23-Think%20through%20hard%20problems%20in%20voice%20mode%20-%20Claude%20by%20Anthropic.md)
+- `EP480` · 2026-07-24 · [用 Claude Design 把想法先做活](content/claude/blog/scripts/2026-07-24-How%20the%20product%20designer%20who%20built%20Claude%20Design%20uses%20it%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-24-How%20the%20product%20designer%20who%20built%20Claude%20Design%20uses%20it%20-%20Claude%20by%20Anthropic.md)
+- `EP481` · 2026-07-24 · [Claude 五代模型的上下文工程新规则](content/claude/blog/scripts/2026-07-24-The%20new%20rules%20of%20context%20engineering%20for%20Claude%205%20generation%20models%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-24-The%20new%20rules%20of%20context%20engineering%20for%20Claude%205%20generation%20models%20-%20Claude%20by%20Anthropic.md)
+- `EP482` · 2026-07-24 · [Claude模型选择：聪明起步与评测](content/claude/blog/scripts/2026-07-24-Claude%20models%20explained%20-%20choosing%20the%20best%20model%20for%20your%20use%20case%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-24-Claude%20models%20explained%20-%20choosing%20the%20best%20model%20for%20your%20use%20case%20-%20Claude%20by%20Anthropic.md)
 
-## 📰 News 周报（119）
+## 📰 News 周报（120）
 
 - `EP1` · 2021-05-23 · [Anthropic 一周快讯 · 2021年5月23日–2021年5月29日 · 公司刚成立不久就拿到一点二四亿美元 A 轮融资](content/anthropic/news/scripts/2021-05-23-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP7` · 2022-04-24 · [Anthropic 一周快讯 · 2022年4月24日–2022年4月30日 · 五点八亿美元 B 轮融资落地](content/anthropic/news/scripts/2022-04-24-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
@@ -492,3 +503,4 @@
 - `EP458` · 2026-06-28 · [Anthropic 一周快讯 · 2026年6月28日–2026年7月4日：Sonnet 5与科学家工作台齐发布，Fable 5回归](content/anthropic/news/scripts/2026-06-28-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP469` · 2026-07-05 · [Anthropic 一周快讯 · 2026年7月5日–2026年7月11日：Claude 进入政府安全和物理 AI 现场](content/anthropic/news/scripts/2026-07-05-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP478` · 2026-07-12 · [Anthropic 一周快讯 · 2026年7月12日–2026年7月18日：教育产品与加拿大研究投入同日发布](content/anthropic/news/scripts/2026-07-12-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
+- `EP490` · 2026-07-19 · [Anthropic 一周快讯 · 2026年7月19日–2026年7月25日：Opus 5 发布，经济影响研究加码](content/anthropic/news/scripts/2026-07-19-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)

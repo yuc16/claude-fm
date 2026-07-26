@@ -1,5 +1,5 @@
 {
-  "next_episode": 479,
+  "next_episode": 491,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -7514,9 +7514,219 @@
       "slug": "2026-07-14-Anthropic commits $10 million to Canadian AI research",
       "title": "Anthropic commits $10 million to Canadian AI research",
       "published": "2026-07-14"
+    },
+    "https://www.anthropic.com/research/project-pilot": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-07-24-Project Pilot - Can AI models fly drones -",
+      "title": "Project Pilot: Can AI models fly drones?",
+      "published": "2026-07-24",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1672.4,
+      "episode": 479
+    },
+    "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-24-How the product designer who built Claude Design uses it - Claude by Anthropic",
+      "title": "How the product designer who built Claude Design uses it | Claude by Anthropic",
+      "published": "2026-07-24",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1758.1,
+      "episode": 480
+    },
+    "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-24-The new rules of context engineering for Claude 5 generation models - Claude by Anthropic",
+      "title": "The new rules of context engineering for Claude 5 generation models | Claude by Anthropic",
+      "published": "2026-07-24",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 2016.3,
+      "episode": 481
+    },
+    "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-24-Claude models explained - choosing the best model for your use case - Claude by Anthropic",
+      "title": "Claude models explained: choosing the best model for your use case | Claude by Anthropic",
+      "published": "2026-07-24",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1856.3,
+      "episode": 482
+    },
+    "https://claude.com/blog/four-role-based-claude-certifications": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-23-Four role-based certifications for the people who put Claude to work for customers - Claude by Anthropic",
+      "title": "Four role-based certifications for the people who put Claude to work for customers | Claude by Anthropic",
+      "published": "2026-07-23",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1829.1,
+      "episode": 483
+    },
+    "https://claude.com/blog/think-through-hard-problems-in-voice-mode": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-23-Think through hard problems in voice mode - Claude by Anthropic",
+      "title": "Think through hard problems in voice mode | Claude by Anthropic",
+      "published": "2026-07-23",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1711.2,
+      "episode": 484
+    },
+    "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-22-Building verification loops in Claude Code with skills - Claude by Anthropic",
+      "title": "Building verification loops in Claude Code with skills | Claude by Anthropic",
+      "published": "2026-07-22",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1851.8,
+      "episode": 485
+    },
+    "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-22-How Outtake built a cyber investigator on Claude - Claude by Anthropic",
+      "title": "How Outtake built a cyber investigator on Claude | Claude by Anthropic",
+      "published": "2026-07-22",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1939.9,
+      "episode": 486
+    },
+    "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-21-How Anthropic secures its AI-native software development lifecycle - Claude by Anthropic",
+      "title": "How Anthropic secures its AI-native software development lifecycle | Claude by Anthropic",
+      "published": "2026-07-21",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 2004.6,
+      "episode": 487
+    },
+    "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-21-How Datadog built a “universal machine tool” for Claude Code - Claude by Anthropic",
+      "title": "How Datadog built a “universal machine tool” for Claude Code | Claude by Anthropic",
+      "published": "2026-07-21",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1752.1,
+      "episode": 488
+    },
+    "https://claude.com/blog/working-at-the-frontier-rakuten": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-20-How Rakuten builds agents overnight with Claude Fable 5 - Claude by Anthropic",
+      "title": "How Rakuten builds agents overnight with Claude Fable 5 | Claude by Anthropic",
+      "published": "2026-07-20",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1808.4,
+      "episode": 489
+    },
+    "https://www.anthropic.com/news/claude-opus-5": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-24-Introducing Claude Opus 5",
+      "title": "Introducing Claude Opus 5",
+      "published": "2026-07-24"
+    },
+    "https://www.anthropic.com/news/economic-futures-research-fund-agenda": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-22-Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
+      "title": "Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
+      "published": "2026-07-22"
+    },
+    "https://www.anthropic.com/news/anthropic-economic-index-connector": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-22-The Anthropic Economic Index connector",
+      "title": "The Anthropic Economic Index connector",
+      "published": "2026-07-22"
+    },
+    "https://www.anthropic.com/news/donation-public-first-action": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-21-Donating another $20 million to Public First Action",
+      "title": "Donating another $20 million to Public First Action",
+      "published": "2026-07-21"
+    },
+    "https://www.anthropic.com/news/rare-disease-research-grants": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-20-Apply for Anthropic’s AI for Science rare disease research grants",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "published": "2026-07-20"
     }
   },
-  "voice_rotation": 386,
+  "voice_rotation": 398,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -8831,6 +9041,18 @@
       "duration_sec": 224.4,
       "episode": 478,
       "item_count": 2
+    },
+    "2026-07-19": {
+      "slug": "2026-07-19-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 481.8,
+      "episode": 490,
+      "item_count": 5
     }
   }
 }
