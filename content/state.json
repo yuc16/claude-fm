@@ -1,5 +1,5 @@
 {
-  "next_episode": 491,
+  "next_episode": 494,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -7724,9 +7724,66 @@
       "slug": "2026-07-20-Apply for Anthropic’s AI for Science rare disease research grants",
       "title": "Apply for Anthropic’s AI for Science rare disease research grants",
       "published": "2026-07-20"
+    },
+    "https://www.anthropic.com/research/discovering-cryptographic-weaknesses": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-07-28-Discovering cryptographic weaknesses with Claude",
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "published": "2026-07-28",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1692.3,
+      "episode": 491
+    },
+    "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-07-28-MCP 2026-07-28 spec - stateless core, coming to Claude - Claude by Anthropic",
+      "title": "MCP 2026-07-28 spec: stateless core, coming to Claude | Claude by Anthropic",
+      "published": "2026-07-28",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1781.5,
+      "episode": 492
+    },
+    "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-30-Investigating three real-world incidents in our cybersecurity evaluations",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "published": "2026-07-30"
+    },
+    "https://www.anthropic.com/news/position-open-weights-models": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-27-Our position on open-weights models",
+      "title": "Our position on open-weights models",
+      "published": "2026-07-27"
+    },
+    "https://www.anthropic.com/news/cognizant-anthropic": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-07-27-Expanding our partnership with Cognizant",
+      "title": "Expanding our partnership with Cognizant",
+      "published": "2026-07-27"
     }
   },
-  "voice_rotation": 398,
+  "voice_rotation": 401,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -9053,6 +9110,18 @@
       "duration_sec": 481.8,
       "episode": 490,
       "item_count": 5
+    },
+    "2026-07-26": {
+      "slug": "2026-07-26-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 384.0,
+      "episode": 493,
+      "item_count": 3
     }
   }
 }
