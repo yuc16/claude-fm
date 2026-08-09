@@ -1,5 +1,5 @@
 {
-  "next_episode": 494,
+  "next_episode": 501,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -7781,9 +7781,117 @@
       "slug": "2026-07-27-Expanding our partnership with Cognizant",
       "title": "Expanding our partnership with Cognizant",
       "published": "2026-07-27"
+    },
+    "https://claude.com/blog/auto-mode-default-in-claude-code": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-07-Auto mode is now the default in Claude Code for Pro, Max, and Team plans - Claude by Anthropic",
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans | Claude by Anthropic",
+      "published": "2026-08-07",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 2046.6,
+      "episode": 494
+    },
+    "https://claude.com/blog/auto-mode-in-production": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-07-Running auto mode in production - Claude by Anthropic",
+      "title": "Running auto mode in production | Claude by Anthropic",
+      "published": "2026-08-07",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1809.4,
+      "episode": 495
+    },
+    "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-06-Millennium and Anthropic are building a digital risk analyst with Claude - Claude by Anthropic",
+      "title": "Millennium and Anthropic are building a digital risk analyst with Claude | Claude by Anthropic",
+      "published": "2026-08-06",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1824.0,
+      "episode": 496
+    },
+    "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-06-Self-hosted environments for Claude Code - Claude by Anthropic",
+      "title": "Self-hosted environments for Claude Code | Claude by Anthropic",
+      "published": "2026-08-06",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1940.7,
+      "episode": 497
+    },
+    "https://claude.com/blog/claude-enterprise-inference-hooks": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-05-Inference hooks - inline data loss prevention for Claude Enterprise - Claude by Anthropic",
+      "title": "Inference hooks: inline data loss prevention for Claude Enterprise | Claude by Anthropic",
+      "published": "2026-08-05",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1750.2,
+      "episode": 498
+    },
+    "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-04-A guide to cost visibility and control in Claude - Claude by Anthropic",
+      "title": "A guide to cost visibility and control in Claude | Claude by Anthropic",
+      "published": "2026-08-04",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1853.6,
+      "episode": 499
+    },
+    "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-08-07-Improving Fable 5 Safeguards",
+      "title": "Improving Fable 5 Safeguards",
+      "published": "2026-08-07"
+    },
+    "https://www.anthropic.com/news/tino-cuellar": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-08-04-Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+      "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+      "published": "2026-08-04"
     }
   },
-  "voice_rotation": 401,
+  "voice_rotation": 408,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -9122,6 +9230,18 @@
       "duration_sec": 384.0,
       "episode": 493,
       "item_count": 3
+    },
+    "2026-08-02": {
+      "slug": "2026-08-02-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 244.1,
+      "episode": 500,
+      "item_count": 2
     }
   }
 }

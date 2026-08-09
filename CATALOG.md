@@ -1,6 +1,6 @@
 # Claude FM 全集目录
 
-共 **493 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
+共 **500 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
 想按时间线收听，请到 [小宇宙](https://www.xiaoyuzhoufm.com/podcast/6a37f2bcdd580cf9cf4bf121)。
 
 ## 🛠️ Engineering（25）
@@ -178,7 +178,7 @@
 - `EP479` · 2026-07-24 · [AI 会开无人机意味着什么](content/anthropic/research/scripts/2026-07-24-Project%20Pilot%20-%20Can%20AI%20models%20fly%20drones%20-.md) · [英文原文](content/anthropic/research/articles/2026-07-24-Project%20Pilot%20-%20Can%20AI%20models%20fly%20drones%20-.md)
 - `EP491` · 2026-07-28 · [Claude 如何加速密码学攻防研究](content/anthropic/research/scripts/2026-07-28-Discovering%20cryptographic%20weaknesses%20with%20Claude.md) · [英文原文](content/anthropic/research/articles/2026-07-28-Discovering%20cryptographic%20weaknesses%20with%20Claude.md)
 
-## 📝 Blog（203）
+## 📝 Blog（209）
 
 - `EP40` · 2023-08-23 · [Claude二登陆亚马逊云科技Bedrock，企业级AI落地启示](content/claude/blog/scripts/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md) · [英文原文](content/claude/blog/articles/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md)
 - `EP45` · 2023-09-28 · [Claude登陆亚马逊云科技：企业级AI落地的一次关键开局](content/claude/blog/scripts/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md) · [英文原文](content/claude/blog/articles/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md)
@@ -383,8 +383,14 @@
 - `EP481` · 2026-07-24 · [Claude 五代模型的上下文工程新规则](content/claude/blog/scripts/2026-07-24-The%20new%20rules%20of%20context%20engineering%20for%20Claude%205%20generation%20models%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-24-The%20new%20rules%20of%20context%20engineering%20for%20Claude%205%20generation%20models%20-%20Claude%20by%20Anthropic.md)
 - `EP482` · 2026-07-24 · [Claude模型选择：聪明起步与评测](content/claude/blog/scripts/2026-07-24-Claude%20models%20explained%20-%20choosing%20the%20best%20model%20for%20your%20use%20case%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-24-Claude%20models%20explained%20-%20choosing%20the%20best%20model%20for%20your%20use%20case%20-%20Claude%20by%20Anthropic.md)
 - `EP492` · 2026-07-28 · [MCP无状态化如何重塑Claude连接器](content/claude/blog/scripts/2026-07-28-MCP%202026-07-28%20spec%20-%20stateless%20core%2C%20coming%20to%20Claude%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-07-28-MCP%202026-07-28%20spec%20-%20stateless%20core%2C%20coming%20to%20Claude%20-%20Claude%20by%20Anthropic.md)
+- `EP499` · 2026-08-04 · [Claude 企业成本可见性与控制指南](content/claude/blog/scripts/2026-08-04-A%20guide%20to%20cost%20visibility%20and%20control%20in%20Claude%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-08-04-A%20guide%20to%20cost%20visibility%20and%20control%20in%20Claude%20-%20Claude%20by%20Anthropic.md)
+- `EP498` · 2026-08-05 · [Claude企业版实时数据防泄露门禁](content/claude/blog/scripts/2026-08-05-Inference%20hooks%20-%20inline%20data%20loss%20prevention%20for%20Claude%20Enterprise%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-08-05-Inference%20hooks%20-%20inline%20data%20loss%20prevention%20for%20Claude%20Enterprise%20-%20Claude%20by%20Anthropic.md)
+- `EP496` · 2026-08-06 · [Claude携手Millennium打造数字风险分析师](content/claude/blog/scripts/2026-08-06-Millennium%20and%20Anthropic%20are%20building%20a%20digital%20risk%20analyst%20with%20Claude%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-08-06-Millennium%20and%20Anthropic%20are%20building%20a%20digital%20risk%20analyst%20with%20Claude%20-%20Claude%20by%20Anthropic.md)
+- `EP497` · 2026-08-06 · [Claude Code 企业自托管运行新解](content/claude/blog/scripts/2026-08-06-Self-hosted%20environments%20for%20Claude%20Code%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-08-06-Self-hosted%20environments%20for%20Claude%20Code%20-%20Claude%20by%20Anthropic.md)
+- `EP494` · 2026-08-07 · [Claude Code 自动模式默认开启](content/claude/blog/scripts/2026-08-07-Auto%20mode%20is%20now%20the%20default%20in%20Claude%20Code%20for%20Pro%2C%20Max%2C%20and%20Team%20plans%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-08-07-Auto%20mode%20is%20now%20the%20default%20in%20Claude%20Code%20for%20Pro%2C%20Max%2C%20and%20Team%20plans%20-%20Claude%20by%20Anthropic.md)
+- `EP495` · 2026-08-07 · [Claude 自动模式生产落地的安全取舍](content/claude/blog/scripts/2026-08-07-Running%20auto%20mode%20in%20production%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-08-07-Running%20auto%20mode%20in%20production%20-%20Claude%20by%20Anthropic.md)
 
-## 📰 News 周报（121）
+## 📰 News 周报（122）
 
 - `EP1` · 2021-05-23 · [Anthropic 一周快讯 · 2021年5月23日–2021年5月29日 · 公司刚成立不久就拿到一点二四亿美元 A 轮融资](content/anthropic/news/scripts/2021-05-23-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP7` · 2022-04-24 · [Anthropic 一周快讯 · 2022年4月24日–2022年4月30日 · 五点八亿美元 B 轮融资落地](content/anthropic/news/scripts/2022-04-24-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
@@ -507,3 +513,4 @@
 - `EP478` · 2026-07-12 · [Anthropic 一周快讯 · 2026年7月12日–2026年7月18日：教育产品与加拿大研究投入同日发布](content/anthropic/news/scripts/2026-07-12-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP490` · 2026-07-19 · [Anthropic 一周快讯 · 2026年7月19日–2026年7月25日：Opus 5 发布，经济影响研究加码](content/anthropic/news/scripts/2026-07-19-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP493` · 2026-07-26 · [Anthropic 一周快讯 · 2026年7月26日–2026年8月1日：开放权重立场与安全评估复盘](content/anthropic/news/scripts/2026-07-26-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
+- `EP500` · 2026-08-02 · [Anthropic 一周快讯 · 2026年8月2日–2026年8月8日：Fable 5 生物安全护栏减少误伤](content/anthropic/news/scripts/2026-08-02-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
