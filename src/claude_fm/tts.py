@@ -1,6 +1,7 @@
 """edge-tts 合成：长文分块、逐块重试、mp3 拼接、时长校验。"""
 
 import asyncio
+import os
 import re
 
 import edge_tts
@@ -9,6 +10,15 @@ from mutagen.mp3 import MP3
 from . import config
 
 CHUNK_LIMIT = 2000  # 单块最大字符数，过长 edge-tts 易断流
+
+
+def _edge_tts_proxy() -> str | None:
+    return (
+        os.environ.get("HTTPS_PROXY")
+        or os.environ.get("https_proxy")
+        or os.environ.get("HTTP_PROXY")
+        or os.environ.get("http_proxy")
+    )
 
 
 def extract_script(script_file_body: str) -> str:
@@ -57,7 +67,7 @@ async def _synth_chunk(text: str, voice: str, rate: str) -> bytes:
     last_err: Exception | None = None
     for attempt in range(4):
         try:
-            communicate = edge_tts.Communicate(text, voice=voice, rate=rate)
+            communicate = edge_tts.Communicate(text, voice=voice, rate=rate, proxy=_edge_tts_proxy())
             audio = b""
             async for message in communicate.stream():
                 if message["type"] == "audio":

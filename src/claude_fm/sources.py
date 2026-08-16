@@ -1,6 +1,9 @@
 """文章发现：anthropic.com sitemap + claude.com/blog 列表页。"""
 
 import re
+import os
+import subprocess
+import time
 from dataclasses import dataclass
 
 import httpx
@@ -26,11 +29,34 @@ def _client() -> httpx.Client:
     )
 
 
+def _get_with_retries(client: httpx.Client, url: str, attempts: int = 3) -> httpx.Response:
+    last_err: httpx.HTTPError | None = None
+    for attempt in range(attempts):
+        try:
+            resp = client.get(url)
+            resp.raise_for_status()
+            return resp
+        except httpx.HTTPError as exc:
+            last_err = exc
+            if attempt == attempts - 1:
+                break
+            time.sleep(min(10, 2 * (attempt + 1)))
+    proxy = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy")
+    cmd = ["curl", "-fsSL", "--retry", "10", "--retry-all-errors", "--max-time", "60"]
+    if proxy:
+        cmd += ["--proxy", proxy]
+    cmd.append(url)
+    try:
+        raw = subprocess.check_output(cmd, text=True)
+    except subprocess.CalledProcessError as exc:
+        raise RuntimeError(f"GET failed after httpx retries and curl fallback: {url}") from (last_err or exc)
+    return httpx.Response(200, text=raw, request=httpx.Request("GET", url))
+
+
 def discover_sitemap_sources() -> dict[str, list[ArticleRef]]:
     """从 anthropic.com sitemap 发现 engineering/research/news 全量文章。"""
     with _client() as client:
-        resp = client.get(config.ANTHROPIC_SITEMAP)
-        resp.raise_for_status()
+        resp = _get_with_retries(client, config.ANTHROPIC_SITEMAP)
     entries = re.findall(
         r"<loc>(.*?)</loc>\s*(?:<lastmod>(.*?)</lastmod>)?", resp.text
     )
@@ -61,8 +87,7 @@ def discover_blog_listing(max_pages: int = 40) -> list[ArticleRef]:
     base = config.SOURCES["blog"]["url"]
     seen: dict[str, ArticleRef] = {}
     with _client() as client:
-        first = client.get(base)
-        first.raise_for_status()
+        first = _get_with_retries(client, base)
         html = first.text
         for a in _parse_blog_page(html):
             seen.setdefault(a.url, a)
@@ -77,13 +102,12 @@ def discover_blog_listing(max_pages: int = 40) -> list[ArticleRef]:
         page1_urls = set(seen)
         prefix = next(
             (p for p in prefixes
-             if set(u.url for u in _parse_blog_page(client.get(f"{base}?{p}_page=2").text)) - page1_urls),
+             if set(u.url for u in _parse_blog_page(_get_with_retries(client, f"{base}?{p}_page=2").text)) - page1_urls),
             prefixes[0],
         )
         for page in range(2, total_pages + 1):
             try:
-                resp = client.get(f"{base}?{prefix}_page={page}")
-                resp.raise_for_status()
+                resp = _get_with_retries(client, f"{base}?{prefix}_page={page}")
             except httpx.HTTPError:
                 break
             for a in _parse_blog_page(resp.text):

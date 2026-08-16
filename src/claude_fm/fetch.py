@@ -1,6 +1,9 @@
 """抓取文章正文 → content/articles/<slug>.md（frontmatter + markdown 正文）。"""
 
 import re
+import os
+import subprocess
+import time
 from datetime import datetime
 
 import httpx
@@ -40,6 +43,30 @@ _BOILERPLATE_TEXT = re.compile(
 )
 
 
+def _get_with_retries(client: httpx.Client, url: str, attempts: int = 3) -> httpx.Response:
+    last_err: httpx.HTTPError | None = None
+    for attempt in range(attempts):
+        try:
+            resp = client.get(url)
+            resp.raise_for_status()
+            return resp
+        except httpx.HTTPError as exc:
+            last_err = exc
+            if attempt == attempts - 1:
+                break
+            time.sleep(min(10, 2 * (attempt + 1)))
+    proxy = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy")
+    cmd = ["curl", "-fsSL", "--retry", "10", "--retry-all-errors", "--max-time", "60"]
+    if proxy:
+        cmd += ["--proxy", proxy]
+    cmd.append(url)
+    try:
+        raw = subprocess.check_output(cmd, text=True)
+    except subprocess.CalledProcessError as exc:
+        raise RuntimeError(f"GET failed after httpx retries and curl fallback: {url}") from (last_err or exc)
+    return httpx.Response(200, text=raw, request=httpx.Request("GET", url))
+
+
 def _clean_markdown(markdown: str) -> str:
     paragraphs = re.split(r"\n\s*\n", markdown)
     out: list[str] = []
@@ -64,8 +91,7 @@ def fetch_article(ref: ArticleRef) -> dict:
     with httpx.Client(
         headers={"User-Agent": config.USER_AGENT}, timeout=60, follow_redirects=True
     ) as client:
-        resp = client.get(ref.url)
-        resp.raise_for_status()
+        resp = _get_with_retries(client, ref.url)
     html = resp.text
 
     markdown = trafilatura.extract(
