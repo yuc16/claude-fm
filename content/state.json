@@ -1,5 +1,5 @@
 {
-  "next_episode": 511,
+  "next_episode": 521,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -8033,9 +8033,159 @@
       "slug": "2026-08-14-How Claude's text watermarking works",
       "title": "How Claude's text watermarking works",
       "published": "2026-08-14"
+    },
+    "https://www.anthropic.com/research/Claude-accelerates-protein-design": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-08-18-How Claude is accelerating protein design and analytical chemistry",
+      "title": "How Claude is accelerating protein design and analytical chemistry",
+      "published": "2026-08-18",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1705.4,
+      "episode": 511
+    },
+    "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-21-Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders - Claude by Anthropic",
+      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders | Claude by Anthropic",
+      "published": "2026-08-21",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1712.8,
+      "episode": 512
+    },
+    "https://claude.com/blog/the-ai-native-sdlc-playbook": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-21-The AI-Native SDLC playbook - Claude by Anthropic",
+      "title": "The AI-Native SDLC playbook | Claude by Anthropic",
+      "published": "2026-08-21",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1864.2,
+      "episode": 513
+    },
+    "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-20-Anthropic’s approach to teaching and learning AI - Claude by Anthropic",
+      "title": "Anthropic’s approach to teaching and learning AI | Claude by Anthropic",
+      "published": "2026-08-20",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1780.5,
+      "episode": 514
+    },
+    "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-20-How monday.com transformed its platform into an agent-first product where humans and agents collaborate - Claude by Anthropic",
+      "title": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate | Claude by Anthropic",
+      "published": "2026-08-20",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 2140.8,
+      "episode": 515
+    },
+    "https://claude.com/blog/claude-code-guide-for-startups": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-20-The Claude Code Guide For Startups - Claude by Anthropic",
+      "title": "The Claude Code Guide For Startups | Claude by Anthropic",
+      "published": "2026-08-20",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1814.6,
+      "episode": 516
+    },
+    "https://claude.com/blog/computer-use-skills-api-files-api": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-20-Build production agents with computer use, the Skills API, and the Files API - Claude by Anthropic",
+      "title": "Build production agents with computer use, the Skills API, and the Files API | Claude by Anthropic",
+      "published": "2026-08-20",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1639.5,
+      "episode": 517
+    },
+    "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-19-Turning conversation into knowledge - how Slack builds human-agent teams - Claude by Anthropic",
+      "title": "Turning conversation into knowledge: how Slack builds human-agent teams | Claude by Anthropic",
+      "published": "2026-08-19",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1594.4,
+      "episode": 518
+    },
+    "https://claude.com/blog/ai-ci-cd-on-call": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-18-How Claude Tag serves as Anthropic’s first responder for CI - CD failures - Claude by Anthropic",
+      "title": "How Claude Tag serves as Anthropic’s first responder for CI/CD failures | Claude by Anthropic",
+      "published": "2026-08-18",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1817.4,
+      "episode": 519
+    },
+    "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-17-How ABC Legal turned every employee into a builder with Claude Managed Agents - Claude by Anthropic",
+      "title": "How ABC Legal turned every employee into a builder with Claude Managed Agents | Claude by Anthropic",
+      "published": "2026-08-17",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1729.7,
+      "episode": 520
     }
   },
-  "voice_rotation": 418,
+  "voice_rotation": 428,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
