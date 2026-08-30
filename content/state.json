@@ -1,5 +1,5 @@
 {
-  "next_episode": 521,
+  "next_episode": 532,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -8183,9 +8183,186 @@
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1729.7,
       "episode": 520
+    },
+    "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-08-28-Automated researchers can reliably mitigate alignment failures",
+      "title": "Automated researchers can reliably mitigate alignment failures",
+      "published": "2026-08-28",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1858.9,
+      "episode": 521
+    },
+    "https://www.anthropic.com/research/enabling-independent-research": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-08-26-Enabling independent research on how people use Claude",
+      "title": "Enabling independent research on how people use Claude",
+      "published": "2026-08-26",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 2011.1,
+      "episode": 522
+    },
+    "https://claude.com/blog/claude-in-chrome-generally-available": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-26-Claude in Chrome is generally available - Claude by Anthropic",
+      "title": "Claude in Chrome is generally available | Claude by Anthropic",
+      "published": "2026-08-26",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1515.6,
+      "episode": 523
+    },
+    "https://claude.com/blog/cowork-built-in-browser": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-26-Claude Cowork gets a built-in browser - nothing to install - Claude by Anthropic",
+      "title": "Claude Cowork gets a built-in browser: nothing to install | Claude by Anthropic",
+      "published": "2026-08-26",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1745.6,
+      "episode": 524
+    },
+    "https://claude.com/blog/how-anthropic-employees-use-claude-tag": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-28-How Anthropic employees use Claude Tag - Claude by Anthropic",
+      "title": "How Anthropic employees use Claude Tag | Claude by Anthropic",
+      "published": "2026-08-28",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1882.7,
+      "episode": 525
+    },
+    "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-28-Claude for Teachers, now available for U.S. K-12 schools and districts - Claude by Anthropic",
+      "title": "Claude for Teachers, now available for U.S. K-12 schools and districts | Claude by Anthropic",
+      "published": "2026-08-28",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 2004.6,
+      "episode": 526
+    },
+    "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-26-How Warp builds self-improving agents on Claude - Claude by Anthropic",
+      "title": "How Warp builds self-improving agents on Claude | Claude by Anthropic",
+      "published": "2026-08-26",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1573.4,
+      "episode": 527
+    },
+    "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-25-Bain & Company joins the Claude Partner Network as a Global Premier partner - Claude by Anthropic",
+      "title": "Bain & Company joins the Claude Partner Network as a Global Premier partner | Claude by Anthropic",
+      "published": "2026-08-25",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1756.2,
+      "episode": 528
+    },
+    "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-25-Claude's memory works everywhere, and you decide what's in it - Claude by Anthropic",
+      "title": "Claude's memory works everywhere, and you decide what's in it | Claude by Anthropic",
+      "published": "2026-08-25",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1915.4,
+      "episode": 529
+    },
+    "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-08-24-How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep - Claude by Anthropic",
+      "title": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep | Claude by Anthropic",
+      "published": "2026-08-24",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1944.0,
+      "episode": 530
+    },
+    "https://www.anthropic.com/news/model-hardware-standard-research-preview": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-08-27-Previewing the Model Hardware Standard",
+      "title": "Previewing the Model Hardware Standard",
+      "published": "2026-08-27"
+    },
+    "https://www.anthropic.com/news/expanding-support-for-scientists": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-08-27-Expanding our support for scientists",
+      "title": "Expanding our support for scientists",
+      "published": "2026-08-27"
+    },
+    "https://www.anthropic.com/news/wellbeing-research-grants": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-08-25-Funding better evaluations of AI’s impact on wellbeing",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "published": "2026-08-25"
     }
   },
-  "voice_rotation": 428,
+  "voice_rotation": 439,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -9548,6 +9725,18 @@
       "duration_sec": 189.7,
       "episode": 510,
       "item_count": 1
+    },
+    "2026-08-23": {
+      "slug": "2026-08-23-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 364.5,
+      "episode": 531,
+      "item_count": 3
     }
   }
 }
