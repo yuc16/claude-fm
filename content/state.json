@@ -1,5 +1,5 @@
 {
-  "next_episode": 532,
+  "next_episode": 536,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -8360,9 +8360,72 @@
       "slug": "2026-08-25-Funding better evaluations of AI’s impact on wellbeing",
       "title": "Funding better evaluations of AI’s impact on wellbeing",
       "published": "2026-08-25"
+    },
+    "https://www.anthropic.com/research/formalizing-fermats-last-theorem": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-09-04-Formalizing Fermat's Last Theorem",
+      "title": "Formalizing Fermat's Last Theorem",
+      "published": "2026-09-04",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1788.2,
+      "episode": 532
+    },
+    "https://claude.com/blog/the-anatomy-of-effective-commerce-agents": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-02-A guide to the anatomy of effective commerce agents - Claude by Anthropic",
+      "title": "A guide to the anatomy of effective commerce agents | Claude by Anthropic",
+      "published": "2026-09-02",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 3118.3,
+      "episode": 533
+    },
+    "https://claude.com/blog/claude-for-commerce-agents": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-02-Building Commerce Agents with Claude - Claude by Anthropic",
+      "title": "Building Commerce Agents with Claude | Claude by Anthropic",
+      "published": "2026-09-02",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1539.4,
+      "episode": 534
+    },
+    "https://www.anthropic.com/news/enterprise-frontier-safeguards": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-09-01-Developing Enterprise Frontier Safeguards with our customers",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "published": "2026-09-01"
+    },
+    "https://www.anthropic.com/news/improving-alignment-security-efforts": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-08-31-Improving our alignment and security practices",
+      "title": "Improving our alignment and security practices",
+      "published": "2026-08-31"
     }
   },
-  "voice_rotation": 439,
+  "voice_rotation": 443,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -9737,6 +9800,18 @@
       "duration_sec": 364.5,
       "episode": 531,
       "item_count": 3
+    },
+    "2026-08-30": {
+      "slug": "2026-08-30-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 289.4,
+      "episode": 535,
+      "item_count": 2
     }
   }
 }
