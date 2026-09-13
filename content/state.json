@@ -1,5 +1,5 @@
 {
-  "next_episode": 536,
+  "next_episode": 541,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -8423,9 +8423,84 @@
       "slug": "2026-08-31-Improving our alignment and security practices",
       "title": "Improving our alignment and security practices",
       "published": "2026-08-31"
+    },
+    "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-09-10-Measuring AI capabilities in intelligence targeting and conventional weapons",
+      "title": "Measuring AI capabilities in intelligence targeting and conventional weapons",
+      "published": "2026-09-10",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 2607.1,
+      "episode": 536
+    },
+    "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-09-09-An alignment assessment of recent cybersecurity incidents",
+      "title": "An alignment assessment of recent cybersecurity incidents",
+      "published": "2026-09-09",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1856.6,
+      "episode": 537
+    },
+    "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-10-T. Rowe Price brings more of Claude to its investment process - Claude by Anthropic",
+      "title": "T. Rowe Price brings more of Claude to its investment process | Claude by Anthropic",
+      "published": "2026-09-10",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1647.2,
+      "episode": 538
+    },
+    "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-10-What 1,000 small business owners taught us about AI - Claude by Anthropic",
+      "title": "What 1,000 small business owners taught us about AI | Claude by Anthropic",
+      "published": "2026-09-10",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 2215.2,
+      "episode": 539
+    },
+    "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-08-Reducing cost and improving performance with Claude Platform - Claude by Anthropic",
+      "title": "Reducing cost and improving performance with Claude Platform | Claude by Anthropic",
+      "published": "2026-09-08",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1924.6,
+      "episode": 540
     }
   },
-  "voice_rotation": 443,
+  "voice_rotation": 448,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
