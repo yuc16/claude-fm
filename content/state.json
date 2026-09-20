@@ -1,5 +1,5 @@
 {
-  "next_episode": 541,
+  "next_episode": 553,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -8498,9 +8498,192 @@
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1924.6,
       "episode": 540
+    },
+    "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-09-17-How Claude is uplifting biomolecular modeling",
+      "title": "How Claude is uplifting biomolecular modeling",
+      "published": "2026-09-17",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1778.6,
+      "episode": 541
+    },
+    "https://claude.com/blog/cowork-is-now-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-16-Claude Cowork and chat are now one Claude - Claude by Anthropic",
+      "title": "Claude Cowork and chat are now one Claude | Claude by Anthropic",
+      "published": "2026-09-16",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1559.5,
+      "episode": 542
+    },
+    "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-15-Claude for Small Business launches new workflows, integrations, and training programs - Claude by Anthropic",
+      "title": "Claude for Small Business launches new workflows, integrations, and training programs | Claude by Anthropic",
+      "published": "2026-09-15",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1878.6,
+      "episode": 543
+    },
+    "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-17-Working at the frontier - How Balyasny Asset Management evaluates and governs Claude Fable 5 - Claude by Anthropic",
+      "title": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5 | Claude by Anthropic",
+      "published": "2026-09-17",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1842.7,
+      "episode": 544
+    },
+    "https://claude.com/blog/projects-redesigned": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-17-Projects redesigned - from folder to conversation - Claude by Anthropic",
+      "title": "Projects redesigned: from folder to conversation | Claude by Anthropic",
+      "published": "2026-09-17",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 2006.7,
+      "episode": 545
+    },
+    "https://claude.com/blog/salesforce-in-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-15-Salesforce in Claude - Claude by Anthropic",
+      "title": "Salesforce in Claude | Claude by Anthropic",
+      "published": "2026-09-15",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1607.8,
+      "episode": 546
+    },
+    "https://claude.com/blog/building-an-ai-native-revenue-organization": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-15-Building an AI-native revenue organization - Claude by Anthropic",
+      "title": "Building an AI-native revenue organization | Claude by Anthropic",
+      "published": "2026-09-15",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1543.5,
+      "episode": 547
+    },
+    "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-14-Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic - Claude by Anthropic",
+      "title": "Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic | Claude by Anthropic",
+      "published": "2026-09-14",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1502.7,
+      "episode": 548
+    },
+    "https://claude.com/blog/claude-for-financial-advisors": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-14-Claude for Financial Advisors - Claude by Anthropic",
+      "title": "Claude for Financial Advisors | Claude by Anthropic",
+      "published": "2026-09-14",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1682.8,
+      "episode": 549
+    },
+    "https://claude.com/blog/how-healthcare-organizations-use-claude-tag": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-14-How healthcare organizations use Claude Tag - Claude by Anthropic",
+      "title": "How healthcare organizations use Claude Tag | Claude by Anthropic",
+      "published": "2026-09-14",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1536.5,
+      "episode": 550
+    },
+    "https://claude.com/blog/deploying-ai-from-pilot-to-production": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-14-Deploying AI from pilot to production - a practical blueprint for CIOs and technical leaders - Claude by Anthropic",
+      "title": "Deploying AI from pilot to production: a practical blueprint for CIOs and technical leaders | Claude by Anthropic",
+      "published": "2026-09-14",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1859.9,
+      "episode": 551
+    },
+    "https://www.anthropic.com/news/accenture-embedded-evaluation": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-09-18-Partnering with Accenture on embedded evaluation",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "published": "2026-09-18"
+    },
+    "https://www.anthropic.com/news/life-sciences-verification-program": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-09-17-Introducing the Life Sciences Verification Program",
+      "title": "Introducing the Life Sciences Verification Program",
+      "published": "2026-09-17"
     }
   },
-  "voice_rotation": 448,
+  "voice_rotation": 460,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -9886,6 +10069,18 @@
       "voice": "zh-CN-YunxiNeural",
       "duration_sec": 289.4,
       "episode": 535,
+      "item_count": 2
+    },
+    "2026-09-13": {
+      "slug": "2026-09-13-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 244.3,
+      "episode": 552,
       "item_count": 2
     }
   }
