@@ -1,5 +1,5 @@
 {
-  "next_episode": 553,
+  "next_episode": 562,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -8681,9 +8681,138 @@
       "slug": "2026-09-17-Introducing the Life Sciences Verification Program",
       "title": "Introducing the Life Sciences Verification Program",
       "published": "2026-09-17"
+    },
+    "https://www.anthropic.com/research/yes-claude-can-do-nine-loops": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-09-25-Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
+      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
+      "published": "2026-09-25",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1931.6,
+      "episode": 553
+    },
+    "https://www.anthropic.com/research/project-swap": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-09-24-Project Swap - What happens when agents trade for us -",
+      "title": "Project Swap: What happens when agents trade for us?",
+      "published": "2026-09-24",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 2300.3,
+      "episode": 554
+    },
+    "https://claude.com/blog/build-plugins-for-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-25-Build plugins for Claude with the directory submission portal - Claude by Anthropic",
+      "title": "Build plugins for Claude with the directory submission portal | Claude by Anthropic",
+      "published": "2026-09-25",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1564.5,
+      "episode": 555
+    },
+    "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-24-Claude Tag now supports personal connectors in channels - Claude by Anthropic",
+      "title": "Claude Tag now supports personal connectors in channels | Claude by Anthropic",
+      "published": "2026-09-24",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1780.2,
+      "episode": 556
+    },
+    "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-24-Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind. - Claude by Anthropic",
+      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind. | Claude by Anthropic",
+      "published": "2026-09-24",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1630.0,
+      "episode": 557
+    },
+    "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-23-CodeRabbit, Power Digital, ThoughtSpot on Claude Marketplace - Claude by Anthropic",
+      "title": "CodeRabbit, Power Digital, ThoughtSpot on Claude Marketplace | Claude by Anthropic",
+      "published": "2026-09-23",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1604.0,
+      "episode": 558
+    },
+    "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-23-How to prepare for AI-driven code modernization projects - Claude by Anthropic",
+      "title": "How to prepare for AI-driven code modernization projects | Claude by Anthropic",
+      "published": "2026-09-23",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 2249.0,
+      "episode": 559
+    },
+    "https://claude.com/blog/claude-marketplace": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-09-23-Claude Marketplace - plugins and connectors, products and agents, and service partners - Claude by Anthropic",
+      "title": "Claude Marketplace: plugins and connectors, products and agents, and service partners | Claude by Anthropic",
+      "published": "2026-09-23",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1549.9,
+      "episode": 560
+    },
+    "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-09-23-Claude discovers a novel enzyme system",
+      "title": "Claude discovers a novel enzyme system",
+      "published": "2026-09-23"
     }
   },
-  "voice_rotation": 460,
+  "voice_rotation": 469,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -10082,6 +10211,18 @@
       "duration_sec": 244.3,
       "episode": 552,
       "item_count": 2
+    },
+    "2026-09-20": {
+      "slug": "2026-09-20-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 215.2,
+      "episode": 561,
+      "item_count": 1
     }
   }
 }
