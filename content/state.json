@@ -1,5 +1,5 @@
 {
-  "next_episode": 563,
+  "next_episode": 567,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -8828,9 +8828,69 @@
       "slug": "2026-10-01-Barclays scales Claude to upgrade operations and improve client experience",
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
       "published": "2026-10-01"
+    },
+    "https://www.anthropic.com/research/your-thoughts-on-ai": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-09-29-What do you want from AI -",
+      "title": "What do you want from AI?",
+      "published": "2026-09-29",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1543.0,
+      "episode": 563
+    },
+    "https://www.anthropic.com/research/what-work-can-robots-do": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-09-30-Can we predict the jobs robots will do -",
+      "title": "Can we predict the jobs robots will do?",
+      "published": "2026-09-30",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 2045.8,
+      "episode": 564
+    },
+    "https://www.anthropic.com/research/claude-shaped-science": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-01-Claude-shaped science",
+      "title": "Claude-shaped science",
+      "published": "2026-10-01",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1650.0,
+      "episode": 565
+    },
+    "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-09-29-GLM-5.3 and the spread of advanced cyber capabilities",
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "published": "2026-09-29",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1975.5,
+      "episode": 566
     }
   },
-  "voice_rotation": 470,
+  "voice_rotation": 474,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",

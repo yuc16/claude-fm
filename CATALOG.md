@@ -1,6 +1,6 @@
 # Claude FM 全集目录
 
-共 **562 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
+共 **566 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
 想按时间线收听，请到 [小宇宙](https://www.xiaoyuzhoufm.com/podcast/6a37f2bcdd580cf9cf4bf121)。
 
 ## 🛠️ Engineering（25）
@@ -31,7 +31,7 @@
 - `EP414` · 2026-05-25 · [给 AI Agent 套上笼头：Anthropic 三大产品的安全边界工程实录](content/anthropic/engineering/scripts/2026-05-25-How%20we%20contain%20Claude%20across%20products.md) · [英文原文](content/anthropic/engineering/articles/2026-05-25-How%20we%20contain%20Claude%20across%20products.md)
 - `EP420` · 2026-05-28 · [Claude Code 高效使用指南：从上下文管理到自动化编程工作流的完整实践](content/anthropic/engineering/scripts/2026-05-28-Best%20practices%20for%20Claude%20Code%20-%20Claude%20Code%20Docs.md) · [英文原文](content/anthropic/engineering/articles/2026-05-28-Best%20practices%20for%20Claude%20Code%20-%20Claude%20Code%20Docs.md)
 
-## 🔬 Research（156）
+## 🔬 Research（160）
 
 - `EP2` · 2021-12-01 · [对齐实验室：Anthropic 如何用一个通用助手，奠定 Claude 的价值观基础](content/anthropic/research/scripts/2021-12-01-A%20General%20Language%20Assistant%20as%20a%20Laboratory%20for%20Alignment.md) · [英文原文](content/anthropic/research/articles/2021-12-01-A%20General%20Language%20Assistant%20as%20a%20Laboratory%20for%20Alignment.md)
 - `EP3` · 2021-12-22 · [从黑盒到电路图：Anthropic 如何用数学框架读懂 Transformer 的内部算法](content/anthropic/research/scripts/2021-12-22-A%20Mathematical%20Framework%20for%20Transformer%20Circuits.md) · [英文原文](content/anthropic/research/articles/2021-12-22-A%20Mathematical%20Framework%20for%20Transformer%20Circuits.md)
@@ -189,6 +189,10 @@
 - `EP541` · 2026-09-17 · [Claude 用四周优化三十多个生物模型：蛋白质设计的算力门槛被打下来了](content/anthropic/research/scripts/2026-09-17-How%20Claude%20is%20uplifting%20biomolecular%20modeling.md) · [英文原文](content/anthropic/research/articles/2026-09-17-How%20Claude%20is%20uplifting%20biomolecular%20modeling.md)
 - `EP554` · 2026-09-24 · [当智能体替我们交易：Anthropic 图书交换实验的三个反直觉发现](content/anthropic/research/scripts/2026-09-24-Project%20Swap%20-%20What%20happens%20when%20agents%20trade%20for%20us%20-.md) · [英文原文](content/anthropic/research/articles/2026-09-24-Project%20Swap%20-%20What%20happens%20when%20agents%20trade%20for%20us%20-.md)
 - `EP553` · 2026-09-25 · [一百美元算完九圈振幅：Claude 攻入理论物理前沿的意外结论](content/anthropic/research/scripts/2026-09-25-Claude%20computes%20a%20nine-loop%20amplitude%20in%20N%3D4%20super-Yang-Mills.md) · [英文原文](content/anthropic/research/articles/2026-09-25-Claude%20computes%20a%20nine-loop%20amplitude%20in%20N%3D4%20super-Yang-Mills.md)
+- `EP563` · 2026-09-29 · [你想从AI那里得到什么：Anthropic公开访谈计划背后的野心与克制](content/anthropic/research/scripts/2026-09-29-What%20do%20you%20want%20from%20AI%20-.md) · [英文原文](content/anthropic/research/articles/2026-09-29-What%20do%20you%20want%20from%20AI%20-.md)
+- `EP566` · 2026-09-29 · [GLM 五点三带来什么：人人可下载的端到端网络攻击能力](content/anthropic/research/scripts/2026-09-29-GLM-5.3%20and%20the%20spread%20of%20advanced%20cyber%20capabilities.md) · [英文原文](content/anthropic/research/articles/2026-09-29-GLM-5.3%20and%20the%20spread%20of%20advanced%20cyber%20capabilities.md)
+- `EP564` · 2026-09-30 · [机器人能干什么活：一份把物理工作算进 AI 冲击的暴露指数](content/anthropic/research/scripts/2026-09-30-Can%20we%20predict%20the%20jobs%20robots%20will%20do%20-.md) · [英文原文](content/anthropic/research/articles/2026-09-30-Can%20we%20predict%20the%20jobs%20robots%20will%20do%20-.md)
+- `EP565` · 2026-10-01 · [别再让模型当科学家：寻找 Claude 形状的问题](content/anthropic/research/scripts/2026-10-01-Claude-shaped%20science.md) · [英文原文](content/anthropic/research/articles/2026-10-01-Claude-shaped%20science.md)
 
 ## 📝 Blog（253）
 

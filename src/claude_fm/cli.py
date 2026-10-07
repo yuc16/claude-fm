@@ -150,15 +150,13 @@ def _collect_refs(
     for name, source_refs in all_refs.items():
         if source and name != source:
             continue
-        refs.extend(
-            r for r in source_refs
-            if not st["articles"].get(r.url, {}).get("stages", {}).get("packaged")
-            and _in_date_window(
-                st["articles"].get(r.url, {}).get("published", ""),
-                published_start,
-                published_end,
-            )
-        )
+        for r in source_refs:
+            art = st["articles"].get(r.url)
+            if art and art.get("stages", {}).get("packaged"):
+                continue
+            if art and not _in_date_window(art.get("published", ""), published_start, published_end):
+                continue
+            refs.append(r)
     # sitemap 顺序大致按时间倒序（新文章在前），limit 取最前面的
     return refs[:limit] if limit else refs
 
