@@ -37,8 +37,10 @@ def current_sunday() -> date:
 
 
 def in_date_window(published: str, start: str | None, end: str | None) -> bool:
-    if not start or not end or not published:
+    if not start or not end:
         return True
+    if not published:
+        return False
     day = published[:10]
     return start <= day <= end
 
