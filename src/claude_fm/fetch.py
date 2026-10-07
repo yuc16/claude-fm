@@ -134,6 +134,14 @@ def _extract_published(html: str) -> str:
     这是最可靠的锚点；trafilatura 的 meta.date 对 research 页会返回错误的固定值，
     弃用。
     """
+    # 锚点 0：新版 anthropic.com 在 meta 里提供 ISO 发布时间。
+    m = re.search(
+        r'<meta\s+property=["\']article:published_time["\']\s+content=["\'](20\d{2}-\d{2}-\d{2})',
+        html,
+        re.I,
+    )
+    if m:
+        return m.group(1)
     # 锚点 1：anthropic.com 文章标题 </h1> 后紧跟的可见日期 div（research/news）
     m = re.search(r"</h1>\s*<div[^>]*>\s*" + _HUMAN_DATE, html)
     if m:

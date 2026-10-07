@@ -1,5 +1,5 @@
 {
-  "next_episode": 562,
+  "next_episode": 563,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -8810,9 +8810,27 @@
       "slug": "2026-09-23-Claude discovers a novel enzyme system",
       "title": "Claude discovers a novel enzyme system",
       "published": "2026-09-23"
+    },
+    "https://www.anthropic.com/news/claude-frontier-academy": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-02-Claude Frontier Academy - $100M to train 10,000 engineers",
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "published": "2026-10-02"
+    },
+    "https://www.anthropic.com/news/barclays-scales-claude": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-01-Barclays scales Claude to upgrade operations and improve client experience",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "published": "2026-10-01"
     }
   },
-  "voice_rotation": 469,
+  "voice_rotation": 470,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -10223,6 +10241,18 @@
       "duration_sec": 215.2,
       "episode": 561,
       "item_count": 1
+    },
+    "2026-09-27": {
+      "slug": "2026-09-27-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 203.5,
+      "episode": 562,
+      "item_count": 2
     }
   }
 }

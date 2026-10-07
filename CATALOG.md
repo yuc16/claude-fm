@@ -1,6 +1,6 @@
 # Claude FM 全集目录
 
-共 **561 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
+共 **562 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
 想按时间线收听，请到 [小宇宙](https://www.xiaoyuzhoufm.com/podcast/6a37f2bcdd580cf9cf4bf121)。
 
 ## 🛠️ Engineering（25）
@@ -446,7 +446,7 @@
 - `EP557` · 2026-09-24 · [Claude Opus 五点五：当编码会话变长，成本该怎么算](content/claude/blog/scripts/2026-09-24-Coding%20sessions%20are%20longer%20and%20use%20more%20context.%20Claude%20Opus%205.5%20is%20built%20with%20that%20in%20mind.%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-09-24-Coding%20sessions%20are%20longer%20and%20use%20more%20context.%20Claude%20Opus%205.5%20is%20built%20with%20that%20in%20mind.%20-%20Claude%20by%20Anthropic.md)
 - `EP555` · 2026-09-25 · [Claude 插件目录开放提交：第三方扩展的分发闭环终于补上了](content/claude/blog/scripts/2026-09-25-Build%20plugins%20for%20Claude%20with%20the%20directory%20submission%20portal%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-09-25-Build%20plugins%20for%20Claude%20with%20the%20directory%20submission%20portal%20-%20Claude%20by%20Anthropic.md)
 
-## 📰 News 周报（127）
+## 📰 News 周报（128）
 
 - `EP1` · 2021-05-23 · [Anthropic 一周快讯 · 2021年5月23日–2021年5月29日 · 公司刚成立不久就拿到一点二四亿美元 A 轮融资](content/anthropic/news/scripts/2021-05-23-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP7` · 2022-04-24 · [Anthropic 一周快讯 · 2022年4月24日–2022年4月30日 · 五点八亿美元 B 轮融资落地](content/anthropic/news/scripts/2022-04-24-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
@@ -575,3 +575,4 @@
 - `EP535` · 2026-08-30 · [Anthropic 一周快讯 · 2026年8月30日–2026年9月5日：安全对齐复盘与企业前沿防护新品](content/anthropic/news/scripts/2026-08-30-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP552` · 2026-09-13 · [Anthropic 一周快讯 · 2026年9月13日–2026年9月19日｜生命科学专用通道开放，埃森哲进场做嵌入评估](content/anthropic/news/scripts/2026-09-13-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP561` · 2026-09-20 · [Anthropic 一周快讯 · 2026年9月20日–2026年9月26日｜Claude 自主发现一个类 CRISPR 模式的全新酶系统](content/anthropic/news/scripts/2026-09-20-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
+- `EP562` · 2026-09-27 · [Anthropic 一周快讯 · 2026年9月27日–2026年10月3日：一亿美元砸向人才，Anthropic 说企业用 AI 的瓶颈不在模型](content/anthropic/news/scripts/2026-09-27-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
