@@ -78,7 +78,8 @@ async def _synth_chunk(text: str, voice: str, rate: str) -> bytes:
         except Exception as e:  # edge-tts 偶发断流，退避重试
             last_err = e
             await asyncio.sleep(2 * (attempt + 1))
-    raise RuntimeError(f"TTS 块合成失败（4 次）: {last_err}")
+    # 用 from 保留最后一次原始异常，调用方 exc_info 时能看到真实失败栈
+    raise RuntimeError(f"TTS 块合成失败（4 次）: {last_err}") from last_err
 
 
 async def synthesize_async(

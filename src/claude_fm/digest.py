@@ -9,10 +9,12 @@ from datetime import date, datetime, timedelta
 
 import yaml
 
-from . import config, interpret, state, tts
+from . import config, interpret, log, state, tts
 
 PROMPT_FILE = config.ROOT / "prompts" / "news_digest.md"
 BODY_CAP = 1500  # 每条 news 正文摘要上限，控制 prompt 体积
+
+_log = log.get_logger("digest")
 
 
 def week_sunday(d: str) -> date:
@@ -58,6 +60,12 @@ def sync_news(st: dict, published_start: str | None = None, published_end: str |
         try:
             data = fetch.fetch_article(ref)
         except Exception as e:
+            # 抓取失败原本只打印一行，丢掉异常对象，无法事后定位失败栈
+            _log.error(
+                "news_fetch_failed",
+                extra={"source": ref.source, "url": ref.url, "error": str(e)},
+                exc_info=True,
+            )
             print(f"  ⚠️ news 抓取失败 {ref.url}: {e}", flush=True)
             continue
         if not in_date_window(data["published"], published_start, published_end):
