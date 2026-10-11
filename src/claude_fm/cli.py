@@ -8,9 +8,10 @@
 
 import argparse
 import sys
+import time
 from datetime import date, timedelta
 
-from . import config, episode, fetch, interpret, sources, state, tts
+from . import config, episode, fetch, interpret, log, sources, state, tts
 
 
 def _previous_week_window() -> tuple[str, str]:
@@ -164,20 +165,45 @@ def _collect_refs(
 def _run_batch(refs, st, published_start: str | None = None, published_end: str | None = None):
     """跑一批文章。返回 (完成数, 失败列表, 限额异常或 None)。
     撞限额时立即停止剩余文章并把 SessionLimitError 上报。"""
+    logger = log.get_logger("pipeline")
     ok, skipped, failed = 0, 0, []
     for i, ref in enumerate(refs, 1):
         print(f"[{i}/{len(refs)}] {ref.url}")
+        started = time.monotonic()
         try:
-            if _pipeline_one(ref, st, published_start, published_end):
+            done = _pipeline_one(ref, st, published_start, published_end)
+            logger.info(
+                "unit_completed",
+                extra={
+                    "source": ref.source,
+                    "url": ref.url,
+                    "slug": st.get("articles", {}).get(ref.url, {}).get("slug", ""),
+                    "outcome": "done" if done else "skipped",
+                    "duration_ms": round((time.monotonic() - started) * 1000),
+                },
+            )
+            if done:
                 ok += 1
             else:
                 skipped += 1
         except interpret.SessionLimitError as e:
             kind = "周限额" if e.weekly else "会话限额"
+            logger.warning(
+                "session_limit",
+                extra={"scope": "article", "source": ref.source, "url": ref.url,
+                       "weekly": e.weekly, "reset": e.reset_raw or "",
+                       "duration_ms": round((time.monotonic() - started) * 1000)},
+            )
             print(f"  ⏸ 撞{kind}，暂停（重置: {e.reset_raw or '未知'}）", file=sys.stderr)
             return ok, failed, e
         except Exception as e:
             failed.append((ref.url, str(e)))
+            logger.error(
+                "unit_failed",
+                extra={"source": ref.source, "url": ref.url, "error": str(e),
+                       "duration_ms": round((time.monotonic() - started) * 1000)},
+                exc_info=True,
+            )
             print(f"  ❌ 失败: {e}", file=sys.stderr)
     if skipped:
         print(f"跳过 {skipped} 篇不在目标日期窗口的文章。", flush=True)
@@ -312,18 +338,39 @@ def cmd_news(args) -> None:
         print(f"[news] 第 {round_no} 轮，待处理 {len(pending)} 周  "
               f"({datetime.now():%Y-%m-%d %H:%M})", flush=True)
         ok, failed, limit_err = 0, [], None
+        logger = log.get_logger("news")
         for i, w in enumerate(pending, 1):
             print(f"[{i}/{len(pending)}] {w['label']}（{len(w['items'])} 条）")
+            started = time.monotonic()
             try:
                 digest.process_week(st, w)
                 ok += 1
+                logger.info(
+                    "week_completed",
+                    extra={"slug": w["slug"], "label": w["label"],
+                           "items": len(w["items"]), "outcome": "done",
+                           "duration_ms": round((time.monotonic() - started) * 1000)},
+                )
             except interpret.SessionLimitError as e:
                 limit_err = e
                 kind = "周限额" if e.weekly else "会话限额"
+                logger.warning(
+                    "session_limit",
+                    extra={"scope": "week", "slug": w["slug"], "weekly": e.weekly,
+                           "reset": e.reset_raw or "",
+                           "duration_ms": round((time.monotonic() - started) * 1000)},
+                )
                 print(f"  ⏸ 撞{kind}，暂停（重置: {e.reset_raw or '未知'}）", file=sys.stderr)
                 break
             except Exception as e:
                 failed.append((w["slug"], str(e)))
+                logger.error(
+                    "week_failed",
+                    extra={"slug": w["slug"], "label": w["label"],
+                           "items": len(w["items"]), "error": str(e),
+                           "duration_ms": round((time.monotonic() - started) * 1000)},
+                    exc_info=True,
+                )
                 print(f"  ❌ 失败: {e}", file=sys.stderr)
         print(f"[news] 第 {round_no} 轮完成 {ok} 周，失败 {len(failed)} 周", flush=True)
         if limit_err is None:
@@ -409,6 +456,7 @@ def cmd_status(args) -> None:
 
 def main() -> None:
     sys.stdout.reconfigure(line_buffering=True)  # 后台/管道运行时进度实时可见
+    log.setup()  # 结构化事件写到 stderr；stdout 保持面向人的中文进度
     parser = argparse.ArgumentParser(prog="claude-fm", description=__doc__)
     sub = parser.add_subparsers(dest="command", required=True)
 
