@@ -1,5 +1,5 @@
 {
-  "next_episode": 567,
+  "next_episode": 571,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -8888,9 +8888,90 @@
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1975.5,
       "episode": 566
+    },
+    "https://www.anthropic.com/research/investigating-unintended-model-actions": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-09-Investigating unintended model actions in our evaluations and internal use",
+      "title": "Investigating unintended model actions in our evaluations and internal use",
+      "published": "2026-10-09",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1538.4,
+      "episode": 567
+    },
+    "https://www.anthropic.com/research/the-missing-map-of-the-sky": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-08-Using Claude Science to produce the first complete map of the sky in UV light",
+      "title": "Using Claude Science to produce the first complete map of the sky in UV light",
+      "published": "2026-10-08",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1395.4,
+      "episode": 568
+    },
+    "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-08-An opt-in vulnerability-finding service for open-source software",
+      "title": "An opt-in vulnerability-finding service for open-source software",
+      "published": "2026-10-08",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1555.3,
+      "episode": 569
+    },
+    "https://www.anthropic.com/news/anthropic-cyber-mission": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-08-Introducing the Anthropic Cyber Mission",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "published": "2026-10-08"
+    },
+    "https://www.anthropic.com/news/2026-usage-policy-update": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-08-2026 Usage Policy update",
+      "title": "2026 Usage Policy update",
+      "published": "2026-10-08"
+    },
+    "https://www.anthropic.com/news/genesis-mission-commitment": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-08-Building on our commitment to American scientific discovery",
+      "title": "Building on our commitment to American scientific discovery",
+      "published": "2026-10-08"
+    },
+    "https://www.anthropic.com/news/cyber-verification-program": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-06-Expanding the Cyber Verification Program",
+      "title": "Expanding the Cyber Verification Program",
+      "published": "2026-10-06"
     }
   },
-  "voice_rotation": 474,
+  "voice_rotation": 478,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -10313,6 +10394,18 @@
       "duration_sec": 203.5,
       "episode": 562,
       "item_count": 2
+    },
+    "2026-10-04": {
+      "slug": "2026-10-04-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 389.9,
+      "episode": 570,
+      "item_count": 4
     }
   }
 }
