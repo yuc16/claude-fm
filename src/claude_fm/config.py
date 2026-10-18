@@ -41,7 +41,7 @@ def _env(name: str, default: str) -> str:
 
 _load_env(ROOT / ".env")
 
-# 数据源。anthropic.com 三个源通过 sitemap 发现，claude.com/blog 解析列表页。
+# 数据源。anthropic.com 三个源通过 sitemap 发现，Claude Articles 解析列表页。
 # dir 是该源在 content/ 下的子目录。
 ANTHROPIC_SITEMAP = "https://www.anthropic.com/sitemap.xml"
 SOURCES = {
@@ -62,7 +62,7 @@ SOURCES = {
     },
     "blog": {
         "kind": "listing",
-        "url": "https://claude.com/blog",
+        "url": "https://claude.com/resources/articles",
         "dir": "claude/blog",
     },
 }

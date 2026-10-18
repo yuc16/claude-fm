@@ -151,6 +151,8 @@ def _collect_refs(
         if source and name != source:
             continue
         for r in source_refs:
+            if r.published and not _in_date_window(r.published, published_start, published_end):
+                continue
             art = st["articles"].get(r.url)
             if art and art.get("stages", {}).get("packaged"):
                 continue

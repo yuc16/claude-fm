@@ -1,6 +1,7 @@
-"""文章发现：anthropic.com sitemap + claude.com/blog 列表页。"""
+"""文章发现：anthropic.com sitemap + Claude Articles 列表页。"""
 
 import re
+import json
 import os
 import subprocess
 import time
@@ -79,7 +80,7 @@ def discover_sitemap_sources() -> dict[str, list[ArticleRef]]:
 
 
 def discover_blog_listing(max_pages: int = 40) -> list[ArticleRef]:
-    """解析 claude.com/blog 列表页（Webflow 站，含分页）。
+    """解析 Claude Articles 列表页，并兼容旧 Webflow 分页。
 
     Webflow CMS 翻页参数带动态哈希前缀，如 ?b7eea976_page=2，且首页标注
     "Page 1 of N"。先读首页拿到总页数和分页前缀，再逐页收集 /blog/<slug>。
@@ -91,6 +92,21 @@ def discover_blog_listing(max_pages: int = 40) -> list[ArticleRef]:
         html = first.text
         for a in _parse_blog_page(html):
             seen.setdefault(a.url, a)
+
+        if not seen:
+            raise RuntimeError(f"文章列表未解析到文章，请检查网站结构: {base}")
+
+        if "/resources/articles" in str(first.url):
+            # 新列表的 page 参数累积加载文章；直到没有新增链接。
+            for page in range(2, max_pages + 1):
+                resp = _get_with_retries(client, f"{base}?page={page}")
+                refs = _parse_blog_page(resp.text)
+                new = [a for a in refs if a.url not in seen]
+                if not new:
+                    break
+                for a in new:
+                    seen[a.url] = a
+            return list(seen.values())
 
         m = re.search(r"Page 1 of (\d+)", html)
         total_pages = min(int(m.group(1)), max_pages) if m else 1
@@ -117,6 +133,23 @@ def discover_blog_listing(max_pages: int = 40) -> list[ArticleRef]:
 
 def _parse_blog_page(html: str) -> list[ArticleRef]:
     refs = []
+    # Next.js 将卡片数据分段嵌入 HTML，先拼回数据流以保留日期和外链。
+    chunks = []
+    for match in re.finditer(r'self\.__next_f\.push\((.*?)\)</script>', html):
+        chunk = json.loads(match.group(1))
+        if len(chunk) > 1 and isinstance(chunk[1], str):
+            chunks.append(chunk[1])
+    data = "".join(chunks)
+    for match in re.finditer(r'\{"_id":"[^"]+","_type":"blogPost",', data):
+        card, _ = json.JSONDecoder().raw_decode(data, match.start())
+        url = card.get("externalUrl")
+        if not url and card.get("slug"):
+            url = f"https://claude.com/resources/articles/{card['slug']}"
+        if url:
+            refs.append(ArticleRef(
+                url=url, source="blog", title=card.get("title", ""),
+                published=card.get("date", ""),
+            ))
     for m in re.finditer(r'href="(?:https://claude\.com)?(/blog/[a-z0-9][a-z0-9-]*)"', html):
         path = m.group(1)
         url = f"https://claude.com{path}"
