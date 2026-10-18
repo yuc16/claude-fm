@@ -1,5 +1,5 @@
 {
-  "next_episode": 580,
+  "next_episode": 585,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -9116,9 +9116,84 @@
       "slug": "2026-10-14-Singapore office and government MOU",
       "title": "Singapore office and government MOU",
       "published": "2026-10-14"
+    },
+    "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-16-How an Anthropic BDR in Japan runs his day with Claude Managed Agents",
+      "title": "How an Anthropic BDR in Japan runs his day with Claude Managed Agents",
+      "published": "2026-10-16",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1455.2,
+      "episode": 580
+    },
+    "https://claude.dev/blog/solving-code-review-at-anthropic/": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-16-How the Claude Code team does code review",
+      "title": "How the Claude Code team does code review",
+      "published": "2026-10-16",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1370.5,
+      "episode": 581
+    },
+    "https://claude.com/resources/articles/code-review-is-now-generally-available": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-15-Code Review is now generally available",
+      "title": "Code Review is now generally available",
+      "published": "2026-10-15",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1416.8,
+      "episode": 582
+    },
+    "https://claude.com/resources/articles/agent-observability-on-the-claude-platform": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-14-Agent observability on the Claude Platform",
+      "title": "Agent observability on the Claude Platform",
+      "published": "2026-10-14",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1392.3,
+      "episode": 583
+    },
+    "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-13-Uber's CISO on building an insider threat program for AI",
+      "title": "Uber's CISO on building an insider threat program for AI",
+      "published": "2026-10-13",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1331.4,
+      "episode": 584
     }
   },
-  "voice_rotation": 487,
+  "voice_rotation": 492,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",

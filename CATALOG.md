@@ -1,6 +1,6 @@
 # Claude FM 全集目录
 
-共 **579 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
+共 **584 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
 想按时间线收听，请到 [小宇宙](https://www.xiaoyuzhoufm.com/podcast/6a37f2bcdd580cf9cf4bf121)。
 
 ## 🛠️ Engineering（26）
@@ -205,7 +205,7 @@
 - `EP575` · 2026-10-16 · [Claude追溯椭圆曲线起源，解开密码学多年悬案](content/anthropic/research/scripts/2026-10-16-Claude%20reveals%20ECDSA%20curve%20origins.md) · [英文原文](content/anthropic/research/articles/2026-10-16-Claude%20reveals%20ECDSA%20curve%20origins.md)
 - `EP576` · 2026-10-16 · [Claude重设计量子电路，让有限硬件做更多计算](content/anthropic/research/scripts/2026-10-16-Designing%20more%20efficient%20quantum%20circuits%20with%20Claude.md) · [英文原文](content/anthropic/research/articles/2026-10-16-Designing%20more%20efficient%20quantum%20circuits%20with%20Claude.md)
 
-## 📝 Blog（253）
+## 📝 Blog（258）
 
 - `EP40` · 2023-08-23 · [Claude二登陆亚马逊云科技Bedrock，企业级AI落地启示](content/claude/blog/scripts/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md) · [英文原文](content/claude/blog/articles/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md)
 - `EP45` · 2023-09-28 · [Claude登陆亚马逊云科技：企业级AI落地的一次关键开局](content/claude/blog/scripts/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md) · [英文原文](content/claude/blog/articles/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md)
@@ -460,6 +460,11 @@
 - `EP556` · 2026-09-24 · [Claude Tag 支持个人连接器，频道协作的权限边界重新划了一条线](content/claude/blog/scripts/2026-09-24-Claude%20Tag%20now%20supports%20personal%20connectors%20in%20channels%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-09-24-Claude%20Tag%20now%20supports%20personal%20connectors%20in%20channels%20-%20Claude%20by%20Anthropic.md)
 - `EP557` · 2026-09-24 · [Claude Opus 五点五：当编码会话变长，成本该怎么算](content/claude/blog/scripts/2026-09-24-Coding%20sessions%20are%20longer%20and%20use%20more%20context.%20Claude%20Opus%205.5%20is%20built%20with%20that%20in%20mind.%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-09-24-Coding%20sessions%20are%20longer%20and%20use%20more%20context.%20Claude%20Opus%205.5%20is%20built%20with%20that%20in%20mind.%20-%20Claude%20by%20Anthropic.md)
 - `EP555` · 2026-09-25 · [Claude 插件目录开放提交：第三方扩展的分发闭环终于补上了](content/claude/blog/scripts/2026-09-25-Build%20plugins%20for%20Claude%20with%20the%20directory%20submission%20portal%20-%20Claude%20by%20Anthropic.md) · [英文原文](content/claude/blog/articles/2026-09-25-Build%20plugins%20for%20Claude%20with%20the%20directory%20submission%20portal%20-%20Claude%20by%20Anthropic.md)
+- `EP584` · 2026-10-13 · [给智能体建内部威胁防线：优步的监控与干预实践](content/claude/blog/scripts/2026-10-13-Uber%27s%20CISO%20on%20building%20an%20insider%20threat%20program%20for%20AI.md) · [英文原文](content/claude/blog/articles/2026-10-13-Uber%27s%20CISO%20on%20building%20an%20insider%20threat%20program%20for%20AI.md)
+- `EP583` · 2026-10-14 · [让智能体交代每一步：读懂可观测性的工程价值](content/claude/blog/scripts/2026-10-14-Agent%20observability%20on%20the%20Claude%20Platform.md) · [英文原文](content/claude/blog/articles/2026-10-14-Agent%20observability%20on%20the%20Claude%20Platform.md)
+- `EP582` · 2026-10-15 · [代码审查正式上线：让智能体写得快，也让团队接得住](content/claude/blog/scripts/2026-10-15-Code%20Review%20is%20now%20generally%20available.md) · [英文原文](content/claude/blog/articles/2026-10-15-Code%20Review%20is%20now%20generally%20available.md)
+- `EP580` · 2026-10-16 · [从销售自动化到智能体团队：托管运行与共享记忆](content/claude/blog/scripts/2026-10-16-How%20an%20Anthropic%20BDR%20in%20Japan%20runs%20his%20day%20with%20Claude%20Managed%20Agents.md) · [英文原文](content/claude/blog/articles/2026-10-16-How%20an%20Anthropic%20BDR%20in%20Japan%20runs%20his%20day%20with%20Claude%20Managed%20Agents.md)
+- `EP581` · 2026-10-16 · [代码九成由机器写，人类如何守住审查与发布质量](content/claude/blog/scripts/2026-10-16-How%20the%20Claude%20Code%20team%20does%20code%20review.md) · [英文原文](content/claude/blog/articles/2026-10-16-How%20the%20Claude%20Code%20team%20does%20code%20review.md)
 
 ## 📰 News 周报（130）
 
