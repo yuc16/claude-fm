@@ -5,7 +5,7 @@ description = "Anthropic 技术博客中文播客流水线：抓取 → claude �
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "edge-tts>=7.2.8",
+    "edge-tts>=7.3.1",
     "httpx>=0.28.1",
     "mutagen>=1.47.0",
     "pyyaml>=6.0.3",

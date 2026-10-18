@@ -1,5 +1,5 @@
 {
-  "next_episode": 571,
+  "next_episode": 580,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -8969,9 +8969,156 @@
       "slug": "2026-10-06-Expanding the Cyber Verification Program",
       "title": "Expanding the Cyber Verification Program",
       "published": "2026-10-06"
+    },
+    "https://www.anthropic.com/engineering/redesigning-source-control": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "engineering",
+      "slug": "2026-10-13-Redesigning source control at Anthropic",
+      "title": "Redesigning source control at Anthropic",
+      "published": "2026-10-13",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1440.6,
+      "episode": 571
+    },
+    "https://www.anthropic.com/research/expectations-for-the-future": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-16-Working at the frontier shapes expectations for the future",
+      "title": "Working at the frontier shapes expectations for the future",
+      "published": "2026-10-16",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1392.3,
+      "episode": 572
+    },
+    "https://www.anthropic.com/research/employment-at-anthropic": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-16-How employment is changing at Anthropic",
+      "title": "How employment is changing at Anthropic",
+      "published": "2026-10-16",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1382.9,
+      "episode": 573
+    },
+    "https://www.anthropic.com/research/ai-expectations-gap": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-16-The AI expectations gap",
+      "title": "The AI expectations gap",
+      "published": "2026-10-16",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1407.0,
+      "episode": 574
+    },
+    "https://www.anthropic.com/research/ecdsa-curve-origins": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-16-Claude reveals ECDSA curve origins",
+      "title": "Claude reveals ECDSA curve origins",
+      "published": "2026-10-16",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1527.5,
+      "episode": 575
+    },
+    "https://www.anthropic.com/research/designing-efficient-quantum-circuits": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-16-Designing more efficient quantum circuits with Claude",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "published": "2026-10-16",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1471.2,
+      "episode": 576
+    },
+    "https://www.anthropic.com/research/distillation-defenses": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-12-Strengthening our defenses against distillation attacks",
+      "title": "Strengthening our defenses against distillation attacks",
+      "published": "2026-10-12",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1435.0,
+      "episode": 577
+    },
+    "https://www.anthropic.com/research/self-replicating-ai": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-12-AI models may be capable of self-replicating without access to a datacenter",
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "published": "2026-10-12",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1427.2,
+      "episode": 578
+    },
+    "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-15-Anthropic update on independent evaluators",
+      "title": "Anthropic update on independent evaluators",
+      "published": "2026-10-15"
+    },
+    "https://www.anthropic.com/news/2026-us-midterms": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-14-Preparing for the 2026 US midterms",
+      "title": "Preparing for the 2026 US midterms",
+      "published": "2026-10-14"
+    },
+    "https://www.anthropic.com/news/singapore-office-opening": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-14-Singapore office and government MOU",
+      "title": "Singapore office and government MOU",
+      "published": "2026-10-14"
     }
   },
-  "voice_rotation": 478,
+  "voice_rotation": 487,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -10406,6 +10553,18 @@
       "duration_sec": 389.9,
       "episode": 570,
       "item_count": 4
+    },
+    "2026-10-11": {
+      "slug": "2026-10-11-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 257.2,
+      "episode": 579,
+      "item_count": 3
     }
   }
 }
