@@ -1,6 +1,6 @@
 # Claude FM 全集目录
 
-共 **584 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
+共 **596 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
 想按时间线收听，请到 [小宇宙](https://www.xiaoyuzhoufm.com/podcast/6a37f2bcdd580cf9cf4bf121)。
 
 ## 🛠️ Engineering（26）
@@ -32,7 +32,7 @@
 - `EP420` · 2026-05-28 · [Claude Code 高效使用指南：从上下文管理到自动化编程工作流的完整实践](content/anthropic/engineering/scripts/2026-05-28-Best%20practices%20for%20Claude%20Code%20-%20Claude%20Code%20Docs.md) · [英文原文](content/anthropic/engineering/articles/2026-05-28-Best%20practices%20for%20Claude%20Code%20-%20Claude%20Code%20Docs.md)
 - `EP571` · 2026-10-13 · [当智能体撑爆代码仓库，版本控制该如何重建](content/anthropic/engineering/scripts/2026-10-13-Redesigning%20source%20control%20at%20Anthropic.md) · [英文原文](content/anthropic/engineering/articles/2026-10-13-Redesigning%20source%20control%20at%20Anthropic.md)
 
-## 🔬 Research（170）
+## 🔬 Research（174）
 
 - `EP2` · 2021-12-01 · [对齐实验室：Anthropic 如何用一个通用助手，奠定 Claude 的价值观基础](content/anthropic/research/scripts/2021-12-01-A%20General%20Language%20Assistant%20as%20a%20Laboratory%20for%20Alignment.md) · [英文原文](content/anthropic/research/articles/2021-12-01-A%20General%20Language%20Assistant%20as%20a%20Laboratory%20for%20Alignment.md)
 - `EP3` · 2021-12-22 · [从黑盒到电路图：Anthropic 如何用数学框架读懂 Transformer 的内部算法](content/anthropic/research/scripts/2021-12-22-A%20Mathematical%20Framework%20for%20Transformer%20Circuits.md) · [英文原文](content/anthropic/research/articles/2021-12-22-A%20Mathematical%20Framework%20for%20Transformer%20Circuits.md)
@@ -204,8 +204,12 @@
 - `EP574` · 2026-10-16 · [人工智能预期鸿沟：实验室与普通人看见的不同未来](content/anthropic/research/scripts/2026-10-16-The%20AI%20expectations%20gap.md) · [英文原文](content/anthropic/research/articles/2026-10-16-The%20AI%20expectations%20gap.md)
 - `EP575` · 2026-10-16 · [Claude追溯椭圆曲线起源，解开密码学多年悬案](content/anthropic/research/scripts/2026-10-16-Claude%20reveals%20ECDSA%20curve%20origins.md) · [英文原文](content/anthropic/research/articles/2026-10-16-Claude%20reveals%20ECDSA%20curve%20origins.md)
 - `EP576` · 2026-10-16 · [Claude重设计量子电路，让有限硬件做更多计算](content/anthropic/research/scripts/2026-10-16-Designing%20more%20efficient%20quantum%20circuits%20with%20Claude.md) · [英文原文](content/anthropic/research/articles/2026-10-16-Designing%20more%20efficient%20quantum%20circuits%20with%20Claude.md)
+- `EP586` · 2026-10-20 · [让危险代码不可达：Claude 如何缩小软件攻击面](content/anthropic/research/scripts/2026-10-20-Using%20Claude%20to%20reduce%20the%20attack%20surface%20of%20code.md) · [英文原文](content/anthropic/research/articles/2026-10-20-Using%20Claude%20to%20reduce%20the%20attack%20surface%20of%20code.md)
+- `EP588` · 2026-10-20 · [从蝎毒到蛋白质结合物，解读克劳德科研的能力边界](content/anthropic/research/scripts/2026-10-20-How%20Claude%20designed%20protein%20binders%20against%20scorpion%20neurotoxins.md) · [英文原文](content/anthropic/research/articles/2026-10-20-How%20Claude%20designed%20protein%20binders%20against%20scorpion%20neurotoxins.md)
+- `EP585` · 2026-10-22 · [让证明追上代码：大模型如何放大软件安全验证](content/anthropic/research/scripts/2026-10-22-LLMs%20are%20making%20formal%20software%20verification%20feasible%20at%20a%20much%20larger%20scale.md) · [英文原文](content/anthropic/research/articles/2026-10-22-LLMs%20are%20making%20formal%20software%20verification%20feasible%20at%20a%20much%20larger%20scale.md)
+- `EP587` · 2026-10-23 · [当模型为了完成任务越界：英国网安测试事件复盘](content/anthropic/research/scripts/2026-10-23-An%20alignment%20assessment%20of%20the%20UK%20AISI%20cybertesting%20incident.md) · [英文原文](content/anthropic/research/articles/2026-10-23-An%20alignment%20assessment%20of%20the%20UK%20AISI%20cybertesting%20incident.md)
 
-## 📝 Blog（258）
+## 📝 Blog（265）
 
 - `EP40` · 2023-08-23 · [Claude二登陆亚马逊云科技Bedrock，企业级AI落地启示](content/claude/blog/scripts/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md) · [英文原文](content/claude/blog/articles/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md)
 - `EP45` · 2023-09-28 · [Claude登陆亚马逊云科技：企业级AI落地的一次关键开局](content/claude/blog/scripts/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md) · [英文原文](content/claude/blog/articles/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md)
@@ -465,8 +469,15 @@
 - `EP582` · 2026-10-15 · [代码审查正式上线：让智能体写得快，也让团队接得住](content/claude/blog/scripts/2026-10-15-Code%20Review%20is%20now%20generally%20available.md) · [英文原文](content/claude/blog/articles/2026-10-15-Code%20Review%20is%20now%20generally%20available.md)
 - `EP580` · 2026-10-16 · [从销售自动化到智能体团队：托管运行与共享记忆](content/claude/blog/scripts/2026-10-16-How%20an%20Anthropic%20BDR%20in%20Japan%20runs%20his%20day%20with%20Claude%20Managed%20Agents.md) · [英文原文](content/claude/blog/articles/2026-10-16-How%20an%20Anthropic%20BDR%20in%20Japan%20runs%20his%20day%20with%20Claude%20Managed%20Agents.md)
 - `EP581` · 2026-10-16 · [代码九成由机器写，人类如何守住审查与发布质量](content/claude/blog/scripts/2026-10-16-How%20the%20Claude%20Code%20team%20does%20code%20review.md) · [英文原文](content/claude/blog/articles/2026-10-16-How%20the%20Claude%20Code%20team%20does%20code%20review.md)
+- `EP590` · 2026-10-21 · [从等待指令到主动协作，拆解克劳德双人奏的工作方式](content/claude/blog/scripts/2026-10-21-Introducing%20Claude%20Duet.md) · [英文原文](content/claude/blog/articles/2026-10-21-Introducing%20Claude%20Duet.md)
+- `EP594` · 2026-10-21 · [从演示到生产：Claude 如何进入企业核心系统](content/claude/blog/scripts/2026-10-21-HCLTech%20joins%20the%20Claude%20Partner%20Network%20as%20a%20Global%20Premier%20partner.md) · [英文原文](content/claude/blog/articles/2026-10-21-HCLTech%20joins%20the%20Claude%20Partner%20Network%20as%20a%20Global%20Premier%20partner.md)
+- `EP595` · 2026-10-21 · [从扫描到修复闭环，拆解 Claude 安全持续监测新能力](content/claude/blog/scripts/2026-10-21-Claude%20Security%20now%20scans%20continuously%20and%20tracks%20fixes.md) · [英文原文](content/claude/blog/articles/2026-10-21-Claude%20Security%20now%20scans%20continuously%20and%20tracks%20fixes.md)
+- `EP589` · 2026-10-22 · [子智能体越多越好吗：用单一主循环重构智能体](content/claude/blog/scripts/2026-10-22-Building%20agents%20-%20When%20to%20fold%20subagents%20into%20your%20main%20agent%20loop.md) · [英文原文](content/claude/blog/articles/2026-10-22-Building%20agents%20-%20When%20to%20fold%20subagents%20into%20your%20main%20agent%20loop.md)
+- `EP593` · 2026-10-22 · [完整平台接入谷歌云，Claude 企业落地怎么选](content/claude/blog/scripts/2026-10-22-The%20full%20Claude%20Platform%2C%20available%20on%20Google%20Cloud.md) · [英文原文](content/claude/blog/articles/2026-10-22-The%20full%20Claude%20Platform%2C%20available%20on%20Google%20Cloud.md)
+- `EP591` · 2026-10-23 · [当聊天变成执行入口，企业如何用好统一版 Claude](content/claude/blog/scripts/2026-10-23-Claude%20Cowork%20and%20chat%20come%20together%20for%20Enterprise.md) · [英文原文](content/claude/blog/articles/2026-10-23-Claude%20Cowork%20and%20chat%20come%20together%20for%20Enterprise.md)
+- `EP592` · 2026-10-23 · [当智能体替你办事：拆解 Claude Duet 的安全边界](content/claude/blog/scripts/2026-10-23-Claude%20Duet%20Safety%2C%20Privacy%2C%20and%20Security.md) · [英文原文](content/claude/blog/articles/2026-10-23-Claude%20Duet%20Safety%2C%20Privacy%2C%20and%20Security.md)
 
-## 📰 News 周报（130）
+## 📰 News 周报（131）
 
 - `EP1` · 2021-05-23 · [Anthropic 一周快讯 · 2021年5月23日–2021年5月29日 · 公司刚成立不久就拿到一点二四亿美元 A 轮融资](content/anthropic/news/scripts/2021-05-23-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP7` · 2022-04-24 · [Anthropic 一周快讯 · 2022年4月24日–2022年4月30日 · 五点八亿美元 B 轮融资落地](content/anthropic/news/scripts/2022-04-24-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
@@ -598,3 +609,4 @@
 - `EP562` · 2026-09-27 · [Anthropic 一周快讯 · 2026年9月27日–2026年10月3日：一亿美元砸向人才，Anthropic 说企业用 AI 的瓶颈不在模型](content/anthropic/news/scripts/2026-09-27-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP570` · 2026-10-04 · [Anthropic 一周快讯 · 2026年10月4日–2026年10月10日：网络防御扩围，使用政策更新](content/anthropic/news/scripts/2026-10-04-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP579` · 2026-10-11 · [Anthropic 一周快讯 · 2026年10月11日–2026年10月17日：向独立评估机构开放更深入的访问权限](content/anthropic/news/scripts/2026-10-11-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
+- `EP596` · 2026-10-18 · [Anthropic 一周快讯 · 2026年10月18日–2026年10月24日：Agent Skills 移交开放治理](content/anthropic/news/scripts/2026-10-18-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)

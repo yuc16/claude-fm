@@ -1,5 +1,5 @@
 {
-  "next_episode": 585,
+  "next_episode": 597,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -9191,9 +9191,210 @@
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1331.4,
       "episode": 584
+    },
+    "https://www.anthropic.com/research/formal-verification": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-22-LLMs are making formal software verification feasible at a much larger scale",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "published": "2026-10-22",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1492.3,
+      "episode": 585
+    },
+    "https://www.anthropic.com/research/attack-surface-reduction": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-20-Using Claude to reduce the attack surface of code",
+      "title": "Using Claude to reduce the attack surface of code",
+      "published": "2026-10-20",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1478.2,
+      "episode": 586
+    },
+    "https://www.anthropic.com/research/alignment-assessment-ukaisi": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-23-An alignment assessment of the UK AISI cybertesting incident",
+      "title": "An alignment assessment of the UK AISI cybertesting incident",
+      "published": "2026-10-23",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1400.2,
+      "episode": 587
+    },
+    "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-20-How Claude designed protein binders against scorpion neurotoxins",
+      "title": "How Claude designed protein binders against scorpion neurotoxins",
+      "published": "2026-10-20",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1394.8,
+      "episode": 588
+    },
+    "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-22-Building agents - When to fold subagents into your main agent loop",
+      "title": "Building agents: When to fold subagents into your main agent loop",
+      "published": "2026-10-22",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1414.3,
+      "episode": 589
+    },
+    "https://claude.com/resources/articles/claude-duet": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-21-Introducing Claude Duet",
+      "title": "Introducing Claude Duet",
+      "published": "2026-10-21",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1398.6,
+      "episode": 590
+    },
+    "https://claude.com/resources/articles/unified-claude-enterprise": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-23-Claude Cowork and chat come together for Enterprise",
+      "title": "Claude Cowork and chat come together for Enterprise",
+      "published": "2026-10-23",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1402.9,
+      "episode": 591
+    },
+    "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-23-Claude Duet Safety, Privacy, and Security",
+      "title": "Claude Duet Safety, Privacy, and Security",
+      "published": "2026-10-23",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1375.1,
+      "episode": 592
+    },
+    "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-22-The full Claude Platform, available on Google Cloud",
+      "title": "The full Claude Platform, available on Google Cloud",
+      "published": "2026-10-22",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1570.2,
+      "episode": 593
+    },
+    "https://claude.com/resources/articles/hcltech-joins-claude-partner-network": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-21-HCLTech joins the Claude Partner Network as a Global Premier partner",
+      "title": "HCLTech joins the Claude Partner Network as a Global Premier partner",
+      "published": "2026-10-21",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1337.4,
+      "episode": 594
+    },
+    "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-21-Claude Security now scans continuously and tracks fixes",
+      "title": "Claude Security now scans continuously and tracks fixes",
+      "published": "2026-10-21",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1545.4,
+      "episode": 595
+    },
+    "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-22-Open call for guest investigators in the life sciences",
+      "title": "Open call for guest investigators in the life sciences",
+      "published": "2026-10-22"
+    },
+    "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-22-Donating Agent Skills to the Agentic AI Foundation",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "published": "2026-10-22"
+    },
+    "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-21-Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "published": "2026-10-21"
+    },
+    "https://www.anthropic.com/news/public-benefit-fund": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-18-Investing in the public benefit",
+      "title": "Investing in the public benefit",
+      "published": "2026-10-18"
     }
   },
-  "voice_rotation": 492,
+  "voice_rotation": 504,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -10640,6 +10841,18 @@
       "duration_sec": 257.2,
       "episode": 579,
       "item_count": 3
+    },
+    "2026-10-18": {
+      "slug": "2026-10-18-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 331.8,
+      "episode": 596,
+      "item_count": 4
     }
   }
 }
