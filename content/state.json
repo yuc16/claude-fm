@@ -1,5 +1,5 @@
 {
-  "next_episode": 597,
+  "next_episode": 607,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -9392,9 +9392,171 @@
       "slug": "2026-10-18-Investing in the public benefit",
       "title": "Investing in the public benefit",
       "published": "2026-10-18"
+    },
+    "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-27-Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
+      "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
+      "published": "2026-10-27",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1470.5,
+      "episode": 597
+    },
+    "https://www.anthropic.com/research/early-progress-drug-development": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-27-Early progress on accelerating drug development with Claude",
+      "title": "Early progress on accelerating drug development with Claude",
+      "published": "2026-10-27",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1430.6,
+      "episode": 598
+    },
+    "https://www.anthropic.com/research/agents-judgment-calls": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-10-27-How AI agents shape experts’ judgment calls",
+      "title": "How AI agents shape experts’ judgment calls",
+      "published": "2026-10-27",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1423.0,
+      "episode": 599
+    },
+    "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-28-Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+      "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+      "published": "2026-10-28",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1385.0,
+      "episode": 600
+    },
+    "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-28-IDC brings Quanta into Claude and adopts Claude across the company",
+      "title": "IDC brings Quanta into Claude and adopts Claude across the company",
+      "published": "2026-10-28",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1388.2,
+      "episode": 601
+    },
+    "https://claude.com/resources/articles/introducing-artifacts-for-legal-work": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-28-Introducing artifacts for legal work",
+      "title": "Introducing artifacts for legal work",
+      "published": "2026-10-28",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1453.8,
+      "episode": 602
+    },
+    "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-27-Manage costs and demonstrate ROI for Claude Code on Google Cloud",
+      "title": "Manage costs and demonstrate ROI for Claude Code on Google Cloud",
+      "published": "2026-10-27",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1434.9,
+      "episode": 603
+    },
+    "https://claude.com/resources/articles/claude-for-financial-advisors": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-27-Claude for Financial Advisors",
+      "title": "Claude for Financial Advisors",
+      "published": "2026-10-27",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1427.9,
+      "episode": 604
+    },
+    "https://claude.com/resources/articles/expanding-claude-for-nonprofits": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-10-26-Expanding Claude for Nonprofits",
+      "title": "Expanding Claude for Nonprofits",
+      "published": "2026-10-26",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1418.2,
+      "episode": 605
+    },
+    "https://www.anthropic.com/news/expanding-partnership-gsa": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-27-Expanding our partnership with GSA to bring Claude to all levels of government",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "published": "2026-10-27"
+    },
+    "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-28-AI for Science expands to foundations and institutions",
+      "title": "AI for Science expands to foundations and institutions",
+      "published": "2026-10-28"
+    },
+    "https://www.anthropic.com/news/s1-sec": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-10-26-Anthropic files S-1 with the SEC for proposed initial public offering",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "published": "2026-10-26"
     }
   },
-  "voice_rotation": 504,
+  "voice_rotation": 514,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -10853,6 +11015,18 @@
       "duration_sec": 331.8,
       "episode": 596,
       "item_count": 4
+    },
+    "2026-10-25": {
+      "slug": "2026-10-25-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 191.9,
+      "episode": 606,
+      "item_count": 3
     }
   }
 }
