@@ -1,5 +1,5 @@
 {
-  "next_episode": 607,
+  "next_episode": 617,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -9554,9 +9554,159 @@
       "slug": "2026-10-26-Anthropic files S-1 with the SEC for proposed initial public offering",
       "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
       "published": "2026-10-26"
+    },
+    "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-11-06-Teaching AI to build scientific models",
+      "title": "Teaching AI to build scientific models",
+      "published": "2026-11-06",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1439.5,
+      "episode": 607
+    },
+    "https://www.anthropic.com/research/components-of-agent-memory": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-11-06-The components of agent memory",
+      "title": "The components of agent memory",
+      "published": "2026-11-06",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1358.3,
+      "episode": 608
+    },
+    "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-11-06-Project EVE - Claude plays MMORPGs",
+      "title": "Project EVE: Claude plays MMORPGs",
+      "published": "2026-11-06",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1456.6,
+      "episode": 609
+    },
+    "https://www.anthropic.com/research/how-researchers-use-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-11-05-How scientists use Claude",
+      "title": "How scientists use Claude",
+      "published": "2026-11-05",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1409.4,
+      "episode": 610
+    },
+    "https://www.anthropic.com/research/investigating-vault-particles-with-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-11-04-Investigating vault particles with Claude",
+      "title": "Investigating vault particles with Claude",
+      "published": "2026-11-04",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1437.1,
+      "episode": 611
+    },
+    "https://www.anthropic.com/research/provable-inference": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-11-02-Progress on provable inference for large language models",
+      "title": "Progress on provable inference for large language models",
+      "published": "2026-11-02",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1422.6,
+      "episode": 612
+    },
+    "https://claude.com/resources/articles/introducing-personal-finance-in-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-05-Introducing Personal Finance in Claude",
+      "title": "Introducing Personal Finance in Claude",
+      "published": "2026-11-05",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1438.4,
+      "episode": 613
+    },
+    "https://claude.com/resources/articles/claude-enterprise-security-updates": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-05-More visibility and control over Claude Enterprise for security teams",
+      "title": "More visibility and control over Claude Enterprise for security teams",
+      "published": "2026-11-05",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1372.2,
+      "episode": 614
+    },
+    "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-04-New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "title": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+      "published": "2026-11-04",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1441.0,
+      "episode": 615
+    },
+    "https://claude.com/resources/articles/message-threads": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-02-Make long-running agents faster with message threads",
+      "title": "Make long-running agents faster with message threads",
+      "published": "2026-11-02",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1354.5,
+      "episode": 616
     }
   },
-  "voice_rotation": 514,
+  "voice_rotation": 524,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
