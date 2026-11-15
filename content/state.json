@@ -1,5 +1,5 @@
 {
-  "next_episode": 617,
+  "next_episode": 635,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -9704,9 +9704,273 @@
       "voice": "zh-CN-YunyangNeural",
       "duration_sec": 1354.5,
       "episode": 616
+    },
+    "https://www.anthropic.com/research/building-strong-safety-evaluations": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-11-13-Building strong safety evaluations",
+      "title": "Building strong safety evaluations",
+      "published": "2026-11-13",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1387.4,
+      "episode": 617
+    },
+    "https://www.anthropic.com/research/claude-electronics-design": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-11-09-Claude can design electronic prototypes from start to finish",
+      "title": "Claude can design electronic prototypes from start to finish",
+      "published": "2026-11-09",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1365.4,
+      "episode": 618
+    },
+    "https://claude.com/resources/articles/interactive-connectors-full-tool": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-10-Your apps can now open in Claude, and Claude can work in them",
+      "title": "Your apps can now open in Claude, and Claude can work in them",
+      "published": "2026-11-10",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1449.0,
+      "episode": 619
+    },
+    "https://claude.com/resources/articles/sheets-whiteboards-data": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-10-Introducing Claude Whiteboards, Claude Sheets, and Claude Data",
+      "title": "Introducing Claude Whiteboards, Claude Sheets, and Claude Data",
+      "published": "2026-11-10",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1411.8,
+      "episode": 620
+    },
+    "https://claude.com/resources/articles/building-always-on-agents": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-13-Building always-on agents",
+      "title": "Building always-on agents",
+      "published": "2026-11-13",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1401.3,
+      "episode": 621
+    },
+    "https://claude.com/resources/articles/claude-tag-guide-for-startups": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-13-The Claude Tag guide for startups",
+      "title": "The Claude Tag guide for startups",
+      "published": "2026-11-13",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1475.0,
+      "episode": 622
+    },
+    "https://claude.com/resources/articles/self-hosted-claude-managed-agents": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-12-Operate Claude Managed Agents inside your security perimeter",
+      "title": "Operate Claude Managed Agents inside your security perimeter",
+      "published": "2026-11-12",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1358.1,
+      "episode": 623
+    },
+    "https://claude.com/resources/articles/j-crew-style-advisor-with-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-12-J. Crew brings its signature approach to styling to life with Claude",
+      "title": "J. Crew brings its signature approach to styling to life with Claude",
+      "published": "2026-11-12",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1351.6,
+      "episode": 624
+    },
+    "https://claude.com/resources/articles/claude-for-manufacturing": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-12-Introducing Claude for Manufacturing",
+      "title": "Introducing Claude for Manufacturing",
+      "published": "2026-11-12",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1420.8,
+      "episode": 625
+    },
+    "https://claude.com/resources/articles/claude-meetings": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-12-Introducing Claude Meetings",
+      "title": "Introducing Claude Meetings",
+      "published": "2026-11-12",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1395.3,
+      "episode": 626
+    },
+    "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-12-Using Claude Opus 5.5 as your daily driver for knowledge work",
+      "title": "Using Claude Opus 5.5 as your daily driver for knowledge work",
+      "published": "2026-11-12",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1408.7,
+      "episode": 627
+    },
+    "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-10-How Curative is building a national provider network with agents on Claude",
+      "title": "How Curative is building a national provider network with agents on Claude",
+      "published": "2026-11-10",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1439.8,
+      "episode": 628
+    },
+    "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-10-More ways to work with Claude - Sheets, Whiteboards, and Interactive Connectors",
+      "title": "More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors",
+      "published": "2026-11-10",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1445.4,
+      "episode": 629
+    },
+    "https://claude.com/resources/articles/jpmorganchase-expands-claude-code": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-09-JPMorganChase expands Claude Code to more employees across the firm",
+      "title": "JPMorganChase expands Claude Code to more employees across the firm",
+      "published": "2026-11-09",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1407.7,
+      "episode": 630
+    },
+    "https://www.anthropic.com/claude-fable-and-mythos-5-2": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-09-Claude Fable 5.2 and Mythos 5.2",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "published": "2026-11-09",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1500.7,
+      "episode": 631
+    },
+    "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-09-Safely scaling multi-agent teams with Claude Fable 5.2",
+      "title": "Safely scaling multi-agent teams with Claude Fable 5.2",
+      "published": "2026-11-09",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1447.2,
+      "episode": 632
+    },
+    "https://claude.dev/blog/which-claude-model-should-you-build-with/": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-09-Which Claude model should you build with -",
+      "title": "Which Claude model should you build with?",
+      "published": "2026-11-09",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1430.5,
+      "episode": 633
+    },
+    "https://www.anthropic.com/news/roadshow-launch": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-11-10-Anthropic launches roadshow for proposed initial public offering",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "published": "2026-11-10"
     }
   },
-  "voice_rotation": 524,
+  "voice_rotation": 542,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -11177,6 +11441,18 @@
       "duration_sec": 191.9,
       "episode": 606,
       "item_count": 3
+    },
+    "2026-11-08": {
+      "slug": "2026-11-08-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 95.3,
+      "episode": 634,
+      "item_count": 1
     }
   }
 }
