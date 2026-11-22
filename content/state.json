@@ -1,5 +1,5 @@
 {
-  "next_episode": 635,
+  "next_episode": 641,
   "articles": {
     "https://www.anthropic.com/engineering/building-effective-agents": {
       "stages": {
@@ -9968,9 +9968,102 @@
       "slug": "2026-11-10-Anthropic launches roadshow for proposed initial public offering",
       "title": "Anthropic launches roadshow for proposed initial public offering",
       "published": "2026-11-10"
+    },
+    "https://www.anthropic.com/research/claude-black-hole-physics": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-11-17-Claude Fable 5.2 solves two open problems in the physics of black holes",
+      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+      "published": "2026-11-17",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1533.1,
+      "episode": 635
+    },
+    "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "research",
+      "slug": "2026-11-16-Updating our coordinated vulnerability disclosure policy timelines",
+      "title": "Updating our coordinated vulnerability disclosure policy timelines",
+      "published": "2026-11-16",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1513.8,
+      "episode": 636
+    },
+    "https://claude.com/resources/articles/linked-billing-on-claude-platform": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-17-Linked billing on the Claude Platform",
+      "title": "Linked billing on the Claude Platform",
+      "published": "2026-11-17",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 1456.3,
+      "episode": 637
+    },
+    "https://claude.dev/blog/chaos-loop-claude-docs-launch/": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-17-Using a - chaos loop - to harden the Claude Docs launch - 60 server errors across billions of requests",
+      "title": "Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests",
+      "published": "2026-11-17",
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 1782.1,
+      "episode": 638
+    },
+    "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/": {
+      "stages": {
+        "fetched": true,
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "source": "blog",
+      "slug": "2026-11-16-How the Claude Code team thinks about verification",
+      "title": "How the Claude Code team thinks about verification",
+      "published": "2026-11-16",
+      "voice": "zh-CN-YunxiNeural",
+      "duration_sec": 2004.1,
+      "episode": 639
+    },
+    "https://www.anthropic.com/news/ipo-close": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-11-20-Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+      "published": "2026-11-20"
+    },
+    "https://www.anthropic.com/news/anthropic-prices-initial-public-offering": {
+      "stages": {
+        "fetched": true
+      },
+      "source": "news",
+      "slug": "2026-11-18-Anthropic prices initial public offering",
+      "title": "Anthropic prices initial public offering",
+      "published": "2026-11-18"
     }
   },
-  "voice_rotation": 542,
+  "voice_rotation": 548,
   "digests": {
     "2026-06-07": {
       "slug": "2026-06-07-Anthropic一周快讯",
@@ -11453,6 +11546,18 @@
       "duration_sec": 95.3,
       "episode": 634,
       "item_count": 1
+    },
+    "2026-11-15": {
+      "slug": "2026-11-15-Anthropic一周快讯",
+      "stages": {
+        "interpreted": true,
+        "synthesized": true,
+        "packaged": true
+      },
+      "voice": "zh-CN-YunyangNeural",
+      "duration_sec": 220.2,
+      "episode": 640,
+      "item_count": 2
     }
   }
 }

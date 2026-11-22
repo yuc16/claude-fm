@@ -1,6 +1,6 @@
 # Claude FM 全集目录
 
-共 **634 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
+共 **640 集**，按来源分组、组内按发表时间排列。点击**标题**读中文解读，点击**英文原文**读原帖。
 想按时间线收听，请到 [小宇宙](https://www.xiaoyuzhoufm.com/podcast/6a37f2bcdd580cf9cf4bf121)。
 
 ## 🛠️ Engineering（26）
@@ -32,7 +32,7 @@
 - `EP420` · 2026-05-28 · [Claude Code 高效使用指南：从上下文管理到自动化编程工作流的完整实践](content/anthropic/engineering/scripts/2026-05-28-Best%20practices%20for%20Claude%20Code%20-%20Claude%20Code%20Docs.md) · [英文原文](content/anthropic/engineering/articles/2026-05-28-Best%20practices%20for%20Claude%20Code%20-%20Claude%20Code%20Docs.md)
 - `EP571` · 2026-10-13 · [当智能体撑爆代码仓库，版本控制该如何重建](content/anthropic/engineering/scripts/2026-10-13-Redesigning%20source%20control%20at%20Anthropic.md) · [英文原文](content/anthropic/engineering/articles/2026-10-13-Redesigning%20source%20control%20at%20Anthropic.md)
 
-## 🔬 Research（185）
+## 🔬 Research（187）
 
 - `EP2` · 2021-12-01 · [对齐实验室：Anthropic 如何用一个通用助手，奠定 Claude 的价值观基础](content/anthropic/research/scripts/2021-12-01-A%20General%20Language%20Assistant%20as%20a%20Laboratory%20for%20Alignment.md) · [英文原文](content/anthropic/research/articles/2021-12-01-A%20General%20Language%20Assistant%20as%20a%20Laboratory%20for%20Alignment.md)
 - `EP3` · 2021-12-22 · [从黑盒到电路图：Anthropic 如何用数学框架读懂 Transformer 的内部算法](content/anthropic/research/scripts/2021-12-22-A%20Mathematical%20Framework%20for%20Transformer%20Circuits.md) · [英文原文](content/anthropic/research/articles/2021-12-22-A%20Mathematical%20Framework%20for%20Transformer%20Circuits.md)
@@ -219,8 +219,10 @@
 - `EP609` · 2026-11-06 · [让克劳德进入星战世界，检验智能体赚钱与协作的边界](content/anthropic/research/scripts/2026-11-06-Project%20EVE%20-%20Claude%20plays%20MMORPGs.md) · [英文原文](content/anthropic/research/articles/2026-11-06-Project%20EVE%20-%20Claude%20plays%20MMORPGs.md)
 - `EP618` · 2026-11-09 · [从电路图到可用样机，Claude如何跨越软硬件边界](content/anthropic/research/scripts/2026-11-09-Claude%20can%20design%20electronic%20prototypes%20from%20start%20to%20finish.md) · [英文原文](content/anthropic/research/articles/2026-11-09-Claude%20can%20design%20electronic%20prototypes%20from%20start%20to%20finish.md)
 - `EP617` · 2026-11-13 · [安全评测怎么才可信：从漂亮分数到真实风险](content/anthropic/research/scripts/2026-11-13-Building%20strong%20safety%20evaluations.md) · [英文原文](content/anthropic/research/articles/2026-11-13-Building%20strong%20safety%20evaluations.md)
+- `EP636` · 2026-11-16 · [漏洞披露从九十天缩到三十天：AI 正在改写安全规则](content/anthropic/research/scripts/2026-11-16-Updating%20our%20coordinated%20vulnerability%20disclosure%20policy%20timelines.md) · [英文原文](content/anthropic/research/articles/2026-11-16-Updating%20our%20coordinated%20vulnerability%20disclosure%20policy%20timelines.md)
+- `EP635` · 2026-11-17 · [Claude Fable 5.2 连解两个黑洞物理开放问题](content/anthropic/research/scripts/2026-11-17-Claude%20Fable%205.2%20solves%20two%20open%20problems%20in%20the%20physics%20of%20black%20holes.md) · [英文原文](content/anthropic/research/articles/2026-11-17-Claude%20Fable%205.2%20solves%20two%20open%20problems%20in%20the%20physics%20of%20black%20holes.md)
 
-## 📝 Blog（290）
+## 📝 Blog（293）
 
 - `EP40` · 2023-08-23 · [Claude二登陆亚马逊云科技Bedrock，企业级AI落地启示](content/claude/blog/scripts/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md) · [英文原文](content/claude/blog/articles/2023-08-23-Claude%202%20on%20Amazon%20Bedrock.md)
 - `EP45` · 2023-09-28 · [Claude登陆亚马逊云科技：企业级AI落地的一次关键开局](content/claude/blog/scripts/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md) · [英文原文](content/claude/blog/articles/2023-09-28-Claude%20on%20Amazon%20Bedrock%20now%20available%20to%20every%20AWS%20customer.md)
@@ -512,8 +514,11 @@
 - `EP627` · 2026-11-12 · [让模型少做无用功：重新选择知识工作的默认助手](content/claude/blog/scripts/2026-11-12-Using%20Claude%20Opus%205.5%20as%20your%20daily%20driver%20for%20knowledge%20work.md) · [英文原文](content/claude/blog/articles/2026-11-12-Using%20Claude%20Opus%205.5%20as%20your%20daily%20driver%20for%20knowledge%20work.md)
 - `EP621` · 2026-11-13 · [常驻智能体怎么造：从事件驱动到安全自主行动](content/claude/blog/scripts/2026-11-13-Building%20always-on%20agents.md) · [英文原文](content/claude/blog/articles/2026-11-13-Building%20always-on%20agents.md)
 - `EP622` · 2026-11-13 · [把聊天变成执行力，初创团队的克劳德协作指南](content/claude/blog/scripts/2026-11-13-The%20Claude%20Tag%20guide%20for%20startups.md) · [英文原文](content/claude/blog/articles/2026-11-13-The%20Claude%20Tag%20guide%20for%20startups.md)
+- `EP639` · 2026-11-16 · [当九成代码由 AI 写就：Claude Code 团队的验证方法论](content/claude/blog/scripts/2026-11-16-How%20the%20Claude%20Code%20team%20thinks%20about%20verification.md) · [英文原文](content/claude/blog/articles/2026-11-16-How%20the%20Claude%20Code%20team%20thinks%20about%20verification.md)
+- `EP637` · 2026-11-17 · [Claude 平台推出关联计费：第三方 agent 再也不用碰你的 API key](content/claude/blog/scripts/2026-11-17-Linked%20billing%20on%20the%20Claude%20Platform.md) · [英文原文](content/claude/blog/articles/2026-11-17-Linked%20billing%20on%20the%20Claude%20Platform.md)
+- `EP638` · 2026-11-17 · [用混沌循环扛住发布：二十亿请求只错六十次的工程方法](content/claude/blog/scripts/2026-11-17-Using%20a%20-%20chaos%20loop%20-%20to%20harden%20the%20Claude%20Docs%20launch%20-%2060%20server%20errors%20across%20billions%20of%20requests.md) · [英文原文](content/claude/blog/articles/2026-11-17-Using%20a%20-%20chaos%20loop%20-%20to%20harden%20the%20Claude%20Docs%20launch%20-%2060%20server%20errors%20across%20billions%20of%20requests.md)
 
-## 📰 News 周报（133）
+## 📰 News 周报（134）
 
 - `EP1` · 2021-05-23 · [Anthropic 一周快讯 · 2021年5月23日–2021年5月29日 · 公司刚成立不久就拿到一点二四亿美元 A 轮融资](content/anthropic/news/scripts/2021-05-23-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP7` · 2022-04-24 · [Anthropic 一周快讯 · 2022年4月24日–2022年4月30日 · 五点八亿美元 B 轮融资落地](content/anthropic/news/scripts/2022-04-24-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
@@ -648,3 +653,4 @@
 - `EP596` · 2026-10-18 · [Anthropic 一周快讯 · 2026年10月18日–2026年10月24日：Agent Skills 移交开放治理](content/anthropic/news/scripts/2026-10-18-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP606` · 2026-10-25 · [Anthropic 一周快讯 · 2026年10月25日–2026年10月31日：提交上市申请，拓展政府与科研合作](content/anthropic/news/scripts/2026-10-25-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
 - `EP634` · 2026-11-08 · [Anthropic 一周快讯 · 2026年11月8日–2026年11月14日：拟议 IPO 启动路演](content/anthropic/news/scripts/2026-11-08-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
+- `EP640` · 2026-11-15 · [Anthropic 一周快讯 · 2026年11月15日–2026年11月21日：Anthropic 登陆纳斯达克，募资约九百三十五亿美元](content/anthropic/news/scripts/2026-11-15-Anthropic%E4%B8%80%E5%91%A8%E5%BF%AB%E8%AE%AF.md)
