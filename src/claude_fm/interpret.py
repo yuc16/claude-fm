@@ -13,7 +13,9 @@ from typing import Any, Iterator
 import httpx
 import yaml
 
-from . import config
+from . import config, log
+
+_log = log.get_logger("interpret")
 
 _CN_NUMS = "〇一二三四五六七八九"
 
@@ -105,18 +107,19 @@ def run_llm(prompt: str) -> str:
 
 def run_codex(prompt: str) -> str:
     """通过 Codex Responses SSE endpoint 生成文本，认证来自 ~/.codex/auth.json。"""
-    last_err = ""
+    last_exc: Exception | None = None
     for attempt in range(3):
         try:
             return _run_codex_once(prompt)
         except SessionLimitError:
             raise
         except Exception as exc:  # noqa: BLE001
-            last_err = str(exc)[:500]
+            last_exc = exc
             if attempt >= 2 or not _is_retryable_error(exc):
                 break
             time.sleep(20.0 * (attempt + 1))
-    raise RuntimeError(f"codex responses 调用失败（3 次）: {last_err}")
+    # 用 from 保留最后一次原始异常，调用方 exc_info 时能看到真实失败栈
+    raise RuntimeError(f"codex responses 调用失败（3 次）: {str(last_exc)[:500]}") from last_exc
 
 
 def _run_codex_once(prompt: str) -> str:
@@ -260,18 +263,19 @@ def _is_retryable_error(exc: Exception) -> bool:
 
 def run_deepseek(prompt: str) -> str:
     """通过 DeepSeek OpenAI-compatible Chat Completions 生成文本。"""
-    last_err = ""
+    last_exc: Exception | None = None
     for attempt in range(3):
         try:
             return _run_deepseek_once(prompt)
         except SessionLimitError:
             raise
         except Exception as exc:  # noqa: BLE001
-            last_err = str(exc)[:500]
+            last_exc = exc
             if attempt >= 2 or not _is_retryable_error(exc):
                 break
             time.sleep(20.0 * (attempt + 1))
-    raise RuntimeError(f"deepseek chat completions 调用失败（3 次）: {last_err}")
+    # 用 from 保留最后一次原始异常，调用方 exc_info 时能看到真实失败栈
+    raise RuntimeError(f"deepseek chat completions 调用失败（3 次）: {str(last_exc)[:500]}") from last_exc
 
 
 def _run_deepseek_once(prompt: str) -> str:
@@ -449,8 +453,15 @@ def interpret(article_meta: dict, article_body: str, slug: str) -> dict:
             retry = parse_output(run_llm(retry_prompt))
             if han_count(retry["script"]) > han_count(result["script"]):
                 result = retry
-        except RuntimeError:
-            pass  # 重写失败就用原稿
+        except RuntimeError as e:
+            # 重写失败就用原稿，但必须留痕：否则会静默发货一集短片，
+            # 事后无法区分"本来就这样"还是"加长重写挂了"。
+            _log.warning(
+                "rewrite_failed",
+                extra={"slug": slug, "han_chars": han_count(result["script"]),
+                       "error": str(e)},
+                exc_info=True,
+            )
 
     frontmatter = {
         "episode_title": result["episode_title"],
